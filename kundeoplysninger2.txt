@@ -1,0 +1,25 @@
+CUST000001
+Anna Jensen
+Vesterbrogade 12B 1 Copenhagen
+Copenhagen 1620
+ACC001A001 Checking Account      1234.56  DKK
+CUST000002
+Peter Nielsen
+Norrebrogade 45 st Copenhagen
+Copenhagen 2200
+ACC002S001 Savings Account       500.00   EUR
+CUST000003
+Maria Hansen
+Skolegade 7 2 Aarhus
+Aarhus 8000
+ACC003C001 Credit Card Account   750.25   DKK
+CUST000004
+Lars Pedersen
+HC 1 10 Odense
+Odense 5000
+ACC004L001 Loan Account          5000.00  DKK
+CUST000005
+Sofie Rasmussen
+Algade 99 3 Aalborg
+Aalborg 9000
+ACC005M001 Money Market Account  12345.88 EUR

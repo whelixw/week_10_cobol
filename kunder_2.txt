@@ -1,0 +1,5 @@
+CUST000001Anna                Jensen              00000000000000000001001234567DKKVesterbrogade                 12B  1    th   Copenhagen          1620DK20123456anna.jensen@example.com                          
+CUST000002Peter               Nielsen             00000000000000000002000025050DKKNorrebrogade                  45   st   tv   Copenhagen          2200DK30223344peter.nielsen@example.com                        
+CUST000003Maria               Hansen              00000000000000000003005823100DKKSkolegade                     7    2    mf   Aarhus              8000DK40112233maria.hansen@example.com                          
+CUST000004Lars                Pedersen            00000000000000000004999999999DKKHC Andersens Blvd             1    10   tv   Odense              5000DK51112233lars.pedersen@example.com                        
+CUST000005Sofie               Rasmussen           00000000000000000005000012005DKKAlgade                        99   3    th   Aalborg             9000DK22119988sofie.rasmussen@example.com

@@ -1,0 +1,5 @@
+CUST000001John                Doe                 ACC123456789012345  000123450DKKGade Vej 123                 123A ST   LEFT Kobenhavn           1000DK12345678john.doe@example.com
+CUST000002Jane                Smith               ACC987654321098765  000000599USDMain Street 42              42   1    RIGHTAarhus              8000DK87654321jane.smith@example.com
+CUST000003Peter               Jensen              ACC112233445566778  000987612EURNyvej 5                      5    2    MID  Odense              5000DK11223344peter.jensen@example.com
+CUST000004Anna                Nielsen             ACC001122334455667  123456789GBPSoendergade 7               7    3    LEFT Aalborg             9000DK55667788anna.nielsen@example.com
+CUST000005Michael             Madsen              ACC778899001122334  000010000SEKFynsvej 10                   10   ST   RIGHTEsbjerg             6700DK99887766michael.madsen@example.com

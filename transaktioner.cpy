@@ -9,3 +9,4 @@
        05 T-TRANSACTIONSTYPE PIC X(20).
        05 T-BUTIK          PIC X(20).
        05 T-TIDSPUNKT      PIC X(26).
+       

@@ -70,6 +70,7 @@
 
        01  LAST-CPR PIC X(15).
 
+       01  CNV-BELOEB PIC S9(16)V99.
        01  PRINTED-BANK-INFO PIC X VALUE "N".
 
        Procedure Division.
@@ -151,9 +152,8 @@
                PERFORM VARYING IX FROM 1 BY 1
                    UNTIL IX > WS-TRANSACTION-COUNT
            
-                   MOVE T-REG-NR 
-                   IN TRANSACTION-ARRAY-TABLE(IX)
-                        TO C-T-REG-NR
+                       MOVE T-REG-NR 
+                       IN TRANSACTION-ARRAY-TABLE(IX) TO C-T-REG-NR
 
                         if LAST-CPR not = T-CPR of 
                         TRANSACTION-ARRAY-TABLE(IX)
@@ -162,31 +162,59 @@
                              TRANSACTION-ARRAY-TABLE(IX)
                             DISPLAY "Adresse: " T-ADRESSE OF
                              TRANSACTION-ARRAY-TABLE(IX)
-
-                        END-IF
-                   DISPLAY T-CPR OF TRANSACTION-ARRAY-TABLE(IX) "-"
+                        ELSE
+                           DISPLAY 
+                           T-CPR OF TRANSACTION-ARRAY-TABLE(IX) "-"
                            T-NAVN OF TRANSACTION-ARRAY-TABLE(IX) "-"
                            T-REG-NR IN TRANSACTION-ARRAY-TABLE(IX) "-"
                            T-TIDSPUNKT OF TRANSACTION-ARRAY-TABLE(IX)
+                        END-IF
+
            
                    PERFORM VARYING IX2 FROM 1 BY 1
                         UNTIL IX2 > WS-BANK-COUNT
                             IF C-T-REG-NR = B-REG-NR
                                IN BANK-ARRAY-TABLE(IX2)
-                                IF PRINTED-BANK-INFO = "Y"
-                                 DISPLAY "new"
+                                IF PRINTED-BANK-INFO = "N"
+                                MOVE "Y" TO PRINTED-BANK-INFO
+                                DISPLAY "Registreringsnummer: "
+                                FUNCTION TRIM(C-T-REG-NR)
+                                DISPLAY "Bankadresse: "
+                                FUNCTION TRIM(B-BANKADRESSE
+                                OF BANK-ARRAY-TABLE(IX2))
+                                DISPLAY "Telefon: "
+                                FUNCTION TRIM(B-TELEFON
+                                OF BANK-ARRAY-TABLE(IX2))
+                                DISPLAY "E-mail: "
+                                FUNCTION TRIM(B-EMAIL
+                                OF BANK-ARRAY-TABLE(IX2))
+
+                               perform FORMAT-PRINT
+
                                 END-IF
-                                DISPLAY FUNCTION 
-                                TRIM(BANK-ARRAY-TABLE(IX2))
-                                EXIT PERFORM  *> stop scanning banks, one match only
+                                EXIT PERFORM
+                                
                             END-IF
                    END-PERFORM
+                   move T-CPR of TRANSACTION-ARRAY-TABLE(IX) TO LAST-CPR
                    DISPLAY "---" C-T-REG-NR "---" 
                    B-REG-NR in BANK-ARRAY-TABLE(IX2) "---"
            END-PERFORM.
+           exit.
                
-
-
-       exit.
+           format-print.
+           perform format-valuta
+           DISPLAY T-TIDSPUNKT OF TRANSACTION-ARRAY-TABLE(IX) "-"
+           T-TRANSACTIONSTYPE OF TRANSACTION-ARRAY-TABLE(IX) "-"
+                           T-BELOEB OF TRANSACTION-ARRAY-TABLE(IX) "-"
+                           CNV-BELOEB "-"
+                           T-VALUTA OF TRANSACTION-ARRAY-TABLE(IX) "-"
+                           T-BUTIK OF TRANSACTION-ARRAY-TABLE(IX)
+           exit.
+            
+           format-valuta.
+           exit.
        *> Removed: format-navn, format-vej, format-by, format-account paragraphs
        End Program Opgave4.
+
+

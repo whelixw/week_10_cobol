@@ -66,7 +66,7 @@
 
        01  output-text pic x(100).
 
-       01  C-T-REG-NR PIC X(4).
+       01  C-T-REG-NR PIC X(6).
 
        Procedure Division.
        MAIN-PROCEDURE.
@@ -149,8 +149,10 @@
                    MOVE T-REG-NR IN TRANSACTION-ARRAY-TABLE(IX)
                         TO C-T-REG-NR
            
-                   DISPLAY 
-                   "testA" FUNCTION TRIM(TRANSACTION-ARRAY-TABLE(IX))
+                   DISPLAY T-CPR OF TRANSACTION-ARRAY-TABLE(IX) "-"
+                           T-NAVN OF TRANSACTION-ARRAY-TABLE(IX) "-"
+                           T-REG-NR IN TRANSACTION-ARRAY-TABLE(IX) "-"
+                           T-TIDSPUNKT OF TRANSACTION-ARRAY-TABLE(IX)
            
                    PERFORM VARYING IX2 FROM 1 BY 1
                         UNTIL IX2 > WS-BANK-COUNT

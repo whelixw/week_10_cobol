@@ -1,4 +1,4 @@
-       Identification Division.
+Identification Division.
        Program-Id. Opgave4.
 
        environment division.

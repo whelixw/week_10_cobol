@@ -151,8 +151,8 @@
                PERFORM VARYING IX FROM 1 BY 1
                    UNTIL IX > WS-TRANSACTION-COUNT
            
-                   MOVE FUNCTION TRIM(T-REG-NR 
-                   IN TRANSACTION-ARRAY-TABLE(IX))
+                   MOVE T-REG-NR 
+                   IN TRANSACTION-ARRAY-TABLE(IX)
                         TO C-T-REG-NR
 
                         if LAST-CPR not = T-CPR of 

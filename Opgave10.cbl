@@ -68,6 +68,10 @@
 
        01  C-T-REG-NR PIC X(6).
 
+       01  LAST-CPR PIC X(15).
+
+       01  PRINTED-BANK-INFO PIC X VALUE "N".
+
        Procedure Division.
        MAIN-PROCEDURE.
            *> Removed: OPEN INPUT customer-file
@@ -143,12 +147,23 @@
            GoBack.
 
            format-transactions.
+               move SPACES to LAST-CPR
                PERFORM VARYING IX FROM 1 BY 1
                    UNTIL IX > WS-TRANSACTION-COUNT
            
-                   MOVE T-REG-NR IN TRANSACTION-ARRAY-TABLE(IX)
+                   MOVE FUNCTION TRIM(T-REG-NR 
+                   IN TRANSACTION-ARRAY-TABLE(IX))
                         TO C-T-REG-NR
-           
+
+                        if LAST-CPR not = T-CPR of 
+                        TRANSACTION-ARRAY-TABLE(IX)
+                        move "N" to PRINTED-BANK-INFO
+                            DISPLAY "Kunde: " T-NAVN OF
+                             TRANSACTION-ARRAY-TABLE(IX)
+                            DISPLAY "Adresse: " T-ADRESSE OF
+                             TRANSACTION-ARRAY-TABLE(IX)
+
+                        END-IF
                    DISPLAY T-CPR OF TRANSACTION-ARRAY-TABLE(IX) "-"
                            T-NAVN OF TRANSACTION-ARRAY-TABLE(IX) "-"
                            T-REG-NR IN TRANSACTION-ARRAY-TABLE(IX) "-"
@@ -158,8 +173,10 @@
                         UNTIL IX2 > WS-BANK-COUNT
                             IF C-T-REG-NR = B-REG-NR
                                IN BANK-ARRAY-TABLE(IX2)
-                                DISPLAY "testB"
-                                 FUNCTION 
+                                IF PRINTED-BANK-INFO = "Y"
+                                 DISPLAY "new"
+                                END-IF
+                                DISPLAY FUNCTION 
                                 TRIM(BANK-ARRAY-TABLE(IX2))
                                 EXIT PERFORM  *> stop scanning banks, one match only
                             END-IF

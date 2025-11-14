@@ -66,7 +66,7 @@
 
        01  output-text pic x(100).
 
-       01  C-T-REG-NR PIC X(6).
+       01  C-T-REG-NR PIC X(4).
 
        01  LAST-CPR PIC X(15).
 

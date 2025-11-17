@@ -102,6 +102,9 @@ Identification Division.
        *> We keep output-text as the raw X(220) buffer used for WRITE
        01  output-text REDEFINES REPORT-LINE PIC X(220).
 
+       01  TOTAL-IN PIC S9(13)V99 value 0.
+       01  TOTAL-OUT PIC S9(13)V99 value 0.
+
        Procedure Division.
        MAIN-PROCEDURE.
            *> Removed: OPEN INPUT customer-file
@@ -199,6 +202,10 @@ Identification Division.
                IF LAST-CPR NOT = T-CPR OF
                    TRANSACTION-ARRAY-TABLE(IX)
                    MOVE "N" TO PRINTED-BANK-INFO
+                     if TOTAL-IN < 0
+                   or TOTAL-OUT < 0
+                       PERFORM format-calculations
+                    end-if
 
                    *> "Kunde: <navn>"
                    MOVE SPACES TO output-text
@@ -308,7 +315,7 @@ Identification Division.
                            MOVE SPACES TO output-text
                            STRING
 
-                          " ---Dato---|---Tidspunkt---|"
+                          "---Dato---|---Tidspunkt---|"
                           DELIMITED BY SIZE
                           "Transaktionstype|  +/-  |CurrencyDKK|"
                           DELIMITED BY SIZE
@@ -362,34 +369,93 @@ Identification Division.
            WRITE REPORT-RECORD FROM output-text.
            EXIT.
            format-valuta.
-           *> Prepare original amount for printing
-           MOVE T-BELOEB OF TRANSACTION-ARRAY-TABLE(IX)
-               TO ORIG-BELOEB-PRINT
+           *> Convert the text amount (with sign and decimal point)
+           *> to a true numeric value.
+           MOVE FUNCTION NUMVAL(
+                    FUNCTION TRIM(
+                        T-BELOEB OF TRANSACTION-ARRAY-TABLE(IX)
+                    )
+                )
+               TO WS-BELOEB-NUM
+
+           *> Original (foreign) amount for printing – keeps the sign
+           MOVE WS-BELOEB-NUM TO ORIG-BELOEB-PRINT
 
            EVALUATE FUNCTION TRIM(
-                        T-VALUTA OF TRANSACTION-ARRAY-TABLE(IX))
+                    T-VALUTA OF TRANSACTION-ARRAY-TABLE(IX))
 
                WHEN "EUR"
                    *> EUR -> DKK
-                   
                    COMPUTE CNV-BELOEB ROUNDED =
-                       T-BELOEB OF TRANSACTION-ARRAY-TABLE(IX) * 7
+                       WS-BELOEB-NUM * 7
 
                WHEN "USD"
                    *> USD -> DKK
                    COMPUTE CNV-BELOEB ROUNDED =
-                       T-BELOEB OF TRANSACTION-ARRAY-TABLE(IX) * 10
+                       WS-BELOEB-NUM * 10
 
                WHEN OTHER
                    *> DKK or unknown: keep original amount as DKK
-                   MOVE T-BELOEB OF TRANSACTION-ARRAY-TABLE(IX)
-                       TO CNV-BELOEB
+                   MOVE WS-BELOEB-NUM TO CNV-BELOEB
            END-EVALUATE
 
-           *> Edited DKK value for printing
+           IF WS-BELOEB-NUM IS NEGATIVE
+           *> current row has a negative amount
+           COMPUTE TOTAL-OUT = TOTAL-OUT + CNV-BELOEB
+           ELSE
+           COMPUTE TOTAL-IN = TOTAL-IN + CNV-BELOEB
+           END-IF
+
+           *> Edited DKK value for printing – keeps the sign
            MOVE CNV-BELOEB TO CNV-BELOEB-PRINT
 
            EXIT.
+       format-calculations.
+           MOVE SPACES TO output-text
+
+           *> 1. Totalt indbetalt
+           MOVE TOTAL-IN TO CNV-BELOEB-PRINT
+           STRING
+               "Totalt indbetalt(DKK): "
+                   DELIMITED BY SIZE
+               FUNCTION TRIM(CNV-BELOEB-PRINT)
+                   DELIMITED BY SIZE
+           INTO output-text
+           END-STRING
+           PERFORM write-output
+           MOVE SPACES TO output-text
+
+           *> 2. Totalt udbetalt
+           MOVE TOTAL-OUT TO CNV-BELOEB-PRINT
+           STRING
+               "Totalt udbetalt(DKK): "
+                   DELIMITED BY SIZE
+               FUNCTION TRIM(CNV-BELOEB-PRINT)
+                   DELIMITED BY SIZE
+           INTO output-text
+           END-STRING
+           PERFORM write-output
+           MOVE SPACES TO output-text
+
+
+           *> 4. Saldo
+           COMPUTE CNV-BELOEB = 50000 + TOTAL-OUT + TOTAL-IN
+           MOVE CNV-BELOEB TO CNV-BELOEB-PRINT
+           STRING
+               "Saldo (DKK): "
+                   DELIMITED BY SIZE
+               FUNCTION TRIM(CNV-BELOEB-PRINT)
+                   DELIMITED BY SIZE
+           INTO output-text
+           END-STRING
+           PERFORM write-output
+           MOVE SPACES TO output-text
+           move zeroes to CNV-BELOEB
+           move zeroes to TOTAL-IN
+           move zeroes to TOTAL-OUT
+
+           EXIT.
+
        *> Removed: format-navn, format-vej, format-by, format-account paragraphs
        End Program Opgave4.
 

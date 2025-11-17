@@ -56,6 +56,7 @@ Identification Division.
        *> Removed: WS-ID-AC-DISP
 
        *> Removed: customer-array and related WS-MAX-ACCOUNT-RECORDS, WS-ACCOUNT-COUNT
+       01  WS-BELOEB-NUM  PIC S9(16)V99.
 
        *> --- Array for Banker.txt ---
        01 WS-MAX-BANK-RECORDS     PIC 9(4) VALUE 100. *> Adjust as needed
@@ -77,7 +78,8 @@ Identification Division.
 
        01  LAST-CPR PIC X(15).
 
-       01  CNV-BELOEB PIC S9(16)V99.
+       01  CNV-BELOEB        PIC S9(13)V99.
+       01  CNV-BELOEB-EDIT   PIC -ZZZZZZZZZZ9.99.
        01  PRINTED-BANK-INFO PIC X VALUE "N".
        01  FS-REPORT            PIC XX VALUE SPACES.
 
@@ -322,7 +324,7 @@ Identification Division.
                T-BELOEB OF TRANSACTION-ARRAY-TABLE(IX)
                    DELIMITED BY SIZE
                " " DELIMITED BY SIZE
-               CNV-BELOEB
+               CNV-BELOEB-EDIT
                    DELIMITED BY SIZE
                " " DELIMITED BY SIZE
                T-VALUTA OF TRANSACTION-ARRAY-TABLE(IX)
@@ -341,7 +343,24 @@ Identification Division.
            WRITE REPORT-RECORD FROM output-text.
            EXIT.
            format-valuta.
-           exit.
+           EVALUATE FUNCTION TRIM(
+                        T-VALUTA OF TRANSACTION-ARRAY-TABLE(IX))
+               WHEN "EUR"
+                   COMPUTE CNV-BELOEB ROUNDED =
+                       T-BELOEB OF TRANSACTION-ARRAY-TABLE(IX) * 7
+               WHEN "USD"
+                   COMPUTE CNV-BELOEB ROUNDED =
+                       T-BELOEB OF TRANSACTION-ARRAY-TABLE(IX) * 10
+               WHEN OTHER
+                   *> DKK or unknown: keep the original amount
+                   MOVE T-BELOEB OF TRANSACTION-ARRAY-TABLE(IX)
+                       TO CNV-BELOEB
+           END-EVALUATE
+
+           *> Prepare nice printable version
+           MOVE CNV-BELOEB TO CNV-BELOEB-EDIT
+
+           EXIT.
        *> Removed: format-navn, format-vej, format-by, format-account paragraphs
        End Program Opgave4.
 

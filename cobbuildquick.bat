@@ -30,4 +30,3 @@ IF EXIST %*.exe (
 
 REM Pause to keep the console window open after execution
 pause
-%*

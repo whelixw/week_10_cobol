@@ -179,6 +179,9 @@ Identification Division.
                                 MOVE "Y" TO PRINTED-BANK-INFO
                                 DISPLAY "Registreringsnummer: "
                                 FUNCTION TRIM(C-T-REG-NR)
+                                DISPLAY "Bank: "
+                                FUNCTION TRIM(B-BANKNAVN
+                                OF BANK-ARRAY-TABLE(IX2))
                                 DISPLAY "Bankadresse: "
                                 FUNCTION TRIM(B-BANKADRESSE
                                 OF BANK-ARRAY-TABLE(IX2))
@@ -197,8 +200,6 @@ Identification Division.
                             END-IF
                    END-PERFORM
                    move T-CPR of TRANSACTION-ARRAY-TABLE(IX) TO LAST-CPR
-                   DISPLAY "---" C-T-REG-NR "---" 
-                   B-REG-NR in BANK-ARRAY-TABLE(IX2) "---"
            END-PERFORM.
            exit.
                

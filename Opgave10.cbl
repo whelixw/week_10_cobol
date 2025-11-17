@@ -80,9 +80,29 @@ Identification Division.
 
        01  CNV-BELOEB        PIC S9(13)V99.
        01  CNV-BELOEB-EDIT   PIC -ZZZZZZZZZZ9.99.
+       01  CNV-BELOEB-PRINT    PIC -ZZZZZZZZZZ9.99 VALUE ZERO.
+       01  ORIG-BELOEB-PRINT   PIC -ZZZZZZZZZZ9.99 VALUE ZERO.
        01  PRINTED-BANK-INFO PIC X VALUE "N".
        01  FS-REPORT            PIC XX VALUE SPACES.
+       * Layout for one transaction line in the report
+       01  REPORT-LINE.
+           05 RL-DATO-TID           PIC X(26).        *> T-TIDSPUNKT
+           05 RL-SPACE1             PIC X.
+           05 RL-TTYPE              PIC X(20).        *> Transaktionstype
+           05 RL-SPACE2             PIC X.
+           05 RL-DKK-AMOUNT         PIC -ZZZZZZZZZZ9.99.
+           05 RL-SPACE3             PIC X.
+           05 RL-FOREIGN-AMOUNT     PIC -ZZZZZZZZZZ9.99.
+           05 RL-SPACE4             PIC X.
+           05 RL-VALUTA             PIC X(4).
+           05 RL-SPACE5             PIC X.
+           05 RL-BUTIK              PIC X(20).
+           05 RL-FILLER             PIC X(220 - 26 - 1 - 20
+                                           - 1 - 15 - 1 - 15
+                                           - 1 - 4  - 1 - 20).
 
+       * We keep output-text as the raw X(220) buffer used for WRITE
+       01  output-text REDEFINES REPORT-LINE PIC X(220).
        01  output-text         PIC X(220).
 
        Procedure Division.
@@ -321,12 +341,17 @@ Identification Division.
                T-TRANSACTIONSTYPE OF TRANSACTION-ARRAY-TABLE(IX)
                    DELIMITED BY SIZE
                " " DELIMITED BY SIZE
-               T-BELOEB OF TRANSACTION-ARRAY-TABLE(IX)
+
+               *> Currency (DKK) - always DKK amount
+               CNV-BELOEB-PRINT
                    DELIMITED BY SIZE
                " " DELIMITED BY SIZE
-               CNV-BELOEB-EDIT
+
+               *> Currency (Foreign) - original amount
+               ORIG-BELOEB-PRINT
                    DELIMITED BY SIZE
                " " DELIMITED BY SIZE
+
                T-VALUTA OF TRANSACTION-ARRAY-TABLE(IX)
                    DELIMITED BY SIZE
                " " DELIMITED BY SIZE
@@ -336,29 +361,38 @@ Identification Division.
            END-STRING
 
            PERFORM write-output
-
            EXIT.
+
 
            write-output.
            WRITE REPORT-RECORD FROM output-text.
            EXIT.
            format-valuta.
+           *> Prepare original amount for printing
+           MOVE T-BELOEB OF TRANSACTION-ARRAY-TABLE(IX)
+               TO ORIG-BELOEB-PRINT
+
            EVALUATE FUNCTION TRIM(
                         T-VALUTA OF TRANSACTION-ARRAY-TABLE(IX))
+
                WHEN "EUR"
+                   *> EUR -> DKK
                    COMPUTE CNV-BELOEB ROUNDED =
                        T-BELOEB OF TRANSACTION-ARRAY-TABLE(IX) * 7
+
                WHEN "USD"
+                   *> USD -> DKK
                    COMPUTE CNV-BELOEB ROUNDED =
                        T-BELOEB OF TRANSACTION-ARRAY-TABLE(IX) * 10
+
                WHEN OTHER
-                   *> DKK or unknown: keep the original amount
+                   *> DKK or unknown: keep original amount as DKK
                    MOVE T-BELOEB OF TRANSACTION-ARRAY-TABLE(IX)
                        TO CNV-BELOEB
            END-EVALUATE
 
-           *> Prepare nice printable version
-           MOVE CNV-BELOEB TO CNV-BELOEB-EDIT
+           *> Edited DKK value for printing
+           MOVE CNV-BELOEB TO CNV-BELOEB-PRINT
 
            EXIT.
        *> Removed: format-navn, format-vej, format-by, format-account paragraphs

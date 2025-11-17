@@ -84,7 +84,7 @@ Identification Division.
        01  ORIG-BELOEB-PRINT   PIC -ZZZZZZZZZZ9.99 VALUE ZERO.
        01  PRINTED-BANK-INFO PIC X VALUE "N".
        01  FS-REPORT            PIC XX VALUE SPACES.
-       * Layout for one transaction line in the report
+       *> Layout for one transaction line in the report
        01  REPORT-LINE.
            05 RL-DATO-TID           PIC X(26).        *> T-TIDSPUNKT
            05 RL-SPACE1             PIC X.
@@ -97,13 +97,10 @@ Identification Division.
            05 RL-VALUTA             PIC X(4).
            05 RL-SPACE5             PIC X.
            05 RL-BUTIK              PIC X(20).
-           05 RL-FILLER             PIC X(220 - 26 - 1 - 20
-                                           - 1 - 15 - 1 - 15
-                                           - 1 - 4  - 1 - 20).
 
-       * We keep output-text as the raw X(220) buffer used for WRITE
+
+       *> We keep output-text as the raw X(220) buffer used for WRITE
        01  output-text REDEFINES REPORT-LINE PIC X(220).
-       01  output-text         PIC X(220).
 
        Procedure Division.
        MAIN-PROCEDURE.
@@ -310,11 +307,13 @@ Identification Division.
 
                            MOVE SPACES TO output-text
                            STRING
-                               "Dato Tidspunkt Transaktionstype "
-                                   DELIMITED BY SIZE
-                               "Currency (DKK) Currency(Foreign) "
-                                   DELIMITED BY SIZE
-                               "Butik" DELIMITED BY SIZE
+
+                          " ---Dato---|---Tidspunkt---|"
+                          DELIMITED BY SIZE
+                          "Transaktionstype|  +/-  |CurrencyDKK|"
+                          DELIMITED BY SIZE
+                          "+/-| CurrencyLocal | Butik"
+                          DELIMITED BY SIZE
                                INTO output-text
                            END-STRING
                            PERFORM write-output
@@ -331,36 +330,31 @@ Identification Division.
            EXIT.
                
            format-print.
-           PERFORM format-valuta
+               PERFORM format-valuta
 
-           MOVE SPACES TO output-text
-           STRING
-               T-TIDSPUNKT OF TRANSACTION-ARRAY-TABLE(IX)
-                   DELIMITED BY SIZE
-               " " DELIMITED BY SIZE
-               T-TRANSACTIONSTYPE OF TRANSACTION-ARRAY-TABLE(IX)
-                   DELIMITED BY SIZE
-               " " DELIMITED BY SIZE
+               MOVE SPACES TO REPORT-LINE
 
-               *> Currency (DKK) - always DKK amount
-               CNV-BELOEB-PRINT
-                   DELIMITED BY SIZE
-               " " DELIMITED BY SIZE
+               MOVE T-TIDSPUNKT OF TRANSACTION-ARRAY-TABLE(IX)
+                   TO RL-DATO-TID
+
+               MOVE T-TRANSACTIONSTYPE OF TRANSACTION-ARRAY-TABLE(IX)
+                   TO RL-TTYPE
+
+               *> Currency (DKK) - converted amount
+               MOVE CNV-BELOEB-PRINT
+                   TO RL-DKK-AMOUNT
 
                *> Currency (Foreign) - original amount
-               ORIG-BELOEB-PRINT
-                   DELIMITED BY SIZE
-               " " DELIMITED BY SIZE
+               MOVE ORIG-BELOEB-PRINT
+                   TO RL-FOREIGN-AMOUNT
 
-               T-VALUTA OF TRANSACTION-ARRAY-TABLE(IX)
-                   DELIMITED BY SIZE
-               " " DELIMITED BY SIZE
-               T-BUTIK OF TRANSACTION-ARRAY-TABLE(IX)
-                   DELIMITED BY SIZE
-               INTO output-text
-           END-STRING
+               MOVE T-VALUTA OF TRANSACTION-ARRAY-TABLE(IX)
+                   TO RL-VALUTA
 
-           PERFORM write-output
+               MOVE T-BUTIK OF TRANSACTION-ARRAY-TABLE(IX)
+                   TO RL-BUTIK
+
+               PERFORM write-output
            EXIT.
 
 
@@ -377,6 +371,7 @@ Identification Division.
 
                WHEN "EUR"
                    *> EUR -> DKK
+                   
                    COMPUTE CNV-BELOEB ROUNDED =
                        T-BELOEB OF TRANSACTION-ARRAY-TABLE(IX) * 7
 

@@ -163,11 +163,7 @@ Identification Division.
                             DISPLAY "Adresse: " T-ADRESSE OF
                              TRANSACTION-ARRAY-TABLE(IX)
                         ELSE
-                           DISPLAY 
-                           T-CPR OF TRANSACTION-ARRAY-TABLE(IX) "-"
-                           T-NAVN OF TRANSACTION-ARRAY-TABLE(IX) "-"
-                           T-REG-NR IN TRANSACTION-ARRAY-TABLE(IX) "-"
-                           T-TIDSPUNKT OF TRANSACTION-ARRAY-TABLE(IX)
+                           perform FORMAT-PRINT
                         END-IF
 
            
@@ -211,16 +207,15 @@ Identification Division.
            perform format-valuta
 
            DISPLAY
-           FUNCTION TRIM(T-TIDSPUNKT OF TRANSACTION-ARRAY-TABLE(IX)) " "
-           FUNCTION TRIM(T-TRANSACTIONSTYPE OF TRANSACTION-ARRAY-TABLE(IX)) " "
-           FUNCTION TRIM(T-BELOEB OF TRANSACTION-ARRAY-TABLE(IX)) " "
-           FUNCTION TRIM(CNV-BELOEB) " "
-           FUNCTION TRIM(T-VALUTA OF TRANSACTION-ARRAY-TABLE(IX)) " "
-           FUNCTION TRIM(T-BUTIK OF TRANSACTION-ARRAY-TABLE(IX))
+           T-TIDSPUNKT OF TRANSACTION-ARRAY-TABLE(IX) " "
+           T-TRANSACTIONSTYPE OF TRANSACTION-ARRAY-TABLE(IX) " "
+           T-BELOEB OF TRANSACTION-ARRAY-TABLE(IX) " "
+           CNV-BELOEB " "
+           T-VALUTA OF TRANSACTION-ARRAY-TABLE(IX) " "
+           T-BUTIK OF TRANSACTION-ARRAY-TABLE(IX)
            
 
            exit.
-            
            format-valuta.
            exit.
        *> Removed: format-navn, format-vej, format-by, format-account paragraphs

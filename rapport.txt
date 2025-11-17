@@ -1,0 +1,2056 @@
+Kunde: Mette Mortensen
+Adresse: Søndergade 920B, 2100 Vejle
+Registreringsnummer: 0003
+Bank: Jyske Bank
+Bankadresse: SÃ¸ndergade 679A, 4700 KÃ¸benhavn
+Telefon: +45 88266696
+E-mail: kontakt@jyskebank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 785-12-39691) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2024-11-14-20.20.17.000000 Indbetaling                -69589.19 000000000000000000 DKK  Supermarked
+2020-09-05-00.01.16.000000 Indbetaling                 20578.14 000000000000000000 EUR  Supermarked
+2023-01-13-09.06.31.000000 Indbetaling                -58922.75 000000000000000000 DKK  Møbelbutik
+2020-01-21-06.20.02.000000 Udbetaling                  61133.85 000000000000000000 USD  Blomsterhandler
+2022-10-20-12.05.09.000000 Indbetaling                -21964.40 000000000000000000 EUR  Supermarked
+2025-12-13-16.27.53.000000 Indbetaling                -69487.04 000000000000000000 EUR  Apotek
+2022-06-10-15.04.00.000000 Udbetaling                  66335.70 000000000000000000 USD  Elektronikbutik
+2020-07-06-19.53.26.000000 Overførsel                  68521.33 000000000000000000 DKK  Apotek
+2021-12-26-22.04.44.000000 Indbetaling                 13511.51 000000000000000000 USD  Restaurant
+2021-04-08-22.46.20.000000 Udbetaling                 -79655.93 000000000000000000 DKK  Bageri
+Kunde: Marie Thomsen
+Adresse: Strandvejen 988B, 4700 Roskilde
+Kunde: Lars Jensen
+Adresse: Hovedgaden 316B, 3000 Aalborg
+2022-10-25-19.34.56.000000 Udbetaling                 -79065.51 000000000000000000 USD  Boghandel
+2024-08-21-16.15.05.000000 Overførsel                  63781.00 000000000000000000 EUR  Tankstation
+2024-09-07-19.21.30.000000 Udbetaling                  71366.44 000000000000000000 EUR  Café
+2023-05-11-21.50.24.000000 Udbetaling                 -63218.44 000000000000000000 EUR  Café
+Kunde: Marie Jensen
+Adresse: Østerbrogade 546C, 4700 Helsingør
+Registreringsnummer: 0024
+Bank: Danske Bank
+Bankadresse: Hovedgaden 439B, 8000 KÃ¸benhavn
+Telefon: +45 73298312
+E-mail: kontakt@danskebank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 204-89-45112) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2023-07-24-00.58.10.000000 Udbetaling                  18942.16 000000000000000000 USD  Apotek
+Kunde: Hanne Thomsen
+Adresse: Hovedgaden 365B, 6700 Helsingør
+Registreringsnummer: 0001
+Bank: Handelsbanken
+Bankadresse: Amagerbrogade 183A, 7100 Vejle
+Telefon: +45 20325755
+E-mail: kontakt@handelsbanken.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 562-65-87249) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2025-11-12-07.43.00.000000 Indbetaling                 79523.16 000000000000000000 USD  Tankstation
+2021-09-25-06.01.55.000000 Udbetaling                  82611.67 000000000000000000 EUR  Restaurant
+2020-11-26-03.19.51.000000 Overførsel                 -87240.88 000000000000000000 DKK  Biograf
+2024-10-28-20.45.25.000000 Udbetaling                  97266.15 000000000000000000 DKK  Biograf
+2024-09-26-22.05.30.000000 Overførsel                  28455.59 000000000000000000 EUR  Fitnesscenter
+2025-01-28-02.12.48.000000 Udbetaling                 -25957.25 000000000000000000 EUR  Møbelbutik
+2022-01-30-01.46.22.000000 Udbetaling                 -24401.19 000000000000000000 DKK  Blomsterhandler
+Kunde: Niels Christensen
+Adresse: Hovedgaden 468A, 9000 Roskilde
+2023-11-09-14.38.50.000000 Udbetaling                 -32351.71 000000000000000000 DKK  Apotek
+2024-05-26-05.09.15.000000 Udbetaling                  35138.78 000000000000000000 DKK  Bageri
+2023-07-01-08.04.20.000000 Indbetaling                -30234.72 000000000000000000 EUR  Tankstation
+2025-05-13-05.43.10.000000 Udbetaling                 -65950.13 000000000000000000 USD  Restaurant
+2024-09-22-15.54.01.000000 Udbetaling                 -50037.69 000000000000000000 EUR  Boghandel
+2024-03-20-12.39.40.000000 Udbetaling                 -19373.21 000000000000000000 USD  Supermarked
+2020-06-09-13.38.53.000000 Indbetaling                -93638.65 000000000000000000 DKK  Tankstation
+2020-09-28-01.37.03.000000 Overførsel                 -99493.16 000000000000000000 USD  Bageri
+Kunde: Niels Christensen
+Adresse: Søndergade 825, 8000 Roskilde
+2025-03-13-16.34.17.000000 Udbetaling                 -42962.53 000000000000000000 USD  Elektronikbutik
+Kunde: Hanne Nielsen
+Adresse: Strandvejen 992A, 2100 Aarhus
+Registreringsnummer: 0035
+Bank: Spar Nord Bank
+Bankadresse: Vesterbrogade 539A, 6700 NÃ¦stved
+Telefon: +45 55731412
+E-mail: kontakt@sparnordbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 918-95-45870) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2022-02-25-19.31.15.000000 Overførsel                 -25074.43 000000000000000000 USD  Restaurant
+2023-09-07-02.59.44.000000 Overførsel                 -22150.58 000000000000000000 EUR  Supermarked
+2023-11-28-05.57.08.000000 Indbetaling                 90098.61 000000000000000000 USD  Tøjbutik
+2020-02-24-13.21.25.000000 Indbetaling                 90123.26 000000000000000000 DKK  Restaurant
+2025-06-11-17.16.44.000000 Indbetaling                -75531.03 000000000000000000 EUR  Tøjbutik
+Kunde: Niels Larsen
+Adresse: Amagerbrogade 783A, 5000 Næstved
+Registreringsnummer: 0052
+Bank: Jyske Bank
+Bankadresse: Vesterbrogade 834A, 7100 NÃ¦stved
+Telefon: +45 56689529
+E-mail: kontakt@jyskebank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 537-14-39416) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2022-11-22-08.21.30.000000 Indbetaling                  2556.56 000000000000000000 EUR  Restaurant
+2024-07-15-00.02.11.000000 Indbetaling                 35420.40 000000000000000000 USD  Tøjbutik
+2025-03-01-06.45.06.000000 Overførsel                 -24384.88 000000000000000000 DKK  Restaurant
+2025-03-07-05.03.16.000000 Udbetaling                   5940.27 000000000000000000 DKK  Tøjbutik
+2023-08-07-03.44.17.000000 Overførsel                  85135.18 000000000000000000 DKK  Blomsterhandler
+2024-09-24-09.20.19.000000 Indbetaling                -54399.56 000000000000000000 EUR  Tankstation
+2025-03-02-14.11.31.000000 Overførsel                  72131.40 000000000000000000 USD  Elektronikbutik
+2023-01-10-05.16.31.000000 Overførsel                 -74332.39 000000000000000000 DKK  Elektronikbutik
+Kunde: Niels Hansen
+Adresse: Søndergade 51B, 8000 Esbjerg
+Registreringsnummer: 0014
+Bank: Jyske Bank
+Bankadresse: NÃ¸rreport 73C, 5000 KÃ¸benhavn
+Telefon: +45 54340131
+E-mail: kontakt@jyskebank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 561-43-97153) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2021-04-02-14.32.43.000000 Udbetaling                  91072.82 000000000000000000 DKK  Biograf
+2024-07-30-11.02.44.000000 Overførsel                 -54122.57 000000000000000000 DKK  Supermarked
+2025-03-31-18.54.45.000000 Udbetaling                 -96839.79 000000000000000000 EUR  Café
+2022-12-22-21.47.59.000000 Udbetaling                   4069.95 000000000000000000 DKK  Biograf
+Kunde: Søren Nielsen
+Adresse: Strandvejen 523, 3000 Aarhus
+Registreringsnummer: 0029
+Bank: Arbejdernes Landsbank
+Bankadresse: Ã˜sterbrogade 244A, 9000 HelsingÃ¸r
+Telefon: +45 60522970
+E-mail: kontakt@arbejderneslandsbank
+--- TRANSACTION RECORD (ACCOUNT ID: 885-78-30497) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2024-05-20-00.08.44.000000 Overførsel                  22235.20 000000000000000000 DKK  Tankstation
+2020-03-18-05.58.58.000000 Overførsel                  13255.08 000000000000000000 EUR  Elektronikbutik
+2024-08-23-15.23.17.000000 Udbetaling                  44859.25 000000000000000000 EUR  Boghandel
+2020-02-29-00.01.33.000000 Udbetaling                 -26979.37 000000000000000000 EUR  Supermarked
+Kunde: Søren Nielsen
+Adresse: Frederiks Allé 227B, 8000 Odense
+Registreringsnummer: 0028
+Bank: Sydbank
+Bankadresse: Hovedgaden 188B, 8900 Esbjerg
+Telefon: +45 39001460
+E-mail: kontakt@sydbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 539-54-94039) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2021-03-25-00.59.19.000000 Indbetaling                 56506.96 000000000000000000 EUR  Restaurant
+2022-09-20-03.10.31.000000 Overførsel                  44759.47 000000000000000000 USD  Bageri
+2024-05-24-10.32.16.000000 Indbetaling                 77177.77 000000000000000000 EUR  Apotek
+2021-08-01-07.44.59.000000 Overførsel                 -68616.67 000000000000000000 USD  Biograf
+2025-04-10-04.38.51.000000 Overførsel                  86732.48 000000000000000000 EUR  Fitnesscenter
+Kunde: Søren Mortensen
+Adresse: Strandvejen 691A, 7100 Næstved
+2024-12-07-02.17.08.000000 Indbetaling                -66951.08 000000000000000000 DKK  Biograf
+2024-03-12-06.44.13.000000 Udbetaling                  46916.12 000000000000000000 EUR  Restaurant
+2022-04-21-12.52.00.000000 Overførsel                 -49560.05 000000000000000000 USD  Café
+2023-12-08-00.28.58.000000 Overførsel                  90450.62 000000000000000000 DKK  Tøjbutik
+Kunde: Anne Hansen
+Adresse: Hovedgaden 476A, 8000 Esbjerg
+2024-08-06-20.32.55.000000 Indbetaling                -82517.12 000000000000000000 USD  Møbelbutik
+2023-01-22-15.48.47.000000 Indbetaling                 45281.88 000000000000000000 DKK  Tøjbutik
+2024-03-16-04.21.49.000000 Indbetaling                -10804.90 000000000000000000 USD  Café
+Kunde: Anne Thomsen
+Adresse: Hovedgaden 135, 8000 Randers
+Registreringsnummer: 0005
+Bank: Nykredit Bank
+Bankadresse: Strandvejen 474A, 8000 NÃ¦stved
+Telefon: +45 50489929
+E-mail: kontakt@nykreditbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 162-88-14542) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2021-08-13-06.32.15.000000 Udbetaling                  64325.70 000000000000000000 EUR  Boghandel
+2024-02-18-04.28.27.000000 Overførsel                    580.10 000000000000000000 USD  Restaurant
+2023-04-16-04.43.35.000000 Udbetaling                  58264.15 000000000000000000 DKK  Møbelbutik
+2023-11-05-12.26.02.000000 Overførsel                 -77896.43 000000000000000000 USD  Tøjbutik
+2025-03-15-19.53.17.000000 Overførsel                  71272.98 000000000000000000 USD  Tankstation
+2023-06-22-22.25.33.000000 Udbetaling                  41840.14 000000000000000000 USD  Tankstation
+2025-01-14-14.03.36.000000 Overførsel                  16250.54 000000000000000000 EUR  Apotek
+2023-11-20-08.30.03.000000 Overførsel                 -24598.37 000000000000000000 USD  Restaurant
+2020-10-11-08.05.30.000000 Indbetaling                -69009.77 000000000000000000 EUR  Elektronikbutik
+Kunde: Camilla Olsen
+Adresse: Østerbrogade 848B, 3000 Helsingør
+Registreringsnummer: 0053
+Bank: Danske Bank
+Bankadresse: Frederiks AllÃ© 11, 4700 NÃ¦stved
+Telefon: +45 19198363
+E-mail: kontakt@danskebank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 464-77-15584) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2025-09-28-04.48.08.000000 Indbetaling                -26337.21 000000000000000000 EUR  Restaurant
+2025-09-05-23.55.05.000000 Indbetaling                -98750.49 000000000000000000 DKK  Tankstation
+2025-05-02-04.13.04.000000 Overførsel                  92700.91 000000000000000000 DKK  Tøjbutik
+2021-06-17-07.41.04.000000 Udbetaling                  78044.13 000000000000000000 EUR  Café
+2022-12-25-23.25.13.000000 Indbetaling                 72138.50 000000000000000000 EUR  Biograf
+2021-08-24-10.36.07.000000 Indbetaling                -48530.50 000000000000000000 USD  Supermarked
+2022-12-22-18.43.54.000000 Indbetaling                -75690.27 000000000000000000 USD  Bageri
+2022-11-07-03.21.21.000000 Overførsel                 -57550.76 000000000000000000 DKK  Café
+Kunde: Jens Mortensen
+Adresse: Hovedgaden 873A, 4000 Esbjerg
+Registreringsnummer: 0015
+Bank: Nykredit Bank
+Bankadresse: Frederiks AllÃ© 216B, 3000 Roskilde
+Telefon: +45 87651448
+E-mail: kontakt@nykreditbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 309-40-66515) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2021-05-23-00.43.41.000000 Overførsel                  41413.97 000000000000000000 EUR  Biograf
+2024-09-03-05.59.16.000000 Overførsel                  89179.48 000000000000000000 USD  Café
+2020-12-26-20.59.51.000000 Udbetaling                  48674.84 000000000000000000 EUR  Boghandel
+2021-08-23-09.08.09.000000 Udbetaling                  -2174.79 000000000000000000 EUR  Apotek
+2022-07-06-21.16.25.000000 Udbetaling                  -5328.30 000000000000000000 EUR  Bageri
+2023-06-14-06.04.04.000000 Overførsel                  -8927.08 000000000000000000 USD  Elektronikbutik
+2020-09-22-07.54.58.000000 Indbetaling                -65645.19 000000000000000000 EUR  Café
+2020-07-03-08.59.11.000000 Udbetaling                  25731.89 000000000000000000 DKK  Elektronikbutik
+2022-11-05-10.54.58.000000 Udbetaling                  85897.22 000000000000000000 EUR  Café
+Kunde: Camilla Pedersen
+Adresse: Amagerbrogade 18C, 5000 Esbjerg
+Registreringsnummer: 0054
+Bank: Danske Bank
+Bankadresse: NÃ¸rreport 623, 5000 Aarhus
+Telefon: +45 83366207
+E-mail: kontakt@danskebank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 691-31-58351) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2023-03-28-09.31.22.000000 Udbetaling                  67727.58 000000000000000000 EUR  Boghandel
+2025-12-03-22.55.33.000000 Overførsel                 -25695.51 000000000000000000 EUR  Elektronikbutik
+2024-03-17-06.01.14.000000 Overførsel                  27086.37 000000000000000000 USD  Møbelbutik
+2025-07-30-10.34.08.000000 Overførsel                  -9001.03 000000000000000000 DKK  Biograf
+2022-02-13-08.49.08.000000 Overførsel                 -74522.09 000000000000000000 USD  Café
+2023-04-19-14.40.34.000000 Overførsel                   6698.12 000000000000000000 DKK  Boghandel
+2021-08-22-19.42.37.000000 Udbetaling                 -66064.47 000000000000000000 EUR  Fitnesscenter
+2021-09-03-07.00.44.000000 Indbetaling                 64145.23 000000000000000000 USD  Blomsterhandler
+2020-09-12-16.02.53.000000 Overførsel                  45184.71 000000000000000000 DKK  Fitnesscenter
+Kunde: Jens Pedersen
+Adresse: Amagerbrogade 124A, 7100 Esbjerg
+2021-05-16-02.59.12.000000 Udbetaling                 -30200.62 000000000000000000 DKK  Apotek
+Kunde: Mette Pedersen
+Adresse: Hovedgaden 629B, 9000 Roskilde
+Registreringsnummer: 0018
+Bank: Nykredit Bank
+Bankadresse: Hovedgaden 92, 2100 Aalborg
+Telefon: +45 82673252
+E-mail: kontakt@nykreditbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 759-20-22398) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2024-11-04-20.57.17.000000 Udbetaling                 -63085.16 000000000000000000 USD  Møbelbutik
+2021-03-20-21.40.50.000000 Indbetaling                -56557.17 000000000000000000 USD  Elektronikbutik
+2021-11-09-11.00.53.000000 Overførsel                 -68903.94 000000000000000000 EUR  Blomsterhandler
+2021-03-25-03.28.33.000000 Udbetaling                 -59881.92 000000000000000000 EUR  Boghandel
+2025-05-21-13.04.32.000000 Indbetaling                 87909.90 000000000000000000 EUR  Boghandel
+2021-12-01-11.33.10.000000 Udbetaling                  43075.62 000000000000000000 DKK  Biograf
+Kunde: Marie Nielsen
+Adresse: Strandvejen 985B, 4000 Odense
+2020-08-07-12.11.42.000000 Overførsel                  76186.72 000000000000000000 USD  Tankstation
+Kunde: Jens Larsen
+Adresse: Hovedgaden 450, 2100 Roskilde
+2022-03-01-13.49.46.000000 Overførsel                 -71506.08 000000000000000000 USD  Restaurant
+2023-02-24-14.58.51.000000 Overførsel                 -42247.13 000000000000000000 DKK  Elektronikbutik
+2023-02-04-17.31.22.000000 Udbetaling                  48588.25 000000000000000000 USD  Bageri
+2020-07-26-05.41.49.000000 Indbetaling                 78343.08 000000000000000000 DKK  Supermarked
+2023-03-02-14.03.08.000000 Overførsel                  58839.11 000000000000000000 USD  Supermarked
+2023-07-15-09.49.41.000000 Udbetaling                 -31682.82 000000000000000000 EUR  Fitnesscenter
+Kunde: Lars Hansen
+Adresse: Søndergade 642A, 2100 Aalborg
+2025-09-26-00.42.02.000000 Indbetaling                 80896.28 000000000000000000 USD  Elektronikbutik
+Kunde: Lars Nielsen
+Adresse: Nørreport 465C, 4700 Aarhus
+Registreringsnummer: 0017
+Bank: Danske Bank
+Bankadresse: Frederiks AllÃ© 154C, 8900 Aarhus
+Telefon: +45 44081359
+E-mail: kontakt@danskebank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 110-95-79247) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2023-12-14-16.11.02.000000 Overførsel                 -10418.80 000000000000000000 USD  Supermarked
+2025-04-20-06.28.41.000000 Overførsel                 -42744.96 000000000000000000 EUR  Tøjbutik
+Kunde: Niels Hansen
+Adresse: Østerbrogade 575C, 8900 Vejle
+Registreringsnummer: 0043
+Bank: Handelsbanken
+Bankadresse: NÃ¸rreport 186, 4000 Esbjerg
+Telefon: +45 54997186
+E-mail: kontakt@handelsbanken.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 711-36-64030) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2020-12-05-12.37.23.000000 Indbetaling                 17492.43 000000000000000000 DKK  Fitnesscenter
+2025-03-22-02.39.14.000000 Indbetaling                -40558.11 000000000000000000 EUR  Fitnesscenter
+Kunde: Marie Pedersen
+Adresse: Østerbrogade 820A, 2100 Odense
+Registreringsnummer: 0014
+Bank: Jyske Bank
+Bankadresse: NÃ¸rreport 73C, 5000 KÃ¸benhavn
+Telefon: +45 54340131
+E-mail: kontakt@jyskebank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 130-48-97762) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2021-12-24-07.07.57.000000 Udbetaling                 -37065.98 000000000000000000 DKK  Supermarked
+2021-02-28-23.10.50.000000 Udbetaling                  21453.59 000000000000000000 EUR  Bageri
+2025-12-28-11.26.48.000000 Overførsel                 -28872.47 000000000000000000 DKK  Møbelbutik
+2025-05-10-21.45.58.000000 Overførsel                 -54040.03 000000000000000000 DKK  Supermarked
+Kunde: Hanne Pedersen
+Adresse: Østerbrogade 66C, 6700 Vejle
+Registreringsnummer: 0008
+Bank: Nykredit Bank
+Bankadresse: NÃ¸rreport 625, 9000 Aalborg
+Telefon: +45 74141650
+E-mail: kontakt@nykreditbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 789-96-18061) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2020-12-26-01.04.55.000000 Udbetaling                  40129.77 000000000000000000 DKK  Apotek
+2025-06-27-01.28.17.000000 Udbetaling                  34390.03 000000000000000000 DKK  Supermarked
+2025-06-19-20.36.21.000000 Indbetaling                -45192.21 000000000000000000 DKK  Café
+2022-06-02-12.06.34.000000 Overførsel                  69937.91 000000000000000000 USD  Tankstation
+2025-11-13-16.35.33.000000 Overførsel                 -35186.05 000000000000000000 DKK  Fitnesscenter
+2020-09-13-20.52.02.000000 Indbetaling                 53919.38 000000000000000000 DKK  Boghandel
+Kunde: Mette Hansen
+Adresse: Nørreport 312, 8900 Roskilde
+2024-02-12-12.01.01.000000 Overførsel                 -64685.00 000000000000000000 DKK  Café
+2023-12-23-17.40.55.000000 Indbetaling                 52445.46 000000000000000000 DKK  Fitnesscenter
+2021-06-04-12.52.55.000000 Udbetaling                 -34815.65 000000000000000000 DKK  Restaurant
+2023-04-06-05.50.03.000000 Overførsel                  79936.40 000000000000000000 EUR  Supermarked
+2022-09-01-21.48.10.000000 Indbetaling                -30259.59 000000000000000000 USD  Bageri
+2021-09-03-03.24.49.000000 Udbetaling                 -34301.46 000000000000000000 EUR  Restaurant
+2025-08-16-20.04.09.000000 Indbetaling                -39305.69 000000000000000000 DKK  Supermarked
+2020-02-29-16.55.13.000000 Overførsel                 -64652.34 000000000000000000 DKK  Boghandel
+2022-06-07-13.18.47.000000 Udbetaling                 -40130.00 000000000000000000 USD  Supermarked
+Kunde: Peter Olsen
+Adresse: Søndergade 895C, 4000 Aalborg
+Registreringsnummer: 0022
+Bank: Sydbank
+Bankadresse: Frederiks AllÃ© 275B, 6700 Roskilde
+Telefon: +45 97559601
+E-mail: kontakt@sydbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 292-12-16119) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2023-04-16-13.05.28.000000 Udbetaling                 -11690.38 000000000000000000 EUR  Fitnesscenter
+2025-04-29-06.02.08.000000 Overførsel                  50984.88 000000000000000000 DKK  Café
+2024-03-30-00.50.10.000000 Indbetaling                 56130.57 000000000000000000 USD  Bageri
+2025-06-15-15.14.14.000000 Indbetaling                 -6019.15 000000000000000000 USD  Supermarked
+2020-02-09-17.37.54.000000 Indbetaling                 14029.09 000000000000000000 EUR  Fitnesscenter
+2021-04-02-07.38.40.000000 Udbetaling                  -2733.31 000000000000000000 EUR  Café
+2022-03-25-18.43.34.000000 Udbetaling                 -88984.29 000000000000000000 USD  Tøjbutik
+2022-11-14-10.12.45.000000 Udbetaling                  35588.75 000000000000000000 EUR  Biograf
+2022-10-29-18.38.41.000000 Indbetaling                 62182.80 000000000000000000 USD  Supermarked
+2021-11-16-05.50.43.000000 Udbetaling                 -50386.60 000000000000000000 EUR  Biograf
+Kunde: Peter Jensen
+Adresse: Søndergade 988, 5000 Esbjerg
+Registreringsnummer: 0009
+Bank: Arbejdernes Landsbank
+Bankadresse: Strandvejen 839, 4000 NÃ¦stved
+Telefon: +45 41743494
+E-mail: kontakt@arbejderneslandsbank.
+--- TRANSACTION RECORD (ACCOUNT ID: 386-80-91523) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2020-08-12-17.50.18.000000 Udbetaling                 -77588.05 000000000000000000 EUR  Tøjbutik
+2020-03-11-03.59.35.000000 Overførsel                  45657.18 000000000000000000 DKK  Elektronikbutik
+2021-12-12-15.17.49.000000 Udbetaling                   2932.91 000000000000000000 DKK  Fitnesscenter
+2020-09-23-07.00.30.000000 Udbetaling                  25092.10 000000000000000000 USD  Café
+2020-07-09-03.52.41.000000 Indbetaling                 24357.11 000000000000000000 DKK  Biograf
+2020-07-14-04.00.28.000000 Udbetaling                 -57119.99 000000000000000000 USD  Boghandel
+2020-07-09-18.51.35.000000 Overførsel                   4994.91 000000000000000000 EUR  Blomsterhandler
+2025-07-12-12.58.30.000000 Udbetaling                 -70532.53 000000000000000000 DKK  Apotek
+2024-03-28-15.46.33.000000 Overførsel                  85099.08 000000000000000000 DKK  Tankstation
+Kunde: Hanne Jensen
+Adresse: Amagerbrogade 486B, 8900 Helsingør
+Kunde: Søren Thomsen
+Adresse: Amagerbrogade 279B, 8900 København
+Registreringsnummer: 0030
+Bank: Nordea
+Bankadresse: SÃ¸ndergade 298C, 6700 Aalborg
+Telefon: +45 10039140
+E-mail: kontakt@nordea.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 202-87-96496) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2022-11-09-14.30.44.000000 Udbetaling                 -53322.08 000000000000000000 EUR  Supermarked
+2025-06-08-03.50.03.000000 Overførsel                 -96680.93 000000000000000000 DKK  Tøjbutik
+2020-12-07-05.53.33.000000 Udbetaling                 -43509.32 000000000000000000 EUR  Restaurant
+2021-11-01-02.04.39.000000 Indbetaling                -41841.03 000000000000000000 DKK  Café
+2021-12-28-05.41.16.000000 Indbetaling                -78318.67 000000000000000000 DKK  Supermarked
+2024-01-19-21.53.04.000000 Udbetaling                   5359.36 000000000000000000 DKK  Boghandel
+2020-01-26-19.36.52.000000 Overførsel                 -46975.64 000000000000000000 DKK  Boghandel
+Kunde: Mette Hansen
+Adresse: Strandvejen 72, 4000 Næstved
+Registreringsnummer: 0006
+Bank: Nordea
+Bankadresse: NÃ¸rreport 641, 8900 KÃ¸benhavn
+Telefon: +45 24836014
+E-mail: kontakt@nordea.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 566-72-52923) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2023-03-13-08.02.46.000000 Indbetaling                -17285.00 000000000000000000 EUR  Tankstation
+2023-10-14-04.51.21.000000 Udbetaling                  99579.89 000000000000000000 USD  Café
+Kunde: Søren Andersen
+Adresse: Frederiks Allé 333A, 2100 Odense
+2020-05-25-01.15.35.000000 Udbetaling                  54542.37 000000000000000000 USD  Blomsterhandler
+2020-08-02-10.11.16.000000 Udbetaling                 -53680.46 000000000000000000 USD  Tøjbutik
+2024-01-14-09.00.09.000000 Udbetaling                 -31086.73 000000000000000000 USD  Fitnesscenter
+2021-03-21-07.48.54.000000 Indbetaling                -90792.32 000000000000000000 EUR  Fitnesscenter
+Kunde: Søren Larsen
+Adresse: Hovedgaden 233C, 2100 Vejle
+Registreringsnummer: 0020
+Bank: Nordea
+Bankadresse: Strandvejen 989B, 9000 Aarhus
+Telefon: +45 72157898
+E-mail: kontakt@nordea.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 736-45-48601) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2022-03-22-22.05.12.000000 Indbetaling                 63389.06 000000000000000000 EUR  Restaurant
+2023-07-27-17.28.00.000000 Overførsel                  97696.04 000000000000000000 DKK  Apotek
+2023-01-22-11.24.24.000000 Indbetaling                 53855.82 000000000000000000 EUR  Elektronikbutik
+2020-01-04-10.25.40.000000 Indbetaling                 32968.44 000000000000000000 EUR  Bageri
+Kunde: Niels Pedersen
+Adresse: Hovedgaden 332C, 4000 Roskilde
+Registreringsnummer: 0001
+Bank: Handelsbanken
+Bankadresse: Amagerbrogade 183A, 7100 Vejle
+Telefon: +45 20325755
+E-mail: kontakt@handelsbanken.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 364-32-93566) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2021-04-29-08.41.39.000000 Overførsel                 -37134.05 000000000000000000 USD  Tøjbutik
+2020-03-15-11.14.18.000000 Overførsel                  73402.17 000000000000000000 DKK  Biograf
+2022-04-20-12.17.01.000000 Indbetaling                 56321.62 000000000000000000 USD  Elektronikbutik
+2021-05-08-15.50.44.000000 Indbetaling                 64738.53 000000000000000000 USD  Café
+2023-05-15-07.53.55.000000 Indbetaling                  5682.08 000000000000000000 DKK  Boghandel
+2024-01-05-07.30.12.000000 Overførsel                  93246.17 000000000000000000 USD  Møbelbutik
+2025-01-14-02.31.06.000000 Indbetaling                 76122.19 000000000000000000 EUR  Møbelbutik
+Kunde: Niels Mortensen
+Adresse: Søndergade 103B, 9000 Aalborg
+Registreringsnummer: 0025
+Bank: Sydbank
+Bankadresse: SÃ¸ndergade 996C, 5000 HelsingÃ¸r
+Telefon: +45 74678853
+E-mail: kontakt@sydbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 617-68-63228) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2023-08-31-11.03.51.000000 Overførsel                 -60247.00 000000000000000000 EUR  Biograf
+2022-03-11-11.46.16.000000 Indbetaling                 59842.64 000000000000000000 DKK  Fitnesscenter
+Kunde: Hanne Hansen
+Adresse: Søndergade 712A, 4000 København
+Registreringsnummer: 0050
+Bank: Arbejdernes Landsbank
+Bankadresse: Ã˜sterbrogade 134C, 9000 KÃ¸benhavn
+Telefon: +45 59070849
+E-mail: kontakt@arbejderneslandsbank
+--- TRANSACTION RECORD (ACCOUNT ID: 174-84-47439) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2023-10-25-16.27.40.000000 Udbetaling                 -27204.35 000000000000000000 DKK  Café
+2025-10-10-15.25.23.000000 Udbetaling                 -55652.12 000000000000000000 EUR  Restaurant
+Kunde: Lars Andersen
+Adresse: Amagerbrogade 761, 8900 København
+Registreringsnummer: 0007
+Bank: Nykredit Bank
+Bankadresse: Vesterbrogade 560C, 9000 NÃ¦stved
+Telefon: +45 35341493
+E-mail: kontakt@nykreditbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 431-41-30561) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2023-07-10-16.25.45.000000 Indbetaling                  9004.95 000000000000000000 EUR  Elektronikbutik
+2023-12-12-13.25.55.000000 Indbetaling                -80822.03 000000000000000000 DKK  Tankstation
+2022-07-10-13.34.26.000000 Indbetaling                -65337.80 000000000000000000 DKK  Bageri
+2025-05-26-18.20.26.000000 Udbetaling                  28984.72 000000000000000000 DKK  Café
+2025-01-26-01.23.01.000000 Indbetaling                 70806.40 000000000000000000 DKK  Tankstation
+2020-11-19-11.53.29.000000 Overførsel                  -4785.76 000000000000000000 USD  Apotek
+2023-10-22-14.48.15.000000 Indbetaling                -74980.79 000000000000000000 EUR  Apotek
+2020-02-18-04.54.58.000000 Udbetaling                  90409.03 000000000000000000 USD  Café
+2025-02-02-04.28.00.000000 Overførsel                 -61060.26 000000000000000000 DKK  Møbelbutik
+Kunde: Jens Mortensen
+Adresse: Vesterbrogade 243A, 5000 Næstved
+2023-07-06-23.26.49.000000 Overførsel                  65968.42 000000000000000000 DKK  Café
+2023-04-12-11.15.33.000000 Udbetaling                  59092.44 000000000000000000 USD  Bageri
+2022-11-29-00.37.33.000000 Udbetaling                 -99018.18 000000000000000000 EUR  Restaurant
+2020-09-24-20.58.58.000000 Indbetaling                 83730.97 000000000000000000 USD  Café
+2023-10-16-18.00.46.000000 Udbetaling                 -55052.90 000000000000000000 EUR  Tøjbutik
+2023-04-23-00.00.40.000000 Overførsel                 -93839.01 000000000000000000 USD  Apotek
+Kunde: Anne Larsen
+Adresse: Frederiks Allé 646, 8900 Næstved
+Registreringsnummer: 0038
+Bank: Sydbank
+Bankadresse: Frederiks AllÃ© 307A, 8000 NÃ¦stved
+Telefon: +45 23087712
+E-mail: kontakt@sydbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 783-48-21998) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2024-03-31-12.41.04.000000 Udbetaling                  29626.03 000000000000000000 DKK  Tankstation
+2021-08-29-02.00.36.000000 Overførsel                  85641.03 000000000000000000 DKK  Tøjbutik
+2024-12-24-01.46.14.000000 Overførsel                   2788.78 000000000000000000 DKK  Tøjbutik
+2023-03-02-10.56.23.000000 Indbetaling                -78451.95 000000000000000000 DKK  Møbelbutik
+2021-10-28-01.40.30.000000 Overførsel                 -84010.33 000000000000000000 DKK  Restaurant
+2024-11-11-13.57.14.000000 Udbetaling                 -88558.55 000000000000000000 EUR  Apotek
+2021-07-21-03.14.30.000000 Overførsel                 -29779.42 000000000000000000 EUR  Supermarked
+2020-03-02-02.34.10.000000 Udbetaling                 -57040.23 000000000000000000 DKK  Biograf
+2020-07-20-20.37.35.000000 Indbetaling                -71094.89 000000000000000000 EUR  Møbelbutik
+Kunde: Marie Christensen
+Adresse: Hovedgaden 108A, 6700 København
+Registreringsnummer: 0039
+Bank: Handelsbanken
+Bankadresse: Ã˜sterbrogade 714B, 7100 Odense
+Telefon: +45 40206422
+E-mail: kontakt@handelsbanken.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 591-35-57493) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2021-07-16-13.14.33.000000 Overførsel                 -82697.08 000000000000000000 EUR  Café
+2022-02-28-17.25.56.000000 Udbetaling                 -90453.96 000000000000000000 DKK  Boghandel
+Kunde: Niels Jensen
+Adresse: Vesterbrogade 523A, 5000 Helsingør
+Registreringsnummer: 0057
+Bank: Arbejdernes Landsbank
+Bankadresse: NÃ¸rreport 45C, 2100 Aarhus
+Telefon: +45 86434676
+E-mail: kontakt@arbejderneslandsbank.
+--- TRANSACTION RECORD (ACCOUNT ID: 653-17-26661) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2022-11-04-11.02.33.000000 Udbetaling                 -98954.82 000000000000000000 EUR  Apotek
+2022-05-13-11.14.14.000000 Udbetaling                  78893.81 000000000000000000 DKK  Tøjbutik
+2024-11-04-06.36.34.000000 Indbetaling                 93862.80 000000000000000000 EUR  Boghandel
+2022-02-12-13.42.15.000000 Indbetaling                 67568.70 000000000000000000 DKK  Elektronikbutik
+2022-05-29-18.53.37.000000 Udbetaling                  57201.08 000000000000000000 DKK  Restaurant
+2023-06-04-02.33.13.000000 Overførsel                  73487.89 000000000000000000 EUR  Biograf
+2022-08-23-06.39.39.000000 Overførsel                 -14931.63 000000000000000000 USD  Blomsterhandler
+2025-01-03-11.50.37.000000 Indbetaling                -82143.71 000000000000000000 DKK  Blomsterhandler
+2023-03-12-21.43.38.000000 Indbetaling                -49825.50 000000000000000000 USD  Restaurant
+2020-01-03-17.11.42.000000 Udbetaling                  20632.76 000000000000000000 EUR  Fitnesscenter
+Kunde: Niels Hansen
+Adresse: Nørreport 162A, 2100 Vejle
+Registreringsnummer: 0025
+Bank: Sydbank
+Bankadresse: SÃ¸ndergade 996C, 5000 HelsingÃ¸r
+Telefon: +45 74678853
+E-mail: kontakt@sydbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 435-86-41801) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2020-09-24-09.48.30.000000 Overførsel                  13778.67 000000000000000000 USD  Elektronikbutik
+2023-06-27-11.50.43.000000 Indbetaling                -29905.46 000000000000000000 USD  Biograf
+2022-08-17-21.47.15.000000 Indbetaling                 72404.73 000000000000000000 USD  Bageri
+2020-04-20-01.33.10.000000 Overførsel                 -22112.50 000000000000000000 DKK  Biograf
+2025-01-07-05.55.22.000000 Indbetaling                -27471.92 000000000000000000 EUR  Fitnesscenter
+Kunde: Jens Hansen
+Adresse: Frederiks Allé 67B, 9000 Esbjerg
+2023-04-21-16.13.48.000000 Indbetaling                 11910.21 000000000000000000 EUR  Møbelbutik
+2025-04-25-07.38.58.000000 Udbetaling                  -8352.78 000000000000000000 USD  Bageri
+2021-10-01-06.49.20.000000 Udbetaling                 -69868.59 000000000000000000 EUR  Boghandel
+Kunde: Søren Thomsen
+Adresse: Nørreport 516C, 4000 Helsingør
+Registreringsnummer: 0021
+Bank: Arbejdernes Landsbank
+Bankadresse: Amagerbrogade 752, 8000 Vejle
+Telefon: +45 60159213
+E-mail: kontakt@arbejderneslandsbank.d
+--- TRANSACTION RECORD (ACCOUNT ID: 264-82-18782) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2024-07-01-19.03.55.000000 Overførsel                  91632.58 000000000000000000 DKK  Tankstation
+Kunde: Mette Christensen
+Adresse: Søndergade 71B, 3000 Vejle
+Registreringsnummer: 0053
+Bank: Danske Bank
+Bankadresse: Frederiks AllÃ© 11, 4700 NÃ¦stved
+Telefon: +45 19198363
+E-mail: kontakt@danskebank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 561-40-72467) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2022-10-28-04.47.09.000000 Overførsel                 -81608.34 000000000000000000 DKK  Blomsterhandler
+2024-04-16-11.35.39.000000 Indbetaling                 51287.70 000000000000000000 EUR  Apotek
+2022-05-01-03.34.01.000000 Udbetaling                  55259.31 000000000000000000 USD  Møbelbutik
+2020-05-20-16.44.08.000000 Overførsel                 -90245.58 000000000000000000 USD  Tankstation
+2025-05-06-13.56.45.000000 Overførsel                   6290.83 000000000000000000 DKK  Boghandel
+Kunde: Søren Andersen
+Adresse: Amagerbrogade 893B, 3000 Esbjerg
+Registreringsnummer: 0055
+Bank: Nykredit Bank
+Bankadresse: Frederiks AllÃ© 867C, 6700 Aarhus
+Telefon: +45 89932637
+E-mail: kontakt@nykreditbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 290-14-31542) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2023-04-17-21.44.33.000000 Indbetaling                -31649.94 000000000000000000 EUR  Café
+2023-10-29-20.12.35.000000 Overførsel                  69637.31 000000000000000000 USD  Blomsterhandler
+2023-04-03-14.45.56.000000 Overførsel                  57725.93 000000000000000000 DKK  Supermarked
+2021-11-03-03.27.06.000000 Overførsel                  12689.55 000000000000000000 DKK  Biograf
+2024-06-08-08.59.56.000000 Udbetaling                 -90420.09 000000000000000000 EUR  Biograf
+2024-12-16-02.01.51.000000 Udbetaling                  85178.50 000000000000000000 EUR  Café
+2020-03-18-13.47.56.000000 Overførsel                 -70892.98 000000000000000000 EUR  Tøjbutik
+2024-08-21-19.11.19.000000 Udbetaling                  34643.26 000000000000000000 DKK  Boghandel
+2024-10-15-10.11.45.000000 Indbetaling                 53390.58 000000000000000000 DKK  Fitnesscenter
+2023-12-11-21.19.02.000000 Indbetaling                 97130.28 000000000000000000 EUR  Blomsterhandler
+Kunde: Niels Mortensen
+Adresse: Østerbrogade 68B, 3000 København
+Registreringsnummer: 0008
+Bank: Nykredit Bank
+Bankadresse: NÃ¸rreport 625, 9000 Aalborg
+Telefon: +45 74141650
+E-mail: kontakt@nykreditbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 772-69-76380) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2020-04-14-06.15.04.000000 Udbetaling                   4457.84 000000000000000000 EUR  Supermarked
+Kunde: Anne Nielsen
+Adresse: Amagerbrogade 594, 8000 Roskilde
+Registreringsnummer: 0038
+Bank: Sydbank
+Bankadresse: Frederiks AllÃ© 307A, 8000 NÃ¦stved
+Telefon: +45 23087712
+E-mail: kontakt@sydbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 778-91-22311) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2020-10-30-22.50.39.000000 Indbetaling                 50764.32 000000000000000000 EUR  Café
+2024-08-25-21.42.55.000000 Indbetaling                 29170.95 000000000000000000 USD  Blomsterhandler
+2021-09-19-18.05.28.000000 Overførsel                  -5742.43 000000000000000000 EUR  Supermarked
+2023-11-01-20.09.20.000000 Overførsel                 -58276.39 000000000000000000 USD  Supermarked
+2025-09-11-17.55.12.000000 Overførsel                 -83141.55 000000000000000000 EUR  Tøjbutik
+2021-07-28-14.27.35.000000 Indbetaling                -20507.16 000000000000000000 USD  Tankstation
+2023-05-31-06.29.44.000000 Overførsel                   5033.80 000000000000000000 DKK  Fitnesscenter
+2022-07-26-22.41.17.000000 Overførsel                  37432.27 000000000000000000 DKK  Café
+2021-01-18-14.36.01.000000 Indbetaling                 37079.82 000000000000000000 USD  Apotek
+2023-12-27-21.20.38.000000 Udbetaling                  56738.26 000000000000000000 EUR  Møbelbutik
+Kunde: Mette Olsen
+Adresse: Østerbrogade 835, 8000 Randers
+Registreringsnummer: 0026
+Bank: Danske Bank
+Bankadresse: Strandvejen 164B, 8900 HelsingÃ¸r
+Telefon: +45 98225744
+E-mail: kontakt@danskebank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 501-35-98720) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2024-04-04-18.03.56.000000 Udbetaling                 -56866.76 000000000000000000 EUR  Bageri
+Kunde: Marie Hansen
+Adresse: Nørreport 932, 3000 Vejle
+2023-12-22-02.26.36.000000 Indbetaling                 76731.60 000000000000000000 USD  Biograf
+2020-09-15-23.30.53.000000 Indbetaling                -69909.86 000000000000000000 USD  Restaurant
+2020-09-06-05.12.16.000000 Indbetaling                 16498.92 000000000000000000 EUR  Fitnesscenter
+2020-03-04-10.27.59.000000 Indbetaling                 74315.12 000000000000000000 USD  Boghandel
+2025-10-31-22.08.09.000000 Indbetaling                -87684.20 000000000000000000 EUR  Fitnesscenter
+2024-05-02-04.23.33.000000 Indbetaling                 26217.93 000000000000000000 EUR  Møbelbutik
+Kunde: Anne Hansen
+Adresse: Frederiks Allé 927B, 7100 Roskilde
+2025-02-14-03.03.41.000000 Indbetaling                 70641.63 000000000000000000 DKK  Møbelbutik
+2025-09-06-15.01.14.000000 Indbetaling                -34027.09 000000000000000000 EUR  Elektronikbutik
+2022-09-07-07.38.49.000000 Indbetaling                  -785.15 000000000000000000 USD  Bageri
+2021-08-21-02.11.58.000000 Indbetaling                 48597.97 000000000000000000 EUR  Restaurant
+2024-02-01-17.01.45.000000 Indbetaling                -23683.66 000000000000000000 USD  Biograf
+2020-02-27-12.41.25.000000 Udbetaling                 -88669.86 000000000000000000 EUR  Fitnesscenter
+2021-04-18-10.05.50.000000 Overførsel                  39985.78 000000000000000000 EUR  Café
+Kunde: Camilla Christensen
+Adresse: Frederiks Allé 509B, 8000 København
+Registreringsnummer: 0031
+Bank: Handelsbanken
+Bankadresse: Ã˜sterbrogade 14B, 9000 Odense
+Telefon: +45 50463045
+E-mail: kontakt@handelsbanken.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 354-13-93759) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2025-12-01-18.00.00.000000 Indbetaling                -70672.67 000000000000000000 EUR  Tankstation
+2022-12-17-08.48.02.000000 Udbetaling                  10747.78 000000000000000000 USD  Bageri
+2022-07-06-20.36.59.000000 Udbetaling                 -36646.11 000000000000000000 EUR  Tankstation
+Kunde: Peter Olsen
+Adresse: Frederiks Allé 410C, 4700 Roskilde
+Registreringsnummer: 0029
+Bank: Arbejdernes Landsbank
+Bankadresse: Ã˜sterbrogade 244A, 9000 HelsingÃ¸r
+Telefon: +45 60522970
+E-mail: kontakt@arbejderneslandsbank
+--- TRANSACTION RECORD (ACCOUNT ID: 803-35-97160) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2023-04-16-23.39.50.000000 Overførsel                  -5202.64 000000000000000000 DKK  Bageri
+2020-08-11-08.09.59.000000 Overførsel                 -55341.27 000000000000000000 USD  Apotek
+2024-08-23-22.15.12.000000 Overførsel                 -92297.44 000000000000000000 EUR  Fitnesscenter
+2022-01-16-06.54.25.000000 Udbetaling                 -66154.39 000000000000000000 DKK  Tankstation
+2024-02-15-08.04.17.000000 Overførsel                 -62751.93 000000000000000000 DKK  Fitnesscenter
+2021-02-26-23.17.56.000000 Indbetaling                -91015.08 000000000000000000 DKK  Møbelbutik
+2021-03-30-13.33.45.000000 Indbetaling                 65114.72 000000000000000000 USD  Tøjbutik
+2024-05-20-03.33.11.000000 Overførsel                  71667.59 000000000000000000 DKK  Restaurant
+2023-06-29-16.36.38.000000 Udbetaling                 -43545.99 000000000000000000 USD  Apotek
+2023-12-18-10.50.06.000000 Overførsel                  13732.18 000000000000000000 USD  Elektronikbutik
+Kunde: Marie Larsen
+Adresse: Søndergade 287A, 5000 Vejle
+Registreringsnummer: 0020
+Bank: Nordea
+Bankadresse: Strandvejen 989B, 9000 Aarhus
+Telefon: +45 72157898
+E-mail: kontakt@nordea.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 693-33-86989) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2024-11-24-14.27.57.000000 Indbetaling                 39786.57 000000000000000000 EUR  Elektronikbutik
+2025-12-19-10.06.01.000000 Indbetaling                 40957.37 000000000000000000 DKK  Apotek
+2024-02-17-13.27.43.000000 Udbetaling                  45125.35 000000000000000000 EUR  Biograf
+Kunde: Niels Mortensen
+Adresse: Amagerbrogade 652B, 8900 Randers
+Registreringsnummer: 0008
+Bank: Nykredit Bank
+Bankadresse: NÃ¸rreport 625, 9000 Aalborg
+Telefon: +45 74141650
+E-mail: kontakt@nykreditbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 127-13-46749) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2021-08-24-06.25.45.000000 Udbetaling                 -19992.38 000000000000000000 DKK  Biograf
+2020-09-22-04.50.00.000000 Overførsel                  67024.96 000000000000000000 DKK  Biograf
+2020-02-01-03.57.31.000000 Indbetaling                 22253.96 000000000000000000 DKK  Tankstation
+2020-03-06-20.15.26.000000 Udbetaling                 -80962.59 000000000000000000 EUR  Tøjbutik
+2025-11-17-20.09.16.000000 Udbetaling                  34811.66 000000000000000000 EUR  Apotek
+Kunde: Søren Mortensen
+Adresse: Hovedgaden 140, 4000 Esbjerg
+2021-09-26-00.34.38.000000 Overførsel                 -38995.48 000000000000000000 EUR  Bageri
+2024-05-22-10.57.43.000000 Overførsel                 -11959.48 000000000000000000 DKK  Bageri
+2024-12-06-18.28.17.000000 Indbetaling                -63274.33 000000000000000000 USD  Møbelbutik
+2023-09-18-10.50.02.000000 Overførsel                  18090.55 000000000000000000 EUR  Bageri
+2021-06-29-08.30.36.000000 Overførsel                  60722.01 000000000000000000 DKK  Restaurant
+2022-07-28-06.59.38.000000 Overførsel                 -18489.91 000000000000000000 DKK  Tøjbutik
+Kunde: Jens Christensen
+Adresse: Østerbrogade 878A, 2100 Helsingør
+2020-09-12-04.01.13.000000 Udbetaling                  81926.55 000000000000000000 USD  Supermarked
+2025-07-27-00.55.42.000000 Indbetaling                 49385.00 000000000000000000 USD  Møbelbutik
+2025-10-22-02.48.23.000000 Overførsel                 -99209.46 000000000000000000 DKK  Supermarked
+2020-07-01-17.25.56.000000 Udbetaling                   9048.65 000000000000000000 USD  Supermarked
+2020-01-02-21.05.32.000000 Overførsel                 -97712.85 000000000000000000 USD  Blomsterhandler
+Kunde: Peter Christensen
+Adresse: Søndergade 339A, 9000 Roskilde
+2024-05-21-18.40.58.000000 Indbetaling                 43086.37 000000000000000000 DKK  Tøjbutik
+2023-02-06-20.38.42.000000 Indbetaling                 24232.92 000000000000000000 DKK  Supermarked
+2020-12-31-12.35.40.000000 Indbetaling                -46652.66 000000000000000000 DKK  Tankstation
+2025-07-19-07.43.56.000000 Overførsel                  92628.70 000000000000000000 EUR  Blomsterhandler
+2021-10-12-18.54.30.000000 Udbetaling                 -21834.56 000000000000000000 DKK  Tankstation
+Kunde: Mette Olsen
+Adresse: Strandvejen 320B, 8000 Vejle
+Kunde: Jens Christensen
+Adresse: Frederiks Allé 301, 8900 Aalborg
+Registreringsnummer: 0025
+Bank: Sydbank
+Bankadresse: SÃ¸ndergade 996C, 5000 HelsingÃ¸r
+Telefon: +45 74678853
+E-mail: kontakt@sydbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 112-46-93603) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2023-04-21-02.19.50.000000 Overførsel                 -22435.54 000000000000000000 EUR  Restaurant
+2024-12-31-07.50.43.000000 Indbetaling                -54434.39 000000000000000000 DKK  Blomsterhandler
+2025-07-13-10.57.58.000000 Overførsel                 -71960.07 000000000000000000 DKK  Boghandel
+2021-04-13-09.55.07.000000 Indbetaling                 16778.34 000000000000000000 DKK  Café
+2020-03-05-16.48.12.000000 Udbetaling                  43124.12 000000000000000000 USD  Café
+Kunde: Mette Hansen
+Adresse: Søndergade 126C, 9000 Odense
+Registreringsnummer: 0045
+Bank: Sydbank
+Bankadresse: NÃ¸rreport 871C, 8900 NÃ¦stved
+Telefon: +45 16256142
+E-mail: kontakt@sydbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 300-33-10384) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2022-03-14-17.32.36.000000 Overførsel                  14281.91 000000000000000000 USD  Apotek
+2023-02-20-03.43.33.000000 Overførsel                 -68371.17 000000000000000000 USD  Restaurant
+2021-10-01-15.21.17.000000 Indbetaling                 92109.95 000000000000000000 EUR  Supermarked
+2022-06-10-20.56.04.000000 Overførsel                 -72431.35 000000000000000000 DKK  Supermarked
+2020-11-01-14.10.11.000000 Udbetaling                  21962.54 000000000000000000 DKK  Tankstation
+2024-12-26-15.49.40.000000 Overførsel                  26731.44 000000000000000000 DKK  Møbelbutik
+2020-07-09-11.45.51.000000 Overførsel                  38674.41 000000000000000000 USD  Tøjbutik
+Kunde: Jens Christensen
+Adresse: Hovedgaden 186A, 8000 Randers
+2021-01-13-19.56.23.000000 Udbetaling                  61717.51 000000000000000000 EUR  Apotek
+2024-07-14-23.44.27.000000 Overførsel                  79197.87 000000000000000000 EUR  Café
+2020-10-12-17.16.15.000000 Overførsel                  86459.57 000000000000000000 USD  Restaurant
+Kunde: Søren Pedersen
+Adresse: Frederiks Allé 811, 7100 Næstved
+Kunde: Peter Mortensen
+Adresse: Nørreport 917C, 8900 Næstved
+2020-03-28-23.29.11.000000 Indbetaling                -54043.04 000000000000000000 EUR  Møbelbutik
+2020-01-31-04.53.24.000000 Indbetaling                -31675.54 000000000000000000 USD  Café
+2024-07-10-02.32.05.000000 Indbetaling                 60897.35 000000000000000000 EUR  Bageri
+2021-03-18-01.06.16.000000 Overførsel                  13520.56 000000000000000000 EUR  Café
+2023-12-24-11.20.56.000000 Indbetaling                 -9916.76 000000000000000000 USD  Møbelbutik
+2025-07-25-02.23.22.000000 Overførsel                  -5605.73 000000000000000000 DKK  Boghandel
+Kunde: Jens Pedersen
+Adresse: Østerbrogade 676C, 8000 København
+Registreringsnummer: 0022
+Bank: Sydbank
+Bankadresse: Frederiks AllÃ© 275B, 6700 Roskilde
+Telefon: +45 97559601
+E-mail: kontakt@sydbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 880-63-13551) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2021-11-17-22.05.41.000000 Indbetaling                 58454.41 000000000000000000 USD  Tankstation
+Kunde: Mette Thomsen
+Adresse: Søndergade 431C, 5000 Vejle
+2021-03-19-18.45.14.000000 Udbetaling                  97582.38 000000000000000000 DKK  Apotek
+2021-06-24-20.16.12.000000 Overførsel                  95375.23 000000000000000000 DKK  Supermarked
+2022-12-30-20.33.52.000000 Overførsel                  14655.80 000000000000000000 EUR  Tøjbutik
+2024-05-07-09.03.17.000000 Indbetaling                  2251.86 000000000000000000 EUR  Elektronikbutik
+Kunde: Mette Christensen
+Adresse: Søndergade 44B, 4700 Randers
+Kunde: Anne Thomsen
+Adresse: Strandvejen 676, 6700 Randers
+Kunde: Lars Christensen
+Adresse: Frederiks Allé 620, 9000 Odense
+Registreringsnummer: 0015
+Bank: Nykredit Bank
+Bankadresse: Frederiks AllÃ© 216B, 3000 Roskilde
+Telefon: +45 87651448
+E-mail: kontakt@nykreditbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 413-14-61695) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2024-06-06-22.53.25.000000 Overførsel                  69771.11 000000000000000000 DKK  Møbelbutik
+2020-01-02-16.36.50.000000 Indbetaling                 51697.01 000000000000000000 DKK  Apotek
+2024-12-25-22.43.29.000000 Udbetaling                  26241.52 000000000000000000 DKK  Restaurant
+2024-01-16-18.31.44.000000 Udbetaling                   2944.17 000000000000000000 USD  Restaurant
+Kunde: Lars Andersen
+Adresse: Nørreport 32B, 8000 Randers
+2025-12-25-13.49.33.000000 Udbetaling                  37614.48 000000000000000000 DKK  Blomsterhandler
+2025-04-30-21.38.20.000000 Udbetaling                  89676.45 000000000000000000 USD  Blomsterhandler
+2020-09-09-00.10.08.000000 Overførsel                 -29822.49 000000000000000000 USD  Tankstation
+2020-05-24-07.36.31.000000 Indbetaling                -69956.34 000000000000000000 DKK  Biograf
+2020-06-03-22.09.07.000000 Udbetaling                  28060.20 000000000000000000 DKK  Fitnesscenter
+2023-08-12-20.44.53.000000 Overførsel                  55181.82 000000000000000000 EUR  Apotek
+Kunde: Mette Mortensen
+Adresse: Østerbrogade 187, 4700 Næstved
+Registreringsnummer: 0052
+Bank: Jyske Bank
+Bankadresse: Vesterbrogade 834A, 7100 NÃ¦stved
+Telefon: +45 56689529
+E-mail: kontakt@jyskebank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 888-67-62592) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2021-11-17-07.37.18.000000 Indbetaling                -94082.26 000000000000000000 DKK  Fitnesscenter
+2024-12-30-07.45.11.000000 Udbetaling                  76116.23 000000000000000000 DKK  Café
+2024-05-07-01.49.26.000000 Udbetaling                 -55893.31 000000000000000000 EUR  Café
+Kunde: Niels Thomsen
+Adresse: Hovedgaden 387B, 8000 Vejle
+Registreringsnummer: 0020
+Bank: Nordea
+Bankadresse: Strandvejen 989B, 9000 Aarhus
+Telefon: +45 72157898
+E-mail: kontakt@nordea.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 639-91-87982) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2020-11-25-12.08.37.000000 Overførsel                 -47648.61 000000000000000000 DKK  Boghandel
+2025-01-07-07.58.01.000000 Indbetaling                  -267.15 000000000000000000 EUR  Tøjbutik
+2023-02-05-00.26.14.000000 Overførsel                 -18710.71 000000000000000000 DKK  Tankstation
+2024-09-02-04.37.06.000000 Indbetaling                 62645.42 000000000000000000 EUR  Elektronikbutik
+2024-04-13-22.49.52.000000 Indbetaling                 66990.24 000000000000000000 DKK  Tankstation
+2025-07-08-12.15.15.000000 Overførsel                 -43930.53 000000000000000000 DKK  Apotek
+2020-04-18-09.59.40.000000 Udbetaling                   8202.39 000000000000000000 DKK  Møbelbutik
+2021-11-25-01.36.49.000000 Udbetaling                  70254.03 000000000000000000 DKK  Elektronikbutik
+2020-05-25-06.04.05.000000 Overførsel                  84061.56 000000000000000000 EUR  Boghandel
+Kunde: Camilla Larsen
+Adresse: Vesterbrogade 245A, 4700 Esbjerg
+2022-03-14-08.16.17.000000 Overførsel                 -82234.07 000000000000000000 EUR  Biograf
+2020-09-10-07.57.45.000000 Indbetaling                -28771.36 000000000000000000 USD  Biograf
+2023-12-27-16.45.01.000000 Udbetaling                  30728.96 000000000000000000 DKK  Møbelbutik
+2023-10-06-05.39.32.000000 Overførsel                  71710.04 000000000000000000 DKK  Tankstation
+2022-11-10-01.53.06.000000 Udbetaling                  54336.74 000000000000000000 USD  Café
+Kunde: Søren Christensen
+Adresse: Søndergade 142B, 3000 Randers
+2023-10-27-05.33.09.000000 Overførsel                  -5377.69 000000000000000000 DKK  Tankstation
+2023-11-05-10.55.11.000000 Udbetaling                  71866.87 000000000000000000 EUR  Tøjbutik
+2024-11-09-01.19.18.000000 Udbetaling                 -99727.04 000000000000000000 USD  Restaurant
+2021-08-21-03.54.53.000000 Overførsel                 -10182.48 000000000000000000 EUR  Fitnesscenter
+2023-08-31-00.46.08.000000 Overførsel                 -92610.05 000000000000000000 USD  Restaurant
+Kunde: Hanne Jensen
+Adresse: Hovedgaden 535B, 2100 Esbjerg
+Registreringsnummer: 0019
+Bank: Nykredit Bank
+Bankadresse: Amagerbrogade 548B, 7100 Vejle
+Telefon: +45 17561165
+E-mail: kontakt@nykreditbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 635-12-38193) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2025-03-08-12.17.23.000000 Overførsel                  79616.88 000000000000000000 USD  Supermarked
+Kunde: Camilla Andersen
+Adresse: Søndergade 756C, 8900 København
+2022-12-16-15.00.23.000000 Udbetaling                  72354.39 000000000000000000 EUR  Blomsterhandler
+2022-08-29-04.56.50.000000 Indbetaling                 88835.55 000000000000000000 USD  Restaurant
+2023-02-15-13.02.27.000000 Indbetaling                -59167.69 000000000000000000 DKK  Apotek
+Kunde: Søren Andersen
+Adresse: Amagerbrogade 406A, 8000 Aarhus
+Registreringsnummer: 0021
+Bank: Arbejdernes Landsbank
+Bankadresse: Amagerbrogade 752, 8000 Vejle
+Telefon: +45 60159213
+E-mail: kontakt@arbejderneslandsbank.d
+--- TRANSACTION RECORD (ACCOUNT ID: 538-23-76974) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2023-07-16-11.24.53.000000 Indbetaling                -70731.01 000000000000000000 EUR  Biograf
+2025-07-05-07.35.38.000000 Udbetaling                 -74253.63 000000000000000000 DKK  Supermarked
+2022-08-23-07.15.18.000000 Overførsel                   6334.40 000000000000000000 DKK  Fitnesscenter
+2020-03-20-08.47.30.000000 Indbetaling                 91813.99 000000000000000000 USD  Elektronikbutik
+Kunde: Niels Mortensen
+Adresse: Amagerbrogade 750C, 2100 Randers
+Registreringsnummer: 0023
+Bank: Handelsbanken
+Bankadresse: NÃ¸rreport 513A, 5000 Aarhus
+Telefon: +45 17912703
+E-mail: kontakt@handelsbanken.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 719-21-21857) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2024-09-07-07.59.32.000000 Udbetaling                  61746.61 000000000000000000 DKK  Tankstation
+2022-07-12-13.25.15.000000 Overførsel                 -11907.77 000000000000000000 USD  Biograf
+2022-11-29-23.37.12.000000 Udbetaling                  22136.02 000000000000000000 EUR  Supermarked
+Kunde: Jens Larsen
+Adresse: Hovedgaden 627A, 8000 Helsingør
+2024-07-21-21.00.03.000000 Overførsel                 -79766.01 000000000000000000 DKK  Apotek
+Kunde: Søren Pedersen
+Adresse: Strandvejen 630B, 3000 Roskilde
+2021-02-21-11.47.47.000000 Indbetaling                 70961.76 000000000000000000 USD  Café
+2020-08-10-22.58.57.000000 Overførsel                   8525.31 000000000000000000 DKK  Møbelbutik
+2023-07-25-19.57.59.000000 Overførsel                  53750.59 000000000000000000 DKK  Bageri
+2021-06-17-06.16.24.000000 Udbetaling                  -2059.91 000000000000000000 EUR  Elektronikbutik
+Kunde: Hanne Nielsen
+Adresse: Søndergade 682C, 3000 Næstved
+Registreringsnummer: 0011
+Bank: Nordea
+Bankadresse: Vesterbrogade 348B, 8900 NÃ¦stved
+Telefon: +45 86672865
+E-mail: kontakt@nordea.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 271-67-33452) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2022-02-12-11.30.05.000000 Indbetaling                 84411.85 000000000000000000 DKK  Restaurant
+2024-11-03-13.41.52.000000 Overførsel                  -2672.73 000000000000000000 USD  Restaurant
+2020-08-28-21.34.51.000000 Udbetaling                 -93185.64 000000000000000000 USD  Apotek
+Kunde: Peter Jensen
+Adresse: Østerbrogade 777B, 5000 Roskilde
+Kunde: Niels Andersen
+Adresse: Nørreport 761C, 3000 Helsingør
+Registreringsnummer: 0020
+Bank: Nordea
+Bankadresse: Strandvejen 989B, 9000 Aarhus
+Telefon: +45 72157898
+E-mail: kontakt@nordea.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 142-32-38854) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2020-08-09-13.10.12.000000 Indbetaling                 31016.59 000000000000000000 DKK  Møbelbutik
+2021-04-14-20.44.23.000000 Overførsel                 -45753.56 000000000000000000 EUR  Elektronikbutik
+2025-11-15-09.19.33.000000 Indbetaling                -86160.00 000000000000000000 EUR  Tøjbutik
+2025-11-17-13.07.45.000000 Overførsel                   -600.49 000000000000000000 DKK  Tøjbutik
+2024-07-11-09.44.22.000000 Indbetaling                 63991.59 000000000000000000 USD  Café
+2024-01-15-18.39.51.000000 Overførsel                 -27978.16 000000000000000000 USD  Restaurant
+2025-05-31-20.06.51.000000 Udbetaling                  79146.58 000000000000000000 DKK  Blomsterhandler
+2024-06-30-07.03.33.000000 Indbetaling                -86739.58 000000000000000000 DKK  Restaurant
+Kunde: Hanne Christensen
+Adresse: Østerbrogade 315A, 4700 Roskilde
+2022-07-11-21.56.58.000000 Overførsel                 -66567.82 000000000000000000 USD  Tøjbutik
+Kunde: Mette Jensen
+Adresse: Søndergade 752B, 4000 Helsingør
+Registreringsnummer: 0056
+Bank: Nordea
+Bankadresse: Vesterbrogade 469C, 6700 Esbjerg
+Telefon: +45 10981116
+E-mail: kontakt@nordea.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 383-15-29528) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2024-05-14-12.24.53.000000 Indbetaling                -97106.00 000000000000000000 EUR  Blomsterhandler
+2023-08-09-17.17.12.000000 Udbetaling                  35171.27 000000000000000000 USD  Tankstation
+Kunde: Peter Pedersen
+Adresse: Nørreport 300A, 9000 Aalborg
+2020-04-08-15.56.06.000000 Indbetaling                -48137.06 000000000000000000 EUR  Biograf
+2021-01-24-03.19.27.000000 Udbetaling                 -21239.21 000000000000000000 DKK  Elektronikbutik
+2024-08-20-03.02.01.000000 Indbetaling                -62846.92 000000000000000000 EUR  Møbelbutik
+2024-06-27-19.56.30.000000 Udbetaling                  99089.77 000000000000000000 USD  Supermarked
+2022-07-23-09.40.16.000000 Udbetaling                  84466.63 000000000000000000 DKK  Apotek
+2021-09-25-05.57.30.000000 Indbetaling                -45930.05 000000000000000000 USD  Fitnesscenter
+2023-04-21-09.55.54.000000 Udbetaling                  -2334.35 000000000000000000 USD  Supermarked
+2023-04-09-07.25.07.000000 Overførsel                 -24153.25 000000000000000000 USD  Tankstation
+Kunde: Lars Mortensen
+Adresse: Østerbrogade 433C, 2100 Randers
+2025-12-16-14.23.49.000000 Udbetaling                 -82315.49 000000000000000000 EUR  Tankstation
+2023-05-29-05.08.37.000000 Udbetaling                 -26545.47 000000000000000000 USD  Bageri
+Kunde: Niels Mortensen
+Adresse: Vesterbrogade 186A, 6700 Næstved
+Registreringsnummer: 0020
+Bank: Nordea
+Bankadresse: Strandvejen 989B, 9000 Aarhus
+Telefon: +45 72157898
+E-mail: kontakt@nordea.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 104-28-66889) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2020-08-27-22.32.51.000000 Indbetaling                 94488.73 000000000000000000 DKK  Restaurant
+2022-08-07-09.42.52.000000 Overførsel                 -21918.61 000000000000000000 USD  Restaurant
+2023-12-09-06.04.21.000000 Indbetaling                -61253.22 000000000000000000 DKK  Fitnesscenter
+2021-03-30-09.39.55.000000 Overførsel                  67879.40 000000000000000000 EUR  Elektronikbutik
+2025-02-06-17.48.06.000000 Overførsel                   2589.97 000000000000000000 EUR  Biograf
+Kunde: Lars Nielsen
+Adresse: Søndergade 354B, 2100 Aarhus
+Kunde: Søren Pedersen
+Adresse: Nørreport 63C, 4000 Aarhus
+Registreringsnummer: 0002
+Bank: Nordea
+Bankadresse: Strandvejen 420C, 4000 Esbjerg
+Telefon: +45 67175432
+E-mail: kontakt@nordea.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 858-51-98287) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2024-04-16-16.39.46.000000 Indbetaling                 35275.39 000000000000000000 DKK  Restaurant
+2025-08-08-07.22.48.000000 Udbetaling                 -66009.88 000000000000000000 EUR  Fitnesscenter
+2024-01-24-08.08.56.000000 Udbetaling                  30531.79 000000000000000000 EUR  Boghandel
+2021-05-21-18.54.18.000000 Udbetaling                  -4840.17 000000000000000000 DKK  Møbelbutik
+Kunde: Hanne Pedersen
+Adresse: Amagerbrogade 695, 7100 Esbjerg
+Registreringsnummer: 0003
+Bank: Jyske Bank
+Bankadresse: SÃ¸ndergade 679A, 4700 KÃ¸benhavn
+Telefon: +45 88266696
+E-mail: kontakt@jyskebank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 676-40-51277) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2025-07-28-17.38.12.000000 Overførsel                 -57446.47 000000000000000000 USD  Biograf
+2021-07-30-03.40.07.000000 Udbetaling                 -82407.59 000000000000000000 DKK  Boghandel
+2022-09-23-10.35.14.000000 Overførsel                 -23233.91 000000000000000000 EUR  Elektronikbutik
+2020-12-12-17.45.51.000000 Indbetaling                 23636.27 000000000000000000 DKK  Elektronikbutik
+2023-01-14-00.46.35.000000 Udbetaling                  38935.94 000000000000000000 EUR  Bageri
+2024-03-27-11.27.43.000000 Udbetaling                  96736.05 000000000000000000 EUR  Supermarked
+2021-12-09-17.09.39.000000 Udbetaling                 -16634.00 000000000000000000 DKK  Bageri
+2024-05-10-04.08.38.000000 Overførsel                 -67829.21 000000000000000000 DKK  Møbelbutik
+2025-09-14-00.36.19.000000 Overførsel                  79925.78 000000000000000000 EUR  Tøjbutik
+Kunde: Peter Mortensen
+Adresse: Hovedgaden 237B, 7100 Helsingør
+Registreringsnummer: 0049
+Bank: Danske Bank
+Bankadresse: Strandvejen 571, 4700 NÃ¦stved
+Telefon: +45 61462900
+E-mail: kontakt@danskebank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 277-29-20981) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2021-03-28-14.17.50.000000 Overførsel                  81808.62 000000000000000000 EUR  Blomsterhandler
+2023-04-08-10.34.45.000000 Udbetaling                 -29018.73 000000000000000000 EUR  Fitnesscenter
+Kunde: Hanne Larsen
+Adresse: Frederiks Allé 100C, 8900 Odense
+2022-07-09-11.10.02.000000 Udbetaling                  90155.31 000000000000000000 DKK  Boghandel
+2024-04-28-15.20.18.000000 Indbetaling                -85206.61 000000000000000000 USD  Supermarked
+2020-10-03-16.23.45.000000 Indbetaling                 39861.51 000000000000000000 DKK  Blomsterhandler
+2020-10-21-00.19.20.000000 Udbetaling                  73093.00 000000000000000000 USD  Elektronikbutik
+Kunde: Anne Hansen
+Adresse: Hovedgaden 479A, 4000 København
+Registreringsnummer: 0025
+Bank: Sydbank
+Bankadresse: SÃ¸ndergade 996C, 5000 HelsingÃ¸r
+Telefon: +45 74678853
+E-mail: kontakt@sydbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 944-63-39411) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2024-02-08-12.08.58.000000 Overførsel                 -99451.23 000000000000000000 EUR  Boghandel
+2024-08-07-17.37.43.000000 Indbetaling                 74585.26 000000000000000000 EUR  Bageri
+2025-11-11-19.24.33.000000 Udbetaling                 -96208.69 000000000000000000 DKK  Elektronikbutik
+Kunde: Lars Jensen
+Adresse: Hovedgaden 250B, 6700 Helsingør
+Registreringsnummer: 0014
+Bank: Jyske Bank
+Bankadresse: NÃ¸rreport 73C, 5000 KÃ¸benhavn
+Telefon: +45 54340131
+E-mail: kontakt@jyskebank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 936-23-32327) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2021-12-01-15.08.50.000000 Indbetaling                -53804.75 000000000000000000 USD  Tankstation
+2021-06-14-11.51.12.000000 Indbetaling                -17731.75 000000000000000000 EUR  Supermarked
+2023-08-17-12.16.24.000000 Udbetaling                  38298.51 000000000000000000 USD  Møbelbutik
+2023-02-11-13.35.46.000000 Indbetaling                 92213.18 000000000000000000 USD  Biograf
+Kunde: Mette Nielsen
+Adresse: Amagerbrogade 240, 8000 Vejle
+2024-06-19-11.06.40.000000 Udbetaling                  59656.62 000000000000000000 DKK  Tankstation
+2025-10-15-17.27.24.000000 Indbetaling                -71940.57 000000000000000000 EUR  Blomsterhandler
+2023-05-27-23.42.32.000000 Overførsel                 -90310.53 000000000000000000 USD  Biograf
+2022-01-11-12.30.30.000000 Overførsel                  -4410.43 000000000000000000 USD  Tøjbutik
+2021-11-12-07.51.53.000000 Indbetaling                -82328.94 000000000000000000 EUR  Elektronikbutik
+2021-09-25-20.37.57.000000 Overførsel                  85641.47 000000000000000000 USD  Bageri
+2021-01-22-14.41.06.000000 Indbetaling                 90394.20 000000000000000000 DKK  Fitnesscenter
+2024-05-24-12.07.03.000000 Indbetaling                -93710.09 000000000000000000 DKK  Restaurant
+Kunde: Mette Pedersen
+Adresse: Østerbrogade 523B, 8000 Esbjerg
+2021-11-01-06.11.11.000000 Udbetaling                  71896.18 000000000000000000 EUR  Restaurant
+2021-11-22-07.52.39.000000 Overførsel                  71281.93 000000000000000000 USD  Bageri
+2022-06-16-09.42.47.000000 Overførsel                  57909.84 000000000000000000 EUR  Café
+Kunde: Søren Olsen
+Adresse: Amagerbrogade 70, 9000 Aarhus
+2024-04-21-09.07.11.000000 Overførsel                 -26291.49 000000000000000000 DKK  Biograf
+2020-07-24-00.37.17.000000 Udbetaling                  67682.02 000000000000000000 EUR  Biograf
+2020-12-26-22.18.14.000000 Udbetaling                  20748.83 000000000000000000 USD  Restaurant
+2023-04-19-21.07.36.000000 Overførsel                 -11822.78 000000000000000000 DKK  Tankstation
+2022-12-29-00.04.23.000000 Udbetaling                  78102.53 000000000000000000 USD  Møbelbutik
+2021-09-09-00.47.14.000000 Indbetaling                 -4202.58 000000000000000000 USD  Café
+Kunde: Jens Larsen
+Adresse: Vesterbrogade 709A, 8900 Randers
+2021-04-13-13.00.24.000000 Overførsel                  -8493.63 000000000000000000 USD  Restaurant
+2021-06-26-15.32.33.000000 Indbetaling                 68608.22 000000000000000000 EUR  Supermarked
+2021-04-11-10.51.40.000000 Overførsel                 -69697.05 000000000000000000 EUR  Supermarked
+2020-11-09-20.47.33.000000 Udbetaling                 -19327.65 000000000000000000 USD  Elektronikbutik
+2023-07-13-01.21.52.000000 Indbetaling                 26333.96 000000000000000000 DKK  Blomsterhandler
+2022-01-11-11.03.24.000000 Overførsel                  51143.38 000000000000000000 EUR  Fitnesscenter
+Kunde: Lars Nielsen
+Adresse: Søndergade 564, 8000 Aarhus
+2022-09-02-10.17.41.000000 Indbetaling                 24635.05 000000000000000000 EUR  Boghandel
+2021-11-08-09.30.35.000000 Overførsel                  99918.68 000000000000000000 EUR  Blomsterhandler
+2020-11-10-08.42.54.000000 Indbetaling                -35411.52 000000000000000000 EUR  Blomsterhandler
+2021-08-21-01.17.08.000000 Udbetaling                 -13710.30 000000000000000000 EUR  Tankstation
+2020-09-29-10.52.42.000000 Overførsel                 -70686.01 000000000000000000 DKK  Apotek
+Kunde: Søren Nielsen
+Adresse: Strandvejen 416A, 5000 Aarhus
+2021-05-07-20.36.44.000000 Udbetaling                  49264.59 000000000000000000 DKK  Restaurant
+2020-03-07-13.06.13.000000 Indbetaling                 91963.72 000000000000000000 EUR  Elektronikbutik
+2021-08-18-04.42.04.000000 Udbetaling                 -52841.03 000000000000000000 USD  Café
+2021-08-26-19.25.32.000000 Overførsel                  24396.17 000000000000000000 EUR  Elektronikbutik
+2024-10-09-02.45.02.000000 Udbetaling                  22464.71 000000000000000000 DKK  Fitnesscenter
+2020-06-01-01.36.33.000000 Udbetaling                  38477.45 000000000000000000 DKK  Apotek
+2023-09-02-13.06.37.000000 Overførsel                 -75741.61 000000000000000000 EUR  Blomsterhandler
+2024-06-14-21.53.26.000000 Udbetaling                 -16286.19 000000000000000000 EUR  Boghandel
+Kunde: Søren Nielsen
+Adresse: Amagerbrogade 305C, 8900 Aalborg
+2021-04-10-04.38.03.000000 Udbetaling                  21209.77 000000000000000000 DKK  Elektronikbutik
+Kunde: Mette Larsen
+Adresse: Amagerbrogade 393C, 4000 Roskilde
+Registreringsnummer: 0013
+Bank: Sydbank
+Bankadresse: Vesterbrogade 865C, 4000 Aalborg
+Telefon: +45 17788143
+E-mail: kontakt@sydbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 590-66-97517) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2022-09-08-00.46.49.000000 Indbetaling                 35864.26 000000000000000000 DKK  Biograf
+2024-01-09-21.53.06.000000 Overførsel                 -25813.72 000000000000000000 EUR  Blomsterhandler
+2022-07-22-10.23.58.000000 Udbetaling                   7051.80 000000000000000000 DKK  Restaurant
+2025-09-25-12.54.00.000000 Udbetaling                  35134.06 000000000000000000 EUR  Blomsterhandler
+2025-02-05-09.24.53.000000 Overførsel                  83390.93 000000000000000000 DKK  Supermarked
+2020-04-14-19.57.16.000000 Indbetaling                 21472.85 000000000000000000 USD  Boghandel
+2021-07-27-18.04.13.000000 Udbetaling                  82057.80 000000000000000000 USD  Café
+2020-09-02-12.14.36.000000 Udbetaling                 -84609.68 000000000000000000 DKK  Supermarked
+2024-04-16-22.31.52.000000 Indbetaling                -57495.13 000000000000000000 USD  Supermarked
+Kunde: Lars Christensen
+Adresse: Vesterbrogade 322C, 7100 København
+Kunde: Jens Hansen
+Adresse: Strandvejen 821B, 4000 Aarhus
+Registreringsnummer: 0030
+Bank: Nordea
+Bankadresse: SÃ¸ndergade 298C, 6700 Aalborg
+Telefon: +45 10039140
+E-mail: kontakt@nordea.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 478-53-15958) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2023-12-16-11.06.12.000000 Overførsel                 -24430.19 000000000000000000 DKK  Restaurant
+2020-10-27-23.30.38.000000 Udbetaling                 -13957.26 000000000000000000 USD  Tankstation
+2022-04-13-01.45.14.000000 Overførsel                  79566.02 000000000000000000 DKK  Supermarked
+2025-05-21-21.53.37.000000 Udbetaling                 -58944.53 000000000000000000 USD  Blomsterhandler
+2021-08-20-04.31.29.000000 Udbetaling                  11752.77 000000000000000000 EUR  Fitnesscenter
+2021-11-09-09.56.02.000000 Udbetaling                  51727.44 000000000000000000 DKK  Blomsterhandler
+2025-06-20-22.49.11.000000 Overførsel                 -84727.73 000000000000000000 EUR  Møbelbutik
+Kunde: Marie Pedersen
+Adresse: Nørreport 887B, 5000 København
+Registreringsnummer: 0039
+Bank: Handelsbanken
+Bankadresse: Ã˜sterbrogade 714B, 7100 Odense
+Telefon: +45 40206422
+E-mail: kontakt@handelsbanken.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 112-24-25121) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2022-01-03-14.59.15.000000 Overførsel                   3280.32 000000000000000000 EUR  Fitnesscenter
+2023-08-31-16.21.36.000000 Indbetaling                -26551.52 000000000000000000 USD  Café
+Kunde: Niels Pedersen
+Adresse: Vesterbrogade 629, 4000 København
+Registreringsnummer: 0046
+Bank: Spar Nord Bank
+Bankadresse: NÃ¸rreport 658C, 5000 Randers
+Telefon: +45 44268965
+E-mail: kontakt@sparnordbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 304-12-12873) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2024-09-16-06.36.57.000000 Indbetaling                -89180.76 000000000000000000 EUR  Apotek
+2023-03-04-13.16.18.000000 Udbetaling                 -20751.86 000000000000000000 DKK  Restaurant
+2020-03-07-01.03.29.000000 Indbetaling                 50392.84 000000000000000000 DKK  Elektronikbutik
+2023-10-16-17.11.18.000000 Overførsel                  51918.23 000000000000000000 EUR  Tøjbutik
+Kunde: Niels Larsen
+Adresse: Vesterbrogade 361B, 5000 Aalborg
+2021-03-16-11.20.23.000000 Udbetaling                  40002.73 000000000000000000 DKK  Restaurant
+2020-11-10-02.54.06.000000 Udbetaling                 -52657.17 000000000000000000 USD  Apotek
+2021-02-25-21.44.16.000000 Udbetaling                 -42985.73 000000000000000000 DKK  Fitnesscenter
+2024-08-24-11.45.02.000000 Overførsel                  31152.17 000000000000000000 EUR  Elektronikbutik
+Kunde: Niels Larsen
+Adresse: Søndergade 520, 6700 Vejle
+Registreringsnummer: 0041
+Bank: Nykredit Bank
+Bankadresse: Ã˜sterbrogade 42, 7100 KÃ¸benhavn
+Telefon: +45 95323274
+E-mail: kontakt@nykreditbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 688-51-68657) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2020-11-07-06.27.34.000000 Udbetaling                 -63760.62 000000000000000000 USD  Blomsterhandler
+2022-04-19-21.07.13.000000 Indbetaling                 49609.59 000000000000000000 EUR  Restaurant
+2025-12-29-02.53.43.000000 Overførsel                 -22697.93 000000000000000000 USD  Tankstation
+2022-12-05-18.35.54.000000 Udbetaling                   4177.66 000000000000000000 EUR  Apotek
+2022-08-02-11.20.20.000000 Overførsel                  33077.20 000000000000000000 EUR  Biograf
+2021-05-19-17.47.53.000000 Overførsel                  35156.40 000000000000000000 USD  Fitnesscenter
+2024-12-26-20.17.47.000000 Indbetaling                -65773.36 000000000000000000 EUR  Bageri
+Kunde: Peter Christensen
+Adresse: Søndergade 737B, 8900 Aalborg
+Registreringsnummer: 0039
+Bank: Handelsbanken
+Bankadresse: Ã˜sterbrogade 714B, 7100 Odense
+Telefon: +45 40206422
+E-mail: kontakt@handelsbanken.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 466-52-36549) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2025-10-13-20.02.52.000000 Overførsel                 -73414.45 000000000000000000 DKK  Bageri
+2023-08-02-21.56.43.000000 Overførsel                  74038.94 000000000000000000 USD  Boghandel
+2024-08-17-23.57.49.000000 Udbetaling                   1472.40 000000000000000000 DKK  Møbelbutik
+2023-04-11-13.13.29.000000 Indbetaling                -62570.14 000000000000000000 EUR  Elektronikbutik
+2021-12-11-06.20.51.000000 Udbetaling                  42038.89 000000000000000000 EUR  Bageri
+2021-10-24-10.04.44.000000 Overførsel                  26541.26 000000000000000000 EUR  Fitnesscenter
+2021-11-02-02.23.16.000000 Indbetaling                -98988.92 000000000000000000 USD  Restaurant
+2020-10-18-21.02.43.000000 Indbetaling                    -2.62 000000000000000000 EUR  Biograf
+Kunde: Søren Nielsen
+Adresse: Vesterbrogade 943B, 6700 Aarhus
+2020-06-02-19.33.40.000000 Overførsel                  10483.26 000000000000000000 EUR  Restaurant
+2021-08-03-17.16.10.000000 Indbetaling                 84888.07 000000000000000000 USD  Restaurant
+2025-08-05-15.33.51.000000 Udbetaling                  31432.30 000000000000000000 DKK  Fitnesscenter
+2020-08-27-01.52.56.000000 Udbetaling                 -40971.08 000000000000000000 USD  Boghandel
+2021-10-27-02.45.44.000000 Indbetaling                 61710.76 000000000000000000 EUR  Møbelbutik
+2022-08-17-22.08.11.000000 Overførsel                 -71537.77 000000000000000000 EUR  Møbelbutik
+Kunde: Mette Larsen
+Adresse: Frederiks Allé 93A, 4000 Helsingør
+2020-11-14-16.25.36.000000 Indbetaling                 79898.43 000000000000000000 USD  Bageri
+2020-01-30-06.40.28.000000 Indbetaling                -94198.76 000000000000000000 EUR  Restaurant
+2022-05-25-17.14.49.000000 Udbetaling                 -31651.87 000000000000000000 DKK  Boghandel
+2021-02-13-19.56.03.000000 Udbetaling                    463.35 000000000000000000 USD  Supermarked
+Kunde: Anne Mortensen
+Adresse: Nørreport 432B, 3000 Vejle
+2023-11-12-15.35.06.000000 Overførsel                   2561.76 000000000000000000 USD  Bageri
+Kunde: Niels Christensen
+Adresse: Østerbrogade 243, 4700 Randers
+Registreringsnummer: 0032
+Bank: Arbejdernes Landsbank
+Bankadresse: Hovedgaden 555B, 8000 HelsingÃ¸r
+Telefon: +45 65852004
+E-mail: kontakt@arbejderneslandsbank.
+--- TRANSACTION RECORD (ACCOUNT ID: 703-68-73875) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2025-07-19-09.02.38.000000 Indbetaling                 82010.72 000000000000000000 DKK  Café
+Kunde: Camilla Olsen
+Adresse: Amagerbrogade 911B, 3000 Vejle
+Registreringsnummer: 0056
+Bank: Nordea
+Bankadresse: Vesterbrogade 469C, 6700 Esbjerg
+Telefon: +45 10981116
+E-mail: kontakt@nordea.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 984-94-49456) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2023-11-28-00.44.46.000000 Indbetaling                -22520.79 000000000000000000 EUR  Supermarked
+2023-09-12-20.51.03.000000 Overførsel                  61858.21 000000000000000000 DKK  Tøjbutik
+2023-07-31-09.18.31.000000 Udbetaling                 -40578.19 000000000000000000 EUR  Elektronikbutik
+2024-02-25-11.47.48.000000 Udbetaling                 -68023.62 000000000000000000 DKK  Blomsterhandler
+Kunde: Camilla Olsen
+Adresse: Østerbrogade 334A, 2100 Vejle
+Registreringsnummer: 0037
+Bank: Spar Nord Bank
+Bankadresse: Hovedgaden 956B, 9000 Roskilde
+Telefon: +45 74982096
+E-mail: kontakt@sparnordbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 493-89-89075) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2020-05-06-20.02.15.000000 Indbetaling                -17694.96 000000000000000000 DKK  Tankstation
+2025-09-27-04.20.26.000000 Overførsel                 -40101.01 000000000000000000 EUR  Blomsterhandler
+2023-06-02-11.18.40.000000 Indbetaling                 40734.97 000000000000000000 DKK  Café
+2022-02-06-08.59.13.000000 Indbetaling                -66152.51 000000000000000000 DKK  Boghandel
+2022-04-17-14.52.41.000000 Indbetaling                 23497.98 000000000000000000 USD  Elektronikbutik
+2021-04-22-22.19.19.000000 Indbetaling                 22647.53 000000000000000000 EUR  Møbelbutik
+2023-02-16-18.52.49.000000 Udbetaling                 -98109.16 000000000000000000 DKK  Café
+2021-09-05-02.03.05.000000 Udbetaling                 -30139.19 000000000000000000 EUR  Apotek
+2021-07-30-13.56.11.000000 Indbetaling                -56709.43 000000000000000000 USD  Biograf
+2022-05-08-22.50.03.000000 Overførsel                  87546.41 000000000000000000 EUR  Bageri
+Kunde: Camilla Hansen
+Adresse: Amagerbrogade 725A, 8000 Roskilde
+2024-01-20-05.14.38.000000 Indbetaling                 56239.53 000000000000000000 USD  Tøjbutik
+2022-02-02-02.44.17.000000 Overførsel                 -29118.36 000000000000000000 EUR  Møbelbutik
+2023-07-01-00.52.49.000000 Overførsel                 -78277.44 000000000000000000 DKK  Møbelbutik
+2020-08-14-08.06.25.000000 Indbetaling                -95389.84 000000000000000000 DKK  Elektronikbutik
+Kunde: Camilla Nielsen
+Adresse: Søndergade 833A, 4700 Esbjerg
+Registreringsnummer: 0051
+Bank: Jyske Bank
+Bankadresse: Hovedgaden 204, 3000 Esbjerg
+Telefon: +45 88795644
+E-mail: kontakt@jyskebank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 709-38-92900) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2020-04-14-05.13.13.000000 Udbetaling                  25214.82 000000000000000000 DKK  Apotek
+Kunde: Anne Nielsen
+Adresse: Vesterbrogade 583C, 6700 Vejle
+2024-04-24-05.47.50.000000 Overførsel                 -56785.06 000000000000000000 DKK  Biograf
+2023-02-27-01.09.40.000000 Indbetaling                 78849.33 000000000000000000 USD  Restaurant
+2025-12-09-21.23.43.000000 Indbetaling                 29797.66 000000000000000000 EUR  Elektronikbutik
+2021-06-25-18.12.03.000000 Udbetaling                 -49718.72 000000000000000000 USD  Apotek
+2020-10-20-22.31.45.000000 Overførsel                 -32007.46 000000000000000000 EUR  Café
+2021-04-08-23.03.06.000000 Udbetaling                 -75201.84 000000000000000000 EUR  Boghandel
+2024-07-04-09.26.28.000000 Indbetaling                 31999.26 000000000000000000 DKK  Elektronikbutik
+Kunde: Mette Mortensen
+Adresse: Østerbrogade 675, 7100 Helsingør
+Registreringsnummer: 0032
+Bank: Arbejdernes Landsbank
+Bankadresse: Hovedgaden 555B, 8000 HelsingÃ¸r
+Telefon: +45 65852004
+E-mail: kontakt@arbejderneslandsbank.
+--- TRANSACTION RECORD (ACCOUNT ID: 467-45-47496) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2020-05-14-05.49.34.000000 Indbetaling                -55734.72 000000000000000000 EUR  Apotek
+2025-02-11-04.01.20.000000 Overførsel                  75158.97 000000000000000000 USD  Boghandel
+2020-06-18-11.59.34.000000 Indbetaling                 73170.30 000000000000000000 EUR  Biograf
+2025-03-20-00.19.09.000000 Udbetaling                 -41539.34 000000000000000000 DKK  Biograf
+2024-10-05-07.07.47.000000 Overførsel                 -82343.25 000000000000000000 EUR  Boghandel
+2022-04-03-06.47.07.000000 Overførsel                 -73869.71 000000000000000000 EUR  Møbelbutik
+2020-08-01-01.12.49.000000 Udbetaling                 -73175.96 000000000000000000 USD  Café
+2020-08-02-00.06.24.000000 Indbetaling                -61891.83 000000000000000000 USD  Tankstation
+2021-12-20-05.04.21.000000 Overførsel                 -17236.71 000000000000000000 USD  Møbelbutik
+Kunde: Peter Jensen
+Adresse: Vesterbrogade 317C, 4700 Roskilde
+Registreringsnummer: 0052
+Bank: Jyske Bank
+Bankadresse: Vesterbrogade 834A, 7100 NÃ¦stved
+Telefon: +45 56689529
+E-mail: kontakt@jyskebank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 556-21-27661) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2020-02-23-10.48.33.000000 Udbetaling                 -91478.19 000000000000000000 DKK  Blomsterhandler
+2024-01-15-18.44.47.000000 Udbetaling                  40745.72 000000000000000000 EUR  Biograf
+Kunde: Søren Larsen
+Adresse: Amagerbrogade 751, 4000 København
+Registreringsnummer: 0056
+Bank: Nordea
+Bankadresse: Vesterbrogade 469C, 6700 Esbjerg
+Telefon: +45 10981116
+E-mail: kontakt@nordea.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 503-14-94573) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2025-10-31-21.50.29.000000 Overførsel                 -31521.44 000000000000000000 EUR  Elektronikbutik
+2023-08-24-07.24.01.000000 Udbetaling                 -93236.53 000000000000000000 DKK  Boghandel
+2025-02-03-08.10.36.000000 Overførsel                 -80141.10 000000000000000000 EUR  Restaurant
+2020-05-21-04.23.36.000000 Udbetaling                 -21324.41 000000000000000000 DKK  Restaurant
+2024-05-13-22.53.05.000000 Indbetaling                -62319.96 000000000000000000 DKK  Restaurant
+2021-05-01-18.41.18.000000 Indbetaling                 24448.05 000000000000000000 USD  Café
+Kunde: Mette Christensen
+Adresse: Nørreport 649C, 2100 Roskilde
+Registreringsnummer: 0011
+Bank: Nordea
+Bankadresse: Vesterbrogade 348B, 8900 NÃ¦stved
+Telefon: +45 86672865
+E-mail: kontakt@nordea.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 692-50-18898) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2024-04-05-07.19.53.000000 Udbetaling                  43766.24 000000000000000000 USD  Apotek
+2022-11-21-12.59.21.000000 Indbetaling                 65895.64 000000000000000000 USD  Apotek
+2023-05-02-17.14.30.000000 Indbetaling                 41319.09 000000000000000000 DKK  Møbelbutik
+Kunde: Mette Nielsen
+Adresse: Strandvejen 560A, 9000 Esbjerg
+Kunde: Hanne Thomsen
+Adresse: Amagerbrogade 451, 7100 Roskilde
+2024-03-10-16.54.05.000000 Indbetaling                 67770.80 000000000000000000 USD  Supermarked
+2022-09-06-23.57.44.000000 Udbetaling                 -37098.39 000000000000000000 EUR  Bageri
+Kunde: Mette Mortensen
+Adresse: Strandvejen 805, 2100 Aarhus
+Registreringsnummer: 0053
+Bank: Danske Bank
+Bankadresse: Frederiks AllÃ© 11, 4700 NÃ¦stved
+Telefon: +45 19198363
+E-mail: kontakt@danskebank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 455-51-23027) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2020-03-15-13.24.31.000000 Udbetaling                 -64972.04 000000000000000000 EUR  Café
+2022-03-05-09.54.53.000000 Indbetaling                -71018.49 000000000000000000 USD  Fitnesscenter
+2025-01-29-03.20.46.000000 Overførsel                  87392.91 000000000000000000 DKK  Biograf
+2020-03-08-21.18.46.000000 Indbetaling                -57443.72 000000000000000000 EUR  Møbelbutik
+2024-01-26-23.59.14.000000 Overførsel                   -556.70 000000000000000000 EUR  Tøjbutik
+Kunde: Niels Olsen
+Adresse: Frederiks Allé 285C, 8900 Odense
+2024-07-16-21.57.06.000000 Indbetaling                 55715.65 000000000000000000 DKK  Boghandel
+2024-07-05-06.09.08.000000 Indbetaling                -57835.78 000000000000000000 EUR  Supermarked
+2024-12-16-01.24.10.000000 Udbetaling                  50717.01 000000000000000000 DKK  Café
+Kunde: Søren Mortensen
+Adresse: Søndergade 690A, 5000 Næstved
+Registreringsnummer: 0001
+Bank: Handelsbanken
+Bankadresse: Amagerbrogade 183A, 7100 Vejle
+Telefon: +45 20325755
+E-mail: kontakt@handelsbanken.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 502-28-11515) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2020-11-26-07.34.49.000000 Udbetaling                 -57115.13 000000000000000000 DKK  Biograf
+2024-01-29-02.08.20.000000 Overførsel                 -77509.71 000000000000000000 DKK  Supermarked
+2024-06-13-10.32.56.000000 Overførsel                  83547.36 000000000000000000 DKK  Blomsterhandler
+2025-05-09-18.03.38.000000 Overførsel                  27328.06 000000000000000000 USD  Boghandel
+Kunde: Hanne Pedersen
+Adresse: Vesterbrogade 269A, 7100 Roskilde
+2024-01-04-17.40.12.000000 Udbetaling                  55392.99 000000000000000000 DKK  Tøjbutik
+2022-07-13-19.39.00.000000 Udbetaling                  65407.47 000000000000000000 EUR  Supermarked
+2023-11-24-13.34.34.000000 Indbetaling                -14867.34 000000000000000000 DKK  Bageri
+2021-07-13-22.24.08.000000 Indbetaling                 43290.98 000000000000000000 USD  Apotek
+2022-09-15-13.10.42.000000 Udbetaling                 -52287.75 000000000000000000 DKK  Café
+2023-04-17-20.47.53.000000 Indbetaling                -12546.52 000000000000000000 EUR  Restaurant
+2021-09-23-02.39.45.000000 Indbetaling                 25112.03 000000000000000000 DKK  Supermarked
+Kunde: Marie Andersen
+Adresse: Østerbrogade 151B, 3000 Esbjerg
+2023-03-24-18.37.01.000000 Udbetaling                 -45096.72 000000000000000000 EUR  Tankstation
+2021-08-26-21.34.28.000000 Udbetaling                  86454.68 000000000000000000 DKK  Boghandel
+2024-03-07-22.04.43.000000 Indbetaling                 -2377.25 000000000000000000 EUR  Supermarked
+2020-12-31-23.25.52.000000 Udbetaling                 -36840.37 000000000000000000 EUR  Elektronikbutik
+2020-04-22-19.31.34.000000 Udbetaling                  66064.95 000000000000000000 EUR  Biograf
+2020-11-13-19.14.45.000000 Indbetaling                 35425.59 000000000000000000 DKK  Møbelbutik
+2022-11-11-03.06.55.000000 Indbetaling                -88863.44 000000000000000000 USD  Café
+2021-07-08-03.54.21.000000 Indbetaling                -10508.66 000000000000000000 DKK  Biograf
+2025-10-25-04.23.32.000000 Indbetaling                 -1763.40 000000000000000000 EUR  Supermarked
+Kunde: Marie Larsen
+Adresse: Vesterbrogade 179A, 8000 Randers
+2025-09-16-17.34.12.000000 Udbetaling                  82198.37 000000000000000000 EUR  Café
+Kunde: Camilla Olsen
+Adresse: Vesterbrogade 290C, 2100 Helsingør
+Registreringsnummer: 0012
+Bank: Spar Nord Bank
+Bankadresse: Frederiks AllÃ© 59B, 8900 Aarhus
+Telefon: +45 93611550
+E-mail: kontakt@sparnordbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 583-11-62194) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2022-12-22-03.17.06.000000 Udbetaling                 -72483.53 000000000000000000 USD  Tøjbutik
+2023-07-14-06.59.31.000000 Indbetaling                -49884.45 000000000000000000 DKK  Supermarked
+2020-05-26-08.40.54.000000 Indbetaling                 87417.68 000000000000000000 DKK  Møbelbutik
+2023-05-21-09.17.47.000000 Udbetaling                  64947.70 000000000000000000 DKK  Bageri
+2021-10-20-16.23.06.000000 Indbetaling                -29113.39 000000000000000000 DKK  Restaurant
+2022-07-05-19.13.02.000000 Overførsel                    251.35 000000000000000000 DKK  Bageri
+2023-02-21-23.24.52.000000 Overførsel                  -1873.00 000000000000000000 DKK  Elektronikbutik
+2020-06-26-10.56.51.000000 Indbetaling                -24915.25 000000000000000000 EUR  Tankstation
+2023-07-29-10.47.17.000000 Indbetaling                 12785.34 000000000000000000 EUR  Biograf
+2022-01-16-17.27.41.000000 Overførsel                 -34516.35 000000000000000000 EUR  Møbelbutik
+Kunde: Anne Mortensen
+Adresse: Østerbrogade 673C, 4000 Vejle
+Registreringsnummer: 0049
+Bank: Danske Bank
+Bankadresse: Strandvejen 571, 4700 NÃ¦stved
+Telefon: +45 61462900
+E-mail: kontakt@danskebank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 449-78-50852) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2021-08-11-19.34.35.000000 Indbetaling                 91491.47 000000000000000000 USD  Biograf
+Kunde: Jens Nielsen
+Adresse: Strandvejen 941C, 9000 København
+Registreringsnummer: 0015
+Bank: Nykredit Bank
+Bankadresse: Frederiks AllÃ© 216B, 3000 Roskilde
+Telefon: +45 87651448
+E-mail: kontakt@nykreditbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 818-26-72692) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2021-08-08-01.56.48.000000 Indbetaling                -45761.96 000000000000000000 DKK  Boghandel
+2023-05-06-21.24.38.000000 Overførsel                  21965.26 000000000000000000 EUR  Fitnesscenter
+2024-08-26-17.59.27.000000 Overførsel                  77084.47 000000000000000000 EUR  Biograf
+2022-01-12-10.58.19.000000 Overførsel                 -44513.89 000000000000000000 USD  Tøjbutik
+2024-04-28-20.23.26.000000 Indbetaling                -63862.78 000000000000000000 EUR  Supermarked
+2021-03-18-21.09.27.000000 Indbetaling                -19454.50 000000000000000000 EUR  Supermarked
+2022-09-07-23.16.08.000000 Udbetaling                  62672.00 000000000000000000 USD  Blomsterhandler
+2023-10-15-12.17.46.000000 Overførsel                  91277.40 000000000000000000 EUR  Restaurant
+Kunde: Hanne Larsen
+Adresse: Vesterbrogade 968A, 9000 Aarhus
+2025-05-13-12.39.13.000000 Udbetaling                  81817.42 000000000000000000 USD  Tankstation
+2023-07-18-03.44.24.000000 Indbetaling                 48605.11 000000000000000000 DKK  Boghandel
+2023-03-24-20.09.25.000000 Udbetaling                  21342.31 000000000000000000 EUR  Blomsterhandler
+Kunde: Anne Thomsen
+Adresse: Nørreport 566, 2100 Esbjerg
+2022-05-12-12.02.49.000000 Udbetaling                 -71938.21 000000000000000000 DKK  Elektronikbutik
+2023-11-29-08.22.55.000000 Indbetaling                 75405.63 000000000000000000 EUR  Apotek
+2024-10-02-22.34.42.000000 Udbetaling                 -10454.55 000000000000000000 USD  Blomsterhandler
+2021-04-09-09.23.28.000000 Udbetaling                 -89013.15 000000000000000000 USD  Blomsterhandler
+2024-04-01-15.19.12.000000 Indbetaling                -66101.35 000000000000000000 DKK  Elektronikbutik
+2023-11-15-12.23.13.000000 Indbetaling                 35633.12 000000000000000000 USD  Restaurant
+2020-11-16-04.19.05.000000 Overførsel                  78322.32 000000000000000000 EUR  Bageri
+Kunde: Søren Olsen
+Adresse: Nørreport 34C, 8000 Roskilde
+Registreringsnummer: 0011
+Bank: Nordea
+Bankadresse: Vesterbrogade 348B, 8900 NÃ¦stved
+Telefon: +45 86672865
+E-mail: kontakt@nordea.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 333-62-94769) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2022-06-04-05.51.48.000000 Indbetaling                -99953.19 000000000000000000 EUR  Apotek
+2023-07-30-14.36.09.000000 Overførsel                 -61151.34 000000000000000000 DKK  Tøjbutik
+2020-08-14-21.19.39.000000 Overførsel                 -58985.89 000000000000000000 DKK  Tøjbutik
+Kunde: Hanne Jensen
+Adresse: Hovedgaden 117A, 8900 Aalborg
+Registreringsnummer: 0035
+Bank: Spar Nord Bank
+Bankadresse: Vesterbrogade 539A, 6700 NÃ¦stved
+Telefon: +45 55731412
+E-mail: kontakt@sparnordbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 380-50-26465) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2022-06-26-07.51.21.000000 Overførsel                  92666.29 000000000000000000 EUR  Tankstation
+2020-05-02-20.32.09.000000 Overførsel                 -20936.81 000000000000000000 DKK  Elektronikbutik
+2022-08-17-08.47.17.000000 Udbetaling                  20277.58 000000000000000000 EUR  Boghandel
+2020-09-15-09.05.37.000000 Overførsel                  97807.40 000000000000000000 USD  Café
+2024-01-29-04.19.03.000000 Udbetaling                 -50928.06 000000000000000000 DKK  Tankstation
+2025-06-08-00.16.36.000000 Indbetaling                -86697.65 000000000000000000 DKK  Møbelbutik
+2025-03-01-14.15.16.000000 Udbetaling                 -33071.42 000000000000000000 USD  Elektronikbutik
+Kunde: Jens Nielsen
+Adresse: Vesterbrogade 647B, 4700 Esbjerg
+Registreringsnummer: 0049
+Bank: Danske Bank
+Bankadresse: Strandvejen 571, 4700 NÃ¦stved
+Telefon: +45 61462900
+E-mail: kontakt@danskebank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 953-27-84442) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2024-07-28-02.20.25.000000 Overførsel                 -10428.23 000000000000000000 EUR  Supermarked
+2020-04-20-11.47.33.000000 Indbetaling                -73529.91 000000000000000000 EUR  Elektronikbutik
+2020-03-04-17.57.01.000000 Overførsel                  89690.28 000000000000000000 USD  Bageri
+2024-07-03-12.50.29.000000 Indbetaling                -41260.17 000000000000000000 USD  Blomsterhandler
+2022-03-19-10.45.10.000000 Indbetaling                 13292.17 000000000000000000 EUR  Supermarked
+2020-01-18-06.31.39.000000 Indbetaling                 25888.50 000000000000000000 USD  Elektronikbutik
+2022-06-02-13.01.46.000000 Indbetaling                 86567.86 000000000000000000 EUR  Apotek
+2022-08-03-06.56.43.000000 Overførsel                  22973.03 000000000000000000 DKK  Møbelbutik
+Kunde: Niels Larsen
+Adresse: Amagerbrogade 17C, 4700 Randers
+2022-07-15-10.04.35.000000 Udbetaling                 -27704.24 000000000000000000 USD  Restaurant
+2024-03-13-05.23.39.000000 Overførsel                 -35022.03 000000000000000000 USD  Elektronikbutik
+2024-11-11-02.12.18.000000 Udbetaling                 -21133.40 000000000000000000 USD  Fitnesscenter
+2021-07-13-00.05.55.000000 Indbetaling                -25647.28 000000000000000000 USD  Tankstation
+2020-12-10-18.03.18.000000 Indbetaling                 51005.74 000000000000000000 USD  Restaurant
+2022-10-22-06.23.33.000000 Indbetaling                 69441.60 000000000000000000 DKK  Elektronikbutik
+Kunde: Camilla Larsen
+Adresse: Amagerbrogade 196A, 2100 Helsingør
+2020-06-30-16.12.42.000000 Overførsel                 -41971.48 000000000000000000 USD  Biograf
+2023-09-16-12.45.34.000000 Indbetaling                 78311.06 000000000000000000 EUR  Biograf
+2022-12-28-12.04.23.000000 Overførsel                  88337.60 000000000000000000 USD  Restaurant
+2020-05-05-16.32.05.000000 Indbetaling                 57031.52 000000000000000000 EUR  Elektronikbutik
+2023-04-22-19.23.54.000000 Udbetaling                 -56524.75 000000000000000000 USD  Biograf
+2020-03-12-17.20.07.000000 Indbetaling                -74978.64 000000000000000000 DKK  Møbelbutik
+Kunde: Marie Pedersen
+Adresse: Strandvejen 589A, 9000 Randers
+2023-10-19-08.53.46.000000 Indbetaling                 10143.62 000000000000000000 EUR  Tankstation
+2020-06-19-12.45.26.000000 Overførsel                 -61010.58 000000000000000000 EUR  Fitnesscenter
+2023-11-09-06.41.18.000000 Overførsel                  30341.58 000000000000000000 USD  Café
+2025-08-22-15.36.14.000000 Udbetaling                  21527.94 000000000000000000 DKK  Café
+Kunde: Mette Jensen
+Adresse: Vesterbrogade 540B, 9000 Aarhus
+2021-10-22-19.42.19.000000 Udbetaling                 -65105.86 000000000000000000 DKK  Apotek
+2022-09-20-16.11.06.000000 Udbetaling                 -70769.94 000000000000000000 DKK  Møbelbutik
+2021-06-05-03.09.02.000000 Overførsel                  78079.70 000000000000000000 EUR  Bageri
+2024-01-10-16.22.41.000000 Udbetaling                  60653.60 000000000000000000 EUR  Tøjbutik
+2020-01-12-09.32.37.000000 Overførsel                  24425.87 000000000000000000 USD  Boghandel
+2020-02-09-23.12.10.000000 Indbetaling                  7839.83 000000000000000000 EUR  Bageri
+Kunde: Peter Olsen
+Adresse: Nørreport 344B, 9000 Odense
+Registreringsnummer: 0029
+Bank: Arbejdernes Landsbank
+Bankadresse: Ã˜sterbrogade 244A, 9000 HelsingÃ¸r
+Telefon: +45 60522970
+E-mail: kontakt@arbejderneslandsbank
+--- TRANSACTION RECORD (ACCOUNT ID: 819-37-97867) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2021-09-04-02.50.36.000000 Indbetaling                  5464.60 000000000000000000 DKK  Tankstation
+2022-04-03-00.48.04.000000 Indbetaling                 73104.97 000000000000000000 DKK  Bageri
+2021-01-01-01.01.46.000000 Overførsel                 -37704.23 000000000000000000 DKK  Møbelbutik
+Kunde: Lars Mortensen
+Adresse: Amagerbrogade 668A, 7100 Næstved
+Registreringsnummer: 0038
+Bank: Sydbank
+Bankadresse: Frederiks AllÃ© 307A, 8000 NÃ¦stved
+Telefon: +45 23087712
+E-mail: kontakt@sydbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 511-23-45386) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2023-11-02-11.26.44.000000 Indbetaling                -38745.14 000000000000000000 USD  Biograf
+2021-12-04-19.14.05.000000 Indbetaling                -22797.58 000000000000000000 USD  Supermarked
+2022-08-29-00.50.32.000000 Overførsel                  55734.73 000000000000000000 DKK  Fitnesscenter
+2023-06-29-01.59.42.000000 Overførsel                  68484.19 000000000000000000 DKK  Møbelbutik
+2025-01-04-02.19.31.000000 Overførsel                   5903.16 000000000000000000 EUR  Bageri
+Kunde: Hanne Mortensen
+Adresse: Frederiks Allé 274C, 6700 Aalborg
+2024-05-08-16.09.34.000000 Indbetaling                -28862.34 000000000000000000 USD  Møbelbutik
+2025-11-06-21.12.45.000000 Udbetaling                 -89915.59 000000000000000000 EUR  Møbelbutik
+2025-05-07-20.32.26.000000 Udbetaling                  51354.59 000000000000000000 EUR  Fitnesscenter
+2023-08-01-04.19.05.000000 Indbetaling                -81334.70 000000000000000000 EUR  Fitnesscenter
+2020-07-20-04.04.33.000000 Udbetaling                 -19177.77 000000000000000000 DKK  Café
+2024-02-28-06.06.43.000000 Overførsel                 -40693.96 000000000000000000 EUR  Møbelbutik
+2025-09-16-22.14.12.000000 Indbetaling                 76994.81 000000000000000000 EUR  Tøjbutik
+2020-06-01-15.43.59.000000 Indbetaling                 17990.06 000000000000000000 USD  Blomsterhandler
+Kunde: Marie Pedersen
+Adresse: Amagerbrogade 345A, 8000 Randers
+Registreringsnummer: 0018
+Bank: Nykredit Bank
+Bankadresse: Hovedgaden 92, 2100 Aalborg
+Telefon: +45 82673252
+E-mail: kontakt@nykreditbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 383-58-14065) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2024-09-30-15.56.20.000000 Indbetaling                 17526.93 000000000000000000 EUR  Tankstation
+2021-03-28-13.53.44.000000 Udbetaling                  21776.88 000000000000000000 USD  Elektronikbutik
+2020-12-31-12.46.37.000000 Udbetaling                  14631.45 000000000000000000 DKK  Blomsterhandler
+2020-11-01-21.04.58.000000 Udbetaling                 -26076.59 000000000000000000 DKK  Biograf
+2020-09-25-06.10.11.000000 Udbetaling                 -79336.65 000000000000000000 EUR  Café
+2023-10-30-01.11.52.000000 Udbetaling                  26624.39 000000000000000000 EUR  Bageri
+2020-10-05-11.02.21.000000 Overførsel                  65473.51 000000000000000000 EUR  Blomsterhandler
+Kunde: Mette Thomsen
+Adresse: Amagerbrogade 546B, 7100 Esbjerg
+2025-11-23-18.07.17.000000 Overførsel                  23369.90 000000000000000000 EUR  Café
+2021-06-14-02.19.44.000000 Indbetaling                -80694.05 000000000000000000 DKK  Biograf
+Kunde: Hanne Andersen
+Adresse: Vesterbrogade 972A, 8000 Aarhus
+Registreringsnummer: 0003
+Bank: Jyske Bank
+Bankadresse: SÃ¸ndergade 679A, 4700 KÃ¸benhavn
+Telefon: +45 88266696
+E-mail: kontakt@jyskebank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 114-92-87774) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2020-01-26-14.25.36.000000 Udbetaling                  75763.27 000000000000000000 DKK  Blomsterhandler
+2021-11-12-20.45.29.000000 Udbetaling                 -60088.45 000000000000000000 USD  Elektronikbutik
+2021-04-08-08.34.42.000000 Udbetaling                 -86496.69 000000000000000000 EUR  Tøjbutik
+2023-10-13-12.33.25.000000 Overførsel                  58539.50 000000000000000000 DKK  Tankstation
+2023-10-26-11.33.31.000000 Udbetaling                   8774.61 000000000000000000 USD  Café
+2022-07-06-13.46.35.000000 Udbetaling                  49397.68 000000000000000000 USD  Café
+2025-07-03-12.56.59.000000 Overførsel                  52344.89 000000000000000000 USD  Fitnesscenter
+2024-01-27-02.04.12.000000 Overførsel                  21869.72 000000000000000000 DKK  Apotek
+Kunde: Jens Pedersen
+Adresse: Strandvejen 781C, 2100 Roskilde
+Registreringsnummer: 0041
+Bank: Nykredit Bank
+Bankadresse: Ã˜sterbrogade 42, 7100 KÃ¸benhavn
+Telefon: +45 95323274
+E-mail: kontakt@nykreditbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 281-80-35690) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2022-02-27-18.33.30.000000 Indbetaling                 44491.32 000000000000000000 USD  Apotek
+2025-02-23-10.18.45.000000 Indbetaling                -64799.47 000000000000000000 EUR  Tøjbutik
+2021-04-23-11.07.55.000000 Overførsel                 -47570.63 000000000000000000 EUR  Supermarked
+2021-08-18-22.10.12.000000 Overførsel                  71665.22 000000000000000000 EUR  Supermarked
+Kunde: Niels Nielsen
+Adresse: Nørreport 825A, 4000 København
+2024-06-16-05.59.10.000000 Udbetaling                 -23514.11 000000000000000000 EUR  Biograf
+2022-11-25-06.32.38.000000 Indbetaling                 81807.46 000000000000000000 USD  Møbelbutik
+2022-02-22-14.16.59.000000 Indbetaling                -96600.12 000000000000000000 EUR  Restaurant
+2020-02-26-08.41.27.000000 Udbetaling                  92738.47 000000000000000000 USD  Tøjbutik
+2024-06-11-09.44.06.000000 Indbetaling                 -6356.06 000000000000000000 DKK  Tankstation
+2020-09-23-14.41.51.000000 Indbetaling                 22132.85 000000000000000000 USD  Restaurant
+2022-09-28-23.35.41.000000 Indbetaling                -48234.36 000000000000000000 EUR  Restaurant
+2020-01-17-12.41.47.000000 Indbetaling                -15445.52 000000000000000000 EUR  Fitnesscenter
+Kunde: Camilla Nielsen
+Adresse: Strandvejen 542C, 6700 Randers
+Registreringsnummer: 0023
+Bank: Handelsbanken
+Bankadresse: NÃ¸rreport 513A, 5000 Aarhus
+Telefon: +45 17912703
+E-mail: kontakt@handelsbanken.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 698-57-95867) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2025-06-20-05.26.54.000000 Overførsel                 -39831.45 000000000000000000 EUR  Café
+2021-08-11-23.00.44.000000 Overførsel                  71058.25 000000000000000000 DKK  Biograf
+2022-04-02-12.03.20.000000 Indbetaling                -30173.28 000000000000000000 EUR  Tøjbutik
+2021-07-07-11.57.36.000000 Indbetaling                 69524.80 000000000000000000 DKK  Café
+2020-06-27-10.26.30.000000 Udbetaling                  66005.74 000000000000000000 EUR  Restaurant
+Kunde: Søren Thomsen
+Adresse: Hovedgaden 253B, 7100 Aarhus
+2022-05-01-08.08.43.000000 Udbetaling                 -92988.32 000000000000000000 USD  Tankstation
+2025-03-07-12.11.43.000000 Udbetaling                 -92369.77 000000000000000000 DKK  Boghandel
+2020-05-25-04.02.37.000000 Indbetaling                 16204.76 000000000000000000 EUR  Tankstation
+2023-12-16-23.11.01.000000 Indbetaling                -78217.81 000000000000000000 USD  Biograf
+2022-10-31-07.52.56.000000 Indbetaling                 71293.71 000000000000000000 DKK  Fitnesscenter
+2020-06-19-11.04.27.000000 Indbetaling                 10872.29 000000000000000000 USD  Blomsterhandler
+2021-07-13-12.48.23.000000 Udbetaling                 -98496.80 000000000000000000 DKK  Café
+Kunde: Lars Olsen
+Adresse: Amagerbrogade 104C, 9000 København
+Registreringsnummer: 0003
+Bank: Jyske Bank
+Bankadresse: SÃ¸ndergade 679A, 4700 KÃ¸benhavn
+Telefon: +45 88266696
+E-mail: kontakt@jyskebank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 887-17-29854) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2023-03-15-09.32.10.000000 Udbetaling                  59649.97 000000000000000000 EUR  Tankstation
+2025-02-18-15.08.39.000000 Overførsel                  49840.61 000000000000000000 DKK  Biograf
+2022-03-31-08.08.03.000000 Overførsel                   9090.27 000000000000000000 DKK  Café
+2025-01-15-03.35.31.000000 Indbetaling                -63994.19 000000000000000000 EUR  Supermarked
+2021-06-06-07.48.08.000000 Overførsel                 -74331.23 000000000000000000 DKK  Apotek
+Kunde: Lars Pedersen
+Adresse: Nørreport 189, 3000 Helsingør
+Registreringsnummer: 0003
+Bank: Jyske Bank
+Bankadresse: SÃ¸ndergade 679A, 4700 KÃ¸benhavn
+Telefon: +45 88266696
+E-mail: kontakt@jyskebank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 416-25-55580) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2022-06-18-08.45.59.000000 Overførsel                 -60422.80 000000000000000000 USD  Fitnesscenter
+2025-11-08-15.10.58.000000 Udbetaling                 -75267.43 000000000000000000 DKK  Møbelbutik
+2025-06-11-08.25.40.000000 Udbetaling                   -453.55 000000000000000000 DKK  Biograf
+2021-06-18-04.04.35.000000 Overførsel                  10332.96 000000000000000000 EUR  Apotek
+2022-11-17-14.11.41.000000 Udbetaling                  14265.77 000000000000000000 USD  Elektronikbutik
+2025-11-19-18.15.27.000000 Indbetaling                -76448.15 000000000000000000 EUR  Boghandel
+2021-10-01-07.25.06.000000 Indbetaling                 47016.52 000000000000000000 EUR  Elektronikbutik
+2022-08-13-08.56.37.000000 Udbetaling                  85218.15 000000000000000000 USD  Tøjbutik
+2020-01-23-04.42.05.000000 Overførsel                 -57269.14 000000000000000000 DKK  Boghandel
+2023-01-28-20.06.28.000000 Indbetaling                 97798.08 000000000000000000 EUR  Tøjbutik
+Kunde: Marie Mortensen
+Adresse: Søndergade 870A, 6700 Randers
+Registreringsnummer: 0041
+Bank: Nykredit Bank
+Bankadresse: Ã˜sterbrogade 42, 7100 KÃ¸benhavn
+Telefon: +45 95323274
+E-mail: kontakt@nykreditbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 169-63-91486) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2023-04-02-10.41.30.000000 Udbetaling                  97244.02 000000000000000000 EUR  Boghandel
+2021-02-17-14.07.52.000000 Overførsel                 -41877.02 000000000000000000 USD  Supermarked
+Kunde: Niels Nielsen
+Adresse: Frederiks Allé 782C, 9000 Vejle
+Registreringsnummer: 0019
+Bank: Nykredit Bank
+Bankadresse: Amagerbrogade 548B, 7100 Vejle
+Telefon: +45 17561165
+E-mail: kontakt@nykreditbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 243-92-27976) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2024-11-13-09.07.38.000000 Indbetaling                 74371.21 000000000000000000 USD  Tankstation
+2021-06-19-01.04.38.000000 Udbetaling                 -53184.59 000000000000000000 DKK  Biograf
+2024-10-14-21.49.06.000000 Overførsel                 -63010.60 000000000000000000 DKK  Café
+2023-04-12-08.24.20.000000 Overførsel                 -19491.61 000000000000000000 DKK  Boghandel
+2022-06-22-08.23.37.000000 Udbetaling                  -2684.26 000000000000000000 EUR  Supermarked
+2025-05-22-18.03.42.000000 Indbetaling                 12497.09 000000000000000000 DKK  Restaurant
+2025-06-02-18.50.15.000000 Udbetaling                 -61184.60 000000000000000000 DKK  Elektronikbutik
+2025-09-18-21.14.09.000000 Indbetaling                -30212.72 000000000000000000 EUR  Tøjbutik
+2023-03-10-17.59.25.000000 Udbetaling                 -88965.88 000000000000000000 EUR  Bageri
+2024-07-13-12.46.49.000000 Indbetaling                -34224.12 000000000000000000 EUR  Apotek
+Kunde: Mette Hansen
+Adresse: Søndergade 824C, 8000 Aarhus
+Registreringsnummer: 0040
+Bank: Arbejdernes Landsbank
+Bankadresse: Vesterbrogade 706B, 2100 Aalborg
+Telefon: +45 72776368
+E-mail: kontakt@arbejderneslandsbank.d
+--- TRANSACTION RECORD (ACCOUNT ID: 875-92-42537) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2021-10-21-00.40.15.000000 Overførsel                 -84038.95 000000000000000000 DKK  Bageri
+2021-11-27-00.29.09.000000 Udbetaling                 -30140.26 000000000000000000 DKK  Apotek
+2020-08-22-18.19.46.000000 Udbetaling                 -46454.57 000000000000000000 USD  Bageri
+2024-05-24-02.15.44.000000 Indbetaling                -93473.27 000000000000000000 DKK  Møbelbutik
+2025-01-04-00.25.58.000000 Indbetaling                 12463.87 000000000000000000 USD  Elektronikbutik
+2022-11-26-09.19.04.000000 Udbetaling                  72224.64 000000000000000000 USD  Bageri
+2021-05-08-15.32.36.000000 Indbetaling                 62893.03 000000000000000000 DKK  Fitnesscenter
+2025-03-25-19.10.45.000000 Indbetaling                -12395.92 000000000000000000 EUR  Tankstation
+2025-02-02-21.50.10.000000 Indbetaling                -93089.10 000000000000000000 DKK  Café
+Kunde: Lars Jensen
+Adresse: Strandvejen 221, 6700 Randers
+2020-11-16-13.11.20.000000 Indbetaling                 65940.00 000000000000000000 USD  Boghandel
+Kunde: Anne Thomsen
+Adresse: Hovedgaden 679C, 6700 Esbjerg
+Registreringsnummer: 0044
+Bank: Arbejdernes Landsbank
+Bankadresse: Strandvejen 911A, 6700 KÃ¸benhavn
+Telefon: +45 65126462
+E-mail: kontakt@arbejderneslandsbank.
+--- TRANSACTION RECORD (ACCOUNT ID: 226-51-82070) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2022-09-20-03.53.12.000000 Overførsel                 -78497.87 000000000000000000 EUR  Fitnesscenter
+2021-06-14-14.59.44.000000 Udbetaling                 -61206.36 000000000000000000 USD  Tøjbutik
+2021-06-02-06.21.36.000000 Udbetaling                  41729.33 000000000000000000 EUR  Elektronikbutik
+2023-08-26-06.53.02.000000 Udbetaling                  43168.94 000000000000000000 USD  Tøjbutik
+2024-03-05-11.20.37.000000 Overførsel                   6649.26 000000000000000000 DKK  Møbelbutik
+2020-05-02-09.17.19.000000 Overførsel                  72804.08 000000000000000000 DKK  Elektronikbutik
+Kunde: Jens Larsen
+Adresse: Strandvejen 166, 9000 Helsingør
+Registreringsnummer: 0052
+Bank: Jyske Bank
+Bankadresse: Vesterbrogade 834A, 7100 NÃ¦stved
+Telefon: +45 56689529
+E-mail: kontakt@jyskebank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 574-16-60362) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2023-10-19-05.13.35.000000 Udbetaling                 -83479.50 000000000000000000 DKK  Tankstation
+2020-04-16-18.55.39.000000 Overførsel                 -87841.55 000000000000000000 DKK  Café
+2022-09-19-18.11.17.000000 Overførsel                 -50690.07 000000000000000000 EUR  Blomsterhandler
+2025-12-10-14.03.13.000000 Udbetaling                 -63825.42 000000000000000000 EUR  Apotek
+2023-07-19-19.32.49.000000 Udbetaling                  68450.59 000000000000000000 DKK  Supermarked
+2024-12-01-12.30.29.000000 Udbetaling                 -31050.66 000000000000000000 DKK  Biograf
+2020-09-21-03.47.47.000000 Udbetaling                  10431.40 000000000000000000 DKK  Møbelbutik
+2024-03-06-03.17.01.000000 Udbetaling                 -79979.44 000000000000000000 EUR  Fitnesscenter
+2020-03-14-00.39.48.000000 Overførsel                 -47287.74 000000000000000000 EUR  Boghandel
+Kunde: Hanne Andersen
+Adresse: Vesterbrogade 539C, 6700 Aarhus
+Registreringsnummer: 0041
+Bank: Nykredit Bank
+Bankadresse: Ã˜sterbrogade 42, 7100 KÃ¸benhavn
+Telefon: +45 95323274
+E-mail: kontakt@nykreditbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 690-86-83885) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2021-11-17-12.16.04.000000 Udbetaling                  17126.52 000000000000000000 DKK  Supermarked
+2024-06-28-21.19.33.000000 Indbetaling                 46595.05 000000000000000000 USD  Blomsterhandler
+2023-07-21-20.58.11.000000 Overførsel                  -9745.05 000000000000000000 EUR  Fitnesscenter
+2025-02-26-16.46.39.000000 Indbetaling                -79101.04 000000000000000000 USD  Blomsterhandler
+2024-08-27-05.44.36.000000 Indbetaling                -46668.60 000000000000000000 EUR  Tankstation
+2020-10-22-18.00.21.000000 Indbetaling                -15808.05 000000000000000000 DKK  Apotek
+2021-06-30-12.21.16.000000 Indbetaling                -51847.21 000000000000000000 EUR  Tankstation
+2023-12-11-13.04.32.000000 Udbetaling                 -96911.70 000000000000000000 DKK  Fitnesscenter
+Kunde: Peter Pedersen
+Adresse: Nørreport 690C, 3000 Næstved
+2023-08-26-23.52.40.000000 Indbetaling                 98221.01 000000000000000000 USD  Bageri
+Kunde: Niels Jensen
+Adresse: Strandvejen 686A, 2100 Aarhus
+2021-05-03-01.21.26.000000 Overførsel                  30072.57 000000000000000000 EUR  Café
+2020-03-21-01.08.54.000000 Overførsel                   5713.39 000000000000000000 DKK  Elektronikbutik
+Kunde: Mette Mortensen
+Adresse: Frederiks Allé 842A, 9000 Næstved
+Registreringsnummer: 0031
+Bank: Handelsbanken
+Bankadresse: Ã˜sterbrogade 14B, 9000 Odense
+Telefon: +45 50463045
+E-mail: kontakt@handelsbanken.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 317-62-68675) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2021-03-24-08.57.42.000000 Overførsel                  83754.90 000000000000000000 DKK  Restaurant
+2020-08-29-09.50.48.000000 Indbetaling                -63554.91 000000000000000000 USD  Café
+2025-10-29-14.08.48.000000 Indbetaling                -29635.68 000000000000000000 EUR  Møbelbutik
+2023-07-02-03.46.56.000000 Overførsel                 -54669.49 000000000000000000 EUR  Blomsterhandler
+2022-12-29-01.55.01.000000 Overførsel                  65664.34 000000000000000000 DKK  Restaurant
+2025-08-23-19.09.48.000000 Udbetaling                 -58395.20 000000000000000000 EUR  Elektronikbutik
+2025-07-26-23.13.35.000000 Indbetaling                -14029.76 000000000000000000 USD  Café
+2024-06-04-22.42.06.000000 Indbetaling                 42203.28 000000000000000000 USD  Tøjbutik
+2022-08-08-03.55.57.000000 Udbetaling                 -76383.70 000000000000000000 USD  Bageri
+2022-06-09-19.15.27.000000 Indbetaling                 95475.20 000000000000000000 DKK  Restaurant
+Kunde: Camilla Nielsen
+Adresse: Strandvejen 467A, 5000 Aarhus
+2020-09-23-15.47.55.000000 Overførsel                 -18224.76 000000000000000000 DKK  Café
+2025-01-04-18.03.14.000000 Indbetaling                -72761.60 000000000000000000 DKK  Supermarked
+Kunde: Peter Hansen
+Adresse: Amagerbrogade 756C, 4000 Vejle
+2025-08-07-13.26.39.000000 Overførsel                 -56023.89 000000000000000000 EUR  Bageri
+2025-03-04-17.58.36.000000 Indbetaling                -78721.79 000000000000000000 DKK  Restaurant
+Kunde: Søren Olsen
+Adresse: Frederiks Allé 716C, 4000 Vejle
+Registreringsnummer: 0031
+Bank: Handelsbanken
+Bankadresse: Ã˜sterbrogade 14B, 9000 Odense
+Telefon: +45 50463045
+E-mail: kontakt@handelsbanken.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 370-78-94862) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2024-02-23-11.16.16.000000 Udbetaling                 -86078.01 000000000000000000 USD  Møbelbutik
+2020-03-15-02.10.58.000000 Indbetaling                 34774.07 000000000000000000 EUR  Supermarked
+2020-04-01-12.01.39.000000 Indbetaling                 52011.90 000000000000000000 EUR  Elektronikbutik
+2024-04-11-04.03.34.000000 Overførsel                 -66761.89 000000000000000000 EUR  Tøjbutik
+2022-02-06-11.30.16.000000 Udbetaling                  62993.39 000000000000000000 USD  Restaurant
+2020-02-08-20.57.54.000000 Indbetaling                 63939.88 000000000000000000 USD  Supermarked
+2025-03-28-10.51.45.000000 Indbetaling                 41720.64 000000000000000000 EUR  Biograf
+2021-12-29-20.32.42.000000 Udbetaling                  58432.22 000000000000000000 USD  Tankstation
+Kunde: Anne Larsen
+Adresse: Hovedgaden 767B, 4700 Esbjerg
+Registreringsnummer: 0015
+Bank: Nykredit Bank
+Bankadresse: Frederiks AllÃ© 216B, 3000 Roskilde
+Telefon: +45 87651448
+E-mail: kontakt@nykreditbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 173-48-32637) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2022-02-23-18.17.54.000000 Overførsel                 -30471.97 000000000000000000 DKK  Tøjbutik
+2023-05-30-19.03.28.000000 Indbetaling                  3170.65 000000000000000000 USD  Blomsterhandler
+2025-11-07-05.28.29.000000 Indbetaling                -16452.50 000000000000000000 USD  Supermarked
+2024-09-01-04.38.40.000000 Overførsel                  11716.07 000000000000000000 EUR  Bageri
+Kunde: Camilla Jensen
+Adresse: Søndergade 955, 4000 Aalborg
+Registreringsnummer: 0013
+Bank: Sydbank
+Bankadresse: Vesterbrogade 865C, 4000 Aalborg
+Telefon: +45 17788143
+E-mail: kontakt@sydbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 535-39-32305) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2025-05-27-19.54.43.000000 Overførsel                  12496.51 000000000000000000 DKK  Café
+2024-12-26-00.11.39.000000 Udbetaling                 -81149.54 000000000000000000 USD  Elektronikbutik
+2024-05-26-23.23.24.000000 Udbetaling                  27411.79 000000000000000000 DKK  Tøjbutik
+Kunde: Peter Jensen
+Adresse: Søndergade 747B, 3000 Næstved
+2020-05-26-10.34.53.000000 Indbetaling                -76707.69 000000000000000000 EUR  Elektronikbutik
+2020-06-04-11.53.27.000000 Indbetaling                 -8845.85 000000000000000000 USD  Boghandel
+2022-01-15-10.59.45.000000 Udbetaling                  86284.59 000000000000000000 USD  Supermarked
+2022-02-25-23.16.21.000000 Udbetaling                  79475.32 000000000000000000 DKK  Café
+Kunde: Lars Thomsen
+Adresse: Vesterbrogade 444C, 2100 Vejle
+Registreringsnummer: 0023
+Bank: Handelsbanken
+Bankadresse: NÃ¸rreport 513A, 5000 Aarhus
+Telefon: +45 17912703
+E-mail: kontakt@handelsbanken.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 576-44-17350) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2020-08-14-07.27.39.000000 Indbetaling                 17850.08 000000000000000000 EUR  Elektronikbutik
+Kunde: Søren Hansen
+Adresse: Vesterbrogade 193B, 6700 København
+2020-06-04-18.22.28.000000 Udbetaling                   1187.87 000000000000000000 DKK  Biograf
+2025-05-22-10.33.23.000000 Overførsel                  89215.84 000000000000000000 EUR  Biograf
+2020-03-25-20.26.50.000000 Indbetaling                 35376.73 000000000000000000 USD  Tøjbutik
+2025-06-07-12.19.43.000000 Udbetaling                  88535.26 000000000000000000 DKK  Biograf
+2025-12-29-19.28.39.000000 Udbetaling                 -18490.78 000000000000000000 DKK  Boghandel
+2024-10-14-16.25.31.000000 Udbetaling                 -20280.55 000000000000000000 DKK  Møbelbutik
+2021-08-12-17.22.36.000000 Indbetaling                 27775.82 000000000000000000 DKK  Møbelbutik
+Kunde: Søren Hansen
+Adresse: Amagerbrogade 235, 5000 Odense
+2025-02-27-01.22.53.000000 Overførsel                  89716.60 000000000000000000 USD  Boghandel
+2024-03-08-19.39.16.000000 Udbetaling                  46862.10 000000000000000000 DKK  Restaurant
+Kunde: Peter Olsen
+Adresse: Østerbrogade 920C, 4700 Odense
+Kunde: Lars Thomsen
+Adresse: Strandvejen 947A, 2100 København
+Registreringsnummer: 0028
+Bank: Sydbank
+Bankadresse: Hovedgaden 188B, 8900 Esbjerg
+Telefon: +45 39001460
+E-mail: kontakt@sydbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 425-11-11316) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2022-02-10-08.28.40.000000 Udbetaling                  69549.20 000000000000000000 DKK  Elektronikbutik
+Kunde: Søren Mortensen
+Adresse: Frederiks Allé 84A, 4000 Helsingør
+2023-05-02-08.58.35.000000 Indbetaling                 33689.18 000000000000000000 USD  Apotek
+2021-07-12-08.51.16.000000 Overførsel                  43617.94 000000000000000000 DKK  Café
+2022-06-18-06.09.49.000000 Indbetaling                -79511.73 000000000000000000 USD  Møbelbutik
+2025-03-07-09.27.15.000000 Udbetaling                 -50512.61 000000000000000000 USD  Restaurant
+2020-04-21-23.07.20.000000 Indbetaling                 98546.72 000000000000000000 USD  Tankstation
+2024-01-09-18.43.18.000000 Overførsel                 -42639.38 000000000000000000 DKK  Apotek
+2024-09-14-23.17.16.000000 Overførsel                 -56798.72 000000000000000000 EUR  Fitnesscenter
+Kunde: Jens Christensen
+Adresse: Vesterbrogade 167B, 3000 København
+Registreringsnummer: 0043
+Bank: Handelsbanken
+Bankadresse: NÃ¸rreport 186, 4000 Esbjerg
+Telefon: +45 54997186
+E-mail: kontakt@handelsbanken.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 474-49-28472) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2022-04-03-08.36.41.000000 Overførsel                 -17332.65 000000000000000000 USD  Café
+2024-07-11-19.19.43.000000 Overførsel                  43630.17 000000000000000000 USD  Restaurant
+2024-12-14-08.26.55.000000 Indbetaling                 27591.51 000000000000000000 DKK  Café
+2022-06-01-13.31.23.000000 Indbetaling                 86363.24 000000000000000000 EUR  Café
+2021-05-01-03.52.13.000000 Indbetaling                -55424.06 000000000000000000 EUR  Fitnesscenter
+2024-12-09-17.02.26.000000 Overførsel                  99524.05 000000000000000000 EUR  Tankstation
+2024-01-20-11.20.16.000000 Indbetaling                -46606.24 000000000000000000 DKK  Boghandel
+2022-01-16-14.12.47.000000 Udbetaling                   2712.06 000000000000000000 USD  Boghandel
+2023-05-11-19.33.39.000000 Indbetaling                -61200.93 000000000000000000 DKK  Tankstation
+2025-09-08-20.21.40.000000 Udbetaling                  -1571.91 000000000000000000 DKK  Restaurant
+Kunde: Lars Pedersen
+Adresse: Nørreport 83B, 6700 Odense
+2021-03-19-15.20.49.000000 Overførsel                  60681.63 000000000000000000 EUR  Restaurant
+2024-12-16-22.57.58.000000 Udbetaling                 -84980.58 000000000000000000 DKK  Fitnesscenter
+2021-03-23-13.50.20.000000 Overførsel                 -45418.82 000000000000000000 DKK  Café
+2025-02-08-00.08.33.000000 Overførsel                  57571.72 000000000000000000 EUR  Møbelbutik
+2021-03-08-02.31.55.000000 Overførsel                  65129.14 000000000000000000 DKK  Apotek
+2025-05-11-17.19.16.000000 Indbetaling                 68700.84 000000000000000000 EUR  Fitnesscenter
+2021-08-14-19.16.30.000000 Overførsel                  17108.81 000000000000000000 USD  Restaurant
+2024-07-25-06.07.05.000000 Indbetaling                 50268.89 000000000000000000 EUR  Fitnesscenter
+Kunde: Hanne Mortensen
+Adresse: Hovedgaden 922C, 7100 Esbjerg
+Registreringsnummer: 0049
+Bank: Danske Bank
+Bankadresse: Strandvejen 571, 4700 NÃ¦stved
+Telefon: +45 61462900
+E-mail: kontakt@danskebank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 537-21-55847) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2023-03-23-05.53.50.000000 Udbetaling                 -64173.98 000000000000000000 DKK  Fitnesscenter
+2025-05-05-00.46.38.000000 Udbetaling                  65782.66 000000000000000000 USD  Supermarked
+2024-11-05-11.53.23.000000 Indbetaling                 21385.71 000000000000000000 USD  Fitnesscenter
+2020-02-10-16.12.54.000000 Indbetaling                 44514.79 000000000000000000 EUR  Supermarked
+2021-11-18-16.23.07.000000 Indbetaling                -29240.20 000000000000000000 DKK  Boghandel
+2024-10-04-03.28.29.000000 Indbetaling                -41513.02 000000000000000000 EUR  Supermarked
+2024-12-27-04.18.40.000000 Overførsel                 -18023.73 000000000000000000 EUR  Apotek
+Kunde: Niels Mortensen
+Adresse: Strandvejen 842, 4000 Esbjerg
+Registreringsnummer: 0035
+Bank: Spar Nord Bank
+Bankadresse: Vesterbrogade 539A, 6700 NÃ¦stved
+Telefon: +45 55731412
+E-mail: kontakt@sparnordbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 141-24-79445) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2025-09-11-03.41.20.000000 Overførsel                  67827.79 000000000000000000 EUR  Biograf
+Kunde: Jens Jensen
+Adresse: Amagerbrogade 597, 3000 Aalborg
+2022-01-01-23.27.45.000000 Udbetaling                  25877.12 000000000000000000 EUR  Bageri
+2024-07-13-19.05.59.000000 Indbetaling                -10993.01 000000000000000000 EUR  Blomsterhandler
+2024-03-11-09.41.23.000000 Indbetaling                 72842.92 000000000000000000 USD  Fitnesscenter
+2025-02-20-01.50.34.000000 Overførsel                  91389.80 000000000000000000 EUR  Elektronikbutik
+Kunde: Anne Larsen
+Adresse: Strandvejen 687B, 4000 Helsingør
+Registreringsnummer: 0039
+Bank: Handelsbanken
+Bankadresse: Ã˜sterbrogade 714B, 7100 Odense
+Telefon: +45 40206422
+E-mail: kontakt@handelsbanken.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 666-11-66541) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2025-04-03-15.04.07.000000 Overførsel                 -79232.89 000000000000000000 USD  Fitnesscenter
+2022-04-23-08.41.44.000000 Overførsel                  42529.77 000000000000000000 EUR  Café
+Kunde: Marie Olsen
+Adresse: Frederiks Allé 569, 4000 Helsingør
+2024-05-03-05.25.39.000000 Indbetaling                 75607.76 000000000000000000 DKK  Boghandel
+2020-02-09-08.56.16.000000 Indbetaling                 82715.74 000000000000000000 USD  Biograf
+2021-06-11-07.57.11.000000 Overførsel                 -43010.63 000000000000000000 USD  Tøjbutik
+2022-07-13-10.59.30.000000 Indbetaling                 61579.08 000000000000000000 EUR  Møbelbutik
+2025-05-25-18.58.03.000000 Overførsel                    837.46 000000000000000000 USD  Elektronikbutik
+2020-06-29-00.57.54.000000 Overførsel                  13219.81 000000000000000000 DKK  Elektronikbutik
+2025-07-02-22.18.58.000000 Udbetaling                 -66609.07 000000000000000000 EUR  Elektronikbutik
+2020-10-31-02.38.51.000000 Overførsel                   1926.39 000000000000000000 USD  Tøjbutik
+Kunde: Hanne Larsen
+Adresse: Søndergade 446B, 7100 Odense
+Registreringsnummer: 0020
+Bank: Nordea
+Bankadresse: Strandvejen 989B, 9000 Aarhus
+Telefon: +45 72157898
+E-mail: kontakt@nordea.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 161-79-57502) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2022-09-19-11.46.55.000000 Udbetaling                 -75495.03 000000000000000000 USD  Bageri
+Kunde: Jens Andersen
+Adresse: Vesterbrogade 449, 7100 Helsingør
+Registreringsnummer: 0031
+Bank: Handelsbanken
+Bankadresse: Ã˜sterbrogade 14B, 9000 Odense
+Telefon: +45 50463045
+E-mail: kontakt@handelsbanken.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 511-62-59030) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2022-10-17-05.15.01.000000 Indbetaling                -55829.57 000000000000000000 DKK  Café
+2024-03-05-08.14.20.000000 Overførsel                  67606.95 000000000000000000 EUR  Elektronikbutik
+2021-01-14-07.20.06.000000 Indbetaling                -62814.46 000000000000000000 EUR  Tankstation
+2024-05-19-06.11.46.000000 Udbetaling                 -24783.63 000000000000000000 DKK  Restaurant
+2024-02-11-04.27.42.000000 Udbetaling                  98464.67 000000000000000000 EUR  Blomsterhandler
+2025-01-08-18.58.43.000000 Overførsel                 -18150.40 000000000000000000 EUR  Blomsterhandler
+2023-01-03-23.51.57.000000 Overførsel                  74318.53 000000000000000000 DKK  Møbelbutik
+2021-08-15-09.22.59.000000 Overførsel                 -67260.51 000000000000000000 EUR  Tankstation
+Kunde: Jens Jensen
+Adresse: Amagerbrogade 442A, 8000 Esbjerg
+2024-08-16-19.45.01.000000 Udbetaling                 -47821.26 000000000000000000 USD  Fitnesscenter
+2021-08-01-05.43.43.000000 Overførsel                  97006.01 000000000000000000 EUR  Biograf
+2024-12-22-05.00.23.000000 Indbetaling                -82848.78 000000000000000000 EUR  Café
+2022-08-06-04.19.38.000000 Indbetaling                -37755.84 000000000000000000 EUR  Møbelbutik
+2022-07-14-03.34.02.000000 Overførsel                  42168.03 000000000000000000 DKK  Møbelbutik
+2022-09-03-23.17.14.000000 Udbetaling                 -78980.41 000000000000000000 EUR  Restaurant
+2020-11-04-21.50.28.000000 Indbetaling                 63666.91 000000000000000000 DKK  Supermarked
+Kunde: Søren Andersen
+Adresse: Vesterbrogade 648, 4000 Vejle
+2021-05-10-14.05.46.000000 Indbetaling                 82837.44 000000000000000000 EUR  Elektronikbutik
+2024-01-02-01.12.21.000000 Overførsel                  63433.86 000000000000000000 EUR  Restaurant
+2020-10-09-18.49.13.000000 Indbetaling                  1087.06 000000000000000000 DKK  Fitnesscenter
+2020-10-10-16.51.10.000000 Udbetaling                  95615.83 000000000000000000 USD  Møbelbutik
+2024-04-07-09.44.47.000000 Indbetaling                 67435.51 000000000000000000 EUR  Møbelbutik
+2020-03-07-11.22.41.000000 Udbetaling                 -10497.43 000000000000000000 USD  Blomsterhandler
+2023-06-06-16.18.23.000000 Indbetaling                 37474.10 000000000000000000 EUR  Fitnesscenter
+Kunde: Anne Thomsen
+Adresse: Amagerbrogade 693B, 2100 Vejle
+Registreringsnummer: 0018
+Bank: Nykredit Bank
+Bankadresse: Hovedgaden 92, 2100 Aalborg
+Telefon: +45 82673252
+E-mail: kontakt@nykreditbank.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 550-50-28444) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2023-12-01-23.25.51.000000 Indbetaling                 58880.20 000000000000000000 EUR  Bageri
+2023-11-25-14.06.32.000000 Indbetaling                 60658.87 000000000000000000 USD  Møbelbutik
+2023-04-21-18.58.29.000000 Overførsel                  62006.39 000000000000000000 DKK  Supermarked
+2025-07-26-11.47.12.000000 Overførsel                 -39790.48 000000000000000000 DKK  Boghandel
+2024-01-25-21.42.02.000000 Overførsel                 -29043.57 000000000000000000 USD  Biograf
+2020-01-02-23.20.03.000000 Udbetaling                 -11897.18 000000000000000000 DKK  Tøjbutik
+Kunde: Peter Christensen
+Adresse: Søndergade 558, 5000 Roskilde
+Registreringsnummer: 0056
+Bank: Nordea
+Bankadresse: Vesterbrogade 469C, 6700 Esbjerg
+Telefon: +45 10981116
+E-mail: kontakt@nordea.dk
+--- TRANSACTION RECORD (ACCOUNT ID: 473-94-58011) ---
+Dato Tidspunkt Transaktionstype Currency (DKK) Currency(Foreign) Butik
+2024-08-24-05.55.02.000000 Indbetaling                 43968.18 000000000000000000 USD  Supermarked
+2021-07-06-04.33.29.000000 Indbetaling                 21567.70 000000000000000000 USD  Biograf
+2024-12-14-07.36.42.000000 Indbetaling                -64743.30 000000000000000000 DKK  Apotek
+2024-08-04-13.09.53.000000 Overførsel                  48037.52 000000000000000000 USD  Apotek
+2023-12-14-21.20.51.000000 Overførsel                 -63547.15 000000000000000000 EUR  Biograf

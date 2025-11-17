@@ -15,6 +15,11 @@ Identification Division.
                organization is line sequential
                file status is FS-TRANSACTION.
 
+
+           select report-file assign to "rapport.txt"
+               organization is line sequential
+               file status is FS-REPORT.
+
            *> Removed: select customer-out-file assign to "kundeoplysninger.txt"
 
        Data Division.
@@ -30,6 +35,9 @@ Identification Division.
        FD  transaction-file.
        01 TRANSACTION-RECORD.
            copy "transaktioner.cpy".
+
+       FD  report-file.
+       01  REPORT-RECORD          PIC X(220).
 
        *> Removed: FD customer-out-file and its 01 CUSTOMER-ACCOUNT-RECORD
 
@@ -64,7 +72,6 @@ Identification Division.
        01  IX pic 9(4) value 1.
        01  IX2 pic 9(4) value 1.
 
-       01  output-text pic x(100).
 
        01  C-T-REG-NR PIC X(4).
 
@@ -72,6 +79,9 @@ Identification Division.
 
        01  CNV-BELOEB PIC S9(16)V99.
        01  PRINTED-BANK-INFO PIC X VALUE "N".
+       01  FS-REPORT            PIC XX VALUE SPACES.
+
+       01  output-text         PIC X(220).
 
        Procedure Division.
        MAIN-PROCEDURE.
@@ -136,8 +146,20 @@ Identification Division.
            END-PERFORM
            CLOSE transaction-file
            DISPLAY "Successfully loaded " WS-TRANSACTION-COUNT 
-           " transaction records."
-           perform format-transactions
+               " transaction records."
+
+           OPEN OUTPUT report-file
+           IF FS-REPORT NOT = "00"
+               DISPLAY "!! Error opening rapport.txt. STATUS="
+                   FS-REPORT
+               STOP RUN
+           END-IF
+
+           PERFORM format-transactions
+
+           CLOSE report-file
+
+           GoBack.
            
 
            *> Removed the entire customer processing loop
@@ -148,74 +170,176 @@ Identification Division.
            GoBack.
 
            format-transactions.
-               move SPACES to LAST-CPR
-               PERFORM VARYING IX FROM 1 BY 1
-                   UNTIL IX > WS-TRANSACTION-COUNT
-           
-                       MOVE T-REG-NR 
-                       IN TRANSACTION-ARRAY-TABLE(IX) TO C-T-REG-NR
+           MOVE SPACES TO LAST-CPR
+           PERFORM VARYING IX FROM 1 BY 1
+               UNTIL IX > WS-TRANSACTION-COUNT
 
-                        if LAST-CPR not = T-CPR of 
-                        TRANSACTION-ARRAY-TABLE(IX)
-                        move "N" to PRINTED-BANK-INFO
-                            DISPLAY "Kunde: " T-NAVN OF
-                             TRANSACTION-ARRAY-TABLE(IX)
-                            DISPLAY "Adresse: " T-ADRESSE OF
-                             TRANSACTION-ARRAY-TABLE(IX)
-                        ELSE
-                           perform FORMAT-PRINT
-                        END-IF
+               MOVE T-REG-NR IN TRANSACTION-ARRAY-TABLE(IX)
+                   TO C-T-REG-NR
 
-           
-                   PERFORM VARYING IX2 FROM 1 BY 1
-                        UNTIL IX2 > WS-BANK-COUNT
-                            IF C-T-REG-NR = B-REG-NR
-                               IN BANK-ARRAY-TABLE(IX2)
-                                IF PRINTED-BANK-INFO = "N"
-                                MOVE "Y" TO PRINTED-BANK-INFO
-                                DISPLAY "Registreringsnummer: "
-                                FUNCTION TRIM(C-T-REG-NR)
-                                DISPLAY "Bank: "
-                                FUNCTION TRIM(B-BANKNAVN
-                                OF BANK-ARRAY-TABLE(IX2))
-                                DISPLAY "Bankadresse: "
-                                FUNCTION TRIM(B-BANKADRESSE
-                                OF BANK-ARRAY-TABLE(IX2))
-                                DISPLAY "Telefon: "
-                                FUNCTION TRIM(B-TELEFON
-                                OF BANK-ARRAY-TABLE(IX2))
-                                DISPLAY "E-mail: "
-                                FUNCTION TRIM(B-EMAIL
-                                OF BANK-ARRAY-TABLE(IX2))
-                   DISPLAY "--- TRANSACTION RECORD (ACCOUNT ID: "
-                    FUNCTION TRIM(T-KONTO-ID OF TRANSACTION-ARRAY-TABLE(IX)) 
-                    ") ---"
-                    DISPLAY "Dato Tidspunkt Transaktionstype"
-                    "Currency (DKK) Currency(Foreign) Butik"
-                                perform FORMAT-PRINT
+               IF LAST-CPR NOT = T-CPR OF
+                   TRANSACTION-ARRAY-TABLE(IX)
+                   MOVE "N" TO PRINTED-BANK-INFO
 
-                                END-IF
-                                EXIT PERFORM
-                                
-                            END-IF
-                   END-PERFORM
-                   move T-CPR of TRANSACTION-ARRAY-TABLE(IX) TO LAST-CPR
+                   *> "Kunde: <navn>"
+                   MOVE SPACES TO output-text
+                   STRING
+                       "Kunde: " DELIMITED BY SIZE
+                       T-NAVN OF TRANSACTION-ARRAY-TABLE(IX)
+                           DELIMITED BY SIZE
+                       INTO output-text
+                   END-STRING
+                   PERFORM write-output
+
+                   *> "Adresse: <adresse>"
+                   MOVE SPACES TO output-text
+                   STRING
+                       "Adresse: " DELIMITED BY SIZE
+                       T-ADRESSE OF TRANSACTION-ARRAY-TABLE(IX)
+                           DELIMITED BY SIZE
+                       INTO output-text
+                   END-STRING
+                   PERFORM write-output
+               ELSE
+                   PERFORM FORMAT-PRINT
+               END-IF
+
+               PERFORM VARYING IX2 FROM 1 BY 1
+                   UNTIL IX2 > WS-BANK-COUNT
+                   IF C-T-REG-NR =
+                       B-REG-NR IN BANK-ARRAY-TABLE(IX2)
+                       IF PRINTED-BANK-INFO = "N"
+                           MOVE "Y" TO PRINTED-BANK-INFO
+
+                           *> Registreringsnummer
+                           MOVE SPACES TO output-text
+                           STRING
+                               "Registreringsnummer: "
+                                   DELIMITED BY SIZE
+                               FUNCTION TRIM(C-T-REG-NR)
+                                   DELIMITED BY SIZE
+                               INTO output-text
+                           END-STRING
+                           PERFORM write-output
+
+                           *> Bank
+                           MOVE SPACES TO output-text
+                           STRING
+                               "Bank: " DELIMITED BY SIZE
+                               FUNCTION TRIM(
+                                   B-BANKNAVN OF BANK-ARRAY-TABLE(IX2)
+                               )
+                                   DELIMITED BY SIZE
+                               INTO output-text
+                           END-STRING
+                           PERFORM write-output
+
+                           *> Bankadresse
+                           MOVE SPACES TO output-text
+                           STRING
+                               "Bankadresse: " DELIMITED BY SIZE
+                               FUNCTION TRIM(
+                                   B-BANKADRESSE OF
+                                       BANK-ARRAY-TABLE(IX2)
+                               )
+                                   DELIMITED BY SIZE
+                               INTO output-text
+                           END-STRING
+                           PERFORM write-output
+
+                           *> Telefon
+                           MOVE SPACES TO output-text
+                           STRING
+                               "Telefon: " DELIMITED BY SIZE
+                               FUNCTION TRIM(
+                                   B-TELEFON OF BANK-ARRAY-TABLE(IX2)
+                               )
+                                   DELIMITED BY SIZE
+                               INTO output-text
+                           END-STRING
+                           PERFORM write-output
+
+                           *> E-mail
+                           MOVE SPACES TO output-text
+                           STRING
+                               "E-mail: " DELIMITED BY SIZE
+                               FUNCTION TRIM(
+                                   B-EMAIL OF BANK-ARRAY-TABLE(IX2)
+                               )
+                                   DELIMITED BY SIZE
+                               INTO output-text
+                           END-STRING
+                           PERFORM write-output
+
+                           *> Header for transactions
+                           MOVE SPACES TO output-text
+                           STRING
+                               "--- TRANSACTION RECORD (ACCOUNT ID: "
+                                   DELIMITED BY SIZE
+                               FUNCTION TRIM(
+                                   T-KONTO-ID OF
+                                       TRANSACTION-ARRAY-TABLE(IX)
+                               )
+                                   DELIMITED BY SIZE
+                               ") ---" DELIMITED BY SIZE
+                               INTO output-text
+                           END-STRING
+                           PERFORM write-output
+
+                           MOVE SPACES TO output-text
+                           STRING
+                               "Dato Tidspunkt Transaktionstype "
+                                   DELIMITED BY SIZE
+                               "Currency (DKK) Currency(Foreign) "
+                                   DELIMITED BY SIZE
+                               "Butik" DELIMITED BY SIZE
+                               INTO output-text
+                           END-STRING
+                           PERFORM write-output
+
+                           PERFORM FORMAT-PRINT
+                       END-IF
+                       EXIT PERFORM
+                   END-IF
+               END-PERFORM
+
+               MOVE T-CPR OF TRANSACTION-ARRAY-TABLE(IX)
+                   TO LAST-CPR
            END-PERFORM.
-           exit.
+           EXIT.
                
            format-print.
-           perform format-valuta
+           PERFORM format-valuta
 
-           DISPLAY
-           T-TIDSPUNKT OF TRANSACTION-ARRAY-TABLE(IX) " "
-           T-TRANSACTIONSTYPE OF TRANSACTION-ARRAY-TABLE(IX) " "
-           T-BELOEB OF TRANSACTION-ARRAY-TABLE(IX) " "
-           CNV-BELOEB " "
-           T-VALUTA OF TRANSACTION-ARRAY-TABLE(IX) " "
-           T-BUTIK OF TRANSACTION-ARRAY-TABLE(IX)
-           
+           MOVE SPACES TO output-text
+           STRING
+               T-TIDSPUNKT OF TRANSACTION-ARRAY-TABLE(IX)
+                   DELIMITED BY SIZE
+               " " DELIMITED BY SIZE
+               T-TRANSACTIONSTYPE OF TRANSACTION-ARRAY-TABLE(IX)
+                   DELIMITED BY SIZE
+               " " DELIMITED BY SIZE
+               T-BELOEB OF TRANSACTION-ARRAY-TABLE(IX)
+                   DELIMITED BY SIZE
+               " " DELIMITED BY SIZE
+               CNV-BELOEB
+                   DELIMITED BY SIZE
+               " " DELIMITED BY SIZE
+               T-VALUTA OF TRANSACTION-ARRAY-TABLE(IX)
+                   DELIMITED BY SIZE
+               " " DELIMITED BY SIZE
+               T-BUTIK OF TRANSACTION-ARRAY-TABLE(IX)
+                   DELIMITED BY SIZE
+               INTO output-text
+           END-STRING
 
-           exit.
+           PERFORM write-output
+
+           EXIT.
+
+           write-output.
+           WRITE REPORT-RECORD FROM output-text.
+           EXIT.
            format-valuta.
            exit.
        *> Removed: format-navn, format-vej, format-by, format-account paragraphs

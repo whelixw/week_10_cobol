@@ -191,8 +191,12 @@ Identification Division.
                                 DISPLAY "E-mail: "
                                 FUNCTION TRIM(B-EMAIL
                                 OF BANK-ARRAY-TABLE(IX2))
-
-                               perform FORMAT-PRINT
+                   DISPLAY "--- TRANSACTION RECORD (ACCOUNT ID: "
+                    FUNCTION TRIM(T-KONTO-ID OF TRANSACTION-ARRAY-TABLE(IX)) 
+                    ") ---"
+                    DISPLAY "Dato Tidspunkt Transaktionstype"
+                    "Currency (DKK) Currency(Foreign) Butik"
+                                perform FORMAT-PRINT
 
                                 END-IF
                                 EXIT PERFORM

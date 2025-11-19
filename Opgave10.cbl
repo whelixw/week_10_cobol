@@ -334,6 +334,7 @@ Identification Division.
                MOVE T-CPR OF TRANSACTION-ARRAY-TABLE(IX)
                    TO LAST-CPR
            END-PERFORM.
+           PERFORM format-calculations
            EXIT.
                
            format-print.
@@ -387,12 +388,12 @@ Identification Division.
                WHEN "EUR"
                    *> EUR -> DKK
                    COMPUTE CNV-BELOEB ROUNDED =
-                       WS-BELOEB-NUM * 7
+                       WS-BELOEB-NUM * 6.8
 
                WHEN "USD"
                    *> USD -> DKK
                    COMPUTE CNV-BELOEB ROUNDED =
-                       WS-BELOEB-NUM * 10
+                       WS-BELOEB-NUM * 7.5
 
                WHEN OTHER
                    *> DKK or unknown: keep original amount as DKK
@@ -450,6 +451,18 @@ Identification Division.
            END-STRING
            PERFORM write-output
            MOVE SPACES TO output-text
+
+           STRING 
+               "Kind Regards, " DELIMITED BY SIZE
+               FUNCTION TRIM(B-BANKNAVN OF BANK-ARRAY-TABLE(IX2))
+               DELIMITED BY SIZE
+                INTO output-text
+           END-STRING
+
+           perform write-output
+           move spaces to output-text
+        
+
            move zeroes to CNV-BELOEB
            move zeroes to TOTAL-IN
            move zeroes to TOTAL-OUT

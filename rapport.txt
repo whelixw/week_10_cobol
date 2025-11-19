@@ -1,10 +1,10 @@
 Kunde: Mette Mortensen
 Adresse: Søndergade 920B, 2100 Vejle
 Registreringsnummer: 0003
-Bank: Jyske Bank
-Bankadresse: Amagerbrogade 907C, 2100 NÃ¦stved
-Telefon: +45 57451770
-E-mail: kontakt@jyskebank.dk
+Bank: Nordea
+Bankadresse: SÃ¸ndergade 341A, 9000 Roskilde
+Telefon: +45 54462934
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 785-12-39691) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2024-11-14-20.20.17.000000 Indbetaling          -      69589.19 -      69589.19 DKK  Supermarked
@@ -20,26 +20,28 @@ E-mail: kontakt@jyskebank.dk
 Totalt indbetalt(DKK): 1622378.91
 Totalt udbetalt(DKK): -     848327.95
 Saldo (DKK): 824050.96
+Kind Regards,Nordea
 Kunde: Marie Thomsen
 Adresse: Strandvejen 988B, 4700 Roskilde
 Registreringsnummer: 0069
-Bank: Jyske Bank
-Bankadresse: Ã˜sterbrogade 761C, 8900 Randers
-Telefon: +45 77856468
-E-mail: kontakt@jyskebank.dk
+Bank: Nykredit Bank
+Bankadresse: SÃ¸ndergade 398C, 9000 Randers
+Telefon: +45 32190524
+E-mail: kontakt@nykreditbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 762-35-14072) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2023-09-28-04.44.26.000000 Overførsel           -      53791.98 -      53791.98 DKK  Elektronikbutik
 Totalt indbetalt(DKK): 0.00
 Totalt udbetalt(DKK): -      53791.98
 Saldo (DKK): -       3791.98
+Kind Regards,Nykredit Bank
 Kunde: Lars Jensen
 Adresse: Hovedgaden 316B, 3000 Aalborg
 Registreringsnummer: 0092
-Bank: Arbejdernes Landsbank
-Bankadresse: Vesterbrogade 402A, 8900 Aalborg
-Telefon: +45 83539833
-E-mail: kontakt@arbejderneslandsbank.dk
+Bank: Handelsbanken
+Bankadresse: NÃ¸rreport 741A, 8900 Aarhus
+Telefon: +45 47583606
+E-mail: kontakt@handelsbanken.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 922-24-54187) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2024-03-25-11.25.03.000000 Indbetaling                576654.70        57665.47 USD  Møbelbutik
@@ -50,23 +52,24 @@ E-mail: kontakt@arbejderneslandsbank.dk
 Totalt indbetalt(DKK): 1522686.78
 Totalt udbetalt(DKK): -    1233184.18
 Saldo (DKK): 339502.60
+Kind Regards,Handelsbanken
 Kunde: Marie Jensen
 Adresse: Østerbrogade 546C, 4700 Helsingør
 Registreringsnummer: 0024
-Bank: Nykredit Bank
-Bankadresse: Strandvejen 720A, 9000 KÃ¸benhavn
-Telefon: +45 59988760
-E-mail: kontakt@nykreditbank.dk
+Bank: Danske Bank
+Bankadresse: SÃ¸ndergade 991C, 4700 HelsingÃ¸r
+Telefon: +45 47677491
+E-mail: kontakt@danskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 204-89-45112) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2023-07-24-00.58.10.000000 Udbetaling                 189421.60        18942.16 USD  Apotek
 Kunde: Hanne Thomsen
 Adresse: Hovedgaden 365B, 6700 Helsingør
 Registreringsnummer: 0001
-Bank: Nykredit Bank
-Bankadresse: Hovedgaden 929B, 5000 NÃ¦stved
-Telefon: +45 58102450
-E-mail: kontakt@nykreditbank.dk
+Bank: Nordea
+Bankadresse: Hovedgaden 634A, 7100 Aarhus
+Telefon: +45 85737393
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 562-65-87249) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2025-11-12-07.43.00.000000 Indbetaling                795231.60        79523.16 USD  Tankstation
@@ -79,13 +82,14 @@ E-mail: kontakt@nykreditbank.dk
 Totalt indbetalt(DKK): 1859390.17
 Totalt udbetalt(DKK): -     293342.82
 Saldo (DKK): 1616047.35
+Kind Regards,Nordea
 Kunde: Niels Christensen
 Adresse: Hovedgaden 468A, 9000 Roskilde
 Registreringsnummer: 0082
-Bank: Arbejdernes Landsbank
-Bankadresse: Strandvejen 50B, 7100 Roskilde
-Telefon: +45 64849594
-E-mail: kontakt@arbejderneslandsbank.dk
+Bank: Danske Bank
+Bankadresse: NÃ¸rreport 525, 4700 Randers
+Telefon: +45 89226728
+E-mail: kontakt@danskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 921-65-12437) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2023-05-07-18.28.55.000000 Indbetaling                149121.00        14912.10 USD  Fitnesscenter
@@ -100,13 +104,14 @@ E-mail: kontakt@arbejderneslandsbank.dk
 Totalt indbetalt(DKK): 184259.78
 Totalt udbetalt(DKK): -    2536062.23
 Saldo (DKK): -    2301802.45
+Kind Regards,Danske Bank
 Kunde: Niels Christensen
 Adresse: Søndergade 825, 8000 Roskilde
 Registreringsnummer: 0067
-Bank: Jyske Bank
-Bankadresse: NÃ¸rreport 287A, 8900 HelsingÃ¸r
-Telefon: +45 83045513
-E-mail: kontakt@jyskebank.dk
+Bank: Handelsbanken
+Bankadresse: Amagerbrogade 996B, 9000 Odense
+Telefon: +45 40070230
+E-mail: kontakt@handelsbanken.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 805-26-97205) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2020-05-27-19.03.47.000000 Overførsel           -     665270.97 -      95038.71 EUR  Restaurant
@@ -114,13 +119,14 @@ E-mail: kontakt@jyskebank.dk
 Totalt indbetalt(DKK): 0.00
 Totalt udbetalt(DKK): -    1094896.27
 Saldo (DKK): -    1044896.27
+Kind Regards,Handelsbanken
 Kunde: Hanne Nielsen
 Adresse: Strandvejen 992A, 2100 Aarhus
 Registreringsnummer: 0035
-Bank: Spar Nord Bank
-Bankadresse: Ã˜sterbrogade 207B, 7100 Vejle
-Telefon: +45 57317351
-E-mail: kontakt@sparnordbank.dk
+Bank: Sydbank
+Bankadresse: Frederiks AllÃ© 478A, 2100 Aarhus
+Telefon: +45 64717219
+E-mail: kontakt@sydbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 918-95-45870) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2022-02-25-19.31.15.000000 Overførsel           -     250744.30 -      25074.43 USD  Restaurant
@@ -131,13 +137,14 @@ E-mail: kontakt@sparnordbank.dk
 Totalt indbetalt(DKK): 991109.36
 Totalt udbetalt(DKK): -     934515.57
 Saldo (DKK): 106593.79
+Kind Regards,Sydbank
 Kunde: Niels Larsen
 Adresse: Amagerbrogade 783A, 5000 Næstved
 Registreringsnummer: 0052
-Bank: Nykredit Bank
-Bankadresse: Ã˜sterbrogade 142A, 8000 NÃ¦stved
-Telefon: +45 73803907
-E-mail: kontakt@nykreditbank.dk
+Bank: Sydbank
+Bankadresse: Ã˜sterbrogade 449B, 4700 HelsingÃ¸r
+Telefon: +45 18353880
+E-mail: kontakt@sydbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 537-14-39416) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2022-11-22-08.21.30.000000 Indbetaling                 17895.92         2556.56 EUR  Restaurant
@@ -151,13 +158,14 @@ E-mail: kontakt@nykreditbank.dk
 Totalt indbetalt(DKK): 1184489.37
 Totalt udbetalt(DKK): -     479514.19
 Saldo (DKK): 754975.18
+Kind Regards,Sydbank
 Kunde: Niels Hansen
 Adresse: Søndergade 51B, 8000 Esbjerg
 Registreringsnummer: 0014
-Bank: Nordea
-Bankadresse: Ã˜sterbrogade 690B, 9000 Aalborg
-Telefon: +45 86817599
-E-mail: kontakt@nordea.dk
+Bank: Handelsbanken
+Bankadresse: NÃ¸rreport 477C, 4000 Esbjerg
+Telefon: +45 37876555
+E-mail: kontakt@handelsbanken.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 561-43-97153) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2021-04-02-14.32.43.000000 Udbetaling                  91072.82        91072.82 DKK  Biograf
@@ -167,13 +175,14 @@ E-mail: kontakt@nordea.dk
 Totalt indbetalt(DKK): 95142.77
 Totalt udbetalt(DKK): -     732001.10
 Saldo (DKK): -     586858.33
+Kind Regards,Handelsbanken
 Kunde: Søren Nielsen
 Adresse: Strandvejen 523, 3000 Aarhus
 Registreringsnummer: 0029
-Bank: Nordea
-Bankadresse: Frederiks AllÃ© 56B, 4700 HelsingÃ¸r
-Telefon: +45 74236248
-E-mail: kontakt@nordea.dk
+Bank: Arbejdernes Landsbank
+Bankadresse: Strandvejen 727C, 4000 Esbjerg
+Telefon: +45 93666695
+E-mail: kontakt@arbejderneslandsbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 885-78-30497) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2024-05-20-00.08.44.000000 Overførsel                  22235.20        22235.20 DKK  Tankstation
@@ -183,13 +192,14 @@ E-mail: kontakt@nordea.dk
 Totalt indbetalt(DKK): 429035.51
 Totalt udbetalt(DKK): -     188855.59
 Saldo (DKK): 290179.92
+Kind Regards,Arbejdernes Landsbank
 Kunde: Søren Nielsen
 Adresse: Frederiks Allé 227B, 8000 Odense
 Registreringsnummer: 0028
-Bank: Danske Bank
-Bankadresse: Hovedgaden 949C, 6700 Vejle
-Telefon: +45 66042753
-E-mail: kontakt@danskebank.dk
+Bank: Spar Nord Bank
+Bankadresse: Amagerbrogade 394, 6700 Esbjerg
+Telefon: +45 47742550
+E-mail: kontakt@sparnordbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 539-54-94039) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2021-03-25-00.59.19.000000 Indbetaling                395548.72        56506.96 EUR  Restaurant
@@ -200,13 +210,14 @@ E-mail: kontakt@danskebank.dk
 Totalt indbetalt(DKK): 1990515.17
 Totalt udbetalt(DKK): -     686166.70
 Saldo (DKK): 1354348.47
+Kind Regards,Spar Nord Bank
 Kunde: Søren Mortensen
 Adresse: Strandvejen 691A, 7100 Næstved
 Registreringsnummer: 0087
-Bank: Danske Bank
-Bankadresse: Strandvejen 735B, 8000 Roskilde
-Telefon: +45 92732064
-E-mail: kontakt@danskebank.dk
+Bank: Nykredit Bank
+Bankadresse: Hovedgaden 138B, 4700 Vejle
+Telefon: +45 68589582
+E-mail: kontakt@nykreditbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 106-38-69701) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2021-09-04-03.12.29.000000 Indbetaling                 54850.24        54850.24 DKK  Supermarked
@@ -217,13 +228,14 @@ E-mail: kontakt@danskebank.dk
 Totalt indbetalt(DKK): 473713.70
 Totalt udbetalt(DKK): -     562551.58
 Saldo (DKK): -      38837.88
+Kind Regards,Nykredit Bank
 Kunde: Anne Hansen
 Adresse: Hovedgaden 476A, 8000 Esbjerg
 Registreringsnummer: 0069
-Bank: Jyske Bank
-Bankadresse: Ã˜sterbrogade 761C, 8900 Randers
-Telefon: +45 77856468
-E-mail: kontakt@jyskebank.dk
+Bank: Nykredit Bank
+Bankadresse: SÃ¸ndergade 398C, 9000 Randers
+Telefon: +45 32190524
+E-mail: kontakt@nykreditbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 524-11-83460) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2024-10-14-15.57.24.000000 Indbetaling          -      72757.69 -      72757.69 DKK  Bageri
@@ -233,13 +245,14 @@ E-mail: kontakt@jyskebank.dk
 Totalt indbetalt(DKK): 45281.88
 Totalt udbetalt(DKK): -    1005977.89
 Saldo (DKK): -     910696.01
+Kind Regards,Nykredit Bank
 Kunde: Anne Thomsen
 Adresse: Hovedgaden 135, 8000 Randers
 Registreringsnummer: 0005
-Bank: Sydbank
-Bankadresse: Frederiks AllÃ© 214B, 3000 Aarhus
-Telefon: +45 30508784
-E-mail: kontakt@sydbank.dk
+Bank: Spar Nord Bank
+Bankadresse: Strandvejen 849A, 6700 Odense
+Telefon: +45 40436273
+E-mail: kontakt@sparnordbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 162-88-14542) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2021-08-13-06.32.15.000000 Udbetaling                 450279.90        64325.70 EUR  Boghandel
@@ -254,13 +267,14 @@ E-mail: kontakt@sydbank.dk
 Totalt indbetalt(DKK): 1759230.03
 Totalt udbetalt(DKK): -    1508016.39
 Saldo (DKK): 301213.64
+Kind Regards,Spar Nord Bank
 Kunde: Camilla Olsen
 Adresse: Østerbrogade 848B, 3000 Helsingør
 Registreringsnummer: 0053
-Bank: Handelsbanken
-Bankadresse: Vesterbrogade 476A, 9000 HelsingÃ¸r
-Telefon: +45 65749570
-E-mail: kontakt@handelsbanken.dk
+Bank: Danske Bank
+Bankadresse: Vesterbrogade 46C, 4700 Randers
+Telefon: +45 73357462
+E-mail: kontakt@danskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 464-77-15584) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2025-09-28-04.48.08.000000 Indbetaling          -     184360.47 -      26337.21 EUR  Restaurant
@@ -274,12 +288,13 @@ E-mail: kontakt@handelsbanken.dk
 Totalt indbetalt(DKK): 1143979.32
 Totalt udbetalt(DKK): -    1582869.42
 Saldo (DKK): -     388890.10
+Kind Regards,Danske Bank
 Kunde: Jens Mortensen
 Adresse: Hovedgaden 873A, 4000 Esbjerg
 Registreringsnummer: 0015
 Bank: Nykredit Bank
-Bankadresse: Vesterbrogade 509, 9000 KÃ¸benhavn
-Telefon: +45 63708513
+Bankadresse: Strandvejen 687B, 4000 Roskilde
+Telefon: +45 16288988
 E-mail: kontakt@nykreditbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 309-40-66515) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
@@ -295,13 +310,14 @@ E-mail: kontakt@nykreditbank.dk
 Totalt indbetalt(DKK): 2149428.90
 Totalt udbetalt(DKK): -     601308.76
 Saldo (DKK): 1598120.14
+Kind Regards,Nykredit Bank
 Kunde: Camilla Pedersen
 Adresse: Amagerbrogade 18C, 5000 Esbjerg
 Registreringsnummer: 0054
-Bank: Nykredit Bank
-Bankadresse: Amagerbrogade 552B, 2100 KÃ¸benhavn
-Telefon: +45 35495952
-E-mail: kontakt@nykreditbank.dk
+Bank: Arbejdernes Landsbank
+Bankadresse: NÃ¸rreport 6A, 9000 Esbjerg
+Telefon: +45 82717980
+E-mail: kontakt@arbejderneslandsbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 691-31-58351) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2023-03-28-09.31.22.000000 Udbetaling                 474093.06        67727.58 EUR  Boghandel
@@ -316,13 +332,14 @@ E-mail: kontakt@nykreditbank.dk
 Totalt indbetalt(DKK): 1438291.89
 Totalt udbetalt(DKK): -    1396541.79
 Saldo (DKK): 91750.10
+Kind Regards,Arbejdernes Landsbank
 Kunde: Jens Pedersen
 Adresse: Amagerbrogade 124A, 7100 Esbjerg
 Registreringsnummer: 0097
-Bank: Jyske Bank
-Bankadresse: Frederiks AllÃ© 466B, 8900 NÃ¦stved
-Telefon: +45 75358219
-E-mail: kontakt@jyskebank.dk
+Bank: Arbejdernes Landsbank
+Bankadresse: NÃ¸rreport 687C, 3000 KÃ¸benhavn
+Telefon: +45 84070256
+E-mail: kontakt@arbejderneslandsbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 524-79-71735) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2022-03-06-15.10.36.000000 Udbetaling                 616430.64        88061.52 EUR  Tøjbutik
@@ -330,12 +347,13 @@ E-mail: kontakt@jyskebank.dk
 Totalt indbetalt(DKK): 616430.64
 Totalt udbetalt(DKK): -      30200.62
 Saldo (DKK): 636230.02
+Kind Regards,Arbejdernes Landsbank
 Kunde: Mette Pedersen
 Adresse: Hovedgaden 629B, 9000 Roskilde
 Registreringsnummer: 0018
 Bank: Nykredit Bank
-Bankadresse: NÃ¸rreport 984A, 5000 Aarhus
-Telefon: +45 63750334
+Bankadresse: Ã˜sterbrogade 548B, 4700 NÃ¦stved
+Telefon: +45 62031570
 E-mail: kontakt@nykreditbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 759-20-22398) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
@@ -348,13 +366,14 @@ E-mail: kontakt@nykreditbank.dk
 Totalt indbetalt(DKK): 658444.92
 Totalt udbetalt(DKK): -    2097924.32
 Saldo (DKK): -    1389479.40
+Kind Regards,Nykredit Bank
 Kunde: Marie Nielsen
 Adresse: Strandvejen 985B, 4000 Odense
 Registreringsnummer: 0093
-Bank: Danske Bank
-Bankadresse: Vesterbrogade 658C, 5000 NÃ¦stved
-Telefon: +45 51331453
-E-mail: kontakt@danskebank.dk
+Bank: Nordea
+Bankadresse: NÃ¸rreport 642C, 4700 Vejle
+Telefon: +45 44238096
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 987-32-28770) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2020-06-14-03.51.32.000000 Overførsel                  41670.17        41670.17 DKK  Blomsterhandler
@@ -363,8 +382,8 @@ Kunde: Jens Larsen
 Adresse: Hovedgaden 450, 2100 Roskilde
 Registreringsnummer: 0062
 Bank: Danske Bank
-Bankadresse: Strandvejen 163C, 4700 Esbjerg
-Telefon: +45 28377605
+Bankadresse: Vesterbrogade 900C, 6700 Roskilde
+Telefon: +45 31115785
 E-mail: kontakt@danskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 292-38-78492) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
@@ -378,13 +397,14 @@ E-mail: kontakt@danskebank.dk
 Totalt indbetalt(DKK): 1983115.59
 Totalt udbetalt(DKK): -     979087.67
 Saldo (DKK): 1054027.92
+Kind Regards,Danske Bank
 Kunde: Lars Hansen
 Adresse: Søndergade 642A, 2100 Aalborg
 Registreringsnummer: 0072
-Bank: Jyske Bank
-Bankadresse: Ã˜sterbrogade 825B, 3000 Odense
-Telefon: +45 84845513
-E-mail: kontakt@jyskebank.dk
+Bank: Arbejdernes Landsbank
+Bankadresse: SÃ¸ndergade 668B, 9000 Roskilde
+Telefon: +45 62016047
+E-mail: kontakt@arbejderneslandsbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 149-39-29332) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2024-07-31-11.35.03.000000 Overførsel                 479285.10        68469.30 EUR  Biograf
@@ -393,8 +413,8 @@ Kunde: Lars Nielsen
 Adresse: Nørreport 465C, 4700 Aarhus
 Registreringsnummer: 0017
 Bank: Nordea
-Bankadresse: Amagerbrogade 884, 8900 Aarhus
-Telefon: +45 56608494
+Bankadresse: SÃ¸ndergade 803C, 7100 Odense
+Telefon: +45 99721702
 E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 110-95-79247) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
@@ -403,13 +423,14 @@ E-mail: kontakt@nordea.dk
 Totalt indbetalt(DKK): 1288247.90
 Totalt udbetalt(DKK): -     403402.72
 Saldo (DKK): 934845.18
+Kind Regards,Nordea
 Kunde: Niels Hansen
 Adresse: Østerbrogade 575C, 8900 Vejle
 Registreringsnummer: 0043
-Bank: Handelsbanken
-Bankadresse: Amagerbrogade 371C, 2100 Odense
-Telefon: +45 11975295
-E-mail: kontakt@handelsbanken.dk
+Bank: Nykredit Bank
+Bankadresse: Amagerbrogade 520, 8900 Vejle
+Telefon: +45 38974645
+E-mail: kontakt@nykreditbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 711-36-64030) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2020-12-05-12.37.23.000000 Indbetaling                 17492.43        17492.43 DKK  Fitnesscenter
@@ -417,13 +438,14 @@ E-mail: kontakt@handelsbanken.dk
 Totalt indbetalt(DKK): 17492.43
 Totalt udbetalt(DKK): -     283906.77
 Saldo (DKK): -     216414.34
+Kind Regards,Nykredit Bank
 Kunde: Marie Pedersen
 Adresse: Østerbrogade 820A, 2100 Odense
 Registreringsnummer: 0014
-Bank: Nordea
-Bankadresse: Ã˜sterbrogade 690B, 9000 Aalborg
-Telefon: +45 86817599
-E-mail: kontakt@nordea.dk
+Bank: Handelsbanken
+Bankadresse: NÃ¸rreport 477C, 4000 Esbjerg
+Telefon: +45 37876555
+E-mail: kontakt@handelsbanken.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 130-48-97762) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2021-12-24-07.07.57.000000 Udbetaling           -      37065.98 -      37065.98 DKK  Supermarked
@@ -433,13 +455,14 @@ E-mail: kontakt@nordea.dk
 Totalt indbetalt(DKK): 150175.13
 Totalt udbetalt(DKK): -     119978.48
 Saldo (DKK): 80196.65
+Kind Regards,Handelsbanken
 Kunde: Hanne Pedersen
 Adresse: Østerbrogade 66C, 6700 Vejle
 Registreringsnummer: 0008
-Bank: Sydbank
-Bankadresse: Vesterbrogade 875B, 9000 Aarhus
-Telefon: +45 48317630
-E-mail: kontakt@sydbank.dk
+Bank: Nordea
+Bankadresse: SÃ¸ndergade 221A, 3000 Vejle
+Telefon: +45 25955422
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 789-96-18061) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2020-12-26-01.04.55.000000 Udbetaling                  40129.77        40129.77 DKK  Apotek
@@ -451,13 +474,14 @@ E-mail: kontakt@sydbank.dk
 Totalt indbetalt(DKK): 827818.28
 Totalt udbetalt(DKK): -      80378.26
 Saldo (DKK): 797440.02
+Kind Regards,Nordea
 Kunde: Mette Hansen
 Adresse: Nørreport 312, 8900 Roskilde
 Registreringsnummer: 0099
-Bank: Nykredit Bank
-Bankadresse: Ã˜sterbrogade 177A, 2100 Randers
-Telefon: +45 14960373
-E-mail: kontakt@nykreditbank.dk
+Bank: Nordea
+Bankadresse: Amagerbrogade 341, 2100 Vejle
+Telefon: +45 92416582
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 334-29-18267) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2022-07-12-07.51.17.000000 Udbetaling                 506489.34        72355.62 EUR  Fitnesscenter
@@ -473,13 +497,14 @@ E-mail: kontakt@nykreditbank.dk
 Totalt indbetalt(DKK): 1118489.60
 Totalt udbetalt(DKK): -    1147464.80
 Saldo (DKK): 21024.80
+Kind Regards,Nordea
 Kunde: Peter Olsen
 Adresse: Søndergade 895C, 4000 Aalborg
 Registreringsnummer: 0022
-Bank: Sydbank
-Bankadresse: Ã˜sterbrogade 979A, 5000 Randers
-Telefon: +45 97573111
-E-mail: kontakt@sydbank.dk
+Bank: Jyske Bank
+Bankadresse: Frederiks AllÃ© 456B, 2100 Odense
+Telefon: +45 78413786
+E-mail: kontakt@jyskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 292-12-16119) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2023-04-16-13.05.28.000000 Udbetaling           -      81832.66 -      11690.38 EUR  Fitnesscenter
@@ -495,13 +520,14 @@ E-mail: kontakt@sydbank.dk
 Totalt indbetalt(DKK): 1581443.46
 Totalt udbetalt(DKK): -    1403706.43
 Saldo (DKK): 227737.03
+Kind Regards,Jyske Bank
 Kunde: Peter Jensen
 Adresse: Søndergade 988, 5000 Esbjerg
 Registreringsnummer: 0009
-Bank: Sydbank
-Bankadresse: Vesterbrogade 683, 3000 Esbjerg
-Telefon: +45 44988964
-E-mail: kontakt@sydbank.dk
+Bank: Jyske Bank
+Bankadresse: SÃ¸ndergade 207, 4700 Aarhus
+Telefon: +45 47977944
+E-mail: kontakt@jyskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 386-80-91523) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2020-08-12-17.50.18.000000 Udbetaling           -     543116.35 -      77588.05 EUR  Tøjbutik
@@ -516,23 +542,24 @@ E-mail: kontakt@sydbank.dk
 Totalt indbetalt(DKK): 443931.65
 Totalt udbetalt(DKK): -    1184848.78
 Saldo (DKK): -     690917.13
+Kind Regards,Jyske Bank
 Kunde: Hanne Jensen
 Adresse: Amagerbrogade 486B, 8900 Helsingør
 Registreringsnummer: 0078
-Bank: Danske Bank
-Bankadresse: Vesterbrogade 586B, 9000 HelsingÃ¸r
-Telefon: +45 21782180
-E-mail: kontakt@danskebank.dk
+Bank: Arbejdernes Landsbank
+Bankadresse: Strandvejen 626C, 8900 Esbjerg
+Telefon: +45 66225324
+E-mail: kontakt@arbejderneslandsbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 589-96-85739) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2025-02-08-13.50.15.000000 Udbetaling                 654234.70        65423.47 USD  Fitnesscenter
 Kunde: Søren Thomsen
 Adresse: Amagerbrogade 279B, 8900 København
 Registreringsnummer: 0030
-Bank: Handelsbanken
-Bankadresse: Strandvejen 83C, 6700 HelsingÃ¸r
-Telefon: +45 21209756
-E-mail: kontakt@handelsbanken.dk
+Bank: Nykredit Bank
+Bankadresse: Hovedgaden 425A, 5000 NÃ¦stved
+Telefon: +45 69573397
+E-mail: kontakt@nykreditbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 202-87-96496) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2022-11-09-14.30.44.000000 Udbetaling           -     373254.56 -      53322.08 EUR  Supermarked
@@ -545,13 +572,14 @@ E-mail: kontakt@handelsbanken.dk
 Totalt indbetalt(DKK): 659594.06
 Totalt udbetalt(DKK): -     941636.07
 Saldo (DKK): -     232042.01
+Kind Regards,Nykredit Bank
 Kunde: Mette Hansen
 Adresse: Strandvejen 72, 4000 Næstved
 Registreringsnummer: 0006
-Bank: Danske Bank
-Bankadresse: Frederiks AllÃ© 615C, 9000 Esbjerg
-Telefon: +45 21070605
-E-mail: kontakt@danskebank.dk
+Bank: Handelsbanken
+Bankadresse: Frederiks AllÃ© 738C, 9000 Vejle
+Telefon: +45 87222179
+E-mail: kontakt@handelsbanken.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 566-72-52923) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2023-03-13-08.02.46.000000 Indbetaling          -     120995.00 -      17285.00 EUR  Tankstation
@@ -559,13 +587,14 @@ E-mail: kontakt@danskebank.dk
 Totalt indbetalt(DKK): 995798.90
 Totalt udbetalt(DKK): -     120995.00
 Saldo (DKK): 924803.90
+Kind Regards,Handelsbanken
 Kunde: Søren Andersen
 Adresse: Frederiks Allé 333A, 2100 Odense
 Registreringsnummer: 0099
-Bank: Nykredit Bank
-Bankadresse: Ã˜sterbrogade 177A, 2100 Randers
-Telefon: +45 14960373
-E-mail: kontakt@nykreditbank.dk
+Bank: Nordea
+Bankadresse: Amagerbrogade 341, 2100 Vejle
+Telefon: +45 92416582
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 920-73-69936) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2023-06-12-21.19.13.000000 Overførsel           -     213260.25 -      30465.75 EUR  Boghandel
@@ -576,13 +605,14 @@ E-mail: kontakt@nykreditbank.dk
 Totalt indbetalt(DKK): 545423.70
 Totalt udbetalt(DKK): -    1696478.39
 Saldo (DKK): -    1101054.69
+Kind Regards,Nordea
 Kunde: Søren Larsen
 Adresse: Hovedgaden 233C, 2100 Vejle
 Registreringsnummer: 0020
-Bank: Handelsbanken
-Bankadresse: Amagerbrogade 266, 8000 Roskilde
-Telefon: +45 20199238
-E-mail: kontakt@handelsbanken.dk
+Bank: Nordea
+Bankadresse: Ã˜sterbrogade 807, 8000 Aarhus
+Telefon: +45 46621388
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 736-45-48601) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2022-03-22-22.05.12.000000 Indbetaling                443723.42        63389.06 EUR  Restaurant
@@ -592,10 +622,10 @@ E-mail: kontakt@handelsbanken.dk
 Kunde: Niels Pedersen
 Adresse: Hovedgaden 332C, 4000 Roskilde
 Registreringsnummer: 0001
-Bank: Nykredit Bank
-Bankadresse: Hovedgaden 929B, 5000 NÃ¦stved
-Telefon: +45 58102450
-E-mail: kontakt@nykreditbank.dk
+Bank: Nordea
+Bankadresse: Hovedgaden 634A, 7100 Aarhus
+Telefon: +45 85737393
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 364-32-93566) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2021-04-29-08.41.39.000000 Overførsel           -     371340.50 -      37134.05 USD  Tøjbutik
@@ -608,13 +638,14 @@ E-mail: kontakt@nykreditbank.dk
 Totalt indbetalt(DKK): 3904192.06
 Totalt udbetalt(DKK): -     371340.50
 Saldo (DKK): 3582851.56
+Kind Regards,Nordea
 Kunde: Niels Mortensen
 Adresse: Søndergade 103B, 9000 Aalborg
 Registreringsnummer: 0025
-Bank: Nykredit Bank
-Bankadresse: Amagerbrogade 46B, 8000 Vejle
-Telefon: +45 91138578
-E-mail: kontakt@nykreditbank.dk
+Bank: Spar Nord Bank
+Bankadresse: NÃ¸rreport 745B, 3000 Esbjerg
+Telefon: +45 55240784
+E-mail: kontakt@sparnordbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 617-68-63228) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2023-08-31-11.03.51.000000 Overførsel           -     421729.00 -      60247.00 EUR  Biograf
@@ -622,13 +653,14 @@ E-mail: kontakt@nykreditbank.dk
 Totalt indbetalt(DKK): 59842.64
 Totalt udbetalt(DKK): -     421729.00
 Saldo (DKK): -     311886.36
+Kind Regards,Spar Nord Bank
 Kunde: Hanne Hansen
 Adresse: Søndergade 712A, 4000 København
 Registreringsnummer: 0050
-Bank: Danske Bank
-Bankadresse: SÃ¸ndergade 433C, 4700 KÃ¸benhavn
-Telefon: +45 37276279
-E-mail: kontakt@danskebank.dk
+Bank: Nordea
+Bankadresse: Ã˜sterbrogade 990A, 5000 Esbjerg
+Telefon: +45 19954512
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 174-84-47439) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2023-10-25-16.27.40.000000 Udbetaling           -      27204.35 -      27204.35 DKK  Café
@@ -636,13 +668,14 @@ E-mail: kontakt@danskebank.dk
 Totalt indbetalt(DKK): 0.00
 Totalt udbetalt(DKK): -     416769.19
 Saldo (DKK): -     366769.19
+Kind Regards,Nordea
 Kunde: Lars Andersen
 Adresse: Amagerbrogade 761, 8900 København
 Registreringsnummer: 0007
-Bank: Jyske Bank
-Bankadresse: Ã˜sterbrogade 417C, 8000 Randers
-Telefon: +45 65768560
-E-mail: kontakt@jyskebank.dk
+Bank: Nykredit Bank
+Bankadresse: Amagerbrogade 931B, 4700 NÃ¦stved
+Telefon: +45 87831330
+E-mail: kontakt@nykreditbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 431-41-30561) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2023-07-10-16.25.45.000000 Indbetaling                 63034.65         9004.95 EUR  Elektronikbutik
@@ -657,12 +690,13 @@ E-mail: kontakt@jyskebank.dk
 Totalt indbetalt(DKK): 1066916.07
 Totalt udbetalt(DKK): -     779943.22
 Saldo (DKK): 336972.85
+Kind Regards,Nykredit Bank
 Kunde: Jens Mortensen
 Adresse: Vesterbrogade 243A, 5000 Næstved
 Registreringsnummer: 0060
 Bank: Sydbank
-Bankadresse: Vesterbrogade 896B, 4700 NÃ¦stved
-Telefon: +45 15936042
+Bankadresse: Vesterbrogade 326, 7100 Vejle
+Telefon: +45 43213792
 E-mail: kontakt@sydbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 341-61-95601) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
@@ -676,13 +710,14 @@ E-mail: kontakt@sydbank.dk
 Totalt indbetalt(DKK): 1662586.47
 Totalt udbetalt(DKK): -    2016887.66
 Saldo (DKK): -     304301.19
+Kind Regards,Sydbank
 Kunde: Anne Larsen
 Adresse: Frederiks Allé 646, 8900 Næstved
 Registreringsnummer: 0038
-Bank: Jyske Bank
-Bankadresse: Vesterbrogade 317, 5000 Roskilde
-Telefon: +45 77745977
-E-mail: kontakt@jyskebank.dk
+Bank: Danske Bank
+Bankadresse: Strandvejen 744B, 5000 Roskilde
+Telefon: +45 99281345
+E-mail: kontakt@danskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 783-48-21998) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2024-03-31-12.41.04.000000 Udbetaling                  29626.03        29626.03 DKK  Tankstation
@@ -697,13 +732,14 @@ E-mail: kontakt@jyskebank.dk
 Totalt indbetalt(DKK): 118055.84
 Totalt udbetalt(DKK): -    1545532.53
 Saldo (DKK): -    1377476.69
+Kind Regards,Danske Bank
 Kunde: Marie Christensen
 Adresse: Hovedgaden 108A, 6700 København
 Registreringsnummer: 0039
-Bank: Handelsbanken
-Bankadresse: Ã˜sterbrogade 247C, 8900 Odense
-Telefon: +45 83440860
-E-mail: kontakt@handelsbanken.dk
+Bank: Nykredit Bank
+Bankadresse: Hovedgaden 417A, 4700 HelsingÃ¸r
+Telefon: +45 11155187
+E-mail: kontakt@nykreditbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 591-35-57493) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2021-07-16-13.14.33.000000 Overførsel           -     578879.56 -      82697.08 EUR  Café
@@ -711,13 +747,14 @@ E-mail: kontakt@handelsbanken.dk
 Totalt indbetalt(DKK): 0.00
 Totalt udbetalt(DKK): -     669333.52
 Saldo (DKK): -     619333.52
+Kind Regards,Nykredit Bank
 Kunde: Niels Jensen
 Adresse: Vesterbrogade 523A, 5000 Helsingør
 Registreringsnummer: 0057
-Bank: Jyske Bank
-Bankadresse: Hovedgaden 782A, 4700 NÃ¦stved
-Telefon: +45 41274832
-E-mail: kontakt@jyskebank.dk
+Bank: Handelsbanken
+Bankadresse: SÃ¸ndergade 555C, 6700 Odense
+Telefon: +45 43020006
+E-mail: kontakt@handelsbanken.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 653-17-26661) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2022-11-04-11.02.33.000000 Udbetaling           -     692683.74 -      98954.82 EUR  Apotek
@@ -733,13 +770,14 @@ E-mail: kontakt@jyskebank.dk
 Totalt indbetalt(DKK): 1519547.74
 Totalt udbetalt(DKK): -    1422398.75
 Saldo (DKK): 147148.99
+Kind Regards,Handelsbanken
 Kunde: Niels Hansen
 Adresse: Nørreport 162A, 2100 Vejle
 Registreringsnummer: 0025
-Bank: Nykredit Bank
-Bankadresse: Amagerbrogade 46B, 8000 Vejle
-Telefon: +45 91138578
-E-mail: kontakt@nykreditbank.dk
+Bank: Spar Nord Bank
+Bankadresse: NÃ¸rreport 745B, 3000 Esbjerg
+Telefon: +45 55240784
+E-mail: kontakt@sparnordbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 435-86-41801) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2020-09-24-09.48.30.000000 Overførsel                 137786.70        13778.67 USD  Elektronikbutik
@@ -750,13 +788,14 @@ E-mail: kontakt@nykreditbank.dk
 Totalt indbetalt(DKK): 861834.00
 Totalt udbetalt(DKK): -     513470.54
 Saldo (DKK): 398363.46
+Kind Regards,Spar Nord Bank
 Kunde: Jens Hansen
 Adresse: Frederiks Allé 67B, 9000 Esbjerg
 Registreringsnummer: 0099
-Bank: Nykredit Bank
-Bankadresse: Ã˜sterbrogade 177A, 2100 Randers
-Telefon: +45 14960373
-E-mail: kontakt@nykreditbank.dk
+Bank: Nordea
+Bankadresse: Amagerbrogade 341, 2100 Vejle
+Telefon: +45 92416582
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 625-10-13180) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2022-10-14-02.40.02.000000 Overførsel                 514833.27        73547.61 EUR  Møbelbutik
@@ -766,23 +805,24 @@ E-mail: kontakt@nykreditbank.dk
 Totalt indbetalt(DKK): 598204.74
 Totalt udbetalt(DKK): -     572607.93
 Saldo (DKK): 75596.81
+Kind Regards,Nordea
 Kunde: Søren Thomsen
 Adresse: Nørreport 516C, 4000 Helsingør
 Registreringsnummer: 0021
-Bank: Spar Nord Bank
-Bankadresse: Ã˜sterbrogade 36B, 8900 Odense
-Telefon: +45 54321947
-E-mail: kontakt@sparnordbank.dk
+Bank: Nykredit Bank
+Bankadresse: Strandvejen 536B, 3000 Esbjerg
+Telefon: +45 96304879
+E-mail: kontakt@nykreditbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 264-82-18782) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2024-07-01-19.03.55.000000 Overførsel                  91632.58        91632.58 DKK  Tankstation
 Kunde: Mette Christensen
 Adresse: Søndergade 71B, 3000 Vejle
 Registreringsnummer: 0053
-Bank: Handelsbanken
-Bankadresse: Vesterbrogade 476A, 9000 HelsingÃ¸r
-Telefon: +45 65749570
-E-mail: kontakt@handelsbanken.dk
+Bank: Danske Bank
+Bankadresse: Vesterbrogade 46C, 4700 Randers
+Telefon: +45 73357462
+E-mail: kontakt@danskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 561-40-72467) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2022-10-28-04.47.09.000000 Overførsel           -      81608.34 -      81608.34 DKK  Blomsterhandler
@@ -793,13 +833,14 @@ E-mail: kontakt@handelsbanken.dk
 Totalt indbetalt(DKK): 1009530.41
 Totalt udbetalt(DKK): -     984064.14
 Saldo (DKK): 75466.27
+Kind Regards,Danske Bank
 Kunde: Søren Andersen
 Adresse: Amagerbrogade 893B, 3000 Esbjerg
 Registreringsnummer: 0055
-Bank: Arbejdernes Landsbank
-Bankadresse: Strandvejen 915B, 8900 Randers
-Telefon: +45 99546738
-E-mail: kontakt@arbejderneslandsbank.dk
+Bank: Spar Nord Bank
+Bankadresse: Hovedgaden 251, 9000 Odense
+Telefon: +45 73101571
+E-mail: kontakt@sparnordbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 290-14-31542) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2023-04-17-21.44.33.000000 Indbetaling          -     221549.58 -      31649.94 EUR  Café
@@ -815,23 +856,24 @@ E-mail: kontakt@arbejderneslandsbank.dk
 Totalt indbetalt(DKK): 2130983.88
 Totalt udbetalt(DKK): -    1350741.07
 Saldo (DKK): 830242.81
+Kind Regards,Spar Nord Bank
 Kunde: Niels Mortensen
 Adresse: Østerbrogade 68B, 3000 København
 Registreringsnummer: 0008
-Bank: Sydbank
-Bankadresse: Vesterbrogade 875B, 9000 Aarhus
-Telefon: +45 48317630
-E-mail: kontakt@sydbank.dk
+Bank: Nordea
+Bankadresse: SÃ¸ndergade 221A, 3000 Vejle
+Telefon: +45 25955422
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 772-69-76380) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2020-04-14-06.15.04.000000 Udbetaling                  31204.88         4457.84 EUR  Supermarked
 Kunde: Anne Nielsen
 Adresse: Amagerbrogade 594, 8000 Roskilde
 Registreringsnummer: 0038
-Bank: Jyske Bank
-Bankadresse: Vesterbrogade 317, 5000 Roskilde
-Telefon: +45 77745977
-E-mail: kontakt@jyskebank.dk
+Bank: Danske Bank
+Bankadresse: Strandvejen 744B, 5000 Roskilde
+Telefon: +45 99281345
+E-mail: kontakt@danskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 778-91-22311) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2020-10-30-22.50.39.000000 Indbetaling                355350.24        50764.32 EUR  Café
@@ -847,26 +889,28 @@ E-mail: kontakt@jyskebank.dk
 Totalt indbetalt(DKK): 1488696.71
 Totalt udbetalt(DKK): -    1410023.36
 Saldo (DKK): 128673.35
+Kind Regards,Danske Bank
 Kunde: Mette Olsen
 Adresse: Østerbrogade 835, 8000 Randers
 Registreringsnummer: 0026
-Bank: Nordea
-Bankadresse: Amagerbrogade 833, 8900 Odense
-Telefon: +45 46787310
-E-mail: kontakt@nordea.dk
+Bank: Arbejdernes Landsbank
+Bankadresse: Strandvejen 262, 5000 Odense
+Telefon: +45 64239648
+E-mail: kontakt@arbejderneslandsbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 501-35-98720) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2024-04-04-18.03.56.000000 Udbetaling           -     398067.32 -      56866.76 EUR  Bageri
 Totalt indbetalt(DKK): 0.00
 Totalt udbetalt(DKK): -     398067.32
 Saldo (DKK): -     348067.32
+Kind Regards,Arbejdernes Landsbank
 Kunde: Marie Hansen
 Adresse: Nørreport 932, 3000 Vejle
 Registreringsnummer: 0083
-Bank: Handelsbanken
-Bankadresse: Hovedgaden 897, 4000 NÃ¦stved
-Telefon: +45 87460026
-E-mail: kontakt@handelsbanken.dk
+Bank: Nordea
+Bankadresse: SÃ¸ndergade 518, 8000 HelsingÃ¸r
+Telefon: +45 87246918
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 536-66-77308) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2021-06-05-16.07.37.000000 Overførsel           -     179809.60 -      17980.96 USD  Apotek
@@ -879,13 +923,14 @@ E-mail: kontakt@handelsbanken.dk
 Totalt indbetalt(DKK): 1809485.15
 Totalt udbetalt(DKK): -    1492697.60
 Saldo (DKK): 366787.55
+Kind Regards,Nordea
 Kunde: Anne Hansen
 Adresse: Frederiks Allé 927B, 7100 Roskilde
 Registreringsnummer: 0100
-Bank: Jyske Bank
-Bankadresse: Vesterbrogade 766A, 4000 Randers
-Telefon: +45 13403310
-E-mail: kontakt@jyskebank.dk
+Bank: Sydbank
+Bankadresse: Hovedgaden 120A, 4000 Roskilde
+Telefon: +45 52789024
+E-mail: kontakt@sydbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 791-23-70527) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2021-03-30-01.54.12.000000 Overførsel                 144344.69        20620.67 EUR  Blomsterhandler
@@ -899,13 +944,14 @@ E-mail: kontakt@jyskebank.dk
 Totalt indbetalt(DKK): 835072.57
 Totalt udbetalt(DKK): -    1103566.75
 Saldo (DKK): -     218494.18
+Kind Regards,Sydbank
 Kunde: Camilla Christensen
 Adresse: Frederiks Allé 509B, 8000 København
 Registreringsnummer: 0031
-Bank: Nykredit Bank
-Bankadresse: Ã˜sterbrogade 448B, 3000 Vejle
-Telefon: +45 17600253
-E-mail: kontakt@nykreditbank.dk
+Bank: Nordea
+Bankadresse: Hovedgaden 704B, 8000 HelsingÃ¸r
+Telefon: +45 23635770
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 354-13-93759) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2025-12-01-18.00.00.000000 Indbetaling          -     494708.69 -      70672.67 EUR  Tankstation
@@ -914,13 +960,14 @@ E-mail: kontakt@nykreditbank.dk
 Totalt indbetalt(DKK): 107477.80
 Totalt udbetalt(DKK): -     751231.46
 Saldo (DKK): -     593753.66
+Kind Regards,Nordea
 Kunde: Peter Olsen
 Adresse: Frederiks Allé 410C, 4700 Roskilde
 Registreringsnummer: 0029
-Bank: Nordea
-Bankadresse: Frederiks AllÃ© 56B, 4700 HelsingÃ¸r
-Telefon: +45 74236248
-E-mail: kontakt@nordea.dk
+Bank: Arbejdernes Landsbank
+Bankadresse: Strandvejen 727C, 4000 Esbjerg
+Telefon: +45 93666695
+E-mail: kontakt@arbejderneslandsbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 803-35-97160) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2023-04-16-23.39.50.000000 Overførsel           -       5202.64 -       5202.64 DKK  Bageri
@@ -936,13 +983,14 @@ E-mail: kontakt@nordea.dk
 Totalt indbetalt(DKK): 860136.59
 Totalt udbetalt(DKK): -    1860078.72
 Saldo (DKK): -     949942.13
+Kind Regards,Arbejdernes Landsbank
 Kunde: Marie Larsen
 Adresse: Søndergade 287A, 5000 Vejle
 Registreringsnummer: 0020
-Bank: Handelsbanken
-Bankadresse: Amagerbrogade 266, 8000 Roskilde
-Telefon: +45 20199238
-E-mail: kontakt@handelsbanken.dk
+Bank: Nordea
+Bankadresse: Ã˜sterbrogade 807, 8000 Aarhus
+Telefon: +45 46621388
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 693-33-86989) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2024-11-24-14.27.57.000000 Indbetaling                278505.99        39786.57 EUR  Elektronikbutik
@@ -951,10 +999,10 @@ E-mail: kontakt@handelsbanken.dk
 Kunde: Niels Mortensen
 Adresse: Amagerbrogade 652B, 8900 Randers
 Registreringsnummer: 0008
-Bank: Sydbank
-Bankadresse: Vesterbrogade 875B, 9000 Aarhus
-Telefon: +45 48317630
-E-mail: kontakt@sydbank.dk
+Bank: Nordea
+Bankadresse: SÃ¸ndergade 221A, 3000 Vejle
+Telefon: +45 25955422
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 127-13-46749) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2021-08-24-06.25.45.000000 Udbetaling           -      19992.38 -      19992.38 DKK  Biograf
@@ -965,13 +1013,14 @@ E-mail: kontakt@sydbank.dk
 Totalt indbetalt(DKK): 968301.35
 Totalt udbetalt(DKK): -     586730.51
 Saldo (DKK): 431570.84
+Kind Regards,Nordea
 Kunde: Søren Mortensen
 Adresse: Hovedgaden 140, 4000 Esbjerg
 Registreringsnummer: 0089
-Bank: Danske Bank
-Bankadresse: NÃ¸rreport 69B, 9000 Randers
-Telefon: +45 82369329
-E-mail: kontakt@danskebank.dk
+Bank: Handelsbanken
+Bankadresse: Amagerbrogade 800B, 2100 Aalborg
+Telefon: +45 46141103
+E-mail: kontakt@handelsbanken.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 672-67-20732) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2022-01-10-18.28.34.000000 Udbetaling           -     572758.69 -      81822.67 EUR  Tankstation
@@ -984,13 +1033,14 @@ E-mail: kontakt@danskebank.dk
 Totalt indbetalt(DKK): 187355.86
 Totalt udbetalt(DKK): -    1508919.74
 Saldo (DKK): -    1271563.88
+Kind Regards,Handelsbanken
 Kunde: Jens Christensen
 Adresse: Østerbrogade 878A, 2100 Helsingør
 Registreringsnummer: 0093
-Bank: Danske Bank
-Bankadresse: Vesterbrogade 658C, 5000 NÃ¦stved
-Telefon: +45 51331453
-E-mail: kontakt@danskebank.dk
+Bank: Nordea
+Bankadresse: NÃ¸rreport 642C, 4700 Vejle
+Telefon: +45 44238096
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 805-28-69922) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2022-11-07-04.43.01.000000 Udbetaling                  60569.22        60569.22 DKK  Fitnesscenter
@@ -1002,13 +1052,14 @@ E-mail: kontakt@danskebank.dk
 Totalt indbetalt(DKK): 1464171.22
 Totalt udbetalt(DKK): -    1076337.96
 Saldo (DKK): 437833.26
+Kind Regards,Nordea
 Kunde: Peter Christensen
 Adresse: Søndergade 339A, 9000 Roskilde
 Registreringsnummer: 0059
-Bank: Nordea
-Bankadresse: SÃ¸ndergade 757A, 9000 Roskilde
-Telefon: +45 85631407
-E-mail: kontakt@nordea.dk
+Bank: Arbejdernes Landsbank
+Bankadresse: Ã˜sterbrogade 622C, 9000 Odense
+Telefon: +45 86806715
+E-mail: kontakt@arbejderneslandsbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 289-72-86925) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2025-11-27-05.36.47.000000 Indbetaling          -     569926.70 -      81418.10 EUR  Bageri
@@ -1020,23 +1071,24 @@ E-mail: kontakt@nordea.dk
 Totalt indbetalt(DKK): 715720.19
 Totalt udbetalt(DKK): -     638413.92
 Saldo (DKK): 127306.27
+Kind Regards,Arbejdernes Landsbank
 Kunde: Mette Olsen
 Adresse: Strandvejen 320B, 8000 Vejle
 Registreringsnummer: 0085
-Bank: Spar Nord Bank
-Bankadresse: Amagerbrogade 722C, 3000 Esbjerg
-Telefon: +45 10718034
-E-mail: kontakt@sparnordbank.dk
+Bank: Handelsbanken
+Bankadresse: Strandvejen 529, 5000 NÃ¦stved
+Telefon: +45 57751177
+E-mail: kontakt@handelsbanken.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 882-78-73266) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2025-04-08-15.35.52.000000 Overførsel                 888679.10        88867.91 USD  Café
 Kunde: Jens Christensen
 Adresse: Frederiks Allé 301, 8900 Aalborg
 Registreringsnummer: 0025
-Bank: Nykredit Bank
-Bankadresse: Amagerbrogade 46B, 8000 Vejle
-Telefon: +45 91138578
-E-mail: kontakt@nykreditbank.dk
+Bank: Spar Nord Bank
+Bankadresse: NÃ¸rreport 745B, 3000 Esbjerg
+Telefon: +45 55240784
+E-mail: kontakt@sparnordbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 112-46-93603) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2023-04-21-02.19.50.000000 Overførsel           -     157048.78 -      22435.54 EUR  Restaurant
@@ -1047,13 +1099,14 @@ E-mail: kontakt@nykreditbank.dk
 Totalt indbetalt(DKK): 1336698.64
 Totalt udbetalt(DKK): -     283443.24
 Saldo (DKK): 1103255.40
+Kind Regards,Spar Nord Bank
 Kunde: Mette Hansen
 Adresse: Søndergade 126C, 9000 Odense
 Registreringsnummer: 0045
-Bank: Arbejdernes Landsbank
-Bankadresse: Ã˜sterbrogade 197B, 8000 Aalborg
-Telefon: +45 78077742
-E-mail: kontakt@arbejderneslandsbank.dk
+Bank: Spar Nord Bank
+Bankadresse: NÃ¸rreport 482C, 2100 KÃ¸benhavn
+Telefon: +45 49010414
+E-mail: kontakt@sparnordbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 300-33-10384) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2022-03-14-17.32.36.000000 Overførsel                 142819.10        14281.91 USD  Apotek
@@ -1066,13 +1119,14 @@ E-mail: kontakt@arbejderneslandsbank.dk
 Totalt indbetalt(DKK): 1223026.83
 Totalt udbetalt(DKK): -     756143.05
 Saldo (DKK): 516883.78
+Kind Regards,Spar Nord Bank
 Kunde: Jens Christensen
 Adresse: Hovedgaden 186A, 8000 Randers
 Registreringsnummer: 0076
-Bank: Danske Bank
-Bankadresse: Frederiks AllÃ© 637B, 2100 Aarhus
-Telefon: +45 12644937
-E-mail: kontakt@danskebank.dk
+Bank: Jyske Bank
+Bankadresse: SÃ¸ndergade 641C, 8900 KÃ¸benhavn
+Telefon: +45 57452189
+E-mail: kontakt@jyskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 301-71-78966) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2022-08-16-01.55.59.000000 Udbetaling                  61281.45        61281.45 DKK  Restaurant
@@ -1082,23 +1136,24 @@ E-mail: kontakt@danskebank.dk
 Kunde: Søren Pedersen
 Adresse: Frederiks Allé 811, 7100 Næstved
 Registreringsnummer: 0083
-Bank: Handelsbanken
-Bankadresse: Hovedgaden 897, 4000 NÃ¦stved
-Telefon: +45 87460026
-E-mail: kontakt@handelsbanken.dk
+Bank: Nordea
+Bankadresse: SÃ¸ndergade 518, 8000 HelsingÃ¸r
+Telefon: +45 87246918
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 259-34-49114) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2020-10-24-18.17.10.000000 Overførsel           -     100038.26 -      14291.18 EUR  Elektronikbutik
 Totalt indbetalt(DKK): 1912284.81
 Totalt udbetalt(DKK): -     100038.26
 Saldo (DKK): 1862246.55
+Kind Regards,Nordea
 Kunde: Peter Mortensen
 Adresse: Nørreport 917C, 8900 Næstved
 Registreringsnummer: 0095
-Bank: Nordea
-Bankadresse: Ã˜sterbrogade 536A, 6700 Aalborg
-Telefon: +45 70498015
-E-mail: kontakt@nordea.dk
+Bank: Spar Nord Bank
+Bankadresse: Strandvejen 896, 4000 Randers
+Telefon: +45 85886954
+E-mail: kontakt@sparnordbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 759-82-13440) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2021-06-05-17.40.12.000000 Udbetaling           -     571404.89 -      81629.27 EUR  Fitnesscenter
@@ -1111,23 +1166,24 @@ E-mail: kontakt@nordea.dk
 Totalt indbetalt(DKK): 520925.37
 Totalt udbetalt(DKK): -    1371234.90
 Saldo (DKK): -     800309.53
+Kind Regards,Spar Nord Bank
 Kunde: Jens Pedersen
 Adresse: Østerbrogade 676C, 8000 København
 Registreringsnummer: 0022
-Bank: Sydbank
-Bankadresse: Ã˜sterbrogade 979A, 5000 Randers
-Telefon: +45 97573111
-E-mail: kontakt@sydbank.dk
+Bank: Jyske Bank
+Bankadresse: Frederiks AllÃ© 456B, 2100 Odense
+Telefon: +45 78413786
+E-mail: kontakt@jyskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 880-63-13551) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2021-11-17-22.05.41.000000 Indbetaling                584544.10        58454.41 USD  Tankstation
 Kunde: Mette Thomsen
 Adresse: Søndergade 431C, 5000 Vejle
 Registreringsnummer: 0059
-Bank: Nordea
-Bankadresse: SÃ¸ndergade 757A, 9000 Roskilde
-Telefon: +45 85631407
-E-mail: kontakt@nordea.dk
+Bank: Arbejdernes Landsbank
+Bankadresse: Ã˜sterbrogade 622C, 9000 Odense
+Telefon: +45 86806715
+E-mail: kontakt@arbejderneslandsbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 108-51-24621) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2023-06-20-05.14.42.000000 Indbetaling          -       4472.49 -       4472.49 DKK  Bageri
@@ -1138,26 +1194,28 @@ E-mail: kontakt@nordea.dk
 Totalt indbetalt(DKK): 895855.33
 Totalt udbetalt(DKK): -       4472.49
 Saldo (DKK): 941382.84
+Kind Regards,Arbejdernes Landsbank
 Kunde: Mette Christensen
 Adresse: Søndergade 44B, 4700 Randers
 Registreringsnummer: 0074
-Bank: Handelsbanken
-Bankadresse: Strandvejen 142, 7100 Odense
-Telefon: +45 29296274
-E-mail: kontakt@handelsbanken.dk
+Bank: Nordea
+Bankadresse: Ã˜sterbrogade 794C, 7100 Esbjerg
+Telefon: +45 98528129
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 816-78-45810) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2021-07-06-15.34.14.000000 Udbetaling           -      11418.61 -      11418.61 DKK  Tøjbutik
 Totalt indbetalt(DKK): 0.00
 Totalt udbetalt(DKK): -      11418.61
 Saldo (DKK): 38581.39
+Kind Regards,Nordea
 Kunde: Anne Thomsen
 Adresse: Strandvejen 676, 6700 Randers
 Registreringsnummer: 0080
-Bank: Arbejdernes Landsbank
-Bankadresse: Vesterbrogade 944B, 4000 HelsingÃ¸r
-Telefon: +45 35326098
-E-mail: kontakt@arbejderneslandsbank.dk
+Bank: Jyske Bank
+Bankadresse: SÃ¸ndergade 331B, 3000 Aarhus
+Telefon: +45 89128613
+E-mail: kontakt@jyskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 371-91-36259) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2024-12-03-09.28.30.000000 Udbetaling                  84665.76        84665.76 DKK  Biograf
@@ -1165,8 +1223,8 @@ Kunde: Lars Christensen
 Adresse: Frederiks Allé 620, 9000 Odense
 Registreringsnummer: 0015
 Bank: Nykredit Bank
-Bankadresse: Vesterbrogade 509, 9000 KÃ¸benhavn
-Telefon: +45 63708513
+Bankadresse: Strandvejen 687B, 4000 Roskilde
+Telefon: +45 16288988
 E-mail: kontakt@nykreditbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 413-14-61695) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
@@ -1177,10 +1235,10 @@ E-mail: kontakt@nykreditbank.dk
 Kunde: Lars Andersen
 Adresse: Nørreport 32B, 8000 Randers
 Registreringsnummer: 0087
-Bank: Danske Bank
-Bankadresse: Strandvejen 735B, 8000 Roskilde
-Telefon: +45 92732064
-E-mail: kontakt@danskebank.dk
+Bank: Nykredit Bank
+Bankadresse: Hovedgaden 138B, 4700 Vejle
+Telefon: +45 68589582
+E-mail: kontakt@nykreditbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 718-16-89642) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2024-01-23-02.54.04.000000 Udbetaling                 554747.70        55474.77 USD  Tøjbutik
@@ -1193,13 +1251,14 @@ E-mail: kontakt@danskebank.dk
 Totalt indbetalt(DKK): 2165276.72
 Totalt udbetalt(DKK): -     368181.24
 Saldo (DKK): 1847095.48
+Kind Regards,Nykredit Bank
 Kunde: Mette Mortensen
 Adresse: Østerbrogade 187, 4700 Næstved
 Registreringsnummer: 0052
-Bank: Nykredit Bank
-Bankadresse: Ã˜sterbrogade 142A, 8000 NÃ¦stved
-Telefon: +45 73803907
-E-mail: kontakt@nykreditbank.dk
+Bank: Sydbank
+Bankadresse: Ã˜sterbrogade 449B, 4700 HelsingÃ¸r
+Telefon: +45 18353880
+E-mail: kontakt@sydbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 888-67-62592) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2021-11-17-07.37.18.000000 Indbetaling          -      94082.26 -      94082.26 DKK  Fitnesscenter
@@ -1208,13 +1267,14 @@ E-mail: kontakt@nykreditbank.dk
 Totalt indbetalt(DKK): 76116.23
 Totalt udbetalt(DKK): -     485335.43
 Saldo (DKK): -     359219.20
+Kind Regards,Sydbank
 Kunde: Niels Thomsen
 Adresse: Hovedgaden 387B, 8000 Vejle
 Registreringsnummer: 0020
-Bank: Handelsbanken
-Bankadresse: Amagerbrogade 266, 8000 Roskilde
-Telefon: +45 20199238
-E-mail: kontakt@handelsbanken.dk
+Bank: Nordea
+Bankadresse: Ã˜sterbrogade 807, 8000 Aarhus
+Telefon: +45 46621388
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 639-91-87982) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2020-11-25-12.08.37.000000 Overførsel           -      47648.61 -      47648.61 DKK  Boghandel
@@ -1229,13 +1289,14 @@ E-mail: kontakt@handelsbanken.dk
 Totalt indbetalt(DKK): 1172395.52
 Totalt udbetalt(DKK): -     112159.90
 Saldo (DKK): 1110235.62
+Kind Regards,Nordea
 Kunde: Camilla Larsen
 Adresse: Vesterbrogade 245A, 4700 Esbjerg
 Registreringsnummer: 0095
-Bank: Nordea
-Bankadresse: Ã˜sterbrogade 536A, 6700 Aalborg
-Telefon: +45 70498015
-E-mail: kontakt@nordea.dk
+Bank: Spar Nord Bank
+Bankadresse: Strandvejen 896, 4000 Randers
+Telefon: +45 85886954
+E-mail: kontakt@sparnordbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 300-75-63667) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2025-12-04-04.43.40.000000 Overførsel           -      72721.20 -       7272.12 USD  Apotek
@@ -1247,13 +1308,14 @@ E-mail: kontakt@nordea.dk
 Totalt indbetalt(DKK): 645806.40
 Totalt udbetalt(DKK): -     936073.29
 Saldo (DKK): -     240266.89
+Kind Regards,Spar Nord Bank
 Kunde: Søren Christensen
 Adresse: Søndergade 142B, 3000 Randers
 Registreringsnummer: 0072
-Bank: Jyske Bank
-Bankadresse: Ã˜sterbrogade 825B, 3000 Odense
-Telefon: +45 84845513
-E-mail: kontakt@jyskebank.dk
+Bank: Arbejdernes Landsbank
+Bankadresse: SÃ¸ndergade 668B, 9000 Roskilde
+Telefon: +45 62016047
+E-mail: kontakt@arbejderneslandsbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 476-48-41102) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2020-06-17-20.49.23.000000 Overførsel                  50561.91         7223.13 EUR  Apotek
@@ -1265,23 +1327,24 @@ E-mail: kontakt@jyskebank.dk
 Totalt indbetalt(DKK): 553630.00
 Totalt udbetalt(DKK): -    2000025.95
 Saldo (DKK): -    1396395.95
+Kind Regards,Arbejdernes Landsbank
 Kunde: Hanne Jensen
 Adresse: Hovedgaden 535B, 2100 Esbjerg
 Registreringsnummer: 0019
-Bank: Nykredit Bank
-Bankadresse: Frederiks AllÃ© 965, 4700 KÃ¸benhavn
-Telefon: +45 42231557
-E-mail: kontakt@nykreditbank.dk
+Bank: Jyske Bank
+Bankadresse: Vesterbrogade 560A, 4000 Vejle
+Telefon: +45 70980773
+E-mail: kontakt@jyskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 635-12-38193) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2025-03-08-12.17.23.000000 Overførsel                 796168.80        79616.88 USD  Supermarked
 Kunde: Camilla Andersen
 Adresse: Søndergade 756C, 8900 København
 Registreringsnummer: 0081
-Bank: Handelsbanken
-Bankadresse: Strandvejen 212A, 9000 Roskilde
-Telefon: +45 95029842
-E-mail: kontakt@handelsbanken.dk
+Bank: Danske Bank
+Bankadresse: Hovedgaden 895B, 5000 NÃ¦stved
+Telefon: +45 44235152
+E-mail: kontakt@danskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 409-84-72588) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2021-11-04-03.41.19.000000 Overførsel           -     368171.50 -      36817.15 USD  Bageri
@@ -1291,13 +1354,14 @@ E-mail: kontakt@handelsbanken.dk
 Totalt indbetalt(DKK): 2191005.03
 Totalt udbetalt(DKK): -     427339.19
 Saldo (DKK): 1813665.84
+Kind Regards,Danske Bank
 Kunde: Søren Andersen
 Adresse: Amagerbrogade 406A, 8000 Aarhus
 Registreringsnummer: 0021
-Bank: Spar Nord Bank
-Bankadresse: Ã˜sterbrogade 36B, 8900 Odense
-Telefon: +45 54321947
-E-mail: kontakt@sparnordbank.dk
+Bank: Nykredit Bank
+Bankadresse: Strandvejen 536B, 3000 Esbjerg
+Telefon: +45 96304879
+E-mail: kontakt@nykreditbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 538-23-76974) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2023-07-16-11.24.53.000000 Indbetaling          -     495117.07 -      70731.01 EUR  Biograf
@@ -1307,13 +1371,14 @@ E-mail: kontakt@sparnordbank.dk
 Totalt indbetalt(DKK): 924474.30
 Totalt udbetalt(DKK): -     569370.70
 Saldo (DKK): 405103.60
+Kind Regards,Nykredit Bank
 Kunde: Niels Mortensen
 Adresse: Amagerbrogade 750C, 2100 Randers
 Registreringsnummer: 0023
-Bank: Handelsbanken
-Bankadresse: Amagerbrogade 319, 5000 Odense
-Telefon: +45 57057035
-E-mail: kontakt@handelsbanken.dk
+Bank: Jyske Bank
+Bankadresse: NÃ¸rreport 972B, 3000 Roskilde
+Telefon: +45 94034779
+E-mail: kontakt@jyskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 719-21-21857) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2024-09-07-07.59.32.000000 Udbetaling                  61746.61        61746.61 DKK  Tankstation
@@ -1322,13 +1387,14 @@ E-mail: kontakt@handelsbanken.dk
 Totalt indbetalt(DKK): 216698.75
 Totalt udbetalt(DKK): -     119077.70
 Saldo (DKK): 147621.05
+Kind Regards,Jyske Bank
 Kunde: Jens Larsen
 Adresse: Hovedgaden 627A, 8000 Helsingør
 Registreringsnummer: 0083
-Bank: Handelsbanken
-Bankadresse: Hovedgaden 897, 4000 NÃ¦stved
-Telefon: +45 87460026
-E-mail: kontakt@handelsbanken.dk
+Bank: Nordea
+Bankadresse: SÃ¸ndergade 518, 8000 HelsingÃ¸r
+Telefon: +45 87246918
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 926-39-71773) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2020-05-18-04.18.39.000000 Overførsel           -     725985.30 -      72598.53 USD  Boghandel
@@ -1336,12 +1402,13 @@ E-mail: kontakt@handelsbanken.dk
 Totalt indbetalt(DKK): 0.00
 Totalt udbetalt(DKK): -     805751.31
 Saldo (DKK): -     755751.31
+Kind Regards,Nordea
 Kunde: Søren Pedersen
 Adresse: Strandvejen 630B, 3000 Roskilde
 Registreringsnummer: 0094
 Bank: Nykredit Bank
-Bankadresse: NÃ¸rreport 775A, 4700 Aalborg
-Telefon: +45 41453584
+Bankadresse: Hovedgaden 856C, 5000 Aalborg
+Telefon: +45 55192038
 E-mail: kontakt@nykreditbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 132-24-19343) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
@@ -1353,12 +1420,13 @@ E-mail: kontakt@nykreditbank.dk
 Totalt indbetalt(DKK): 771893.50
 Totalt udbetalt(DKK): -     703996.97
 Saldo (DKK): 117896.53
+Kind Regards,Nykredit Bank
 Kunde: Hanne Nielsen
 Adresse: Søndergade 682C, 3000 Næstved
 Registreringsnummer: 0011
 Bank: Danske Bank
-Bankadresse: Amagerbrogade 188, 2100 Roskilde
-Telefon: +45 49829047
+Bankadresse: Vesterbrogade 796, 6700 HelsingÃ¸r
+Telefon: +45 60389638
 E-mail: kontakt@danskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 271-67-33452) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
@@ -1368,23 +1436,24 @@ E-mail: kontakt@danskebank.dk
 Totalt indbetalt(DKK): 84411.85
 Totalt udbetalt(DKK): -     958583.70
 Saldo (DKK): -     824171.85
+Kind Regards,Danske Bank
 Kunde: Peter Jensen
 Adresse: Østerbrogade 777B, 5000 Roskilde
 Registreringsnummer: 0073
-Bank: Sydbank
-Bankadresse: SÃ¸ndergade 29B, 9000 Esbjerg
-Telefon: +45 29982038
-E-mail: kontakt@sydbank.dk
+Bank: Spar Nord Bank
+Bankadresse: Vesterbrogade 788B, 4700 Esbjerg
+Telefon: +45 21908453
+E-mail: kontakt@sparnordbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 964-26-90933) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2022-04-19-22.36.55.000000 Indbetaling                 93606.06        93606.06 DKK  Blomsterhandler
 Kunde: Niels Andersen
 Adresse: Nørreport 761C, 3000 Helsingør
 Registreringsnummer: 0020
-Bank: Handelsbanken
-Bankadresse: Amagerbrogade 266, 8000 Roskilde
-Telefon: +45 20199238
-E-mail: kontakt@handelsbanken.dk
+Bank: Nordea
+Bankadresse: Ã˜sterbrogade 807, 8000 Aarhus
+Telefon: +45 46621388
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 142-32-38854) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2020-08-09-13.10.12.000000 Indbetaling                 31016.59        31016.59 DKK  Møbelbutik
@@ -1398,13 +1467,14 @@ E-mail: kontakt@handelsbanken.dk
 Totalt indbetalt(DKK): 843685.13
 Totalt udbetalt(DKK): -    1290516.59
 Saldo (DKK): -     396831.46
+Kind Regards,Nordea
 Kunde: Hanne Christensen
 Adresse: Østerbrogade 315A, 4700 Roskilde
 Registreringsnummer: 0078
-Bank: Danske Bank
-Bankadresse: Vesterbrogade 586B, 9000 HelsingÃ¸r
-Telefon: +45 21782180
-E-mail: kontakt@danskebank.dk
+Bank: Arbejdernes Landsbank
+Bankadresse: Strandvejen 626C, 8900 Esbjerg
+Telefon: +45 66225324
+E-mail: kontakt@arbejderneslandsbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 394-14-40326) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2024-03-15-20.11.44.000000 Indbetaling                110680.60        11068.06 USD  Café
@@ -1412,13 +1482,14 @@ E-mail: kontakt@danskebank.dk
 Totalt indbetalt(DKK): 110680.60
 Totalt udbetalt(DKK): -     665678.20
 Saldo (DKK): -     504997.60
+Kind Regards,Arbejdernes Landsbank
 Kunde: Mette Jensen
 Adresse: Søndergade 752B, 4000 Helsingør
 Registreringsnummer: 0056
-Bank: Handelsbanken
-Bankadresse: NÃ¸rreport 504B, 7100 Aarhus
-Telefon: +45 54333133
-E-mail: kontakt@handelsbanken.dk
+Bank: Danske Bank
+Bankadresse: SÃ¸ndergade 568A, 3000 KÃ¸benhavn
+Telefon: +45 37450087
+E-mail: kontakt@danskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 383-15-29528) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2024-05-14-12.24.53.000000 Indbetaling          -     679742.00 -      97106.00 EUR  Blomsterhandler
@@ -1426,13 +1497,14 @@ E-mail: kontakt@handelsbanken.dk
 Totalt indbetalt(DKK): 351712.70
 Totalt udbetalt(DKK): -     679742.00
 Saldo (DKK): -     278029.30
+Kind Regards,Danske Bank
 Kunde: Peter Pedersen
 Adresse: Nørreport 300A, 9000 Aalborg
 Registreringsnummer: 0097
-Bank: Jyske Bank
-Bankadresse: Frederiks AllÃ© 466B, 8900 NÃ¦stved
-Telefon: +45 75358219
-E-mail: kontakt@jyskebank.dk
+Bank: Arbejdernes Landsbank
+Bankadresse: NÃ¸rreport 687C, 3000 KÃ¸benhavn
+Telefon: +45 84070256
+E-mail: kontakt@arbejderneslandsbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 733-45-56654) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2025-08-22-08.57.35.000000 Overførsel                  98407.44        98407.44 DKK  Fitnesscenter
@@ -1447,13 +1519,14 @@ E-mail: kontakt@jyskebank.dk
 Totalt indbetalt(DKK): 1173771.77
 Totalt udbetalt(DKK): -    1522303.57
 Saldo (DKK): -     298531.80
+Kind Regards,Arbejdernes Landsbank
 Kunde: Lars Mortensen
 Adresse: Østerbrogade 433C, 2100 Randers
 Registreringsnummer: 0077
-Bank: Spar Nord Bank
-Bankadresse: Hovedgaden 931B, 6700 KÃ¸benhavn
-Telefon: +45 21020277
-E-mail: kontakt@sparnordbank.dk
+Bank: Nykredit Bank
+Bankadresse: NÃ¸rreport 682, 5000 Aalborg
+Telefon: +45 17942550
+E-mail: kontakt@nykreditbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 250-87-68898) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2025-11-01-05.35.53.000000 Indbetaling          -      33142.55 -      33142.55 DKK  Boghandel
@@ -1462,13 +1535,14 @@ E-mail: kontakt@sparnordbank.dk
 Totalt indbetalt(DKK): 0.00
 Totalt udbetalt(DKK): -     874805.68
 Saldo (DKK): -     824805.68
+Kind Regards,Nykredit Bank
 Kunde: Niels Mortensen
 Adresse: Vesterbrogade 186A, 6700 Næstved
 Registreringsnummer: 0020
-Bank: Handelsbanken
-Bankadresse: Amagerbrogade 266, 8000 Roskilde
-Telefon: +45 20199238
-E-mail: kontakt@handelsbanken.dk
+Bank: Nordea
+Bankadresse: Ã˜sterbrogade 807, 8000 Aarhus
+Telefon: +45 46621388
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 104-28-66889) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2020-08-27-22.32.51.000000 Indbetaling                 94488.73        94488.73 DKK  Restaurant
@@ -1479,26 +1553,28 @@ E-mail: kontakt@handelsbanken.dk
 Totalt indbetalt(DKK): 587774.32
 Totalt udbetalt(DKK): -     280439.32
 Saldo (DKK): 357335.00
+Kind Regards,Nordea
 Kunde: Lars Nielsen
 Adresse: Søndergade 354B, 2100 Aarhus
 Registreringsnummer: 0083
-Bank: Handelsbanken
-Bankadresse: Hovedgaden 897, 4000 NÃ¦stved
-Telefon: +45 87460026
-E-mail: kontakt@handelsbanken.dk
+Bank: Nordea
+Bankadresse: SÃ¸ndergade 518, 8000 HelsingÃ¸r
+Telefon: +45 87246918
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 544-98-17360) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2022-03-09-10.11.22.000000 Indbetaling          -     218092.98 -      31156.14 EUR  Apotek
 Totalt indbetalt(DKK): 0.00
 Totalt udbetalt(DKK): -     218092.98
 Saldo (DKK): -     168092.98
+Kind Regards,Nordea
 Kunde: Søren Pedersen
 Adresse: Nørreport 63C, 4000 Aarhus
 Registreringsnummer: 0002
-Bank: Jyske Bank
-Bankadresse: NÃ¸rreport 785C, 8000 Randers
-Telefon: +45 97946406
-E-mail: kontakt@jyskebank.dk
+Bank: Nordea
+Bankadresse: Amagerbrogade 971, 2100 Randers
+Telefon: +45 40690517
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 858-51-98287) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2024-04-16-16.39.46.000000 Indbetaling                 35275.39        35275.39 DKK  Restaurant
@@ -1508,13 +1584,14 @@ E-mail: kontakt@jyskebank.dk
 Totalt indbetalt(DKK): 248997.92
 Totalt udbetalt(DKK): -     466909.33
 Saldo (DKK): -     167911.41
+Kind Regards,Nordea
 Kunde: Hanne Pedersen
 Adresse: Amagerbrogade 695, 7100 Esbjerg
 Registreringsnummer: 0003
-Bank: Jyske Bank
-Bankadresse: Amagerbrogade 907C, 2100 NÃ¦stved
-Telefon: +45 57451770
-E-mail: kontakt@jyskebank.dk
+Bank: Nordea
+Bankadresse: SÃ¸ndergade 341A, 9000 Roskilde
+Telefon: +45 54462934
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 676-40-51277) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2025-07-28-17.38.12.000000 Overførsel           -     574464.70 -      57446.47 USD  Biograf
@@ -1529,13 +1606,14 @@ E-mail: kontakt@jyskebank.dk
 Totalt indbetalt(DKK): 1532820.66
 Totalt udbetalt(DKK): -     903972.87
 Saldo (DKK): 678847.79
+Kind Regards,Nordea
 Kunde: Peter Mortensen
 Adresse: Hovedgaden 237B, 7100 Helsingør
 Registreringsnummer: 0049
-Bank: Spar Nord Bank
-Bankadresse: Vesterbrogade 495, 8000 NÃ¦stved
-Telefon: +45 25454017
-E-mail: kontakt@sparnordbank.dk
+Bank: Arbejdernes Landsbank
+Bankadresse: Vesterbrogade 193A, 2100 Aarhus
+Telefon: +45 62570581
+E-mail: kontakt@arbejderneslandsbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 277-29-20981) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2021-03-28-14.17.50.000000 Overførsel                 572660.34        81808.62 EUR  Blomsterhandler
@@ -1543,12 +1621,13 @@ E-mail: kontakt@sparnordbank.dk
 Totalt indbetalt(DKK): 572660.34
 Totalt udbetalt(DKK): -     203131.11
 Saldo (DKK): 419529.23
+Kind Regards,Arbejdernes Landsbank
 Kunde: Hanne Larsen
 Adresse: Frederiks Allé 100C, 8900 Odense
 Registreringsnummer: 0094
 Bank: Nykredit Bank
-Bankadresse: NÃ¸rreport 775A, 4700 Aalborg
-Telefon: +45 41453584
+Bankadresse: Hovedgaden 856C, 5000 Aalborg
+Telefon: +45 55192038
 E-mail: kontakt@nykreditbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 288-87-35044) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
@@ -1560,13 +1639,14 @@ E-mail: kontakt@nykreditbank.dk
 Totalt indbetalt(DKK): 984262.25
 Totalt udbetalt(DKK): -     852066.10
 Saldo (DKK): 182196.15
+Kind Regards,Nykredit Bank
 Kunde: Anne Hansen
 Adresse: Hovedgaden 479A, 4000 København
 Registreringsnummer: 0025
-Bank: Nykredit Bank
-Bankadresse: Amagerbrogade 46B, 8000 Vejle
-Telefon: +45 91138578
-E-mail: kontakt@nykreditbank.dk
+Bank: Spar Nord Bank
+Bankadresse: NÃ¸rreport 745B, 3000 Esbjerg
+Telefon: +45 55240784
+E-mail: kontakt@sparnordbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 944-63-39411) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2024-02-08-12.08.58.000000 Overførsel           -     696158.61 -      99451.23 EUR  Boghandel
@@ -1575,13 +1655,14 @@ E-mail: kontakt@nykreditbank.dk
 Totalt indbetalt(DKK): 522096.82
 Totalt udbetalt(DKK): -     792367.30
 Saldo (DKK): -     220270.48
+Kind Regards,Spar Nord Bank
 Kunde: Lars Jensen
 Adresse: Hovedgaden 250B, 6700 Helsingør
 Registreringsnummer: 0014
-Bank: Nordea
-Bankadresse: Ã˜sterbrogade 690B, 9000 Aalborg
-Telefon: +45 86817599
-E-mail: kontakt@nordea.dk
+Bank: Handelsbanken
+Bankadresse: NÃ¸rreport 477C, 4000 Esbjerg
+Telefon: +45 37876555
+E-mail: kontakt@handelsbanken.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 936-23-32327) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2021-12-01-15.08.50.000000 Indbetaling          -     538047.50 -      53804.75 USD  Tankstation
@@ -1591,13 +1672,14 @@ E-mail: kontakt@nordea.dk
 Totalt indbetalt(DKK): 1305116.90
 Totalt udbetalt(DKK): -     662169.75
 Saldo (DKK): 692947.15
+Kind Regards,Handelsbanken
 Kunde: Mette Nielsen
 Adresse: Amagerbrogade 240, 8000 Vejle
 Registreringsnummer: 0084
-Bank: Jyske Bank
-Bankadresse: NÃ¸rreport 325B, 5000 Vejle
-Telefon: +45 28185207
-E-mail: kontakt@jyskebank.dk
+Bank: Nykredit Bank
+Bankadresse: SÃ¸ndergade 212, 6700 Aarhus
+Telefon: +45 96189792
+E-mail: kontakt@nykreditbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 344-97-39654) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2022-05-26-16.41.39.000000 Udbetaling                 643146.49        91878.07 EUR  Café
@@ -1612,13 +1694,14 @@ E-mail: kontakt@jyskebank.dk
 Totalt indbetalt(DKK): 1649612.01
 Totalt udbetalt(DKK): -    2120806.26
 Saldo (DKK): -     421194.25
+Kind Regards,Nykredit Bank
 Kunde: Mette Pedersen
 Adresse: Østerbrogade 523B, 8000 Esbjerg
 Registreringsnummer: 0072
-Bank: Jyske Bank
-Bankadresse: Ã˜sterbrogade 825B, 3000 Odense
-Telefon: +45 84845513
-E-mail: kontakt@jyskebank.dk
+Bank: Arbejdernes Landsbank
+Bankadresse: SÃ¸ndergade 668B, 9000 Roskilde
+Telefon: +45 62016047
+E-mail: kontakt@arbejderneslandsbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 544-36-93902) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2024-11-10-05.43.17.000000 Overførsel           -     382202.80 -      38220.28 USD  Café
@@ -1628,13 +1711,14 @@ E-mail: kontakt@jyskebank.dk
 Totalt indbetalt(DKK): 1621461.44
 Totalt udbetalt(DKK): -     382202.80
 Saldo (DKK): 1289258.64
+Kind Regards,Arbejdernes Landsbank
 Kunde: Søren Olsen
 Adresse: Amagerbrogade 70, 9000 Aarhus
 Registreringsnummer: 0065
-Bank: Arbejdernes Landsbank
-Bankadresse: Vesterbrogade 481B, 2100 HelsingÃ¸r
-Telefon: +45 96442744
-E-mail: kontakt@arbejderneslandsbank.dk
+Bank: Spar Nord Bank
+Bankadresse: Strandvejen 81, 2100 Esbjerg
+Telefon: +45 56192982
+E-mail: kontakt@sparnordbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 536-65-63835) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2024-07-26-16.59.47.000000 Overførsel                 845049.10        84504.91 USD  Blomsterhandler
@@ -1647,13 +1731,14 @@ E-mail: kontakt@arbejderneslandsbank.dk
 Totalt indbetalt(DKK): 2307336.84
 Totalt udbetalt(DKK): -      80140.07
 Saldo (DKK): 2277196.77
+Kind Regards,Spar Nord Bank
 Kunde: Jens Larsen
 Adresse: Vesterbrogade 709A, 8900 Randers
 Registreringsnummer: 0078
-Bank: Danske Bank
-Bankadresse: Vesterbrogade 586B, 9000 HelsingÃ¸r
-Telefon: +45 21782180
-E-mail: kontakt@danskebank.dk
+Bank: Arbejdernes Landsbank
+Bankadresse: Strandvejen 626C, 8900 Esbjerg
+Telefon: +45 66225324
+E-mail: kontakt@arbejderneslandsbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 351-68-73536) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2024-09-25-13.21.48.000000 Indbetaling                534513.50        53451.35 USD  Apotek
@@ -1666,13 +1751,14 @@ E-mail: kontakt@danskebank.dk
 Totalt indbetalt(DKK): 1399108.66
 Totalt udbetalt(DKK): -     766092.15
 Saldo (DKK): 683016.51
+Kind Regards,Arbejdernes Landsbank
 Kunde: Lars Nielsen
 Adresse: Søndergade 564, 8000 Aarhus
 Registreringsnummer: 0083
-Bank: Handelsbanken
-Bankadresse: Hovedgaden 897, 4000 NÃ¦stved
-Telefon: +45 87460026
-E-mail: kontakt@handelsbanken.dk
+Bank: Nordea
+Bankadresse: SÃ¸ndergade 518, 8000 HelsingÃ¸r
+Telefon: +45 87246918
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 438-95-47651) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2023-04-13-16.48.27.000000 Overførsel           -     524180.40 -      52418.04 USD  Bageri
@@ -1684,13 +1770,14 @@ E-mail: kontakt@handelsbanken.dk
 Totalt indbetalt(DKK): 871876.11
 Totalt udbetalt(DKK): -     938719.15
 Saldo (DKK): -      16843.04
+Kind Regards,Nordea
 Kunde: Søren Nielsen
 Adresse: Strandvejen 416A, 5000 Aarhus
 Registreringsnummer: 0078
-Bank: Danske Bank
-Bankadresse: Vesterbrogade 586B, 9000 HelsingÃ¸r
-Telefon: +45 21782180
-E-mail: kontakt@danskebank.dk
+Bank: Arbejdernes Landsbank
+Bankadresse: Strandvejen 626C, 8900 Esbjerg
+Telefon: +45 66225324
+E-mail: kontakt@arbejderneslandsbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 221-91-71865) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2020-12-15-11.01.45.000000 Indbetaling                236550.30        33792.90 EUR  Boghandel
@@ -1705,13 +1792,14 @@ E-mail: kontakt@danskebank.dk
 Totalt indbetalt(DKK): 1161276.28
 Totalt udbetalt(DKK): -    1172604.90
 Saldo (DKK): 38671.38
+Kind Regards,Arbejdernes Landsbank
 Kunde: Søren Nielsen
 Adresse: Amagerbrogade 305C, 8900 Aalborg
 Registreringsnummer: 0086
-Bank: Jyske Bank
-Bankadresse: NÃ¸rreport 80A, 8000 Odense
-Telefon: +45 35360327
-E-mail: kontakt@jyskebank.dk
+Bank: Arbejdernes Landsbank
+Bankadresse: Ã˜sterbrogade 228A, 9000 Aalborg
+Telefon: +45 70468026
+E-mail: kontakt@arbejderneslandsbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 811-61-43992) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2025-05-01-00.52.30.000000 Indbetaling                456441.30        45644.13 USD  Supermarked
@@ -1719,10 +1807,10 @@ E-mail: kontakt@jyskebank.dk
 Kunde: Mette Larsen
 Adresse: Amagerbrogade 393C, 4000 Roskilde
 Registreringsnummer: 0013
-Bank: Spar Nord Bank
-Bankadresse: Strandvejen 819A, 8000 HelsingÃ¸r
-Telefon: +45 96713740
-E-mail: kontakt@sparnordbank.dk
+Bank: Sydbank
+Bankadresse: Hovedgaden 619, 4700 Aalborg
+Telefon: +45 54280384
+E-mail: kontakt@sydbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 590-66-97517) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2022-09-08-00.46.49.000000 Indbetaling                 35864.26        35864.26 DKK  Biograf
@@ -1737,12 +1825,13 @@ E-mail: kontakt@sparnordbank.dk
 Totalt indbetalt(DKK): 1885202.98
 Totalt udbetalt(DKK): -     840257.02
 Saldo (DKK): 1094945.96
+Kind Regards,Sydbank
 Kunde: Lars Christensen
 Adresse: Vesterbrogade 322C, 7100 København
 Registreringsnummer: 0062
 Bank: Danske Bank
-Bankadresse: Strandvejen 163C, 4700 Esbjerg
-Telefon: +45 28377605
+Bankadresse: Vesterbrogade 900C, 6700 Roskilde
+Telefon: +45 31115785
 E-mail: kontakt@danskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 325-18-65321) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
@@ -1750,13 +1839,14 @@ E-mail: kontakt@danskebank.dk
 Totalt indbetalt(DKK): 0.00
 Totalt udbetalt(DKK): -     263853.80
 Saldo (DKK): -     213853.80
+Kind Regards,Danske Bank
 Kunde: Jens Hansen
 Adresse: Strandvejen 821B, 4000 Aarhus
 Registreringsnummer: 0030
-Bank: Handelsbanken
-Bankadresse: Strandvejen 83C, 6700 HelsingÃ¸r
-Telefon: +45 21209756
-E-mail: kontakt@handelsbanken.dk
+Bank: Nykredit Bank
+Bankadresse: Hovedgaden 425A, 5000 NÃ¦stved
+Telefon: +45 69573397
+E-mail: kontakt@nykreditbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 478-53-15958) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2023-12-16-11.06.12.000000 Overførsel           -      24430.19 -      24430.19 DKK  Restaurant
@@ -1769,13 +1859,14 @@ E-mail: kontakt@handelsbanken.dk
 Totalt indbetalt(DKK): 213562.85
 Totalt udbetalt(DKK): -    1346542.20
 Saldo (DKK): -    1082979.35
+Kind Regards,Nykredit Bank
 Kunde: Marie Pedersen
 Adresse: Nørreport 887B, 5000 København
 Registreringsnummer: 0039
-Bank: Handelsbanken
-Bankadresse: Ã˜sterbrogade 247C, 8900 Odense
-Telefon: +45 83440860
-E-mail: kontakt@handelsbanken.dk
+Bank: Nykredit Bank
+Bankadresse: Hovedgaden 417A, 4700 HelsingÃ¸r
+Telefon: +45 11155187
+E-mail: kontakt@nykreditbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 112-24-25121) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2022-01-03-14.59.15.000000 Overførsel                  22962.24         3280.32 EUR  Fitnesscenter
@@ -1783,13 +1874,14 @@ E-mail: kontakt@handelsbanken.dk
 Totalt indbetalt(DKK): 22962.24
 Totalt udbetalt(DKK): -     265515.20
 Saldo (DKK): -     192552.96
+Kind Regards,Nykredit Bank
 Kunde: Niels Pedersen
 Adresse: Vesterbrogade 629, 4000 København
 Registreringsnummer: 0046
-Bank: Danske Bank
-Bankadresse: Vesterbrogade 853C, 6700 HelsingÃ¸r
-Telefon: +45 19757571
-E-mail: kontakt@danskebank.dk
+Bank: Sydbank
+Bankadresse: Ã˜sterbrogade 885, 2100 HelsingÃ¸r
+Telefon: +45 80312084
+E-mail: kontakt@sydbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 304-12-12873) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2024-09-16-06.36.57.000000 Indbetaling          -     624265.32 -      89180.76 EUR  Apotek
@@ -1799,13 +1891,14 @@ E-mail: kontakt@danskebank.dk
 Totalt indbetalt(DKK): 413820.45
 Totalt udbetalt(DKK): -     645017.18
 Saldo (DKK): -     181196.73
+Kind Regards,Sydbank
 Kunde: Niels Larsen
 Adresse: Vesterbrogade 361B, 5000 Aalborg
 Registreringsnummer: 0064
-Bank: Danske Bank
-Bankadresse: Vesterbrogade 891C, 4700 Vejle
-Telefon: +45 50440919
-E-mail: kontakt@danskebank.dk
+Bank: Arbejdernes Landsbank
+Bankadresse: Ã˜sterbrogade 452B, 8000 HelsingÃ¸r
+Telefon: +45 48865976
+E-mail: kontakt@arbejderneslandsbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 894-82-70970) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2022-08-19-07.26.25.000000 Udbetaling                  20640.72        20640.72 DKK  Tøjbutik
@@ -1816,13 +1909,14 @@ E-mail: kontakt@danskebank.dk
 Totalt indbetalt(DKK): 278708.64
 Totalt udbetalt(DKK): -     569557.43
 Saldo (DKK): -     240848.79
+Kind Regards,Arbejdernes Landsbank
 Kunde: Niels Larsen
 Adresse: Søndergade 520, 6700 Vejle
 Registreringsnummer: 0041
-Bank: Danske Bank
-Bankadresse: Vesterbrogade 393C, 7100 Aalborg
-Telefon: +45 69767803
-E-mail: kontakt@danskebank.dk
+Bank: Spar Nord Bank
+Bankadresse: Hovedgaden 804, 9000 Vejle
+Telefon: +45 46233011
+E-mail: kontakt@sparnordbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 688-51-68657) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2020-11-07-06.27.34.000000 Udbetaling           -     637606.20 -      63760.62 USD  Blomsterhandler
@@ -1835,13 +1929,14 @@ E-mail: kontakt@danskebank.dk
 Totalt indbetalt(DKK): 959615.15
 Totalt udbetalt(DKK): -    1324999.02
 Saldo (DKK): -     315383.87
+Kind Regards,Spar Nord Bank
 Kunde: Peter Christensen
 Adresse: Søndergade 737B, 8900 Aalborg
 Registreringsnummer: 0039
-Bank: Handelsbanken
-Bankadresse: Ã˜sterbrogade 247C, 8900 Odense
-Telefon: +45 83440860
-E-mail: kontakt@handelsbanken.dk
+Bank: Nykredit Bank
+Bankadresse: Hovedgaden 417A, 4700 HelsingÃ¸r
+Telefon: +45 11155187
+E-mail: kontakt@nykreditbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 466-52-36549) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2025-10-13-20.02.52.000000 Overførsel           -      73414.45 -      73414.45 DKK  Bageri
@@ -1855,12 +1950,13 @@ E-mail: kontakt@handelsbanken.dk
 Totalt indbetalt(DKK): 1221922.85
 Totalt udbetalt(DKK): -    1501312.97
 Saldo (DKK): -     229390.12
+Kind Regards,Nykredit Bank
 Kunde: Søren Nielsen
 Adresse: Vesterbrogade 943B, 6700 Aarhus
 Registreringsnummer: 0062
 Bank: Danske Bank
-Bankadresse: Strandvejen 163C, 4700 Esbjerg
-Telefon: +45 28377605
+Bankadresse: Vesterbrogade 900C, 6700 Roskilde
+Telefon: +45 31115785
 E-mail: kontakt@danskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 260-76-42226) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
@@ -1874,13 +1970,14 @@ E-mail: kontakt@danskebank.dk
 Totalt indbetalt(DKK): 1385671.14
 Totalt udbetalt(DKK): -     937793.14
 Saldo (DKK): 497878.00
+Kind Regards,Danske Bank
 Kunde: Mette Larsen
 Adresse: Frederiks Allé 93A, 4000 Helsingør
 Registreringsnummer: 0071
-Bank: Jyske Bank
-Bankadresse: Frederiks AllÃ© 365, 2100 Aarhus
-Telefon: +45 34284663
-E-mail: kontakt@jyskebank.dk
+Bank: Sydbank
+Bankadresse: Strandvejen 258B, 7100 Odense
+Telefon: +45 30695762
+E-mail: kontakt@sydbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 437-96-15331) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2025-04-14-15.21.06.000000 Indbetaling                280462.60        28046.26 USD  Biograf
@@ -1891,13 +1988,14 @@ E-mail: kontakt@jyskebank.dk
 Totalt indbetalt(DKK): 1084080.40
 Totalt udbetalt(DKK): -     691043.19
 Saldo (DKK): 443037.21
+Kind Regards,Sydbank
 Kunde: Anne Mortensen
 Adresse: Nørreport 432B, 3000 Vejle
 Registreringsnummer: 0065
-Bank: Arbejdernes Landsbank
-Bankadresse: Vesterbrogade 481B, 2100 HelsingÃ¸r
-Telefon: +45 96442744
-E-mail: kontakt@arbejderneslandsbank.dk
+Bank: Spar Nord Bank
+Bankadresse: Strandvejen 81, 2100 Esbjerg
+Telefon: +45 56192982
+E-mail: kontakt@sparnordbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 669-79-42589) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2025-12-26-13.35.02.000000 Indbetaling          -     566631.24 -      80947.32 EUR  Tøjbutik
@@ -1905,12 +2003,13 @@ E-mail: kontakt@arbejderneslandsbank.dk
 Totalt indbetalt(DKK): 25617.60
 Totalt udbetalt(DKK): -     566631.24
 Saldo (DKK): -     491013.64
+Kind Regards,Spar Nord Bank
 Kunde: Niels Christensen
 Adresse: Østerbrogade 243, 4700 Randers
 Registreringsnummer: 0032
 Bank: Arbejdernes Landsbank
-Bankadresse: SÃ¸ndergade 38A, 3000 Vejle
-Telefon: +45 87937963
+Bankadresse: Ã˜sterbrogade 394, 4700 NÃ¦stved
+Telefon: +45 12733710
 E-mail: kontakt@arbejderneslandsbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 703-68-73875) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
@@ -1918,10 +2017,10 @@ E-mail: kontakt@arbejderneslandsbank.dk
 Kunde: Camilla Olsen
 Adresse: Amagerbrogade 911B, 3000 Vejle
 Registreringsnummer: 0056
-Bank: Handelsbanken
-Bankadresse: NÃ¸rreport 504B, 7100 Aarhus
-Telefon: +45 54333133
-E-mail: kontakt@handelsbanken.dk
+Bank: Danske Bank
+Bankadresse: SÃ¸ndergade 568A, 3000 KÃ¸benhavn
+Telefon: +45 37450087
+E-mail: kontakt@danskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 984-94-49456) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2023-11-28-00.44.46.000000 Indbetaling          -     157645.53 -      22520.79 EUR  Supermarked
@@ -1931,13 +2030,14 @@ E-mail: kontakt@handelsbanken.dk
 Totalt indbetalt(DKK): 143868.93
 Totalt udbetalt(DKK): -     509716.48
 Saldo (DKK): -     315847.55
+Kind Regards,Danske Bank
 Kunde: Camilla Olsen
 Adresse: Østerbrogade 334A, 2100 Vejle
 Registreringsnummer: 0037
-Bank: Danske Bank
-Bankadresse: Strandvejen 496A, 4000 NÃ¦stved
-Telefon: +45 75843378
-E-mail: kontakt@danskebank.dk
+Bank: Nykredit Bank
+Bankadresse: NÃ¸rreport 574A, 4700 Odense
+Telefon: +45 73351980
+E-mail: kontakt@nykreditbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 493-89-89075) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2020-05-06-20.02.15.000000 Indbetaling          -      17694.96 -      17694.96 DKK  Tankstation
@@ -1953,13 +2053,14 @@ E-mail: kontakt@danskebank.dk
 Totalt indbetalt(DKK): 1047072.35
 Totalt udbetalt(DKK): -    1240732.33
 Saldo (DKK): -     143659.98
+Kind Regards,Nykredit Bank
 Kunde: Camilla Hansen
 Adresse: Amagerbrogade 725A, 8000 Roskilde
 Registreringsnummer: 0078
-Bank: Danske Bank
-Bankadresse: Vesterbrogade 586B, 9000 HelsingÃ¸r
-Telefon: +45 21782180
-E-mail: kontakt@danskebank.dk
+Bank: Arbejdernes Landsbank
+Bankadresse: Strandvejen 626C, 8900 Esbjerg
+Telefon: +45 66225324
+E-mail: kontakt@arbejderneslandsbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 915-33-21006) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2021-09-22-23.47.02.000000 Indbetaling                 78360.60        78360.60 DKK  Restaurant
@@ -1970,23 +2071,24 @@ E-mail: kontakt@danskebank.dk
 Totalt indbetalt(DKK): 640755.90
 Totalt udbetalt(DKK): -     377495.80
 Saldo (DKK): 313260.10
+Kind Regards,Arbejdernes Landsbank
 Kunde: Camilla Nielsen
 Adresse: Søndergade 833A, 4700 Esbjerg
 Registreringsnummer: 0051
-Bank: Nordea
-Bankadresse: Amagerbrogade 493B, 7100 Odense
-Telefon: +45 37794474
-E-mail: kontakt@nordea.dk
+Bank: Arbejdernes Landsbank
+Bankadresse: Strandvejen 11, 4000 Vejle
+Telefon: +45 16847839
+E-mail: kontakt@arbejderneslandsbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 709-38-92900) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2020-04-14-05.13.13.000000 Udbetaling                  25214.82        25214.82 DKK  Apotek
 Kunde: Anne Nielsen
 Adresse: Vesterbrogade 583C, 6700 Vejle
 Registreringsnummer: 0089
-Bank: Danske Bank
-Bankadresse: NÃ¸rreport 69B, 9000 Randers
-Telefon: +45 82369329
-E-mail: kontakt@danskebank.dk
+Bank: Handelsbanken
+Bankadresse: Amagerbrogade 800B, 2100 Aalborg
+Telefon: +45 46141103
+E-mail: kontakt@handelsbanken.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 608-32-54526) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2024-04-11-09.18.17.000000 Overførsel           -     389196.85 -      55599.55 EUR  Blomsterhandler
@@ -2000,12 +2102,13 @@ E-mail: kontakt@danskebank.dk
 Totalt indbetalt(DKK): 1054291.00
 Totalt udbetalt(DKK): -    1693634.21
 Saldo (DKK): -     589343.21
+Kind Regards,Handelsbanken
 Kunde: Mette Mortensen
 Adresse: Østerbrogade 675, 7100 Helsingør
 Registreringsnummer: 0032
 Bank: Arbejdernes Landsbank
-Bankadresse: SÃ¸ndergade 38A, 3000 Vejle
-Telefon: +45 87937963
+Bankadresse: Ã˜sterbrogade 394, 4700 NÃ¦stved
+Telefon: +45 12733710
 E-mail: kontakt@arbejderneslandsbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 467-45-47496) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
@@ -2021,13 +2124,14 @@ E-mail: kontakt@arbejderneslandsbank.dk
 Totalt indbetalt(DKK): 1263781.80
 Totalt udbetalt(DKK): -    3048218.10
 Saldo (DKK): -    1734436.30
+Kind Regards,Arbejdernes Landsbank
 Kunde: Peter Jensen
 Adresse: Vesterbrogade 317C, 4700 Roskilde
 Registreringsnummer: 0052
-Bank: Nykredit Bank
-Bankadresse: Ã˜sterbrogade 142A, 8000 NÃ¦stved
-Telefon: +45 73803907
-E-mail: kontakt@nykreditbank.dk
+Bank: Sydbank
+Bankadresse: Ã˜sterbrogade 449B, 4700 HelsingÃ¸r
+Telefon: +45 18353880
+E-mail: kontakt@sydbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 556-21-27661) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2020-02-23-10.48.33.000000 Udbetaling           -      91478.19 -      91478.19 DKK  Blomsterhandler
@@ -2035,13 +2139,14 @@ E-mail: kontakt@nykreditbank.dk
 Totalt indbetalt(DKK): 285220.04
 Totalt udbetalt(DKK): -      91478.19
 Saldo (DKK): 243741.85
+Kind Regards,Sydbank
 Kunde: Søren Larsen
 Adresse: Amagerbrogade 751, 4000 København
 Registreringsnummer: 0056
-Bank: Handelsbanken
-Bankadresse: NÃ¸rreport 504B, 7100 Aarhus
-Telefon: +45 54333133
-E-mail: kontakt@handelsbanken.dk
+Bank: Danske Bank
+Bankadresse: SÃ¸ndergade 568A, 3000 KÃ¸benhavn
+Telefon: +45 37450087
+E-mail: kontakt@danskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 503-14-94573) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2025-10-31-21.50.29.000000 Overførsel           -     220650.08 -      31521.44 EUR  Elektronikbutik
@@ -2053,12 +2158,13 @@ E-mail: kontakt@handelsbanken.dk
 Totalt indbetalt(DKK): 244480.50
 Totalt udbetalt(DKK): -     958518.68
 Saldo (DKK): -     664038.18
+Kind Regards,Danske Bank
 Kunde: Mette Christensen
 Adresse: Nørreport 649C, 2100 Roskilde
 Registreringsnummer: 0011
 Bank: Danske Bank
-Bankadresse: Amagerbrogade 188, 2100 Roskilde
-Telefon: +45 49829047
+Bankadresse: Vesterbrogade 796, 6700 HelsingÃ¸r
+Telefon: +45 60389638
 E-mail: kontakt@danskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 692-50-18898) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
@@ -2069,8 +2175,8 @@ Kunde: Mette Nielsen
 Adresse: Strandvejen 560A, 9000 Esbjerg
 Registreringsnummer: 0070
 Bank: Arbejdernes Landsbank
-Bankadresse: Frederiks AllÃ© 805B, 4000 NÃ¦stved
-Telefon: +45 94009665
+Bankadresse: Vesterbrogade 503B, 5000 KÃ¸benhavn
+Telefon: +45 58840938
 E-mail: kontakt@arbejderneslandsbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 127-58-21774) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
@@ -2078,10 +2184,10 @@ E-mail: kontakt@arbejderneslandsbank.dk
 Kunde: Hanne Thomsen
 Adresse: Amagerbrogade 451, 7100 Roskilde
 Registreringsnummer: 0086
-Bank: Jyske Bank
-Bankadresse: NÃ¸rreport 80A, 8000 Odense
-Telefon: +45 35360327
-E-mail: kontakt@jyskebank.dk
+Bank: Arbejdernes Landsbank
+Bankadresse: Ã˜sterbrogade 228A, 9000 Aalborg
+Telefon: +45 70468026
+E-mail: kontakt@arbejderneslandsbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 977-46-17325) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2022-01-14-04.32.27.000000 Overførsel                  97253.80         9725.38 USD  Tøjbutik
@@ -2090,13 +2196,14 @@ E-mail: kontakt@jyskebank.dk
 Totalt indbetalt(DKK): 1970306.95
 Totalt udbetalt(DKK): -     259688.73
 Saldo (DKK): 1760618.22
+Kind Regards,Arbejdernes Landsbank
 Kunde: Mette Mortensen
 Adresse: Strandvejen 805, 2100 Aarhus
 Registreringsnummer: 0053
-Bank: Handelsbanken
-Bankadresse: Vesterbrogade 476A, 9000 HelsingÃ¸r
-Telefon: +45 65749570
-E-mail: kontakt@handelsbanken.dk
+Bank: Danske Bank
+Bankadresse: Vesterbrogade 46C, 4700 Randers
+Telefon: +45 73357462
+E-mail: kontakt@danskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 455-51-23027) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2020-03-15-13.24.31.000000 Udbetaling           -     454804.28 -      64972.04 EUR  Café
@@ -2107,13 +2214,14 @@ E-mail: kontakt@handelsbanken.dk
 Totalt indbetalt(DKK): 87392.91
 Totalt udbetalt(DKK): -    1570992.12
 Saldo (DKK): -    1433599.21
+Kind Regards,Danske Bank
 Kunde: Niels Olsen
 Adresse: Frederiks Allé 285C, 8900 Odense
 Registreringsnummer: 0081
-Bank: Handelsbanken
-Bankadresse: Strandvejen 212A, 9000 Roskilde
-Telefon: +45 95029842
-E-mail: kontakt@handelsbanken.dk
+Bank: Danske Bank
+Bankadresse: Hovedgaden 895B, 5000 NÃ¦stved
+Telefon: +45 44235152
+E-mail: kontakt@danskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 214-45-33389) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2024-11-07-00.58.24.000000 Indbetaling                117906.81        16843.83 EUR  Blomsterhandler
@@ -2123,13 +2231,14 @@ E-mail: kontakt@handelsbanken.dk
 Totalt indbetalt(DKK): 224339.47
 Totalt udbetalt(DKK): -     404850.46
 Saldo (DKK): -     130510.99
+Kind Regards,Danske Bank
 Kunde: Søren Mortensen
 Adresse: Søndergade 690A, 5000 Næstved
 Registreringsnummer: 0001
-Bank: Nykredit Bank
-Bankadresse: Hovedgaden 929B, 5000 NÃ¦stved
-Telefon: +45 58102450
-E-mail: kontakt@nykreditbank.dk
+Bank: Nordea
+Bankadresse: Hovedgaden 634A, 7100 Aarhus
+Telefon: +45 85737393
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 502-28-11515) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2020-11-26-07.34.49.000000 Udbetaling           -      57115.13 -      57115.13 DKK  Biograf
@@ -2139,13 +2248,14 @@ E-mail: kontakt@nykreditbank.dk
 Totalt indbetalt(DKK): 356827.96
 Totalt udbetalt(DKK): -     134624.84
 Saldo (DKK): 272203.12
+Kind Regards,Nordea
 Kunde: Hanne Pedersen
 Adresse: Vesterbrogade 269A, 7100 Roskilde
 Registreringsnummer: 0083
-Bank: Handelsbanken
-Bankadresse: Hovedgaden 897, 4000 NÃ¦stved
-Telefon: +45 87460026
-E-mail: kontakt@handelsbanken.dk
+Bank: Nordea
+Bankadresse: SÃ¸ndergade 518, 8000 HelsingÃ¸r
+Telefon: +45 87246918
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 402-38-32971) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2022-12-02-12.23.57.000000 Indbetaling                417247.95        59606.85 EUR  Tøjbutik
@@ -2159,13 +2269,14 @@ E-mail: kontakt@handelsbanken.dk
 Totalt indbetalt(DKK): 1388515.06
 Totalt udbetalt(DKK): -     154980.73
 Saldo (DKK): 1283534.33
+Kind Regards,Nordea
 Kunde: Marie Andersen
 Adresse: Østerbrogade 151B, 3000 Esbjerg
 Registreringsnummer: 0098
-Bank: Jyske Bank
-Bankadresse: Ã˜sterbrogade 252C, 5000 NÃ¦stved
-Telefon: +45 41805694
-E-mail: kontakt@jyskebank.dk
+Bank: Spar Nord Bank
+Bankadresse: NÃ¸rreport 688C, 8900 Randers
+Telefon: +45 99653572
+E-mail: kontakt@sparnordbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 300-50-33856) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2022-05-18-21.36.37.000000 Udbetaling           -     689349.70 -      68934.97 USD  Boghandel
@@ -2181,13 +2292,14 @@ E-mail: kontakt@jyskebank.dk
 Totalt indbetalt(DKK): 584334.92
 Totalt udbetalt(DKK): -    2191036.94
 Saldo (DKK): -    1556702.02
+Kind Regards,Spar Nord Bank
 Kunde: Marie Larsen
 Adresse: Vesterbrogade 179A, 8000 Randers
 Registreringsnummer: 0080
-Bank: Arbejdernes Landsbank
-Bankadresse: Vesterbrogade 944B, 4000 HelsingÃ¸r
-Telefon: +45 35326098
-E-mail: kontakt@arbejderneslandsbank.dk
+Bank: Jyske Bank
+Bankadresse: SÃ¸ndergade 331B, 3000 Aarhus
+Telefon: +45 89128613
+E-mail: kontakt@jyskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 316-60-47034) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2024-03-27-10.52.56.000000 Udbetaling                 654281.39        93468.77 EUR  Boghandel
@@ -2195,10 +2307,10 @@ E-mail: kontakt@arbejderneslandsbank.dk
 Kunde: Camilla Olsen
 Adresse: Vesterbrogade 290C, 2100 Helsingør
 Registreringsnummer: 0012
-Bank: Spar Nord Bank
-Bankadresse: Strandvejen 740, 5000 HelsingÃ¸r
-Telefon: +45 17101911
-E-mail: kontakt@sparnordbank.dk
+Bank: Nordea
+Bankadresse: Strandvejen 370C, 6700 Aarhus
+Telefon: +45 39377475
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 583-11-62194) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2022-12-22-03.17.06.000000 Udbetaling           -     724835.30 -      72483.53 USD  Tøjbutik
@@ -2214,13 +2326,14 @@ E-mail: kontakt@sparnordbank.dk
 Totalt indbetalt(DKK): 1471784.09
 Totalt udbetalt(DKK): -    1221727.34
 Saldo (DKK): 300056.75
+Kind Regards,Nordea
 Kunde: Anne Mortensen
 Adresse: Østerbrogade 673C, 4000 Vejle
 Registreringsnummer: 0049
-Bank: Spar Nord Bank
-Bankadresse: Vesterbrogade 495, 8000 NÃ¦stved
-Telefon: +45 25454017
-E-mail: kontakt@sparnordbank.dk
+Bank: Arbejdernes Landsbank
+Bankadresse: Vesterbrogade 193A, 2100 Aarhus
+Telefon: +45 62570581
+E-mail: kontakt@arbejderneslandsbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 449-78-50852) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2021-08-11-19.34.35.000000 Indbetaling                914914.70        91491.47 USD  Biograf
@@ -2228,8 +2341,8 @@ Kunde: Jens Nielsen
 Adresse: Strandvejen 941C, 9000 København
 Registreringsnummer: 0015
 Bank: Nykredit Bank
-Bankadresse: Vesterbrogade 509, 9000 KÃ¸benhavn
-Telefon: +45 63708513
+Bankadresse: Strandvejen 687B, 4000 Roskilde
+Telefon: +45 16288988
 E-mail: kontakt@nykreditbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 818-26-72692) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
@@ -2244,13 +2357,14 @@ E-mail: kontakt@nykreditbank.dk
 Totalt indbetalt(DKK): 2873924.61
 Totalt udbetalt(DKK): -    1074121.82
 Saldo (DKK): 1849802.79
+Kind Regards,Nykredit Bank
 Kunde: Hanne Larsen
 Adresse: Vesterbrogade 968A, 9000 Aarhus
 Registreringsnummer: 0065
-Bank: Arbejdernes Landsbank
-Bankadresse: Vesterbrogade 481B, 2100 HelsingÃ¸r
-Telefon: +45 96442744
-E-mail: kontakt@arbejderneslandsbank.dk
+Bank: Spar Nord Bank
+Bankadresse: Strandvejen 81, 2100 Esbjerg
+Telefon: +45 56192982
+E-mail: kontakt@sparnordbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 550-34-82958) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2021-03-23-14.10.23.000000 Udbetaling           -     293598.10 -      29359.81 USD  Boghandel
@@ -2260,13 +2374,14 @@ E-mail: kontakt@arbejderneslandsbank.dk
 Totalt indbetalt(DKK): 1016175.48
 Totalt udbetalt(DKK): -     293598.10
 Saldo (DKK): 772577.38
+Kind Regards,Spar Nord Bank
 Kunde: Anne Thomsen
 Adresse: Nørreport 566, 2100 Esbjerg
 Registreringsnummer: 0082
-Bank: Arbejdernes Landsbank
-Bankadresse: Strandvejen 50B, 7100 Roskilde
-Telefon: +45 64849594
-E-mail: kontakt@arbejderneslandsbank.dk
+Bank: Danske Bank
+Bankadresse: NÃ¸rreport 525, 4700 Randers
+Telefon: +45 89226728
+E-mail: kontakt@danskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 116-99-73038) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2021-03-03-01.26.59.000000 Overførsel           -     149306.36 -      21329.48 EUR  Tøjbutik
@@ -2280,12 +2395,13 @@ E-mail: kontakt@arbejderneslandsbank.dk
 Totalt indbetalt(DKK): 1432426.85
 Totalt udbetalt(DKK): -    1282022.92
 Saldo (DKK): 200403.93
+Kind Regards,Danske Bank
 Kunde: Søren Olsen
 Adresse: Nørreport 34C, 8000 Roskilde
 Registreringsnummer: 0011
 Bank: Danske Bank
-Bankadresse: Amagerbrogade 188, 2100 Roskilde
-Telefon: +45 49829047
+Bankadresse: Vesterbrogade 796, 6700 HelsingÃ¸r
+Telefon: +45 60389638
 E-mail: kontakt@danskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 333-62-94769) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
@@ -2295,13 +2411,14 @@ E-mail: kontakt@danskebank.dk
 Totalt indbetalt(DKK): 0.00
 Totalt udbetalt(DKK): -     819809.56
 Saldo (DKK): -     769809.56
+Kind Regards,Danske Bank
 Kunde: Hanne Jensen
 Adresse: Hovedgaden 117A, 8900 Aalborg
 Registreringsnummer: 0035
-Bank: Spar Nord Bank
-Bankadresse: Ã˜sterbrogade 207B, 7100 Vejle
-Telefon: +45 57317351
-E-mail: kontakt@sparnordbank.dk
+Bank: Sydbank
+Bankadresse: Frederiks AllÃ© 478A, 2100 Aarhus
+Telefon: +45 64717219
+E-mail: kontakt@sydbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 380-50-26465) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2022-06-26-07.51.21.000000 Overførsel                 648664.03        92666.29 EUR  Tankstation
@@ -2314,13 +2431,14 @@ E-mail: kontakt@sparnordbank.dk
 Totalt indbetalt(DKK): 1768681.09
 Totalt udbetalt(DKK): -     489276.72
 Saldo (DKK): 1329404.37
+Kind Regards,Sydbank
 Kunde: Jens Nielsen
 Adresse: Vesterbrogade 647B, 4700 Esbjerg
 Registreringsnummer: 0049
-Bank: Spar Nord Bank
-Bankadresse: Vesterbrogade 495, 8000 NÃ¦stved
-Telefon: +45 25454017
-E-mail: kontakt@sparnordbank.dk
+Bank: Arbejdernes Landsbank
+Bankadresse: Vesterbrogade 193A, 2100 Aarhus
+Telefon: +45 62570581
+E-mail: kontakt@arbejderneslandsbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 953-27-84442) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2024-07-28-02.20.25.000000 Overførsel           -      72997.61 -      10428.23 EUR  Supermarked
@@ -2334,13 +2452,14 @@ E-mail: kontakt@sparnordbank.dk
 Totalt indbetalt(DKK): 1877781.04
 Totalt udbetalt(DKK): -    1000308.68
 Saldo (DKK): 927472.36
+Kind Regards,Arbejdernes Landsbank
 Kunde: Niels Larsen
 Adresse: Amagerbrogade 17C, 4700 Randers
 Registreringsnummer: 0100
-Bank: Jyske Bank
-Bankadresse: Vesterbrogade 766A, 4000 Randers
-Telefon: +45 13403310
-E-mail: kontakt@jyskebank.dk
+Bank: Sydbank
+Bankadresse: Hovedgaden 120A, 4000 Roskilde
+Telefon: +45 52789024
+E-mail: kontakt@sydbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 664-83-66253) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2025-08-24-12.40.19.000000 Overførsel           -     492899.82 -      70414.26 EUR  Tankstation
@@ -2353,13 +2472,14 @@ E-mail: kontakt@jyskebank.dk
 Totalt indbetalt(DKK): 579499.00
 Totalt udbetalt(DKK): -    1587969.32
 Saldo (DKK): -     958470.32
+Kind Regards,Sydbank
 Kunde: Camilla Larsen
 Adresse: Amagerbrogade 196A, 2100 Helsingør
 Registreringsnummer: 0068
-Bank: Arbejdernes Landsbank
-Bankadresse: Frederiks AllÃ© 121A, 4000 Esbjerg
-Telefon: +45 95854777
-E-mail: kontakt@arbejderneslandsbank.dk
+Bank: Nordea
+Bankadresse: Ã˜sterbrogade 283A, 5000 HelsingÃ¸r
+Telefon: +45 13919335
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 292-76-74893) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2024-05-14-14.33.45.000000 Indbetaling          -     614210.20 -      61421.02 USD  Apotek
@@ -2372,13 +2492,14 @@ E-mail: kontakt@arbejderneslandsbank.dk
 Totalt indbetalt(DKK): 1830774.06
 Totalt udbetalt(DKK): -    1674151.14
 Saldo (DKK): 206622.92
+Kind Regards,Nordea
 Kunde: Marie Pedersen
 Adresse: Strandvejen 589A, 9000 Randers
 Registreringsnummer: 0099
-Bank: Nykredit Bank
-Bankadresse: Ã˜sterbrogade 177A, 2100 Randers
-Telefon: +45 14960373
-E-mail: kontakt@nykreditbank.dk
+Bank: Nordea
+Bankadresse: Amagerbrogade 341, 2100 Vejle
+Telefon: +45 92416582
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 699-90-30688) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2020-11-19-19.20.45.000000 Udbetaling           -     633205.51 -      90457.93 EUR  Supermarked
@@ -2389,13 +2510,14 @@ E-mail: kontakt@nykreditbank.dk
 Totalt indbetalt(DKK): 395949.08
 Totalt udbetalt(DKK): -    1060279.57
 Saldo (DKK): -     614330.49
+Kind Regards,Nordea
 Kunde: Mette Jensen
 Adresse: Vesterbrogade 540B, 9000 Aarhus
 Registreringsnummer: 0086
-Bank: Jyske Bank
-Bankadresse: NÃ¸rreport 80A, 8000 Odense
-Telefon: +45 35360327
-E-mail: kontakt@jyskebank.dk
+Bank: Arbejdernes Landsbank
+Bankadresse: Ã˜sterbrogade 228A, 9000 Aalborg
+Telefon: +45 70468026
+E-mail: kontakt@arbejderneslandsbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 178-53-21251) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2022-10-20-17.16.38.000000 Indbetaling          -     228735.85 -      32676.55 EUR  Supermarked
@@ -2408,13 +2530,14 @@ E-mail: kontakt@jyskebank.dk
 Totalt indbetalt(DKK): 1270270.61
 Totalt udbetalt(DKK): -     364611.65
 Saldo (DKK): 955658.96
+Kind Regards,Arbejdernes Landsbank
 Kunde: Peter Olsen
 Adresse: Nørreport 344B, 9000 Odense
 Registreringsnummer: 0029
-Bank: Nordea
-Bankadresse: Frederiks AllÃ© 56B, 4700 HelsingÃ¸r
-Telefon: +45 74236248
-E-mail: kontakt@nordea.dk
+Bank: Arbejdernes Landsbank
+Bankadresse: Strandvejen 727C, 4000 Esbjerg
+Telefon: +45 93666695
+E-mail: kontakt@arbejderneslandsbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 819-37-97867) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2021-09-04-02.50.36.000000 Indbetaling                  5464.60         5464.60 DKK  Tankstation
@@ -2423,13 +2546,14 @@ E-mail: kontakt@nordea.dk
 Totalt indbetalt(DKK): 78569.57
 Totalt udbetalt(DKK): -      37704.23
 Saldo (DKK): 90865.34
+Kind Regards,Arbejdernes Landsbank
 Kunde: Lars Mortensen
 Adresse: Amagerbrogade 668A, 7100 Næstved
 Registreringsnummer: 0038
-Bank: Jyske Bank
-Bankadresse: Vesterbrogade 317, 5000 Roskilde
-Telefon: +45 77745977
-E-mail: kontakt@jyskebank.dk
+Bank: Danske Bank
+Bankadresse: Strandvejen 744B, 5000 Roskilde
+Telefon: +45 99281345
+E-mail: kontakt@danskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 511-23-45386) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2023-11-02-11.26.44.000000 Indbetaling          -     387451.40 -      38745.14 USD  Biograf
@@ -2440,13 +2564,14 @@ E-mail: kontakt@jyskebank.dk
 Totalt indbetalt(DKK): 165541.04
 Totalt udbetalt(DKK): -     615427.20
 Saldo (DKK): -     399886.16
+Kind Regards,Danske Bank
 Kunde: Hanne Mortensen
 Adresse: Frederiks Allé 274C, 6700 Aalborg
 Registreringsnummer: 0099
-Bank: Nykredit Bank
-Bankadresse: Ã˜sterbrogade 177A, 2100 Randers
-Telefon: +45 14960373
-E-mail: kontakt@nykreditbank.dk
+Bank: Nordea
+Bankadresse: Amagerbrogade 341, 2100 Vejle
+Telefon: +45 92416582
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 948-19-98206) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2023-11-23-17.52.21.000000 Indbetaling          -      74725.62 -      74725.62 DKK  Apotek
@@ -2461,12 +2586,13 @@ E-mail: kontakt@nykreditbank.dk
 Totalt indbetalt(DKK): 1078346.40
 Totalt udbetalt(DKK): -    1866136.54
 Saldo (DKK): -     737790.14
+Kind Regards,Nordea
 Kunde: Marie Pedersen
 Adresse: Amagerbrogade 345A, 8000 Randers
 Registreringsnummer: 0018
 Bank: Nykredit Bank
-Bankadresse: NÃ¸rreport 984A, 5000 Aarhus
-Telefon: +45 63750334
+Bankadresse: Ã˜sterbrogade 548B, 4700 NÃ¦stved
+Telefon: +45 62031570
 E-mail: kontakt@nykreditbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 383-58-14065) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
@@ -2480,12 +2606,13 @@ E-mail: kontakt@nykreditbank.dk
 Totalt indbetalt(DKK): 999774.06
 Totalt udbetalt(DKK): -     581433.14
 Saldo (DKK): 468340.92
+Kind Regards,Nykredit Bank
 Kunde: Mette Thomsen
 Adresse: Amagerbrogade 546B, 7100 Esbjerg
 Registreringsnummer: 0090
 Bank: Arbejdernes Landsbank
-Bankadresse: Vesterbrogade 188, 4700 Vejle
-Telefon: +45 27590221
+Bankadresse: NÃ¸rreport 208A, 3000 Roskilde
+Telefon: +45 10139651
 E-mail: kontakt@arbejderneslandsbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 962-61-77414) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
@@ -2495,13 +2622,14 @@ E-mail: kontakt@arbejderneslandsbank.dk
 Totalt indbetalt(DKK): 482196.54
 Totalt udbetalt(DKK): -      80694.05
 Saldo (DKK): 451502.49
+Kind Regards,Arbejdernes Landsbank
 Kunde: Hanne Andersen
 Adresse: Vesterbrogade 972A, 8000 Aarhus
 Registreringsnummer: 0003
-Bank: Jyske Bank
-Bankadresse: Amagerbrogade 907C, 2100 NÃ¦stved
-Telefon: +45 57451770
-E-mail: kontakt@jyskebank.dk
+Bank: Nordea
+Bankadresse: SÃ¸ndergade 341A, 9000 Roskilde
+Telefon: +45 54462934
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 114-92-87774) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2020-01-26-14.25.36.000000 Udbetaling                  75763.27        75763.27 DKK  Blomsterhandler
@@ -2515,13 +2643,14 @@ E-mail: kontakt@jyskebank.dk
 Totalt indbetalt(DKK): 1261344.29
 Totalt udbetalt(DKK): -    1206361.33
 Saldo (DKK): 104982.96
+Kind Regards,Nordea
 Kunde: Jens Pedersen
 Adresse: Strandvejen 781C, 2100 Roskilde
 Registreringsnummer: 0041
-Bank: Danske Bank
-Bankadresse: Vesterbrogade 393C, 7100 Aalborg
-Telefon: +45 69767803
-E-mail: kontakt@danskebank.dk
+Bank: Spar Nord Bank
+Bankadresse: Hovedgaden 804, 9000 Vejle
+Telefon: +45 46233011
+E-mail: kontakt@sparnordbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 281-80-35690) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2022-02-27-18.33.30.000000 Indbetaling                444913.20        44491.32 USD  Apotek
@@ -2531,13 +2660,14 @@ E-mail: kontakt@danskebank.dk
 Totalt indbetalt(DKK): 946569.74
 Totalt udbetalt(DKK): -     786590.70
 Saldo (DKK): 209979.04
+Kind Regards,Spar Nord Bank
 Kunde: Niels Nielsen
 Adresse: Nørreport 825A, 4000 København
 Registreringsnummer: 0066
-Bank: Spar Nord Bank
-Bankadresse: Frederiks AllÃ© 896A, 8000 HelsingÃ¸r
-Telefon: +45 86181803
-E-mail: kontakt@sparnordbank.dk
+Bank: Arbejdernes Landsbank
+Bankadresse: Frederiks AllÃ© 240C, 4000 Aalborg
+Telefon: +45 84127644
+E-mail: kontakt@arbejderneslandsbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 488-90-33015) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2025-08-09-08.11.51.000000 Indbetaling          -     186255.86 -      26607.98 EUR  Bageri
@@ -2552,13 +2682,14 @@ E-mail: kontakt@sparnordbank.dk
 Totalt indbetalt(DKK): 1966787.80
 Totalt udbetalt(DKK): -    1479170.69
 Saldo (DKK): 537617.11
+Kind Regards,Arbejdernes Landsbank
 Kunde: Camilla Nielsen
 Adresse: Strandvejen 542C, 6700 Randers
 Registreringsnummer: 0023
-Bank: Handelsbanken
-Bankadresse: Amagerbrogade 319, 5000 Odense
-Telefon: +45 57057035
-E-mail: kontakt@handelsbanken.dk
+Bank: Jyske Bank
+Bankadresse: NÃ¸rreport 972B, 3000 Roskilde
+Telefon: +45 94034779
+E-mail: kontakt@jyskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 698-57-95867) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2025-06-20-05.26.54.000000 Overførsel           -     278820.15 -      39831.45 EUR  Café
@@ -2569,13 +2700,14 @@ E-mail: kontakt@handelsbanken.dk
 Totalt indbetalt(DKK): 602623.23
 Totalt udbetalt(DKK): -     490033.11
 Saldo (DKK): 162590.12
+Kind Regards,Jyske Bank
 Kunde: Søren Thomsen
 Adresse: Hovedgaden 253B, 7100 Aarhus
 Registreringsnummer: 0080
-Bank: Arbejdernes Landsbank
-Bankadresse: Vesterbrogade 944B, 4000 HelsingÃ¸r
-Telefon: +45 35326098
-E-mail: kontakt@arbejderneslandsbank.dk
+Bank: Jyske Bank
+Bankadresse: SÃ¸ndergade 331B, 3000 Aarhus
+Telefon: +45 89128613
+E-mail: kontakt@jyskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 771-97-17989) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2025-08-09-08.48.36.000000 Udbetaling                 464067.80        46406.78 USD  Boghandel
@@ -2589,13 +2721,14 @@ E-mail: kontakt@arbejderneslandsbank.dk
 Totalt indbetalt(DKK): 757517.73
 Totalt udbetalt(DKK): -    1902927.87
 Saldo (DKK): -    1095410.14
+Kind Regards,Jyske Bank
 Kunde: Lars Olsen
 Adresse: Amagerbrogade 104C, 9000 København
 Registreringsnummer: 0003
-Bank: Jyske Bank
-Bankadresse: Amagerbrogade 907C, 2100 NÃ¦stved
-Telefon: +45 57451770
-E-mail: kontakt@jyskebank.dk
+Bank: Nordea
+Bankadresse: SÃ¸ndergade 341A, 9000 Roskilde
+Telefon: +45 54462934
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 887-17-29854) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2023-03-15-09.32.10.000000 Udbetaling                 417549.79        59649.97 EUR  Tankstation
@@ -2606,13 +2739,14 @@ E-mail: kontakt@jyskebank.dk
 Totalt indbetalt(DKK): 476480.67
 Totalt udbetalt(DKK): -     522290.56
 Saldo (DKK): 4190.11
+Kind Regards,Nordea
 Kunde: Lars Pedersen
 Adresse: Nørreport 189, 3000 Helsingør
 Registreringsnummer: 0003
-Bank: Jyske Bank
-Bankadresse: Amagerbrogade 907C, 2100 NÃ¦stved
-Telefon: +45 57451770
-E-mail: kontakt@jyskebank.dk
+Bank: Nordea
+Bankadresse: SÃ¸ndergade 341A, 9000 Roskilde
+Telefon: +45 54462934
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 416-25-55580) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2022-06-18-08.45.59.000000 Overførsel           -     604228.00 -      60422.80 USD  Fitnesscenter
@@ -2628,13 +2762,14 @@ E-mail: kontakt@jyskebank.dk
 Totalt indbetalt(DKK): 2080872.12
 Totalt udbetalt(DKK): -    1272355.17
 Saldo (DKK): 858516.95
+Kind Regards,Nordea
 Kunde: Marie Mortensen
 Adresse: Søndergade 870A, 6700 Randers
 Registreringsnummer: 0041
-Bank: Danske Bank
-Bankadresse: Vesterbrogade 393C, 7100 Aalborg
-Telefon: +45 69767803
-E-mail: kontakt@danskebank.dk
+Bank: Spar Nord Bank
+Bankadresse: Hovedgaden 804, 9000 Vejle
+Telefon: +45 46233011
+E-mail: kontakt@sparnordbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 169-63-91486) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2023-04-02-10.41.30.000000 Udbetaling                 680708.14        97244.02 EUR  Boghandel
@@ -2642,13 +2777,14 @@ E-mail: kontakt@danskebank.dk
 Totalt indbetalt(DKK): 680708.14
 Totalt udbetalt(DKK): -     418770.20
 Saldo (DKK): 311937.94
+Kind Regards,Spar Nord Bank
 Kunde: Niels Nielsen
 Adresse: Frederiks Allé 782C, 9000 Vejle
 Registreringsnummer: 0019
-Bank: Nykredit Bank
-Bankadresse: Frederiks AllÃ© 965, 4700 KÃ¸benhavn
-Telefon: +45 42231557
-E-mail: kontakt@nykreditbank.dk
+Bank: Jyske Bank
+Bankadresse: Vesterbrogade 560A, 4000 Vejle
+Telefon: +45 70980773
+E-mail: kontakt@jyskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 243-92-27976) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2024-11-13-09.07.38.000000 Indbetaling                743712.10        74371.21 USD  Tankstation
@@ -2664,13 +2800,14 @@ E-mail: kontakt@nykreditbank.dk
 Totalt indbetalt(DKK): 756209.19
 Totalt udbetalt(DKK): -    1289480.26
 Saldo (DKK): -     483271.07
+Kind Regards,Jyske Bank
 Kunde: Mette Hansen
 Adresse: Søndergade 824C, 8000 Aarhus
 Registreringsnummer: 0040
-Bank: Handelsbanken
-Bankadresse: Frederiks AllÃ© 414, 3000 Randers
-Telefon: +45 93641890
-E-mail: kontakt@handelsbanken.dk
+Bank: Jyske Bank
+Bankadresse: Frederiks AllÃ© 64, 9000 Roskilde
+Telefon: +45 64237379
+E-mail: kontakt@jyskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 875-92-42537) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2021-10-21-00.40.15.000000 Overførsel           -      84038.95 -      84038.95 DKK  Bageri
@@ -2685,13 +2822,14 @@ E-mail: kontakt@handelsbanken.dk
 Totalt indbetalt(DKK): 909778.13
 Totalt udbetalt(DKK): -     852058.72
 Saldo (DKK): 107719.41
+Kind Regards,Jyske Bank
 Kunde: Lars Jensen
 Adresse: Strandvejen 221, 6700 Randers
 Registreringsnummer: 0067
-Bank: Jyske Bank
-Bankadresse: NÃ¸rreport 287A, 8900 HelsingÃ¸r
-Telefon: +45 83045513
-E-mail: kontakt@jyskebank.dk
+Bank: Handelsbanken
+Bankadresse: Amagerbrogade 996B, 9000 Odense
+Telefon: +45 40070230
+E-mail: kontakt@handelsbanken.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 287-78-70863) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2025-01-11-04.43.53.000000 Overførsel                 420954.45        60136.35 EUR  Bageri
@@ -2699,10 +2837,10 @@ E-mail: kontakt@jyskebank.dk
 Kunde: Anne Thomsen
 Adresse: Hovedgaden 679C, 6700 Esbjerg
 Registreringsnummer: 0044
-Bank: Nykredit Bank
-Bankadresse: SÃ¸ndergade 465A, 9000 Odense
-Telefon: +45 66460846
-E-mail: kontakt@nykreditbank.dk
+Bank: Sydbank
+Bankadresse: Frederiks AllÃ© 519, 3000 NÃ¦stved
+Telefon: +45 95978548
+E-mail: kontakt@sydbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 226-51-82070) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2022-09-20-03.53.12.000000 Overførsel           -     549485.09 -      78497.87 EUR  Fitnesscenter
@@ -2714,13 +2852,14 @@ E-mail: kontakt@nykreditbank.dk
 Totalt indbetalt(DKK): 1883602.50
 Totalt udbetalt(DKK): -    1161548.69
 Saldo (DKK): 772053.81
+Kind Regards,Sydbank
 Kunde: Jens Larsen
 Adresse: Strandvejen 166, 9000 Helsingør
 Registreringsnummer: 0052
-Bank: Nykredit Bank
-Bankadresse: Ã˜sterbrogade 142A, 8000 NÃ¦stved
-Telefon: +45 73803907
-E-mail: kontakt@nykreditbank.dk
+Bank: Sydbank
+Bankadresse: Ã˜sterbrogade 449B, 4700 HelsingÃ¸r
+Telefon: +45 18353880
+E-mail: kontakt@sydbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 574-16-60362) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2023-10-19-05.13.35.000000 Udbetaling           -      83479.50 -      83479.50 DKK  Tankstation
@@ -2735,13 +2874,14 @@ E-mail: kontakt@nykreditbank.dk
 Totalt indbetalt(DKK): 78881.99
 Totalt udbetalt(DKK): -    1894850.40
 Saldo (DKK): -    1765968.41
+Kind Regards,Sydbank
 Kunde: Hanne Andersen
 Adresse: Vesterbrogade 539C, 6700 Aarhus
 Registreringsnummer: 0041
-Bank: Danske Bank
-Bankadresse: Vesterbrogade 393C, 7100 Aalborg
-Telefon: +45 69767803
-E-mail: kontakt@danskebank.dk
+Bank: Spar Nord Bank
+Bankadresse: Hovedgaden 804, 9000 Vejle
+Telefon: +45 46233011
+E-mail: kontakt@sparnordbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 690-86-83885) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2021-11-17-12.16.04.000000 Udbetaling                  17126.52        17126.52 DKK  Supermarked
@@ -2755,13 +2895,14 @@ E-mail: kontakt@danskebank.dk
 Totalt indbetalt(DKK): 483077.02
 Totalt udbetalt(DKK): -    1661556.17
 Saldo (DKK): -    1128479.15
+Kind Regards,Spar Nord Bank
 Kunde: Peter Pedersen
 Adresse: Nørreport 690C, 3000 Næstved
 Registreringsnummer: 0098
-Bank: Jyske Bank
-Bankadresse: Ã˜sterbrogade 252C, 5000 NÃ¦stved
-Telefon: +45 41805694
-E-mail: kontakt@jyskebank.dk
+Bank: Spar Nord Bank
+Bankadresse: NÃ¸rreport 688C, 8900 Randers
+Telefon: +45 99653572
+E-mail: kontakt@sparnordbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 656-26-11870) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2025-10-15-10.00.29.000000 Overførsel                 522704.49        74672.07 EUR  Biograf
@@ -2769,10 +2910,10 @@ E-mail: kontakt@jyskebank.dk
 Kunde: Niels Jensen
 Adresse: Strandvejen 686A, 2100 Aarhus
 Registreringsnummer: 0061
-Bank: Spar Nord Bank
-Bankadresse: Ã˜sterbrogade 323C, 5000 Odense
-Telefon: +45 75186688
-E-mail: kontakt@sparnordbank.dk
+Bank: Danske Bank
+Bankadresse: Hovedgaden 749B, 4700 KÃ¸benhavn
+Telefon: +45 24657624
+E-mail: kontakt@danskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 741-62-19462) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2020-11-27-16.21.16.000000 Overførsel           -     678150.90 -      96878.70 EUR  Fitnesscenter
@@ -2781,13 +2922,14 @@ E-mail: kontakt@sparnordbank.dk
 Totalt indbetalt(DKK): 1721135.97
 Totalt udbetalt(DKK): -     678150.90
 Saldo (DKK): 1092985.07
+Kind Regards,Danske Bank
 Kunde: Mette Mortensen
 Adresse: Frederiks Allé 842A, 9000 Næstved
 Registreringsnummer: 0031
-Bank: Nykredit Bank
-Bankadresse: Ã˜sterbrogade 448B, 3000 Vejle
-Telefon: +45 17600253
-E-mail: kontakt@nykreditbank.dk
+Bank: Nordea
+Bankadresse: Hovedgaden 704B, 8000 HelsingÃ¸r
+Telefon: +45 23635770
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 317-62-68675) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2021-03-24-08.57.42.000000 Overførsel                  83754.90        83754.90 DKK  Restaurant
@@ -2803,13 +2945,14 @@ E-mail: kontakt@nykreditbank.dk
 Totalt indbetalt(DKK): 666927.24
 Totalt udbetalt(DKK): -    2538586.29
 Saldo (DKK): -    1821659.05
+Kind Regards,Nordea
 Kunde: Camilla Nielsen
 Adresse: Strandvejen 467A, 5000 Aarhus
 Registreringsnummer: 0068
-Bank: Arbejdernes Landsbank
-Bankadresse: Frederiks AllÃ© 121A, 4000 Esbjerg
-Telefon: +45 95854777
-E-mail: kontakt@arbejderneslandsbank.dk
+Bank: Nordea
+Bankadresse: Ã˜sterbrogade 283A, 5000 HelsingÃ¸r
+Telefon: +45 13919335
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 888-44-56426) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2025-10-25-11.00.25.000000 Udbetaling                 302529.92        43218.56 EUR  Tankstation
@@ -2818,13 +2961,14 @@ E-mail: kontakt@arbejderneslandsbank.dk
 Totalt indbetalt(DKK): 302529.92
 Totalt udbetalt(DKK): -      90986.36
 Saldo (DKK): 261543.56
+Kind Regards,Nordea
 Kunde: Peter Hansen
 Adresse: Amagerbrogade 756C, 4000 Vejle
 Registreringsnummer: 0087
-Bank: Danske Bank
-Bankadresse: Strandvejen 735B, 8000 Roskilde
-Telefon: +45 92732064
-E-mail: kontakt@danskebank.dk
+Bank: Nykredit Bank
+Bankadresse: Hovedgaden 138B, 4700 Vejle
+Telefon: +45 68589582
+E-mail: kontakt@nykreditbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 381-81-28641) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2025-08-08-00.35.22.000000 Udbetaling                 697187.96        99598.28 EUR  Café
@@ -2833,13 +2977,14 @@ E-mail: kontakt@danskebank.dk
 Totalt indbetalt(DKK): 697187.96
 Totalt udbetalt(DKK): -     470889.02
 Saldo (DKK): 276298.94
+Kind Regards,Nykredit Bank
 Kunde: Søren Olsen
 Adresse: Frederiks Allé 716C, 4000 Vejle
 Registreringsnummer: 0031
-Bank: Nykredit Bank
-Bankadresse: Ã˜sterbrogade 448B, 3000 Vejle
-Telefon: +45 17600253
-E-mail: kontakt@nykreditbank.dk
+Bank: Nordea
+Bankadresse: Hovedgaden 704B, 8000 HelsingÃ¸r
+Telefon: +45 23635770
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 370-78-94862) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2024-02-23-11.16.16.000000 Udbetaling           -     860780.10 -      86078.01 USD  Møbelbutik
@@ -2853,12 +2998,13 @@ E-mail: kontakt@nykreditbank.dk
 Totalt indbetalt(DKK): 2753201.17
 Totalt udbetalt(DKK): -    1328113.33
 Saldo (DKK): 1475087.84
+Kind Regards,Nordea
 Kunde: Anne Larsen
 Adresse: Hovedgaden 767B, 4700 Esbjerg
 Registreringsnummer: 0015
 Bank: Nykredit Bank
-Bankadresse: Vesterbrogade 509, 9000 KÃ¸benhavn
-Telefon: +45 63708513
+Bankadresse: Strandvejen 687B, 4000 Roskilde
+Telefon: +45 16288988
 E-mail: kontakt@nykreditbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 173-48-32637) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
@@ -2869,13 +3015,14 @@ E-mail: kontakt@nykreditbank.dk
 Totalt indbetalt(DKK): 113718.99
 Totalt udbetalt(DKK): -     194996.97
 Saldo (DKK): -      31277.98
+Kind Regards,Nykredit Bank
 Kunde: Camilla Jensen
 Adresse: Søndergade 955, 4000 Aalborg
 Registreringsnummer: 0013
-Bank: Spar Nord Bank
-Bankadresse: Strandvejen 819A, 8000 HelsingÃ¸r
-Telefon: +45 96713740
-E-mail: kontakt@sparnordbank.dk
+Bank: Sydbank
+Bankadresse: Hovedgaden 619, 4700 Aalborg
+Telefon: +45 54280384
+E-mail: kontakt@sydbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 535-39-32305) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2025-05-27-19.54.43.000000 Overførsel                  12496.51        12496.51 DKK  Café
@@ -2884,13 +3031,14 @@ E-mail: kontakt@sparnordbank.dk
 Totalt indbetalt(DKK): 39908.30
 Totalt udbetalt(DKK): -     811495.40
 Saldo (DKK): -     721587.10
+Kind Regards,Sydbank
 Kunde: Peter Jensen
 Adresse: Søndergade 747B, 3000 Næstved
 Registreringsnummer: 0077
-Bank: Spar Nord Bank
-Bankadresse: Hovedgaden 931B, 6700 KÃ¸benhavn
-Telefon: +45 21020277
-E-mail: kontakt@sparnordbank.dk
+Bank: Nykredit Bank
+Bankadresse: NÃ¸rreport 682, 5000 Aalborg
+Telefon: +45 17942550
+E-mail: kontakt@nykreditbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 357-67-26295) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2021-01-13-23.02.04.000000 Overførsel                  46513.59        46513.59 DKK  Restaurant
@@ -2901,23 +3049,24 @@ E-mail: kontakt@sparnordbank.dk
 Totalt indbetalt(DKK): 988834.81
 Totalt udbetalt(DKK): -     625412.33
 Saldo (DKK): 413422.48
+Kind Regards,Nykredit Bank
 Kunde: Lars Thomsen
 Adresse: Vesterbrogade 444C, 2100 Vejle
 Registreringsnummer: 0023
-Bank: Handelsbanken
-Bankadresse: Amagerbrogade 319, 5000 Odense
-Telefon: +45 57057035
-E-mail: kontakt@handelsbanken.dk
+Bank: Jyske Bank
+Bankadresse: NÃ¸rreport 972B, 3000 Roskilde
+Telefon: +45 94034779
+E-mail: kontakt@jyskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 576-44-17350) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2020-08-14-07.27.39.000000 Indbetaling                124950.56        17850.08 EUR  Elektronikbutik
 Kunde: Søren Hansen
 Adresse: Vesterbrogade 193B, 6700 København
 Registreringsnummer: 0075
-Bank: Handelsbanken
-Bankadresse: Vesterbrogade 618A, 4700 Roskilde
-Telefon: +45 72359900
-E-mail: kontakt@handelsbanken.dk
+Bank: Arbejdernes Landsbank
+Bankadresse: Hovedgaden 790A, 3000 Vejle
+Telefon: +45 47312448
+E-mail: kontakt@arbejderneslandsbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 822-85-25806) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2025-08-08-03.49.43.000000 Overførsel           -     322403.70 -      32240.37 USD  Café
@@ -2931,13 +3080,14 @@ E-mail: kontakt@handelsbanken.dk
 Totalt indbetalt(DKK): 1220727.69
 Totalt udbetalt(DKK): -     361175.03
 Saldo (DKK): 909552.66
+Kind Regards,Arbejdernes Landsbank
 Kunde: Søren Hansen
 Adresse: Amagerbrogade 235, 5000 Odense
 Registreringsnummer: 0093
-Bank: Danske Bank
-Bankadresse: Vesterbrogade 658C, 5000 NÃ¦stved
-Telefon: +45 51331453
-E-mail: kontakt@danskebank.dk
+Bank: Nordea
+Bankadresse: NÃ¸rreport 642C, 4700 Vejle
+Telefon: +45 44238096
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 723-16-37555) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2020-04-21-14.58.05.000000 Indbetaling          -     930916.00 -      93091.60 USD  Boghandel
@@ -2946,36 +3096,38 @@ E-mail: kontakt@danskebank.dk
 Totalt indbetalt(DKK): 944028.10
 Totalt udbetalt(DKK): -     930916.00
 Saldo (DKK): 63112.10
+Kind Regards,Nordea
 Kunde: Peter Olsen
 Adresse: Østerbrogade 920C, 4700 Odense
 Registreringsnummer: 0073
-Bank: Sydbank
-Bankadresse: SÃ¸ndergade 29B, 9000 Esbjerg
-Telefon: +45 29982038
-E-mail: kontakt@sydbank.dk
+Bank: Spar Nord Bank
+Bankadresse: Vesterbrogade 788B, 4700 Esbjerg
+Telefon: +45 21908453
+E-mail: kontakt@sparnordbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 866-14-34557) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2022-07-27-04.57.19.000000 Udbetaling           -      41551.03 -      41551.03 DKK  Møbelbutik
 Totalt indbetalt(DKK): 0.00
 Totalt udbetalt(DKK): -      41551.03
 Saldo (DKK): 8448.97
+Kind Regards,Spar Nord Bank
 Kunde: Lars Thomsen
 Adresse: Strandvejen 947A, 2100 København
 Registreringsnummer: 0028
-Bank: Danske Bank
-Bankadresse: Hovedgaden 949C, 6700 Vejle
-Telefon: +45 66042753
-E-mail: kontakt@danskebank.dk
+Bank: Spar Nord Bank
+Bankadresse: Amagerbrogade 394, 6700 Esbjerg
+Telefon: +45 47742550
+E-mail: kontakt@sparnordbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 425-11-11316) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2022-02-10-08.28.40.000000 Udbetaling                  69549.20        69549.20 DKK  Elektronikbutik
 Kunde: Søren Mortensen
 Adresse: Frederiks Allé 84A, 4000 Helsingør
 Registreringsnummer: 0081
-Bank: Handelsbanken
-Bankadresse: Strandvejen 212A, 9000 Roskilde
-Telefon: +45 95029842
-E-mail: kontakt@handelsbanken.dk
+Bank: Danske Bank
+Bankadresse: Hovedgaden 895B, 5000 NÃ¦stved
+Telefon: +45 44235152
+E-mail: kontakt@danskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 201-31-97785) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2023-05-13-05.04.11.000000 Udbetaling           -      39905.37 -      39905.37 DKK  Café
@@ -2989,13 +3141,14 @@ E-mail: kontakt@handelsbanken.dk
 Totalt indbetalt(DKK): 1435526.14
 Totalt udbetalt(DKK): -    1780379.19
 Saldo (DKK): -     294853.05
+Kind Regards,Danske Bank
 Kunde: Jens Christensen
 Adresse: Vesterbrogade 167B, 3000 København
 Registreringsnummer: 0043
-Bank: Handelsbanken
-Bankadresse: Amagerbrogade 371C, 2100 Odense
-Telefon: +45 11975295
-E-mail: kontakt@handelsbanken.dk
+Bank: Nykredit Bank
+Bankadresse: Amagerbrogade 520, 8900 Vejle
+Telefon: +45 38974645
+E-mail: kontakt@nykreditbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 474-49-28472) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2022-04-03-08.36.41.000000 Overførsel           -     173326.50 -      17332.65 USD  Café
@@ -3011,13 +3164,14 @@ E-mail: kontakt@handelsbanken.dk
 Totalt indbetalt(DKK): 1792224.84
 Totalt udbetalt(DKK): -     670674.00
 Saldo (DKK): 1171550.84
+Kind Regards,Nykredit Bank
 Kunde: Lars Pedersen
 Adresse: Nørreport 83B, 6700 Odense
 Registreringsnummer: 0083
-Bank: Handelsbanken
-Bankadresse: Hovedgaden 897, 4000 NÃ¦stved
-Telefon: +45 87460026
-E-mail: kontakt@handelsbanken.dk
+Bank: Nordea
+Bankadresse: SÃ¸ndergade 518, 8000 HelsingÃ¸r
+Telefon: +45 87246918
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 677-21-79291) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2024-01-28-04.11.35.000000 Udbetaling                  37894.98        37894.98 DKK  Supermarked
@@ -3032,13 +3186,14 @@ E-mail: kontakt@handelsbanken.dk
 Totalt indbetalt(DKK): 1934673.78
 Totalt udbetalt(DKK): -     130399.40
 Saldo (DKK): 1854274.38
+Kind Regards,Nordea
 Kunde: Hanne Mortensen
 Adresse: Hovedgaden 922C, 7100 Esbjerg
 Registreringsnummer: 0049
-Bank: Spar Nord Bank
-Bankadresse: Vesterbrogade 495, 8000 NÃ¦stved
-Telefon: +45 25454017
-E-mail: kontakt@sparnordbank.dk
+Bank: Arbejdernes Landsbank
+Bankadresse: Vesterbrogade 193A, 2100 Aarhus
+Telefon: +45 62570581
+E-mail: kontakt@arbejderneslandsbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 537-21-55847) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2023-03-23-05.53.50.000000 Udbetaling           -      64173.98 -      64173.98 DKK  Fitnesscenter
@@ -3051,23 +3206,24 @@ E-mail: kontakt@sparnordbank.dk
 Totalt indbetalt(DKK): 1183287.23
 Totalt udbetalt(DKK): -     510171.43
 Saldo (DKK): 723115.80
+Kind Regards,Arbejdernes Landsbank
 Kunde: Niels Mortensen
 Adresse: Strandvejen 842, 4000 Esbjerg
 Registreringsnummer: 0035
-Bank: Spar Nord Bank
-Bankadresse: Ã˜sterbrogade 207B, 7100 Vejle
-Telefon: +45 57317351
-E-mail: kontakt@sparnordbank.dk
+Bank: Sydbank
+Bankadresse: Frederiks AllÃ© 478A, 2100 Aarhus
+Telefon: +45 64717219
+E-mail: kontakt@sydbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 141-24-79445) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2025-09-11-03.41.20.000000 Overførsel                 474794.53        67827.79 EUR  Biograf
 Kunde: Jens Jensen
 Adresse: Amagerbrogade 597, 3000 Aalborg
 Registreringsnummer: 0061
-Bank: Spar Nord Bank
-Bankadresse: Ã˜sterbrogade 323C, 5000 Odense
-Telefon: +45 75186688
-E-mail: kontakt@sparnordbank.dk
+Bank: Danske Bank
+Bankadresse: Hovedgaden 749B, 4700 KÃ¸benhavn
+Telefon: +45 24657624
+E-mail: kontakt@danskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 336-21-50249) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2020-05-08-14.12.54.000000 Indbetaling                  2026.42         2026.42 DKK  Bageri
@@ -3078,13 +3234,14 @@ E-mail: kontakt@sparnordbank.dk
 Totalt indbetalt(DKK): 2026118.59
 Totalt udbetalt(DKK): -      76951.07
 Saldo (DKK): 1999167.52
+Kind Regards,Danske Bank
 Kunde: Anne Larsen
 Adresse: Strandvejen 687B, 4000 Helsingør
 Registreringsnummer: 0039
-Bank: Handelsbanken
-Bankadresse: Ã˜sterbrogade 247C, 8900 Odense
-Telefon: +45 83440860
-E-mail: kontakt@handelsbanken.dk
+Bank: Nykredit Bank
+Bankadresse: Hovedgaden 417A, 4700 HelsingÃ¸r
+Telefon: +45 11155187
+E-mail: kontakt@nykreditbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 666-11-66541) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2025-04-03-15.04.07.000000 Overførsel           -     792328.90 -      79232.89 USD  Fitnesscenter
@@ -3092,13 +3249,14 @@ E-mail: kontakt@handelsbanken.dk
 Totalt indbetalt(DKK): 297708.39
 Totalt udbetalt(DKK): -     792328.90
 Saldo (DKK): -     444620.51
+Kind Regards,Nykredit Bank
 Kunde: Marie Olsen
 Adresse: Frederiks Allé 569, 4000 Helsingør
 Registreringsnummer: 0088
-Bank: Nordea
-Bankadresse: SÃ¸ndergade 877, 4700 Esbjerg
-Telefon: +45 94332706
-E-mail: kontakt@nordea.dk
+Bank: Danske Bank
+Bankadresse: SÃ¸ndergade 741A, 8900 Aarhus
+Telefon: +45 71378166
+E-mail: kontakt@danskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 391-88-77626) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2025-11-07-13.11.32.000000 Overførsel                  45176.93        45176.93 DKK  Boghandel
@@ -3113,26 +3271,28 @@ E-mail: kontakt@nordea.dk
 Totalt indbetalt(DKK): 1419853.96
 Totalt udbetalt(DKK): -     896369.79
 Saldo (DKK): 573484.17
+Kind Regards,Danske Bank
 Kunde: Hanne Larsen
 Adresse: Søndergade 446B, 7100 Odense
 Registreringsnummer: 0020
-Bank: Handelsbanken
-Bankadresse: Amagerbrogade 266, 8000 Roskilde
-Telefon: +45 20199238
-E-mail: kontakt@handelsbanken.dk
+Bank: Nordea
+Bankadresse: Ã˜sterbrogade 807, 8000 Aarhus
+Telefon: +45 46621388
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 161-79-57502) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2022-09-19-11.46.55.000000 Udbetaling           -     754950.30 -      75495.03 USD  Bageri
 Totalt indbetalt(DKK): 0.00
 Totalt udbetalt(DKK): -     754950.30
 Saldo (DKK): -     704950.30
+Kind Regards,Nordea
 Kunde: Jens Andersen
 Adresse: Vesterbrogade 449, 7100 Helsingør
 Registreringsnummer: 0031
-Bank: Nykredit Bank
-Bankadresse: Ã˜sterbrogade 448B, 3000 Vejle
-Telefon: +45 17600253
-E-mail: kontakt@nykreditbank.dk
+Bank: Nordea
+Bankadresse: Hovedgaden 704B, 8000 HelsingÃ¸r
+Telefon: +45 23635770
+E-mail: kontakt@nordea.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 511-62-59030) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2022-10-17-05.15.01.000000 Indbetaling          -      55829.57 -      55829.57 DKK  Café
@@ -3146,13 +3306,14 @@ E-mail: kontakt@nykreditbank.dk
 Totalt indbetalt(DKK): 1236819.87
 Totalt udbetalt(DKK): -    1118190.79
 Saldo (DKK): 168629.08
+Kind Regards,Nordea
 Kunde: Jens Jensen
 Adresse: Amagerbrogade 442A, 8000 Esbjerg
 Registreringsnummer: 0086
-Bank: Jyske Bank
-Bankadresse: NÃ¸rreport 80A, 8000 Odense
-Telefon: +45 35360327
-E-mail: kontakt@jyskebank.dk
+Bank: Arbejdernes Landsbank
+Bankadresse: Ã˜sterbrogade 228A, 9000 Aalborg
+Telefon: +45 70468026
+E-mail: kontakt@arbejderneslandsbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 941-27-18066) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2025-02-14-09.55.05.000000 Udbetaling                 589493.59        84213.37 EUR  Restaurant
@@ -3166,13 +3327,14 @@ E-mail: kontakt@jyskebank.dk
 Totalt indbetalt(DKK): 1374370.60
 Totalt udbetalt(DKK): -    1875307.81
 Saldo (DKK): -     450937.21
+Kind Regards,Arbejdernes Landsbank
 Kunde: Søren Andersen
 Adresse: Vesterbrogade 648, 4000 Vejle
 Registreringsnummer: 0089
-Bank: Danske Bank
-Bankadresse: NÃ¸rreport 69B, 9000 Randers
-Telefon: +45 82369329
-E-mail: kontakt@danskebank.dk
+Bank: Handelsbanken
+Bankadresse: Amagerbrogade 800B, 2100 Aalborg
+Telefon: +45 46141103
+E-mail: kontakt@handelsbanken.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 545-80-48963) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2024-03-01-09.57.43.000000 Indbetaling          -      33703.06 -      33703.06 DKK  Fitnesscenter
@@ -3186,12 +3348,13 @@ E-mail: kontakt@danskebank.dk
 Totalt indbetalt(DKK): 2715511.73
 Totalt udbetalt(DKK): -     138677.36
 Saldo (DKK): 2626834.37
+Kind Regards,Handelsbanken
 Kunde: Anne Thomsen
 Adresse: Amagerbrogade 693B, 2100 Vejle
 Registreringsnummer: 0018
 Bank: Nykredit Bank
-Bankadresse: NÃ¸rreport 984A, 5000 Aarhus
-Telefon: +45 63750334
+Bankadresse: Ã˜sterbrogade 548B, 4700 NÃ¦stved
+Telefon: +45 62031570
 E-mail: kontakt@nykreditbank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 550-50-28444) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
@@ -3204,13 +3367,14 @@ E-mail: kontakt@nykreditbank.dk
 Totalt indbetalt(DKK): 1080756.49
 Totalt udbetalt(DKK): -     342123.36
 Saldo (DKK): 788633.13
+Kind Regards,Nykredit Bank
 Kunde: Peter Christensen
 Adresse: Søndergade 558, 5000 Roskilde
 Registreringsnummer: 0056
-Bank: Handelsbanken
-Bankadresse: NÃ¸rreport 504B, 7100 Aarhus
-Telefon: +45 54333133
-E-mail: kontakt@handelsbanken.dk
+Bank: Danske Bank
+Bankadresse: SÃ¸ndergade 568A, 3000 KÃ¸benhavn
+Telefon: +45 37450087
+E-mail: kontakt@danskebank.dk
 --- TRANSACTION RECORD (ACCOUNT ID: 473-94-58011) ---
 ---Dato---|---Tidspunkt---|Transaktionstype|  +/-  |CurrencyDKK|+/-| CurrencyLocal | Butik
 2024-08-24-05.55.02.000000 Indbetaling                439681.80        43968.18 USD  Supermarked
@@ -3218,3 +3382,7 @@ E-mail: kontakt@handelsbanken.dk
 2024-12-14-07.36.42.000000 Indbetaling          -      64743.30 -      64743.30 DKK  Apotek
 2024-08-04-13.09.53.000000 Overførsel                 480375.20        48037.52 USD  Apotek
 2023-12-14-21.20.51.000000 Overførsel           -     444830.05 -      63547.15 EUR  Biograf
+Totalt indbetalt(DKK): 1135734.00
+Totalt udbetalt(DKK): -     509573.35
+Saldo (DKK): 676160.65
+Kind Regards,Danske Bank

@@ -1,4 +1,9 @@
 import random
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parents[2]
+DATA_INPUT_DIR = BASE_DIR / "data" / "input"
+DATA_INPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 def generate_random_cpr():
     """Generér et CPR-nummer i formatet xxxxxx-yyyy"""
@@ -8,7 +13,7 @@ def generate_random_cpr():
     control_number = f"{random.randint(1000, 9999):04d}"  # Tilfældig 4-cifret kontrolnummer
     return f"{day}{month}{year}-{control_number}"
 
-def generate_kundeoplysninger(filename, num_records):
+def generate_kundeoplysninger(filename: Path, num_records: int) -> None:
     navne = [
         "Michael Nielsen", "Anne Jensen", "John Doe", "Alice Smith", "Peter Petersen", "Sara Hansen",
         "Tommy Andersen", "Emma Olsen", "William Brown", "Olivia Johnson", "Lucas Miller", "Sophia Davis",
@@ -22,7 +27,7 @@ def generate_kundeoplysninger(filename, num_records):
     ]
     lande = ["DK", "US", "GB", "DE", "FR", "ES", "SE", "NO", "IT", "CA"]
 
-    with open(filename, "w") as f:
+    with filename.open("w", encoding="utf-8") as f:
         for _ in range(num_records):
             kunde_id = generate_random_cpr()
             navn = random.choice(navne)
@@ -40,7 +45,7 @@ def generate_kundeoplysninger(filename, num_records):
             )
             f.write(record)
 
-def generate_sanction_list(filename, num_records):
+def generate_sanction_list(filename: Path, num_records: int) -> None:
     sanction_ids = [f"S{i:03d}" for i in range(1, num_records + 1)]
     navne = [
         "Michael Nilsen", "Anne J.", "Jonathan Doe", "Alicia Smith", "John Smith", "Sara H.",
@@ -59,7 +64,7 @@ def generate_sanction_list(filename, num_records):
                      "1982-09-29", "1978-11-11", "1985-06-18", "1993-02-25", "1977-10-03", "1965-04-12"]
     lande = ["DK", "US", "GB", "DE", "FR", "ES", "NO", "SE", "IT", "CA"]
 
-    with open(filename, "w") as f:
+    with filename.open("w", encoding="utf-8") as f:
         for _ in range(num_records):
             sanction_id = random.choice(sanction_ids)
             navn = random.choice(navne)
@@ -82,6 +87,10 @@ def generate_sanction_list(filename, num_records):
             )
             f.write(record)
 
-# Generér inputfiler
-generate_kundeoplysninger("KundeOplysninger_opg12.txt", 500)
-generate_sanction_list("SanctionList_opg12.txt", 200)
+def main() -> None:
+    generate_kundeoplysninger(DATA_INPUT_DIR / "KundeOplysninger_opg12.txt", 500)
+    generate_sanction_list(DATA_INPUT_DIR / "SanctionList_opg12.txt", 200)
+
+
+if __name__ == "__main__":
+    main()

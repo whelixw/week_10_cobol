@@ -1,65 +1,405 @@
-       identification division.
-       program-id. Levenshtein.
- 
-       environment division.
-       configuration section.
-       repository.
-           function all intrinsic.
-       input-output section.
-       file-control.
-           copy "kunde-file-control.cpy".
-           copy "sanction-file-control.cpy".
+>>SOURCE FORMAT IS FREE
+IDENTIFICATION DIVISION.
+PROGRAM-ID. Levenshtein.
 
-       data division.
-       file section.
-           copy "kunde-file-section.cpy".
-           copy "sanction-file-section.cpy".
-       working-storage section.
-       77  string-a               pic x(255).
-       77  string-b               pic x(255).
-       77  length-a               pic 9(3).
-       77  length-b               pic 9(3).
-       77  distance               pic z(3).
-       77  i                      pic 9(3).
-       77  j                      pic 9(3).
-       77  ws-kunde-eof           pic x value 'N'.
-       77  ws-sanction-eof        pic x value 'N'.
-       01  tab.
-           05 filler              occurs 256.
-              10 filler           occurs 256.
-                 15 costs         pic 9(3).
+ENVIRONMENT DIVISION.
+CONFIGURATION SECTION.
+REPOSITORY.
+    FUNCTION ALL INTRINSIC.
+INPUT-OUTPUT SECTION.
+FILE-CONTROL.
+    COPY "kunde-file-control.cpy".
+    COPY "sanction-file-control.cpy".
+    SELECT REPORT-FILE
+        ASSIGN TO "data/output/rapport.txt"
+        ORGANIZATION IS LINE SEQUENTIAL.
 
-       procedure division.
-       main-section.
-           perform read-kunde-fil
-           perform read-sanction-fil
-           stop run.
+DATA DIVISION.
+FILE SECTION.
+    COPY "kunde-file-section.cpy".
+    COPY "sanction-file-section.cpy".
+FD  REPORT-FILE.
+01  REPORT-RECORD            PIC X(200).
 
-       read-kunde-fil section.
-           open input kunde-file
-           move 'N' to ws-kunde-eof
-           perform until ws-kunde-eof = 'Y'
-               read kunde-file
-                   at end
-                       move 'Y' to ws-kunde-eof
-                   not at end
-                       display 'KUNDE: ' kunde-id ' ' kunde-navn
-               end-read
-           end-perform
-           close kunde-file
-           exit section.
+WORKING-STORAGE SECTION.
+77  WS-KUNDE-EOF           PIC X VALUE "N".
+77  WS-SANCTION-EOF        PIC X VALUE "N".
 
-       read-sanction-fil section.
-           open input sanction-file
-           move 'N' to ws-sanction-eof
-           perform until ws-sanction-eof = 'Y'
-               read sanction-file
-                   at end
-                       move 'Y' to ws-sanction-eof
-                   not at end
-                       display 'SANCTION: ' sanction-id ' ' sanction-navn
-                               ' alias ' sanction-alias-1
-               end-read
-           end-perform
-           close sanction-file
-           exit section.
+*> -------- Levenshtein helpers --------
+77  STRING-A               PIC X(255).
+77  STRING-B               PIC X(255).
+77  LENGTH-A               PIC 9(3).
+77  LENGTH-B               PIC 9(3).
+77  DISTANCE               PIC 9(3).
+77  WS-MAX-LENGTH          PIC 9(3).
+77  WS-LAST-PERCENT        PIC 9(3)V99 VALUE 0.
+77  WS-I-INDEX             PIC 9(3).
+77  WS-J-INDEX             PIC 9(3).
+77  WS-COST                PIC 9.
+77  WS-DELETE-VALUE        PIC 9(3).
+77  WS-INSERT-VALUE        PIC 9(3).
+77  WS-SUB-VALUE           PIC 9(3).
+77  WS-MIN-VALUE           PIC 9(3).
+01  LEV-MATRIX.
+    05 LEV-ROW OCCURS 256 TIMES.
+        10 LEV-COL OCCURS 256 TIMES.
+            15 LEV-COST      PIC 9(3).
+
+*> -------- Sanction table --------
+01  SANCTION-TABLE.
+    05 SANCTION-ENTRY OCCURS 500 TIMES.
+        10 ST-SANCTION-ID       PIC X(5).
+        10 ST-SANCTION-NAVN     PIC X(20).
+        10 ST-SANCTION-ALIAS-1  PIC X(20).
+        10 ST-SANCTION-ALIAS-2  PIC X(20).
+        10 ST-SANCTION-ALIAS-3  PIC X(20).
+        10 ST-SANCTION-ALIAS-4  PIC X(20).
+        10 ST-SANCTION-ALIAS-5  PIC X(20).
+        10 ST-SANCTION-FOEDSEL  PIC X(10).
+        10 ST-SANCTION-LAND     PIC X(2).
+77  SANCTION-COUNT         PIC 9(4) VALUE 0.
+
+*> -------- Matching helpers --------
+77  WS-SANCTION-INDEX      PIC 9(4) VALUE 0.
+77  WS-ALIAS-INDEX         PIC 9 VALUE 0.
+77  WS-NAME-SCORE          PIC 9(3)V99 VALUE 0.
+77  WS-ALIAS-SCORE         PIC 9(3)V99 VALUE 0.
+77  WS-DOB-SCORE           PIC 9(3)V99 VALUE 0.
+77  WS-LAND-SCORE          PIC 9(3)V99 VALUE 0.
+77  WS-TOTAL-SCORE         PIC 9(3)V99 VALUE 0.
+77  WS-WEIGHTED-SUM        PIC 9(7)V99 VALUE 0.
+77  WS-TOTAL-WEIGHT        PIC 9(3) VALUE 150.
+77  WS-BEST-TOTAL-SCORE    PIC 9(3)V99 VALUE 0.
+77  WS-BEST-NAME-SCORE     PIC 9(3)V99 VALUE 0.
+77  WS-BEST-ALIAS-SCORE    PIC 9(3)V99 VALUE 0.
+77  WS-BEST-DOB-SCORE      PIC 9(3)V99 VALUE 0.
+77  WS-BEST-LAND-SCORE     PIC 9(3)V99 VALUE 0.
+77  WS-BEST-ALIAS-VALUE    PIC X(20).
+01  WS-BEST-MATCH.
+    05 WS-BEST-SANCTION-ID   PIC X(5).
+    05 WS-BEST-SANCTION-NAVN PIC X(20).
+    05 WS-BEST-SANCTION-FOED PIC X(10).
+    05 WS-BEST-SANCTION-LAND PIC X(2).
+
+01  WS-SELECTED-ALIAS      PIC X(20).
+01  WS-CURRENT-ALIAS       PIC X(20).
+
+01  WS-DISPLAY-LINE        PIC X(200).
+01  WS-PERCENT-DISPLAY     PIC Z(3)9.99.
+01  WS-LINE-SEPARATOR      PIC X(40) VALUE ALL "-".
+
+PROCEDURE DIVISION.
+MAIN-SECTION.
+    PERFORM LOAD-SANCTIONS
+    IF SANCTION-COUNT = 0
+        DISPLAY "Ingen sanktionsposter indlæst - afslutter."
+        STOP RUN
+    END-IF
+    OPEN OUTPUT REPORT-FILE
+    PERFORM PROCESS-CUSTOMERS
+    CLOSE REPORT-FILE
+    DISPLAY "Rapport skrevet til data/output/rapport.txt"
+    STOP RUN.
+
+LOAD-SANCTIONS.
+    OPEN INPUT SANCTION-FILE
+    MOVE 0 TO SANCTION-COUNT
+    MOVE "N" TO WS-SANCTION-EOF
+    PERFORM UNTIL WS-SANCTION-EOF = "Y"
+        READ SANCTION-FILE
+            AT END
+                MOVE "Y" TO WS-SANCTION-EOF
+            NOT AT END
+                IF SANCTION-COUNT < 500
+                    ADD 1 TO SANCTION-COUNT
+                    MOVE SANCTION-ID TO
+                        ST-SANCTION-ID(SANCTION-COUNT)
+                    MOVE SANCTION-NAVN TO
+                        ST-SANCTION-NAVN(SANCTION-COUNT)
+                    MOVE SANCTION-ALIAS-1 TO
+                        ST-SANCTION-ALIAS-1(SANCTION-COUNT)
+                    MOVE SANCTION-ALIAS-2 TO
+                        ST-SANCTION-ALIAS-2(SANCTION-COUNT)
+                    MOVE SANCTION-ALIAS-3 TO
+                        ST-SANCTION-ALIAS-3(SANCTION-COUNT)
+                    MOVE SANCTION-ALIAS-4 TO
+                        ST-SANCTION-ALIAS-4(SANCTION-COUNT)
+                    MOVE SANCTION-ALIAS-5 TO
+                        ST-SANCTION-ALIAS-5(SANCTION-COUNT)
+                    MOVE SANCTION-FOEDSELSDATO TO
+                        ST-SANCTION-FOEDSEL(SANCTION-COUNT)
+                    MOVE SANCTION-LAND TO
+                        ST-SANCTION-LAND(SANCTION-COUNT)
+                ELSE
+                    MOVE "Y" TO WS-SANCTION-EOF
+                    DISPLAY "Advarsel: sanctiontabel er fuld."
+                END-IF
+        END-READ
+    END-PERFORM
+    CLOSE SANCTION-FILE
+    EXIT PARAGRAPH.
+
+PROCESS-CUSTOMERS.
+    OPEN INPUT KUNDE-FILE
+    MOVE "N" TO WS-KUNDE-EOF
+    PERFORM UNTIL WS-KUNDE-EOF = "Y"
+        READ KUNDE-FILE
+            AT END
+                MOVE "Y" TO WS-KUNDE-EOF
+            NOT AT END
+                PERFORM FIND-BEST-MATCH
+        END-READ
+    END-PERFORM
+    CLOSE KUNDE-FILE
+    EXIT PARAGRAPH.
+
+FIND-BEST-MATCH.
+    MOVE 0 TO WS-BEST-TOTAL-SCORE
+    MOVE 0 TO WS-BEST-NAME-SCORE
+    MOVE 0 TO WS-BEST-ALIAS-SCORE
+    MOVE 0 TO WS-BEST-DOB-SCORE
+    MOVE 0 TO WS-BEST-LAND-SCORE
+    MOVE SPACES TO WS-BEST-MATCH
+    MOVE SPACES TO WS-BEST-ALIAS-VALUE
+    PERFORM VARYING WS-SANCTION-INDEX FROM 1 BY 1
+            UNTIL WS-SANCTION-INDEX > SANCTION-COUNT
+        PERFORM EVALUATE-CURRENT-SANCTION
+        IF WS-TOTAL-SCORE > WS-BEST-TOTAL-SCORE
+            MOVE WS-TOTAL-SCORE    TO WS-BEST-TOTAL-SCORE
+            MOVE WS-NAME-SCORE     TO WS-BEST-NAME-SCORE
+            MOVE WS-ALIAS-SCORE    TO WS-BEST-ALIAS-SCORE
+            MOVE WS-DOB-SCORE      TO WS-BEST-DOB-SCORE
+            MOVE WS-LAND-SCORE     TO WS-BEST-LAND-SCORE
+            MOVE WS-SELECTED-ALIAS TO WS-BEST-ALIAS-VALUE
+            MOVE ST-SANCTION-ID(WS-SANCTION-INDEX)
+                TO WS-BEST-SANCTION-ID
+            MOVE ST-SANCTION-NAVN(WS-SANCTION-INDEX)
+                TO WS-BEST-SANCTION-NAVN
+            MOVE ST-SANCTION-FOEDSEL(WS-SANCTION-INDEX)
+                TO WS-BEST-SANCTION-FOED
+            MOVE ST-SANCTION-LAND(WS-SANCTION-INDEX)
+                TO WS-BEST-SANCTION-LAND
+        END-IF
+    END-PERFORM
+    PERFORM DISPLAY-BEST-MATCH
+    EXIT PARAGRAPH.
+
+EVALUATE-CURRENT-SANCTION.
+    MOVE FUNCTION UPPER-CASE(FUNCTION TRIM(KUNDE-NAVN))
+        TO STRING-A
+    MOVE FUNCTION UPPER-CASE(
+         FUNCTION TRIM(ST-SANCTION-NAVN(WS-SANCTION-INDEX)))
+        TO STRING-B
+    PERFORM CALC-LEVENSHTEIN
+    MOVE WS-LAST-PERCENT TO WS-NAME-SCORE
+
+    MOVE 0 TO WS-ALIAS-SCORE
+    MOVE SPACES TO WS-SELECTED-ALIAS
+    PERFORM VARYING WS-ALIAS-INDEX FROM 1 BY 1
+            UNTIL WS-ALIAS-INDEX > 5
+        EVALUATE WS-ALIAS-INDEX
+            WHEN 1
+                MOVE ST-SANCTION-ALIAS-1(WS-SANCTION-INDEX)
+                    TO WS-CURRENT-ALIAS
+            WHEN 2
+                MOVE ST-SANCTION-ALIAS-2(WS-SANCTION-INDEX)
+                    TO WS-CURRENT-ALIAS
+            WHEN 3
+                MOVE ST-SANCTION-ALIAS-3(WS-SANCTION-INDEX)
+                    TO WS-CURRENT-ALIAS
+            WHEN 4
+                MOVE ST-SANCTION-ALIAS-4(WS-SANCTION-INDEX)
+                    TO WS-CURRENT-ALIAS
+            WHEN 5
+                MOVE ST-SANCTION-ALIAS-5(WS-SANCTION-INDEX)
+                    TO WS-CURRENT-ALIAS
+        END-EVALUATE
+        IF FUNCTION LENGTH(FUNCTION TRIM(WS-CURRENT-ALIAS)) > 0
+            MOVE FUNCTION UPPER-CASE(FUNCTION TRIM(KUNDE-NAVN))
+                TO STRING-A
+            MOVE FUNCTION UPPER-CASE(FUNCTION TRIM(WS-CURRENT-ALIAS))
+                TO STRING-B
+            PERFORM CALC-LEVENSHTEIN
+            IF WS-LAST-PERCENT > WS-ALIAS-SCORE
+                MOVE WS-LAST-PERCENT TO WS-ALIAS-SCORE
+                MOVE WS-CURRENT-ALIAS TO WS-SELECTED-ALIAS
+            END-IF
+        END-IF
+    END-PERFORM
+
+    IF FUNCTION TRIM(KUNDE-FOEDSELSDATO) =
+         FUNCTION TRIM(ST-SANCTION-FOEDSEL(WS-SANCTION-INDEX))
+        MOVE 100 TO WS-DOB-SCORE
+    ELSE
+        MOVE 0 TO WS-DOB-SCORE
+    END-IF
+
+    IF FUNCTION UPPER-CASE(FUNCTION TRIM(KUNDE-LAND)) =
+         FUNCTION UPPER-CASE(
+             FUNCTION TRIM(ST-SANCTION-LAND(WS-SANCTION-INDEX)))
+        MOVE 100 TO WS-LAND-SCORE
+    ELSE
+        MOVE 0 TO WS-LAND-SCORE
+    END-IF
+
+    COMPUTE WS-WEIGHTED-SUM =
+        (WS-NAME-SCORE * 50)
+      + (WS-ALIAS-SCORE * 50)
+      + (WS-DOB-SCORE   * 30)
+      + (WS-LAND-SCORE  * 20)
+    COMPUTE WS-TOTAL-SCORE ROUNDED =
+        WS-WEIGHTED-SUM / WS-TOTAL-WEIGHT
+    EXIT PARAGRAPH.
+
+DISPLAY-BEST-MATCH.
+    MOVE SPACES TO WS-DISPLAY-LINE
+    STRING WS-LINE-SEPARATOR DELIMITED BY SIZE
+        INTO WS-DISPLAY-LINE
+    END-STRING
+    PERFORM WRITE-REPORT-LINE
+
+    MOVE WS-BEST-TOTAL-SCORE TO WS-PERCENT-DISPLAY
+    MOVE SPACES TO WS-DISPLAY-LINE
+    STRING "Kunde: " DELIMITED BY SIZE
+        KUNDE-ID DELIMITED BY SIZE
+        " - " DELIMITED BY SIZE
+        FUNCTION TRIM(KUNDE-NAVN) DELIMITED BY SIZE
+        INTO WS-DISPLAY-LINE
+    END-STRING
+    PERFORM WRITE-REPORT-LINE
+
+    MOVE SPACES TO WS-DISPLAY-LINE
+    STRING "Match med sanktionsperson: " DELIMITED BY SIZE
+        WS-BEST-SANCTION-ID DELIMITED BY SIZE
+        " - " DELIMITED BY SIZE
+        FUNCTION TRIM(WS-BEST-SANCTION-NAVN) DELIMITED BY SIZE
+        INTO WS-DISPLAY-LINE
+    END-STRING
+    PERFORM WRITE-REPORT-LINE
+
+    MOVE SPACES TO WS-DISPLAY-LINE
+    STRING "Samlet match (%): " DELIMITED BY SIZE
+        WS-PERCENT-DISPLAY DELIMITED BY SIZE
+        INTO WS-DISPLAY-LINE
+    END-STRING
+    PERFORM WRITE-REPORT-LINE
+
+    MOVE WS-BEST-NAME-SCORE TO WS-PERCENT-DISPLAY
+    MOVE SPACES TO WS-DISPLAY-LINE
+    STRING "  Navn-score: " DELIMITED BY SIZE
+        WS-PERCENT-DISPLAY DELIMITED BY SIZE
+        INTO WS-DISPLAY-LINE
+    END-STRING
+    PERFORM WRITE-REPORT-LINE
+
+    MOVE WS-BEST-ALIAS-SCORE TO WS-PERCENT-DISPLAY
+    MOVE SPACES TO WS-DISPLAY-LINE
+    STRING "  Alias-score: " DELIMITED BY SIZE
+        WS-PERCENT-DISPLAY DELIMITED BY SIZE
+        " (" DELIMITED BY SIZE
+        FUNCTION TRIM(WS-BEST-ALIAS-VALUE) DELIMITED BY SIZE
+        ")" DELIMITED BY SIZE
+        INTO WS-DISPLAY-LINE
+    END-STRING
+    PERFORM WRITE-REPORT-LINE
+
+    MOVE WS-BEST-DOB-SCORE TO WS-PERCENT-DISPLAY
+    MOVE SPACES TO WS-DISPLAY-LINE
+    STRING "  Fødselsdato-score: " DELIMITED BY SIZE
+        WS-PERCENT-DISPLAY DELIMITED BY SIZE
+        INTO WS-DISPLAY-LINE
+    END-STRING
+    PERFORM WRITE-REPORT-LINE
+
+    MOVE WS-BEST-LAND-SCORE TO WS-PERCENT-DISPLAY
+    MOVE SPACES TO WS-DISPLAY-LINE
+    STRING "  Land-score: " DELIMITED BY SIZE
+        WS-PERCENT-DISPLAY DELIMITED BY SIZE
+        INTO WS-DISPLAY-LINE
+    END-STRING
+    PERFORM WRITE-REPORT-LINE
+    EXIT PARAGRAPH.
+
+WRITE-REPORT-LINE.
+    WRITE REPORT-RECORD FROM WS-DISPLAY-LINE
+    EXIT PARAGRAPH.
+
+CALC-LEVENSHTEIN.
+    MOVE FUNCTION LENGTH(FUNCTION TRIM(STRING-A)) TO LENGTH-A
+    MOVE FUNCTION LENGTH(FUNCTION TRIM(STRING-B)) TO LENGTH-B
+
+    IF LENGTH-A = 0 AND LENGTH-B = 0
+        MOVE 100 TO WS-LAST-PERCENT
+        MOVE 0 TO DISTANCE
+    EXIT PARAGRAPH
+    END-IF
+
+    IF LENGTH-A = 0
+        MOVE LENGTH-B TO DISTANCE
+    ELSE
+        IF LENGTH-B = 0
+            MOVE LENGTH-A TO DISTANCE
+        ELSE
+            PERFORM INITIALIZE-LEVENSHTEIN
+            PERFORM COMPUTE-LEVENSHTEIN-MATRIX
+        END-IF
+    END-IF
+
+    PERFORM CALC-LEVENSHTEIN-FINAL
+    EXIT PARAGRAPH.
+
+CALC-LEVENSHTEIN-FINAL.
+    MOVE FUNCTION MAX(LENGTH-A, LENGTH-B) TO WS-MAX-LENGTH
+    IF WS-MAX-LENGTH = 0
+        MOVE 100 TO WS-LAST-PERCENT
+    ELSE
+        COMPUTE WS-LAST-PERCENT ROUNDED =
+            (WS-MAX-LENGTH - DISTANCE) * 100 / WS-MAX-LENGTH
+    END-IF
+    EXIT PARAGRAPH.
+
+INITIALIZE-LEVENSHTEIN.
+    PERFORM VARYING WS-I-INDEX FROM 0 BY 1
+            UNTIL WS-I-INDEX > LENGTH-A
+        MOVE WS-I-INDEX TO LEV-COST(WS-I-INDEX + 1, 1)
+    END-PERFORM
+
+    PERFORM VARYING WS-J-INDEX FROM 0 BY 1
+            UNTIL WS-J-INDEX > LENGTH-B
+        MOVE WS-J-INDEX TO LEV-COST(1, WS-J-INDEX + 1)
+    END-PERFORM
+    EXIT PARAGRAPH.
+
+COMPUTE-LEVENSHTEIN-MATRIX.
+    PERFORM VARYING WS-I-INDEX FROM 1 BY 1
+            UNTIL WS-I-INDEX > LENGTH-A
+        PERFORM VARYING WS-J-INDEX FROM 1 BY 1
+                UNTIL WS-J-INDEX > LENGTH-B
+            IF STRING-A(WS-I-INDEX:1) = STRING-B(WS-J-INDEX:1)
+                MOVE 0 TO WS-COST
+            ELSE
+                MOVE 1 TO WS-COST
+            END-IF
+
+            COMPUTE WS-DELETE-VALUE =
+                LEV-COST(WS-I-INDEX, WS-J-INDEX + 1) + 1
+            COMPUTE WS-INSERT-VALUE =
+                LEV-COST(WS-I-INDEX + 1, WS-J-INDEX) + 1
+            COMPUTE WS-SUB-VALUE =
+                LEV-COST(WS-I-INDEX, WS-J-INDEX) + WS-COST
+
+            MOVE WS-DELETE-VALUE TO WS-MIN-VALUE
+            IF WS-INSERT-VALUE < WS-MIN-VALUE
+                MOVE WS-INSERT-VALUE TO WS-MIN-VALUE
+            END-IF
+            IF WS-SUB-VALUE < WS-MIN-VALUE
+                MOVE WS-SUB-VALUE TO WS-MIN-VALUE
+            END-IF
+
+            MOVE WS-MIN-VALUE TO LEV-COST(WS-I-INDEX + 1,
+                                         WS-J-INDEX + 1)
+        END-PERFORM
+    END-PERFORM
+    MOVE LEV-COST(LENGTH-A + 1, LENGTH-B + 1) TO DISTANCE
+    EXIT PARAGRAPH.
+

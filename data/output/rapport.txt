@@ -3498,3 +3498,18 @@ Samlet match (%):   33.33
  Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
+----------------------------------------
+STATISTIK
+
+Top 3 sanktionspersoner:
+  S170 - Lucas Miller (18 matches)
+  S156 - Sophia Davis (16 matches)
+  S159 - Jacob Hall (15 matches)
+
+Top 3 kunder:
+  140160-1735 - Amelia Thomas (46.67 %)
+  031289-5191 - Daniel Martin (46.67 %)
+  090973-5230 - Mia Lewis (46.67 %)
+
+  Mistænkelige kunder (> 50%) pr. land:
+  (ingen)

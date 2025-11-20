@@ -88,6 +88,11 @@ WORKING-STORAGE SECTION.
 01  WS-PERCENT-DISPLAY     PIC Z(3)9.99.
 01  WS-LINE-SEPARATOR      PIC X(40) VALUE ALL "-".
 
+01  WS-MATCH-TYPE         PIC X(1) VALUE "N".  *> N=Navn, A=Alias
+
+01  BEST-MATCH-TYPE       PIC X(1).
+01  ALIAS-COUNT        PIC 9 VALUE 0.
+
 PROCEDURE DIVISION.
 MAIN-SECTION.
     PERFORM LOAD-SANCTIONS
@@ -171,6 +176,7 @@ FIND-BEST-MATCH.
             MOVE WS-DOB-SCORE      TO WS-BEST-DOB-SCORE
             MOVE WS-LAND-SCORE     TO WS-BEST-LAND-SCORE
             MOVE WS-SELECTED-ALIAS TO WS-BEST-ALIAS-VALUE
+            move WS-MATCH-TYPE TO BEST-MATCH-TYPE
             MOVE ST-SANCTION-ID(WS-SANCTION-INDEX)
                 TO WS-BEST-SANCTION-ID
             MOVE ST-SANCTION-NAVN(WS-SANCTION-INDEX)
@@ -215,6 +221,7 @@ EVALUATE-CURRENT-SANCTION.
                     TO WS-CURRENT-ALIAS
         END-EVALUATE
         IF FUNCTION LENGTH(FUNCTION TRIM(WS-CURRENT-ALIAS)) > 0
+            ADD 1 TO ALIAS-COUNT
             MOVE FUNCTION UPPER-CASE(FUNCTION TRIM(KUNDE-NAVN))
                 TO STRING-A
             MOVE FUNCTION UPPER-CASE(FUNCTION TRIM(WS-CURRENT-ALIAS))
@@ -226,6 +233,22 @@ EVALUATE-CURRENT-SANCTION.
             END-IF
         END-IF
     END-PERFORM
+
+    IF ALIAS-COUNT > 0
+        *> Der er fundet aliaser at matche på
+        *> Brug alias-scoren som den endelige alias-score
+       if  WS-ALIAS-SCORE > WS-NAME-SCORE
+           *> Hvis alias-scoren er bedre end navn-scoren, brug den
+           MOVE "A" TO WS-MATCH-TYPE
+           MOVE WS-ALIAS-SCORE TO WS-NAME-SCORE
+       else
+              *> Ellers brug navn-scoren
+              MOVE "N" TO WS-MATCH-TYPE
+       end-if
+       else
+           move "N" to WS-MATCH-TYPE
+    END-IF
+    move 0 to alias-count
 
     IF FUNCTION TRIM(KUNDE-FOEDSELSDATO) =
          FUNCTION TRIM(ST-SANCTION-FOEDSEL(WS-SANCTION-INDEX))
@@ -244,7 +267,6 @@ EVALUATE-CURRENT-SANCTION.
 
     COMPUTE WS-WEIGHTED-SUM =
         (WS-NAME-SCORE * 50)
-      + (WS-ALIAS-SCORE * 50)
       + (WS-DOB-SCORE   * 30)
       + (WS-LAND-SCORE  * 20)
     COMPUTE WS-TOTAL-SCORE ROUNDED =
@@ -286,22 +308,25 @@ DISPLAY-BEST-MATCH.
 
     MOVE WS-BEST-NAME-SCORE TO WS-PERCENT-DISPLAY
     MOVE SPACES TO WS-DISPLAY-LINE
-    STRING "  Navn-score: " DELIMITED BY SIZE
-        WS-PERCENT-DISPLAY DELIMITED BY SIZE
-        INTO WS-DISPLAY-LINE
-    END-STRING
+       evaluate BEST-MATCH-TYPE
+        when "N"
+            STRING " Navn-score (Navn):" DELIMITED BY SIZE
+               WS-PERCENT-DISPLAY DELIMITED BY SIZE
+                INTO WS-DISPLAY-LINE
+                end-string
+        when "A"
+            STRING " Navn-score (Alias):" DELIMITED BY SIZE
+               WS-PERCENT-DISPLAY DELIMITED BY SIZE
+               " - Matchet på alias: " DELIMITED BY SIZE
+               FUNCTION TRIM(WS-BEST-ALIAS-VALUE) DELIMITED BY SIZE
+                INTO WS-DISPLAY-LINE
+                end-string
+        
+
+    end-evaluate
+    move "N" TO WS-MATCH-TYPE
     PERFORM WRITE-REPORT-LINE
 
-    MOVE WS-BEST-ALIAS-SCORE TO WS-PERCENT-DISPLAY
-    MOVE SPACES TO WS-DISPLAY-LINE
-    STRING "  Alias-score: " DELIMITED BY SIZE
-        WS-PERCENT-DISPLAY DELIMITED BY SIZE
-        " (" DELIMITED BY SIZE
-        FUNCTION TRIM(WS-BEST-ALIAS-VALUE) DELIMITED BY SIZE
-        ")" DELIMITED BY SIZE
-        INTO WS-DISPLAY-LINE
-    END-STRING
-    PERFORM WRITE-REPORT-LINE
 
     MOVE WS-BEST-DOB-SCORE TO WS-PERCENT-DISPLAY
     MOVE SPACES TO WS-DISPLAY-LINE

@@ -1,4000 +1,3500 @@
 ----------------------------------------
 Kunde: 140160-1735 - Amelia Thomas
 Match med sanktionsperson: S015  - Amelia Thomas
-Samlet match (%):   54.36
-  Navn-score:  100.00
-  Alias-score:   23.08 (Lisa Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 031289-5191 - Daniel Martin
 Match med sanktionsperson: S196  - Daniel Martin
-Samlet match (%):   54.36
-  Navn-score:  100.00
-  Alias-score:   23.08 (Lisa Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 090973-5230 - Mia Lewis
 Match med sanktionsperson: S035  - Mia Lewis
-Samlet match (%):   57.78
-  Navn-score:  100.00
-  Alias-score:   33.33 (Mike)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 111056-7249 - Peter Petersen
 Match med sanktionsperson: S183  - Tom Anderson
-Samlet match (%):   39.52
-  Navn-score:   42.86
-  Alias-score:   35.71 (A. Jensen)
+Samlet match (%):   27.62
+ Navn-score (Navn):  42.86
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 011194-1361 - Henry King
-Match med sanktionsperson: S055  - Emily Harris
-Samlet match (%):   30.00
-  Navn-score:   16.67
-  Alias-score:   33.33 (Johnny Smith)
+Match med sanktionsperson: S013  - Mia Lewis
+Samlet match (%):   24.44
+ Navn-score (Alias):  33.33 - Matchet på alias: Johnny Smith
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 050972-3589 - Emily Harris
 Match med sanktionsperson: S155  - Emily Harris
-Samlet match (%):   38.89
-  Navn-score:  100.00
-  Alias-score:   16.67 (Lisa Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 110260-7551 - Jacob Hall
-Match med sanktionsperson: S008  - Jacob Hall
-Samlet match (%):   43.33
-  Navn-score:  100.00
-  Alias-score:   30.00 (Jon D.)
+Match med sanktionsperson: S159  - Jacob Hall
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 160489-5424 - Lily Scott
-Match med sanktionsperson: S155  - Emily Harris
-Samlet match (%):   41.11
-  Navn-score:   33.33
-  Alias-score:   50.00 (Lisa Smith)
+Match med sanktionsperson: S172  - Tom Anderson
+Samlet match (%):   30.00
+ Navn-score (Alias):  50.00 - Matchet på alias: Lisa Smith
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 030974-1780 - Anne Jensen
-Match med sanktionsperson: S150  - Anne J.
-Samlet match (%):   42.43
-  Navn-score:   54.55
-  Alias-score:   72.73 (A. Jensen)
+Match med sanktionsperson: S062  - Sara H.
+Samlet match (%):   37.58
+ Navn-score (Alias):  72.73 - Matchet på alias: A. Jensen
   Fødselsdato-score:    0.00
-  Land-score:    0.00
+  Land-score:  100.00
 ----------------------------------------
 Kunde: 030585-6301 - Sara Hansen
-Match med sanktionsperson: S100  - Emma Olson
-Samlet match (%):   43.64
-  Navn-score:   36.36
-  Alias-score:   54.55 (A. Jensen)
+Match med sanktionsperson: S154  - Michael Nilsen
+Samlet match (%):   31.52
+ Navn-score (Alias):  54.55 - Matchet på alias: A. Jensen
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 160495-3623 - Lily Scott
-Match med sanktionsperson: S101  - Daniel Martin
-Samlet match (%):   34.92
-  Navn-score:   23.08
-  Alias-score:   41.67 (Alicia Smith)
+Match med sanktionsperson: S087  - Tom Anderson
+Samlet match (%):   30.00
+ Navn-score (Alias):  50.00 - Matchet på alias: Lisa Smith
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 210968-6355 - William Brown
 Match med sanktionsperson: S047  - William Brown
-Samlet match (%):   54.36
-  Navn-score:  100.00
-  Alias-score:   23.08 (Lisa Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 240776-4249 - Alexander Wilson
 Match med sanktionsperson: S176  - Alexander Wilson
-Samlet match (%):   55.00
-  Navn-score:  100.00
-  Alias-score:   25.00 (Annie J.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 160172-9642 - Peter Petersen
-Match med sanktionsperson: S150  - Anne J.
-Samlet match (%):   30.00
-  Navn-score:   14.29
-  Alias-score:   35.71 (A. Jensen)
+Match med sanktionsperson: S068  - Tom Anderson
+Samlet match (%):   27.62
+ Navn-score (Navn):  42.86
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 230485-1609 - Olivia Johnson
-Match med sanktionsperson: S026  - Olivia Johnson
-Samlet match (%):   56.19
-  Navn-score:  100.00
-  Alias-score:   28.57 (John S.)
+Match med sanktionsperson: S027  - Olivia Johnson
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 270198-8053 - Amelia Thomas
 Match med sanktionsperson: S015  - Amelia Thomas
-Samlet match (%):   54.36
-  Navn-score:  100.00
-  Alias-score:   23.08 (Lisa Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 091088-7069 - William Brown
 Match med sanktionsperson: S105  - William Brown
-Samlet match (%):   41.03
-  Navn-score:  100.00
-  Alias-score:   23.08 (Alice S.)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 030489-2406 - Olivia Johnson
 Match med sanktionsperson: S020  - Olivia Johnson
-Samlet match (%):   56.19
-  Navn-score:  100.00
-  Alias-score:   28.57 (John S.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 050482-8419 - Isabella Clark
 Match med sanktionsperson: S142  - Isabella Clark
-Samlet match (%):   40.48
-  Navn-score:  100.00
-  Alias-score:   21.43 (Alicia Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 170450-6994 - William Brown
 Match med sanktionsperson: S105  - William Brown
-Samlet match (%):   41.03
-  Navn-score:  100.00
-  Alias-score:   23.08 (Alice S.)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 280391-3701 - Tommy Andersen
 Match med sanktionsperson: S183  - Tom Anderson
-Samlet match (%):   51.43
-  Navn-score:   78.57
-  Alias-score:   35.71 (A. Jensen)
+Samlet match (%):   39.52
+ Navn-score (Navn):  78.57
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 220255-9020 - Sophia Davis
 Match med sanktionsperson: S156  - Sophia Davis
-Samlet match (%):   41.67
-  Navn-score:  100.00
-  Alias-score:   25.00 (John Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 280150-3744 - Sophia Davis
 Match med sanktionsperson: S045  - Sophia Davis
-Samlet match (%):   55.00
-  Navn-score:  100.00
-  Alias-score:   25.00 (Alicia Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 021196-1408 - Lucas Rodriguez
 Match med sanktionsperson: S156  - Lucas Rodriguez
-Samlet match (%):   48.89
-  Navn-score:  100.00
-  Alias-score:    6.67 (J.S.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 280254-5571 - Lucas Miller
-Match med sanktionsperson: S055  - Lucas Miller
-Samlet match (%):   44.44
-  Navn-score:  100.00
-  Alias-score:   33.33 (Lisa Smith)
+Match med sanktionsperson: S170  - Lucas Miller
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 181292-3959 - Lucas Miller
-Match med sanktionsperson: S055  - Lucas Miller
-Samlet match (%):   44.44
-  Navn-score:  100.00
-  Alias-score:   33.33 (Lisa Smith)
+Match med sanktionsperson: S170  - Lucas Miller
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 040690-9113 - Peter Petersen
-Match med sanktionsperson: S100  - Emma Olson
-Samlet match (%):   34.76
-  Navn-score:   28.57
-  Alias-score:   35.71 (A. Jensen)
+Match med sanktionsperson: S154  - Michael Nilsen
+Samlet match (%):   25.24
+ Navn-score (Alias):  35.71 - Matchet på alias: A. Jensen
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 040399-6120 - Daniel Martin
-Match med sanktionsperson: S176  - Daniel Martin
-Samlet match (%):   43.59
-  Navn-score:  100.00
-  Alias-score:   30.77 (Anne J.)
+Match med sanktionsperson: S041  - Daniel Martin
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 240696-3214 - Henry King
-Match med sanktionsperson: S106  - Alexander Wilson
-Samlet match (%):   28.33
-  Navn-score:   25.00
-  Alias-score:   20.00 (Jon D.)
+Match med sanktionsperson: S125  - Jonathan Doe
+Samlet match (%):   24.44
+ Navn-score (Alias):  33.33 - Matchet på alias: Johnny Smith
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 130391-3021 - Grace Walker
-Match med sanktionsperson: S045  - Grace Walker
-Samlet match (%):   52.22
-  Navn-score:  100.00
-  Alias-score:   16.67 (J. Doe)
+Match med sanktionsperson: S137  - Grace Walker
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 150295-5149 - John Doe
 Match med sanktionsperson: S023  - Jonathan Doe
-Samlet match (%):   52.22
-  Navn-score:   66.67
-  Alias-score:   50.00 (Johnny)
+Samlet match (%):   35.56
+ Navn-score (Navn):  66.67
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 210263-5890 - Charlotte Taylor
-Match med sanktionsperson: S190  - Charlotte Taylor
-Samlet match (%):   41.67
-  Navn-score:  100.00
-  Alias-score:   25.00 (Alice S.)
+Match med sanktionsperson: S160  - Charlotte Taylor
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 150198-6685 - Lucas Rodriguez
-Match med sanktionsperson: S009  - Lucas Rodriguez
-Samlet match (%):   42.22
-  Navn-score:  100.00
-  Alias-score:   26.67 (Lisa Smith)
+Match med sanktionsperson: S170  - Lucas Rodriguez
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 060294-9029 - Peter Petersen
-Match med sanktionsperson: S193  - Alexander Wilson
-Samlet match (%):   33.57
-  Navn-score:   25.00
-  Alias-score:   35.71 (A. Jensen)
+Match med sanktionsperson: S142  - Tom Anderson
+Samlet match (%):   27.62
+ Navn-score (Navn):  42.86
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 250166-3175 - Sophia Davis
 Match med sanktionsperson: S156  - Sophia Davis
-Samlet match (%):   55.00
-  Navn-score:  100.00
-  Alias-score:   25.00 (John Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 030588-4529 - Jacob Hall
 Match med sanktionsperson: S093  - Jacob Hall
-Samlet match (%):   53.33
-  Navn-score:  100.00
-  Alias-score:   20.00 (Anita)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 080472-3822 - Charlotte Taylor
-Match med sanktionsperson: S190  - Charlotte Taylor
-Samlet match (%):   41.67
-  Navn-score:  100.00
-  Alias-score:   25.00 (Alice S.)
+Match med sanktionsperson: S160  - Charlotte Taylor
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 170356-4495 - William Brown
 Match med sanktionsperson: S049  - William Brown
-Samlet match (%):   51.79
-  Navn-score:  100.00
-  Alias-score:   15.38 (J. Doe)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 180685-3095 - Peter Petersen
-Match med sanktionsperson: S135  - Michael Nilsen
-Samlet match (%):   32.38
-  Navn-score:   21.43
-  Alias-score:   35.71 (A. Jensen)
+Match med sanktionsperson: S147  - Tom Anderson
+Samlet match (%):   27.62
+ Navn-score (Navn):  42.86
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 081156-3995 - Henry King
-Match med sanktionsperson: S055  - Emily Harris
-Samlet match (%):   30.00
-  Navn-score:   16.67
-  Alias-score:   33.33 (Johnny Smith)
+Match med sanktionsperson: S013  - Mia Lewis
+Samlet match (%):   24.44
+ Navn-score (Alias):  33.33 - Matchet på alias: Johnny Smith
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 150169-5056 - Olivia Johnson
 Match med sanktionsperson: S050  - Olivia Johnson
-Samlet match (%):   53.81
-  Navn-score:  100.00
-  Alias-score:   21.43 (Jon D.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 110161-5856 - Tommy Andersen
 Match med sanktionsperson: S008  - Tom Anderson
-Samlet match (%):   46.67
-  Navn-score:   78.57
-  Alias-score:   21.43 (Jon D.)
+Samlet match (%):   39.52
+ Navn-score (Navn):  78.57
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 140289-8538 - Tommy Andersen
 Match med sanktionsperson: S076  - Tom Anderson
-Samlet match (%):   44.29
-  Navn-score:   78.57
-  Alias-score:   14.29 (Johnny)
+Samlet match (%):   39.52
+ Navn-score (Navn):  78.57
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 050363-6383 - Olivia Johnson
-Match med sanktionsperson: S026  - Olivia Johnson
-Samlet match (%):   56.19
-  Navn-score:  100.00
-  Alias-score:   28.57 (John S.)
+Match med sanktionsperson: S027  - Olivia Johnson
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 070993-9830 - Sophia Davis
 Match med sanktionsperson: S131  - Sophia Davis
-Samlet match (%):   52.22
-  Navn-score:  100.00
-  Alias-score:   16.67 (John)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 110996-3913 - Henry King
-Match med sanktionsperson: S018  - Daniel Martin
-Samlet match (%):   32.14
-  Navn-score:   23.08
-  Alias-score:   33.33 (Johnny Smith)
+Match med sanktionsperson: S090  - Charlotte Taylor
+Samlet match (%):   24.44
+ Navn-score (Alias):  33.33 - Matchet på alias: Johnny Smith
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 091188-9057 - Henry King
-Match med sanktionsperson: S170  - Benjamin Moore
-Samlet match (%):   27.14
-  Navn-score:   21.43
-  Alias-score:   20.00 (Jon D.)
+Match med sanktionsperson: S147  - Alexander Wilson
+Samlet match (%):   21.67
+ Navn-score (Navn):  25.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 131191-1018 - James White
-Match med sanktionsperson: S127  - James White
-Samlet match (%):   45.45
-  Navn-score:  100.00
-  Alias-score:   36.36 (Ali Smith)
+Match med sanktionsperson: S097  - James White
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 090563-2850 - Ava Adams
 Match med sanktionsperson: S181  - Amelia Thomas
-Samlet match (%):   33.56
-  Navn-score:   38.46
-  Alias-score:   22.22 (Anita)
+Samlet match (%):   26.15
+ Navn-score (Navn):  38.46
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 240779-1876 - Amelia Thomas
 Match med sanktionsperson: S006  - Amelia Thomas
-Samlet match (%):   56.92
-  Navn-score:  100.00
-  Alias-score:   30.77 (Alicia Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 040956-5095 - James White
-Match med sanktionsperson: S127  - James White
-Samlet match (%):   45.45
-  Navn-score:  100.00
-  Alias-score:   36.36 (Ali Smith)
+Match med sanktionsperson: S097  - James White
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 121295-2531 - Anne Jensen
 Match med sanktionsperson: S116  - Mia Lewis
-Samlet match (%):   43.64
-  Navn-score:   18.18
-  Alias-score:   72.73 (A. Jensen)
+Samlet match (%):   37.58
+ Navn-score (Alias):  72.73 - Matchet på alias: A. Jensen
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 100865-5725 - John Doe
 Match med sanktionsperson: S023  - Jonathan Doe
-Samlet match (%):   52.22
-  Navn-score:   66.67
-  Alias-score:   50.00 (Johnny)
+Samlet match (%):   35.56
+ Navn-score (Navn):  66.67
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 140693-1206 - Sara Hansen
 Match med sanktionsperson: S021  - Olivia Johnson
-Samlet match (%):   43.42
-  Navn-score:   35.71
-  Alias-score:   54.55 (A. Jensen)
+Samlet match (%):   31.52
+ Navn-score (Alias):  54.55 - Matchet på alias: A. Jensen
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 081067-2284 - Lucas Miller
-Match med sanktionsperson: S055  - Lucas Miller
-Samlet match (%):   44.44
-  Navn-score:  100.00
-  Alias-score:   33.33 (Lisa Smith)
+Match med sanktionsperson: S170  - Lucas Miller
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 130174-7181 - John Doe
-Match med sanktionsperson: S028  - John Smith
-Samlet match (%):   50.83
-  Navn-score:   50.00
-  Alias-score:   62.50 (John S.)
+Match med sanktionsperson: S200  - Michael Nilsen
+Samlet match (%):   35.56
+ Navn-score (Alias):  66.67 - Matchet på alias: Jonathan Doe
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 030351-6500 - Michael Nielsen
-Match med sanktionsperson: S135  - Michael Nilsen
-Samlet match (%):   51.11
-  Navn-score:   93.33
-  Alias-score:   60.00 (Michael N.)
+Match med sanktionsperson: S150  - Michael Nilsen
+Samlet match (%):   44.44
+ Navn-score (Navn):  93.33
   Fødselsdato-score:    0.00
-  Land-score:    0.00
+  Land-score:  100.00
 ----------------------------------------
 Kunde: 280795-8840 - Benjamin Moore
 Match med sanktionsperson: S161  - Benjamin Moore
-Samlet match (%):   40.48
-  Navn-score:  100.00
-  Alias-score:   21.43 (John Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 121153-2146 - Jacob Hall
-Match med sanktionsperson: S008  - Jacob Hall
-Samlet match (%):   43.33
-  Navn-score:  100.00
-  Alias-score:   30.00 (Jon D.)
+Match med sanktionsperson: S159  - Jacob Hall
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 120267-5721 - Benjamin Moore
 Match med sanktionsperson: S025  - Benjamin Moore
-Samlet match (%):   51.43
-  Navn-score:  100.00
-  Alias-score:   14.29 (Mikael)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 200281-7058 - Lucas Rodriguez
 Match med sanktionsperson: S028  - Lucas Rodriguez
-Samlet match (%):   53.33
-  Navn-score:  100.00
-  Alias-score:   20.00 (J. Doe)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 081251-1190 - Lily Scott
-Match med sanktionsperson: S112  - Alicia Smith
-Samlet match (%):   37.22
-  Navn-score:   41.67
-  Alias-score:   30.00 (Alice S.)
+Match med sanktionsperson: S045  - Sophia Davis
+Samlet match (%):   30.00
+ Navn-score (Alias):  50.00 - Matchet på alias: Lisa Smith
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 271085-2074 - Amelia Thomas
-Match med sanktionsperson: S098  - Amelia Thomas
-Samlet match (%):   43.59
-  Navn-score:  100.00
-  Alias-score:   30.77 (Smith J.)
+Match med sanktionsperson: S015  - Amelia Thomas
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 040356-9006 - Peter Petersen
 Match med sanktionsperson: S189  - Tom Anderson
-Samlet match (%):   30.00
-  Navn-score:   42.86
-  Alias-score:    7.14 (A.S.)
+Samlet match (%):   27.62
+ Navn-score (Navn):  42.86
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 250183-5666 - Henry King
-Match med sanktionsperson: S018  - Daniel Martin
-Samlet match (%):   32.14
-  Navn-score:   23.08
-  Alias-score:   33.33 (Johnny Smith)
+Match med sanktionsperson: S090  - Charlotte Taylor
+Samlet match (%):   24.44
+ Navn-score (Alias):  33.33 - Matchet på alias: Johnny Smith
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 200478-4367 - William Brown
 Match med sanktionsperson: S102  - William Brown
-Samlet match (%):   54.36
-  Navn-score:  100.00
-  Alias-score:   23.08 (Ali Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 241261-2119 - Sophia Davis
 Match med sanktionsperson: S156  - Sophia Davis
-Samlet match (%):   41.67
-  Navn-score:  100.00
-  Alias-score:   25.00 (John Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 060897-7072 - Grace Walker
-Match med sanktionsperson: S045  - Grace Walker
-Samlet match (%):   52.22
-  Navn-score:  100.00
-  Alias-score:   16.67 (J. Doe)
+Match med sanktionsperson: S137  - Grace Walker
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 170795-1572 - Benjamin Moore
 Match med sanktionsperson: S170  - Benjamin Moore
-Samlet match (%):   53.81
-  Navn-score:  100.00
-  Alias-score:   21.43 (Jon D.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 151293-3549 - Ava Adams
-Match med sanktionsperson: S045  - Sophia Davis
-Samlet match (%):   32.78
-  Navn-score:   33.33
-  Alias-score:   25.00 (Alicia Smith)
+Match med sanktionsperson: S041  - Mia Lewis
+Samlet match (%):   24.44
+ Navn-score (Navn):  33.33
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 090767-3912 - Sophia Davis
 Match med sanktionsperson: S056  - Sophia Davis
-Samlet match (%):   55.00
-  Navn-score:  100.00
-  Alias-score:   25.00 (Alicia Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 190378-9617 - Ava Adams
 Match med sanktionsperson: S181  - Amelia Thomas
-Samlet match (%):   33.56
-  Navn-score:   38.46
-  Alias-score:   22.22 (Anita)
+Samlet match (%):   26.15
+ Navn-score (Navn):  38.46
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 191059-5766 - Lucas Miller
 Match med sanktionsperson: S055  - Lucas Miller
-Samlet match (%):   57.78
-  Navn-score:  100.00
-  Alias-score:   33.33 (Lisa Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 210964-6997 - Lucas Miller
 Match med sanktionsperson: S170  - Lucas Miller
-Samlet match (%):   49.44
-  Navn-score:  100.00
-  Alias-score:    8.33 (Anne J.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 181096-7887 - Peter Petersen
-Match med sanktionsperson: S116  - Mia Lewis
-Samlet match (%):   32.38
-  Navn-score:   21.43
-  Alias-score:   35.71 (A. Jensen)
+Match med sanktionsperson: S008  - Tom Anderson
+Samlet match (%):   27.62
+ Navn-score (Navn):  42.86
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 061174-3630 - Jacob Hall
-Match med sanktionsperson: S008  - Jacob Hall
-Samlet match (%):   43.33
-  Navn-score:  100.00
-  Alias-score:   30.00 (Jon D.)
+Match med sanktionsperson: S159  - Jacob Hall
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 220290-7202 - Tommy Andersen
 Match med sanktionsperson: S183  - Tom Anderson
-Samlet match (%):   38.09
-  Navn-score:   78.57
-  Alias-score:   35.71 (A. Jensen)
+Samlet match (%):   26.19
+ Navn-score (Navn):  78.57
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 100595-1331 - Alice Smith
 Match med sanktionsperson: S112  - Alicia Smith
-Samlet match (%):   62.32
-  Navn-score:   83.33
-  Alias-score:   63.64 (Alice S.)
+Samlet match (%):   41.11
+ Navn-score (Navn):  83.33
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 050497-4121 - Charlotte Taylor
 Match med sanktionsperson: S160  - Charlotte Taylor
-Samlet match (%):   50.83
-  Navn-score:  100.00
-  Alias-score:   12.50 (Lisa Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 231082-4333 - Ava Adams
 Match med sanktionsperson: S098  - Amelia Thomas
-Samlet match (%):   33.56
-  Navn-score:   38.46
-  Alias-score:   22.22 (J. Doe)
+Samlet match (%):   26.15
+ Navn-score (Navn):  38.46
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 080390-8330 - Lucas Rodriguez
 Match med sanktionsperson: S010  - Lucas Rodriguez
-Samlet match (%):   53.33
-  Navn-score:  100.00
-  Alias-score:   20.00 (Alicia Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 280497-8524 - William Brown
 Match med sanktionsperson: S105  - William Brown
-Samlet match (%):   54.36
-  Navn-score:  100.00
-  Alias-score:   23.08 (Alice S.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 190761-2299 - Lucas Rodriguez
-Match med sanktionsperson: S009  - Lucas Rodriguez
-Samlet match (%):   42.22
-  Navn-score:  100.00
-  Alias-score:   26.67 (Lisa Smith)
+Match med sanktionsperson: S170  - Lucas Rodriguez
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 281050-5302 - James White
-Match med sanktionsperson: S127  - James White
-Samlet match (%):   45.45
-  Navn-score:  100.00
-  Alias-score:   36.36 (Ali Smith)
+Match med sanktionsperson: S097  - James White
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 190488-8548 - Isabella Clark
 Match med sanktionsperson: S142  - Isabella Clark
-Samlet match (%):   40.48
-  Navn-score:  100.00
-  Alias-score:   21.43 (Alicia Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 280356-4889 - Lucas Miller
-Match med sanktionsperson: S055  - Lucas Miller
-Samlet match (%):   44.44
-  Navn-score:  100.00
-  Alias-score:   33.33 (Lisa Smith)
+Match med sanktionsperson: S170  - Lucas Miller
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 250566-2160 - Mia Lewis
 Match med sanktionsperson: S116  - Mia Lewis
-Samlet match (%):   50.37
-  Navn-score:  100.00
-  Alias-score:   11.11 (Alice S.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 181186-4289 - Grace Walker
 Match med sanktionsperson: S030  - Grace Walker
-Samlet match (%):   52.22
-  Navn-score:  100.00
-  Alias-score:   16.67 (Mike)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 270771-6918 - Peter Petersen
 Match med sanktionsperson: S183  - Tom Anderson
-Samlet match (%):   39.52
-  Navn-score:   42.86
-  Alias-score:   35.71 (A. Jensen)
+Samlet match (%):   27.62
+ Navn-score (Navn):  42.86
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 251191-8927 - Alice Smith
-Match med sanktionsperson: S024  - Alicia Smith
-Samlet match (%):   52.02
-  Navn-score:   83.33
-  Alias-score:   72.73 (Lisa Smith)
+Match med sanktionsperson: S161  - Olivia Johnson
+Samlet match (%):   41.11
+ Navn-score (Alias):  83.33 - Matchet på alias: Alicia Smith
   Fødselsdato-score:    0.00
-  Land-score:    0.00
+  Land-score:  100.00
 ----------------------------------------
 Kunde: 040388-5349 - Ava Adams
-Match med sanktionsperson: S086  - Mia Lewis
-Samlet match (%):   31.11
-  Navn-score:   33.33
-  Alias-score:   20.00 (Lisa Smith)
+Match med sanktionsperson: S129  - Mia Lewis
+Samlet match (%):   24.44
+ Navn-score (Navn):  33.33
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 040569-3756 - Benjamin Moore
 Match med sanktionsperson: S161  - Benjamin Moore
-Samlet match (%):   40.48
-  Navn-score:  100.00
-  Alias-score:   21.43 (John Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 250963-3994 - Anne Jensen
 Match med sanktionsperson: S135  - Michael Nilsen
-Samlet match (%):   49.48
-  Navn-score:   35.71
-  Alias-score:   72.73 (A. Jensen)
+Samlet match (%):   37.58
+ Navn-score (Alias):  72.73 - Matchet på alias: A. Jensen
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 210751-6759 - Lucas Miller
-Match med sanktionsperson: S055  - Lucas Miller
-Samlet match (%):   44.44
-  Navn-score:  100.00
-  Alias-score:   33.33 (Lisa Smith)
+Match med sanktionsperson: S170  - Lucas Miller
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 160893-1657 - Lucas Miller
-Match med sanktionsperson: S055  - Lucas Miller
-Samlet match (%):   44.44
-  Navn-score:  100.00
-  Alias-score:   33.33 (Lisa Smith)
+Match med sanktionsperson: S170  - Lucas Miller
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 050561-8389 - Amelia Thomas
 Match med sanktionsperson: S098  - Amelia Thomas
-Samlet match (%):   56.92
-  Navn-score:  100.00
-  Alias-score:   30.77 (Smith J.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 250796-1838 - Daniel Martin
-Match med sanktionsperson: S176  - Daniel Martin
-Samlet match (%):   43.59
-  Navn-score:  100.00
-  Alias-score:   30.77 (Anne J.)
+Match med sanktionsperson: S041  - Daniel Martin
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 261194-6015 - James White
-Match med sanktionsperson: S127  - James White
-Samlet match (%):   45.45
-  Navn-score:  100.00
-  Alias-score:   36.36 (Ali Smith)
+Match med sanktionsperson: S097  - James White
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 150286-3117 - Benjamin Moore
 Match med sanktionsperson: S161  - Benjamin Moore
-Samlet match (%):   40.48
-  Navn-score:  100.00
-  Alias-score:   21.43 (John Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 211269-6370 - Grace Walker
 Match med sanktionsperson: S082  - Grace Walker
 Samlet match (%):   46.67
-  Navn-score:  100.00
-  Alias-score:    0.00 ()
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 160969-6154 - Sophia Davis
 Match med sanktionsperson: S156  - Sophia Davis
-Samlet match (%):   41.67
-  Navn-score:  100.00
-  Alias-score:   25.00 (John Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 120272-9050 - Lucas Miller
-Match med sanktionsperson: S055  - Lucas Miller
-Samlet match (%):   44.44
-  Navn-score:  100.00
-  Alias-score:   33.33 (Lisa Smith)
+Match med sanktionsperson: S170  - Lucas Miller
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 241073-1458 - Jacob Hall
-Match med sanktionsperson: S071  - Jacob Hall
-Samlet match (%):   56.67
-  Navn-score:  100.00
-  Alias-score:   30.00 (Johnny)
+Match med sanktionsperson: S125  - Jacob Hall
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 180793-6501 - Lily Scott
 Match med sanktionsperson: S098  - Amelia Thomas
-Samlet match (%):   37.69
-  Navn-score:   23.08
-  Alias-score:   50.00 (Lisa Smith)
+Samlet match (%):   30.00
+ Navn-score (Alias):  50.00 - Matchet på alias: Lisa Smith
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 101283-7446 - James White
-Match med sanktionsperson: S127  - James White
-Samlet match (%):   45.45
-  Navn-score:  100.00
-  Alias-score:   36.36 (Ali Smith)
+Match med sanktionsperson: S097  - James White
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 161151-4318 - Tommy Andersen
 Match med sanktionsperson: S025  - Tom Anderson
-Samlet match (%):   46.67
-  Navn-score:   78.57
-  Alias-score:   21.43 (Mikael)
+Samlet match (%):   39.52
+ Navn-score (Navn):  78.57
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 220290-3731 - James White
 Match med sanktionsperson: S097  - James White
-Samlet match (%):   52.73
-  Navn-score:  100.00
-  Alias-score:   18.18 (J.S.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 161171-6615 - Benjamin Moore
 Match med sanktionsperson: S180  - Benjamin Moore
-Samlet match (%):   51.43
-  Navn-score:  100.00
-  Alias-score:   14.29 (Mikael)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 171096-4982 - John Doe
-Match med sanktionsperson: S074  - Sophia Davis
-Samlet match (%):   45.28
-  Navn-score:   33.33
-  Alias-score:   62.50 (J. Doe)
+Match med sanktionsperson: S034  - Jonathan Doe
+Samlet match (%):   35.56
+ Navn-score (Navn):  66.67
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 100594-4991 - Isabella Clark
 Match med sanktionsperson: S142  - Isabella Clark
-Samlet match (%):   53.81
-  Navn-score:  100.00
-  Alias-score:   21.43 (Alicia Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 230765-7351 - Alexander Wilson
 Match med sanktionsperson: S115  - Alexander Wilson
-Samlet match (%):   57.08
-  Navn-score:  100.00
-  Alias-score:   31.25 (Alice S.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 271085-1973 - Emily Harris
 Match med sanktionsperson: S155  - Emily Harris
-Samlet match (%):   38.89
-  Navn-score:  100.00
-  Alias-score:   16.67 (Lisa Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 110973-8342 - James White
-Match med sanktionsperson: S127  - James White
-Samlet match (%):   45.45
-  Navn-score:  100.00
-  Alias-score:   36.36 (Ali Smith)
+Match med sanktionsperson: S097  - James White
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 261261-7387 - Peter Petersen
-Match med sanktionsperson: S079  - James White
-Samlet match (%):   32.38
-  Navn-score:   21.43
-  Alias-score:   35.71 (A. Jensen)
+Match med sanktionsperson: S076  - Tom Anderson
+Samlet match (%):   27.62
+ Navn-score (Navn):  42.86
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 080656-9157 - Daniel Martin
-Match med sanktionsperson: S176  - Daniel Martin
-Samlet match (%):   43.59
-  Navn-score:  100.00
-  Alias-score:   30.77 (Anne J.)
+Match med sanktionsperson: S041  - Daniel Martin
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 160960-6954 - Ethan Lee
 Match med sanktionsperson: S023  - Jonathan Doe
-Samlet match (%):   37.41
-  Navn-score:   50.00
-  Alias-score:   22.22 (Johnny)
+Samlet match (%):   30.00
+ Navn-score (Navn):  50.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 140657-2016 - Charlotte Taylor
-Match med sanktionsperson: S190  - Charlotte Taylor
-Samlet match (%):   41.67
-  Navn-score:  100.00
-  Alias-score:   25.00 (Alice S.)
+Match med sanktionsperson: S160  - Charlotte Taylor
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 011093-7086 - Lucas Miller
-Match med sanktionsperson: S055  - Lucas Miller
-Samlet match (%):   44.44
-  Navn-score:  100.00
-  Alias-score:   33.33 (Lisa Smith)
+Match med sanktionsperson: S170  - Lucas Miller
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 180385-8972 - Alexander Wilson
 Match med sanktionsperson: S176  - Alexander Wilson
-Samlet match (%):   55.00
-  Navn-score:  100.00
-  Alias-score:   25.00 (Annie J.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 160390-9637 - Michael Nielsen
-Match med sanktionsperson: S135  - Michael Nilsen
-Samlet match (%):   51.11
-  Navn-score:   93.33
-  Alias-score:   60.00 (Michael N.)
+Match med sanktionsperson: S150  - Michael Nilsen
+Samlet match (%):   44.44
+ Navn-score (Navn):  93.33
   Fødselsdato-score:    0.00
-  Land-score:    0.00
+  Land-score:  100.00
 ----------------------------------------
 Kunde: 261261-6560 - Anne Jensen
 Match med sanktionsperson: S193  - Alexander Wilson
-Samlet match (%):   50.08
-  Navn-score:   37.50
-  Alias-score:   72.73 (A. Jensen)
+Samlet match (%):   37.58
+ Navn-score (Alias):  72.73 - Matchet på alias: A. Jensen
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 190880-8817 - Ethan Lee
-Match med sanktionsperson: S122  - Jonathan Doe
-Samlet match (%):   38.33
-  Navn-score:   50.00
-  Alias-score:   25.00 (Johnny Smith)
+Match med sanktionsperson: S143  - Amelia Thomas
+Samlet match (%):   30.00
+ Navn-score (Alias):  50.00 - Matchet på alias: Jonathan Doe
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 020797-3299 - Emma Olsen
-Match med sanktionsperson: S100  - Emma Olson
-Samlet match (%):   40.00
-  Navn-score:   90.00
-  Alias-score:   30.00 (A. Jensen)
+Match med sanktionsperson: S030  - Emma Olson
+Samlet match (%):   30.00
+ Navn-score (Navn):  90.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 240761-7814 - Peter Petersen
 Match med sanktionsperson: S189  - Tom Anderson
-Samlet match (%):   30.00
-  Navn-score:   42.86
-  Alias-score:    7.14 (A.S.)
+Samlet match (%):   27.62
+ Navn-score (Navn):  42.86
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 050976-3089 - Lucas Rodriguez
-Match med sanktionsperson: S009  - Lucas Rodriguez
-Samlet match (%):   42.22
-  Navn-score:  100.00
-  Alias-score:   26.67 (Lisa Smith)
+Match med sanktionsperson: S170  - Lucas Rodriguez
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 240996-1692 - Ethan Lee
 Match med sanktionsperson: S023  - Jonathan Doe
-Samlet match (%):   37.41
-  Navn-score:   50.00
-  Alias-score:   22.22 (Johnny)
+Samlet match (%):   30.00
+ Navn-score (Navn):  50.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 030755-8553 - Peter Petersen
 Match med sanktionsperson: S183  - Tom Anderson
-Samlet match (%):   39.52
-  Navn-score:   42.86
-  Alias-score:   35.71 (A. Jensen)
+Samlet match (%):   27.62
+ Navn-score (Navn):  42.86
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 110762-6293 - Amelia Thomas
-Match med sanktionsperson: S098  - Amelia Thomas
-Samlet match (%):   43.59
-  Navn-score:  100.00
-  Alias-score:   30.77 (Smith J.)
+Match med sanktionsperson: S015  - Amelia Thomas
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 031297-6439 - Lucas Miller
 Match med sanktionsperson: S055  - Lucas Miller
-Samlet match (%):   57.78
-  Navn-score:  100.00
-  Alias-score:   33.33 (Lisa Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 250254-9111 - Sara Hansen
 Match med sanktionsperson: S116  - Mia Lewis
-Samlet match (%):   37.58
-  Navn-score:   18.18
-  Alias-score:   54.55 (A. Jensen)
+Samlet match (%):   31.52
+ Navn-score (Alias):  54.55 - Matchet på alias: A. Jensen
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 280478-5276 - Lucas Rodriguez
 Match med sanktionsperson: S009  - Lucas Rodriguez
-Samlet match (%):   55.56
-  Navn-score:  100.00
-  Alias-score:   26.67 (Lisa Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 170584-2528 - Benjamin Moore
 Match med sanktionsperson: S170  - Benjamin Moore
-Samlet match (%):   53.81
-  Navn-score:  100.00
-  Alias-score:   21.43 (Jon D.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 070457-1636 - William Brown
 Match med sanktionsperson: S105  - William Brown
-Samlet match (%):   54.36
-  Navn-score:  100.00
-  Alias-score:   23.08 (Alice S.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 050858-2632 - Jacob Hall
 Match med sanktionsperson: S093  - Jacob Hall
-Samlet match (%):   53.33
-  Navn-score:  100.00
-  Alias-score:   20.00 (Anita)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 220291-6938 - Daniel Martin
 Match med sanktionsperson: S041  - Daniel Martin
-Samlet match (%):   54.36
-  Navn-score:  100.00
-  Alias-score:   23.08 (Anna)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 150852-2978 - Sophia Davis
 Match med sanktionsperson: S156  - Sophia Davis
-Samlet match (%):   55.00
-  Navn-score:  100.00
-  Alias-score:   25.00 (John Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 170450-9583 - Jacob Hall
 Match med sanktionsperson: S028  - Jacob Hall
-Samlet match (%):   56.67
-  Navn-score:  100.00
-  Alias-score:   30.00 (Johnny)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 120279-9617 - Lucas Miller
-Match med sanktionsperson: S055  - Lucas Miller
-Samlet match (%):   44.44
-  Navn-score:  100.00
-  Alias-score:   33.33 (Lisa Smith)
+Match med sanktionsperson: S170  - Lucas Miller
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 170881-6174 - Sophia Davis
-Match med sanktionsperson: S074  - Sophia Davis
-Samlet match (%):   52.22
-  Navn-score:  100.00
-  Alias-score:   16.67 (Lisa Smith)
+Match med sanktionsperson: S070  - Sophia Davis
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 220375-1507 - Lucas Miller
-Match med sanktionsperson: S055  - Lucas Miller
-Samlet match (%):   44.44
-  Navn-score:  100.00
-  Alias-score:   33.33 (Lisa Smith)
+Match med sanktionsperson: S170  - Lucas Miller
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 081262-5058 - James White
 Match med sanktionsperson: S127  - James White
-Samlet match (%):   58.79
-  Navn-score:  100.00
-  Alias-score:   36.36 (Ali Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 140755-2352 - Mia Lewis
-Match med sanktionsperson: S086  - Mia Lewis
-Samlet match (%):   56.67
-  Navn-score:  100.00
-  Alias-score:   30.00 (Lisa Smith)
+Match med sanktionsperson: S129  - Mia Lewis
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 150195-7352 - Isabella Clark
 Match med sanktionsperson: S142  - Isabella Clark
-Samlet match (%):   40.48
-  Navn-score:  100.00
-  Alias-score:   21.43 (Alicia Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 010255-2888 - Sara Hansen
-Match med sanktionsperson: S176  - Jacob Hall
-Samlet match (%):   40.61
-  Navn-score:   27.27
-  Alias-score:   54.55 (A. Jensen)
+Match med sanktionsperson: S150  - Anne J.
+Samlet match (%):   31.52
+ Navn-score (Alias):  54.55 - Matchet på alias: A. Jensen
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 060668-5274 - Alice Smith
-Match med sanktionsperson: S024  - Alicia Smith
-Samlet match (%):   52.02
-  Navn-score:   83.33
-  Alias-score:   72.73 (Lisa Smith)
+Match med sanktionsperson: S161  - Olivia Johnson
+Samlet match (%):   41.11
+ Navn-score (Alias):  83.33 - Matchet på alias: Alicia Smith
   Fødselsdato-score:    0.00
-  Land-score:    0.00
+  Land-score:  100.00
 ----------------------------------------
 Kunde: 080677-1331 - Jacob Hall
 Match med sanktionsperson: S133  - Jacob Hall
-Samlet match (%):   53.33
-  Navn-score:  100.00
-  Alias-score:   20.00 (Mikael)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 070990-5332 - Sophia Davis
 Match med sanktionsperson: S056  - Sophia Davis
-Samlet match (%):   55.00
-  Navn-score:  100.00
-  Alias-score:   25.00 (Alicia Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 281169-8085 - Ava Adams
 Match med sanktionsperson: S181  - Amelia Thomas
-Samlet match (%):   33.56
-  Navn-score:   38.46
-  Alias-score:   22.22 (Anita)
+Samlet match (%):   26.15
+ Navn-score (Navn):  38.46
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 150669-7099 - Jacob Hall
 Match med sanktionsperson: S093  - Jacob Hall
-Samlet match (%):   53.33
-  Navn-score:  100.00
-  Alias-score:   20.00 (Anita)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 060662-2661 - Lily Scott
-Match med sanktionsperson: S101  - Daniel Martin
-Samlet match (%):   34.92
-  Navn-score:   23.08
-  Alias-score:   41.67 (Alicia Smith)
+Match med sanktionsperson: S087  - Tom Anderson
+Samlet match (%):   30.00
+ Navn-score (Alias):  50.00 - Matchet på alias: Lisa Smith
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 011064-2065 - Charlotte Taylor
 Match med sanktionsperson: S097  - Charlotte Taylor
-Samlet match (%):   52.92
-  Navn-score:  100.00
-  Alias-score:   18.75 (Michael N.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 130785-6916 - Lucas Miller
 Match med sanktionsperson: S055  - Lucas Miller
-Samlet match (%):   57.78
-  Navn-score:  100.00
-  Alias-score:   33.33 (Lisa Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 020895-6679 - Sophia Davis
 Match med sanktionsperson: S156  - Sophia Davis
-Samlet match (%):   41.67
-  Navn-score:  100.00
-  Alias-score:   25.00 (John Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 270185-8068 - Anne Jensen
 Match med sanktionsperson: S154  - Michael Nilsen
-Samlet match (%):   49.48
-  Navn-score:   35.71
-  Alias-score:   72.73 (A. Jensen)
+Samlet match (%):   37.58
+ Navn-score (Alias):  72.73 - Matchet på alias: A. Jensen
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 220984-4964 - James White
 Match med sanktionsperson: S025  - James White
-Samlet match (%):   52.73
-  Navn-score:  100.00
-  Alias-score:   18.18 (Johnny)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 270388-4621 - Lucas Miller
 Match med sanktionsperson: S055  - Lucas Miller
-Samlet match (%):   57.78
-  Navn-score:  100.00
-  Alias-score:   33.33 (Lisa Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 261068-7652 - Lily Scott
-Match med sanktionsperson: S155  - Emily Harris
-Samlet match (%):   41.11
-  Navn-score:   33.33
-  Alias-score:   50.00 (Lisa Smith)
+Match med sanktionsperson: S172  - Tom Anderson
+Samlet match (%):   30.00
+ Navn-score (Alias):  50.00 - Matchet på alias: Lisa Smith
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 050358-6597 - Lucas Rodriguez
 Match med sanktionsperson: S156  - Lucas Rodriguez
-Samlet match (%):   48.89
-  Navn-score:  100.00
-  Alias-score:    6.67 (J.S.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 070159-7785 - Michael Nielsen
 Match med sanktionsperson: S200  - Michael Nilsen
-Samlet match (%):   53.33
-  Navn-score:   93.33
-  Alias-score:   26.67 (Annie J.)
+Samlet match (%):   44.44
+ Navn-score (Navn):  93.33
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 161093-5928 - William Brown
 Match med sanktionsperson: S102  - William Brown
-Samlet match (%):   54.36
-  Navn-score:  100.00
-  Alias-score:   23.08 (Ali Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 070258-7830 - Peter Petersen
-Match med sanktionsperson: S103  - Alexander Wilson
-Samlet match (%):   33.57
-  Navn-score:   25.00
-  Alias-score:   35.71 (A. Jensen)
+Match med sanktionsperson: S025  - Tom Anderson
+Samlet match (%):   27.62
+ Navn-score (Navn):  42.86
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 111192-3810 - Emily Harris
 Match med sanktionsperson: S155  - Emily Harris
-Samlet match (%):   38.89
-  Navn-score:  100.00
-  Alias-score:   16.67 (Lisa Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 271273-8280 - Emma Olsen
-Match med sanktionsperson: S100  - Emma Olson
-Samlet match (%):   40.00
-  Navn-score:   90.00
-  Alias-score:   30.00 (A. Jensen)
+Match med sanktionsperson: S030  - Emma Olson
+Samlet match (%):   30.00
+ Navn-score (Navn):  90.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 110868-3505 - Benjamin Moore
 Match med sanktionsperson: S161  - Benjamin Moore
-Samlet match (%):   40.48
-  Navn-score:  100.00
-  Alias-score:   21.43 (John Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 200356-6701 - Peter Petersen
-Match med sanktionsperson: S193  - Alexander Wilson
-Samlet match (%):   33.57
-  Navn-score:   25.00
-  Alias-score:   35.71 (A. Jensen)
+Match med sanktionsperson: S142  - Tom Anderson
+Samlet match (%):   27.62
+ Navn-score (Navn):  42.86
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 230995-2018 - Emma Olsen
-Match med sanktionsperson: S100  - Emma Olson
-Samlet match (%):   40.00
-  Navn-score:   90.00
-  Alias-score:   30.00 (A. Jensen)
+Match med sanktionsperson: S030  - Emma Olson
+Samlet match (%):   30.00
+ Navn-score (Navn):  90.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 270362-8985 - Lucas Miller
-Match med sanktionsperson: S055  - Lucas Miller
-Samlet match (%):   44.44
-  Navn-score:  100.00
-  Alias-score:   33.33 (Lisa Smith)
+Match med sanktionsperson: S170  - Lucas Miller
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 130385-5438 - Jacob Hall
 Match med sanktionsperson: S028  - Jacob Hall
-Samlet match (%):   56.67
-  Navn-score:  100.00
-  Alias-score:   30.00 (Johnny)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 080462-9757 - Jacob Hall
 Match med sanktionsperson: S093  - Jacob Hall
-Samlet match (%):   53.33
-  Navn-score:  100.00
-  Alias-score:   20.00 (Anita)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 110759-3422 - Ava Adams
 Match med sanktionsperson: S015  - Amelia Thomas
-Samlet match (%):   33.56
-  Navn-score:   38.46
-  Alias-score:   22.22 (Jon D.)
+Samlet match (%):   26.15
+ Navn-score (Navn):  38.46
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 230696-3940 - Henry King
-Match med sanktionsperson: S127  - James White
-Samlet match (%):   26.06
-  Navn-score:   18.18
-  Alias-score:   20.00 (Anna)
+Match med sanktionsperson: S120  - Benjamin Moore
+Samlet match (%):   20.48
+ Navn-score (Navn):  21.43
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 070553-9059 - Daniel Martin
 Match med sanktionsperson: S196  - Daniel Martin
-Samlet match (%):   54.36
-  Navn-score:  100.00
-  Alias-score:   23.08 (Lisa Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 110284-6115 - Emma Olsen
-Match med sanktionsperson: S100  - Emma Olson
-Samlet match (%):   40.00
-  Navn-score:   90.00
-  Alias-score:   30.00 (A. Jensen)
+Match med sanktionsperson: S030  - Emma Olson
+Samlet match (%):   30.00
+ Navn-score (Navn):  90.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 071096-5208 - Amelia Thomas
 Match med sanktionsperson: S098  - Amelia Thomas
-Samlet match (%):   56.92
-  Navn-score:  100.00
-  Alias-score:   30.77 (Smith J.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 030268-5180 - Anne Jensen
 Match med sanktionsperson: S021  - Olivia Johnson
-Samlet match (%):   49.48
-  Navn-score:   35.71
-  Alias-score:   72.73 (A. Jensen)
+Samlet match (%):   37.58
+ Navn-score (Alias):  72.73 - Matchet på alias: A. Jensen
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 070374-7101 - Ethan Lee
 Match med sanktionsperson: S128  - Michael Nilsen
-Samlet match (%):   41.90
-  Navn-score:   35.71
-  Alias-score:   50.00 (Jonathan Doe)
+Samlet match (%):   30.00
+ Navn-score (Alias):  50.00 - Matchet på alias: Jonathan Doe
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 160353-6950 - Sophia Davis
 Match med sanktionsperson: S156  - Sophia Davis
-Samlet match (%):   41.67
-  Navn-score:  100.00
-  Alias-score:   25.00 (John Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 150961-2768 - Lily Scott
-Match med sanktionsperson: S024  - Alicia Smith
-Samlet match (%):   43.89
-  Navn-score:   41.67
-  Alias-score:   50.00 (Lisa Smith)
+Match med sanktionsperson: S097  - John Smith
+Samlet match (%):   30.00
+ Navn-score (Alias):  50.00 - Matchet på alias: Lisa Smith
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 100560-9774 - Anne Jensen
 Match med sanktionsperson: S193  - Alexander Wilson
-Samlet match (%):   50.08
-  Navn-score:   37.50
-  Alias-score:   72.73 (A. Jensen)
+Samlet match (%):   37.58
+ Navn-score (Alias):  72.73 - Matchet på alias: A. Jensen
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 221265-9486 - Emily Harris
 Match med sanktionsperson: S104  - Emily Harris
-Samlet match (%):   49.44
-  Navn-score:  100.00
-  Alias-score:    8.33 (A.S.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 221077-3446 - Benjamin Moore
 Match med sanktionsperson: S025  - Benjamin Moore
-Samlet match (%):   51.43
-  Navn-score:  100.00
-  Alias-score:   14.29 (Mikael)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 171250-8748 - Tommy Andersen
 Match med sanktionsperson: S189  - Tom Anderson
-Samlet match (%):   44.29
-  Navn-score:   78.57
-  Alias-score:   14.29 (M.N.)
+Samlet match (%):   39.52
+ Navn-score (Navn):  78.57
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 270966-5792 - Amelia Thomas
 Match med sanktionsperson: S015  - Amelia Thomas
-Samlet match (%):   54.36
-  Navn-score:  100.00
-  Alias-score:   23.08 (Lisa Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 230697-1080 - John Doe
-Match med sanktionsperson: S041  - Jonathan Doe
-Samlet match (%):   44.45
-  Navn-score:   66.67
-  Alias-score:   66.67 (Jonathan Doe)
+Match med sanktionsperson: S084  - Alexander Wilson
+Samlet match (%):   35.56
+ Navn-score (Alias):  66.67 - Matchet på alias: Jonathan Doe
   Fødselsdato-score:    0.00
-  Land-score:    0.00
+  Land-score:  100.00
 ----------------------------------------
 Kunde: 220396-3505 - Tommy Andersen
 Match med sanktionsperson: S068  - Tom Anderson
-Samlet match (%):   44.29
-  Navn-score:   78.57
-  Alias-score:   14.29 (Johnny)
+Samlet match (%):   39.52
+ Navn-score (Navn):  78.57
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 080357-3316 - Olivia Johnson
 Match med sanktionsperson: S019  - Olivia Johnson
-Samlet match (%):   56.19
-  Navn-score:  100.00
-  Alias-score:   28.57 (John S.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 060850-4998 - Olivia Johnson
 Match med sanktionsperson: S021  - Olivia Johnson
-Samlet match (%):   45.24
-  Navn-score:  100.00
-  Alias-score:   35.71 (A. Jensen)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 160176-6010 - Alice Smith
-Match med sanktionsperson: S024  - Alicia Smith
-Samlet match (%):   52.02
-  Navn-score:   83.33
-  Alias-score:   72.73 (Lisa Smith)
+Match med sanktionsperson: S084  - Alexander Wilson
+Samlet match (%):   41.11
+ Navn-score (Alias):  83.33 - Matchet på alias: Alicia Smith
   Fødselsdato-score:    0.00
-  Land-score:    0.00
+  Land-score:  100.00
 ----------------------------------------
 Kunde: 171278-4919 - Ethan Lee
-Match med sanktionsperson: S122  - Jonathan Doe
-Samlet match (%):   38.33
-  Navn-score:   50.00
-  Alias-score:   25.00 (Johnny Smith)
+Match med sanktionsperson: S143  - Amelia Thomas
+Samlet match (%):   30.00
+ Navn-score (Alias):  50.00 - Matchet på alias: Jonathan Doe
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 181193-9231 - Alice Smith
-Match med sanktionsperson: S024  - Alicia Smith
-Samlet match (%):   52.02
-  Navn-score:   83.33
-  Alias-score:   72.73 (Lisa Smith)
+Match med sanktionsperson: S084  - Alexander Wilson
+Samlet match (%):   41.11
+ Navn-score (Alias):  83.33 - Matchet på alias: Alicia Smith
   Fødselsdato-score:    0.00
-  Land-score:    0.00
+  Land-score:  100.00
 ----------------------------------------
 Kunde: 151151-3202 - Lucas Miller
-Match med sanktionsperson: S055  - Lucas Miller
-Samlet match (%):   44.44
-  Navn-score:  100.00
-  Alias-score:   33.33 (Lisa Smith)
+Match med sanktionsperson: S170  - Lucas Miller
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 140854-7980 - Benjamin Moore
 Match med sanktionsperson: S161  - Benjamin Moore
-Samlet match (%):   40.48
-  Navn-score:  100.00
-  Alias-score:   21.43 (John Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 280963-6774 - Henry King
-Match med sanktionsperson: S106  - Alexander Wilson
-Samlet match (%):   28.33
-  Navn-score:   25.00
-  Alias-score:   20.00 (Jon D.)
+Match med sanktionsperson: S125  - Jonathan Doe
+Samlet match (%):   24.44
+ Navn-score (Alias):  33.33 - Matchet på alias: Johnny Smith
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 100193-6023 - Sophia Davis
 Match med sanktionsperson: S056  - Sophia Davis
-Samlet match (%):   55.00
-  Navn-score:  100.00
-  Alias-score:   25.00 (Alicia Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 180453-6438 - Amelia Thomas
-Match med sanktionsperson: S098  - Amelia Thomas
-Samlet match (%):   43.59
-  Navn-score:  100.00
-  Alias-score:   30.77 (Smith J.)
+Match med sanktionsperson: S015  - Amelia Thomas
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 240269-3202 - Lily Scott
 Match med sanktionsperson: S098  - Amelia Thomas
-Samlet match (%):   37.69
-  Navn-score:   23.08
-  Alias-score:   50.00 (Lisa Smith)
+Samlet match (%):   30.00
+ Navn-score (Alias):  50.00 - Matchet på alias: Lisa Smith
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 060265-9742 - Peter Petersen
-Match med sanktionsperson: S103  - Alexander Wilson
-Samlet match (%):   33.57
-  Navn-score:   25.00
-  Alias-score:   35.71 (A. Jensen)
+Match med sanktionsperson: S025  - Tom Anderson
+Samlet match (%):   27.62
+ Navn-score (Navn):  42.86
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 081174-7475 - William Brown
 Match med sanktionsperson: S102  - William Brown
-Samlet match (%):   54.36
-  Navn-score:  100.00
-  Alias-score:   23.08 (Ali Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 180556-2674 - John Doe
-Match med sanktionsperson: S028  - John Smith
-Samlet match (%):   50.83
-  Navn-score:   50.00
-  Alias-score:   62.50 (John S.)
+Match med sanktionsperson: S200  - Michael Nilsen
+Samlet match (%):   35.56
+ Navn-score (Alias):  66.67 - Matchet på alias: Jonathan Doe
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 151188-1666 - Jacob Hall
-Match med sanktionsperson: S008  - Jacob Hall
-Samlet match (%):   43.33
-  Navn-score:  100.00
-  Alias-score:   30.00 (Jon D.)
+Match med sanktionsperson: S159  - Jacob Hall
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 230156-4415 - Amelia Thomas
 Match med sanktionsperson: S181  - Amelia Thomas
-Samlet match (%):   56.92
-  Navn-score:  100.00
-  Alias-score:   30.77 (Anita)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 070172-2023 - Grace Walker
 Match med sanktionsperson: S079  - Grace Walker
-Samlet match (%):   52.22
-  Navn-score:  100.00
-  Alias-score:   16.67 (Anne J.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 161196-7425 - Tommy Andersen
 Match med sanktionsperson: S183  - Tom Anderson
-Samlet match (%):   51.43
-  Navn-score:   78.57
-  Alias-score:   35.71 (A. Jensen)
+Samlet match (%):   39.52
+ Navn-score (Navn):  78.57
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 131261-3254 - James White
 Match med sanktionsperson: S079  - James White
-Samlet match (%):   55.76
-  Navn-score:  100.00
-  Alias-score:   27.27 (J. Doe)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 081198-9444 - Lucas Rodriguez
-Match med sanktionsperson: S009  - Lucas Rodriguez
-Samlet match (%):   42.22
-  Navn-score:  100.00
-  Alias-score:   26.67 (Lisa Smith)
+Match med sanktionsperson: S170  - Lucas Rodriguez
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 170368-6283 - Lily Scott
-Match med sanktionsperson: S002  - Alicia Smith
-Samlet match (%):   38.33
-  Navn-score:   41.67
-  Alias-score:   33.33 (Johnny Smith)
+Match med sanktionsperson: S035  - Mia Lewis
+Samlet match (%):   30.00
+ Navn-score (Alias):  50.00 - Matchet på alias: Lisa Smith
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 210774-7488 - Tommy Andersen
 Match med sanktionsperson: S183  - Tom Anderson
-Samlet match (%):   38.09
-  Navn-score:   78.57
-  Alias-score:   35.71 (A. Jensen)
+Samlet match (%):   26.19
+ Navn-score (Navn):  78.57
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 040556-1334 - Lucas Rodriguez
-Match med sanktionsperson: S009  - Lucas Rodriguez
-Samlet match (%):   42.22
-  Navn-score:  100.00
-  Alias-score:   26.67 (Lisa Smith)
+Match med sanktionsperson: S170  - Lucas Rodriguez
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 010188-4415 - Benjamin Moore
 Match med sanktionsperson: S161  - Benjamin Moore
-Samlet match (%):   40.48
-  Navn-score:  100.00
-  Alias-score:   21.43 (John Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 120989-1407 - Isabella Clark
 Match med sanktionsperson: S142  - Isabella Clark
-Samlet match (%):   40.48
-  Navn-score:  100.00
-  Alias-score:   21.43 (Alicia Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 030876-2316 - Anne Jensen
-Match med sanktionsperson: S103  - Alexander Wilson
-Samlet match (%):   50.08
-  Navn-score:   37.50
-  Alias-score:   72.73 (A. Jensen)
+Match med sanktionsperson: S128  - Jonathan Doe
+Samlet match (%):   37.58
+ Navn-score (Alias):  72.73 - Matchet på alias: A. Jensen
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 151181-5993 - Benjamin Moore
 Match med sanktionsperson: S025  - Benjamin Moore
-Samlet match (%):   51.43
-  Navn-score:  100.00
-  Alias-score:   14.29 (Mikael)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 260181-9185 - Mia Lewis
 Match med sanktionsperson: S035  - Mia Lewis
-Samlet match (%):   57.78
-  Navn-score:  100.00
-  Alias-score:   33.33 (Mike)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 171278-8967 - Daniel Martin
 Match med sanktionsperson: S041  - Daniel Martin
-Samlet match (%):   54.36
-  Navn-score:  100.00
-  Alias-score:   23.08 (Anna)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 280596-2272 - Amelia Thomas
 Match med sanktionsperson: S006  - Amelia Thomas
-Samlet match (%):   56.92
-  Navn-score:  100.00
-  Alias-score:   30.77 (Alicia Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 240572-2164 - John Doe
-Match med sanktionsperson: S074  - Sophia Davis
-Samlet match (%):   45.28
-  Navn-score:   33.33
-  Alias-score:   62.50 (J. Doe)
+Match med sanktionsperson: S034  - Jonathan Doe
+Samlet match (%):   35.56
+ Navn-score (Navn):  66.67
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 200357-4790 - Henry King
-Match med sanktionsperson: S055  - Emily Harris
-Samlet match (%):   30.00
-  Navn-score:   16.67
-  Alias-score:   33.33 (Johnny Smith)
+Match med sanktionsperson: S013  - Mia Lewis
+Samlet match (%):   24.44
+ Navn-score (Alias):  33.33 - Matchet på alias: Johnny Smith
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 100386-4621 - Anne Jensen
-Match med sanktionsperson: S150  - Anne J.
-Samlet match (%):   42.43
-  Navn-score:   54.55
-  Alias-score:   72.73 (A. Jensen)
+Match med sanktionsperson: S062  - Sara H.
+Samlet match (%):   37.58
+ Navn-score (Alias):  72.73 - Matchet på alias: A. Jensen
   Fødselsdato-score:    0.00
-  Land-score:    0.00
+  Land-score:  100.00
 ----------------------------------------
 Kunde: 011291-5157 - Sophia Davis
 Match med sanktionsperson: S156  - Sophia Davis
-Samlet match (%):   55.00
-  Navn-score:  100.00
-  Alias-score:   25.00 (John Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 070975-1125 - Alexander Wilson
-Match med sanktionsperson: S115  - Alexander Wilson
-Samlet match (%):   43.75
-  Navn-score:  100.00
-  Alias-score:   31.25 (Alice S.)
+Match med sanktionsperson: S147  - Alexander Wilson
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 101283-3515 - John Doe
-Match med sanktionsperson: S020  - Jonathan Doe
-Samlet match (%):   52.22
-  Navn-score:   66.67
-  Alias-score:   50.00 (John Smith)
+Match med sanktionsperson: S143  - Amelia Thomas
+Samlet match (%):   35.56
+ Navn-score (Alias):  66.67 - Matchet på alias: Jonathan Doe
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 150698-8321 - Olivia Johnson
 Match med sanktionsperson: S019  - Olivia Johnson
-Samlet match (%):   56.19
-  Navn-score:  100.00
-  Alias-score:   28.57 (John S.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 101271-9506 - Jacob Hall
-Match med sanktionsperson: S008  - Jacob Hall
-Samlet match (%):   43.33
-  Navn-score:  100.00
-  Alias-score:   30.00 (Jon D.)
+Match med sanktionsperson: S159  - Jacob Hall
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 120599-7809 - Amelia Thomas
-Match med sanktionsperson: S098  - Amelia Thomas
-Samlet match (%):   43.59
-  Navn-score:  100.00
-  Alias-score:   30.77 (Smith J.)
+Match med sanktionsperson: S015  - Amelia Thomas
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 140573-1230 - Emily Harris
 Match med sanktionsperson: S155  - Emily Harris
-Samlet match (%):   52.22
-  Navn-score:  100.00
-  Alias-score:   16.67 (Lisa Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 190280-1559 - Sara Hansen
 Match med sanktionsperson: S191  - Sara H.
-Samlet match (%):   37.58
-  Navn-score:   54.55
-  Alias-score:   18.18 (John)
+Samlet match (%):   31.52
+ Navn-score (Navn):  54.55
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 280291-8962 - Alice Smith
-Match med sanktionsperson: S024  - Alicia Smith
-Samlet match (%):   52.02
-  Navn-score:   83.33
-  Alias-score:   72.73 (Lisa Smith)
+Match med sanktionsperson: S076  - Alicia Smith
+Samlet match (%):   41.11
+ Navn-score (Navn):  83.33
   Fødselsdato-score:    0.00
-  Land-score:    0.00
+  Land-score:  100.00
 ----------------------------------------
 Kunde: 230864-1546 - Emily Harris
 Match med sanktionsperson: S155  - Emily Harris
-Samlet match (%):   38.89
-  Navn-score:  100.00
-  Alias-score:   16.67 (Lisa Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 140891-6378 - Olivia Johnson
 Match med sanktionsperson: S050  - Olivia Johnson
-Samlet match (%):   53.81
-  Navn-score:  100.00
-  Alias-score:   21.43 (Jon D.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 220799-6712 - Daniel Martin
-Match med sanktionsperson: S176  - Daniel Martin
-Samlet match (%):   43.59
-  Navn-score:  100.00
-  Alias-score:   30.77 (Anne J.)
+Match med sanktionsperson: S041  - Daniel Martin
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 020367-3435 - Alexander Wilson
-Match med sanktionsperson: S115  - Alexander Wilson
-Samlet match (%):   43.75
-  Navn-score:  100.00
-  Alias-score:   31.25 (Alice S.)
+Match med sanktionsperson: S147  - Alexander Wilson
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 191051-7344 - Michael Nielsen
-Match med sanktionsperson: S096  - Michael Nilsen
-Samlet match (%):   53.33
-  Navn-score:   93.33
-  Alias-score:   26.67 (Annie J.)
+Match med sanktionsperson: S079  - Michael Nilsen
+Samlet match (%):   44.44
+ Navn-score (Navn):  93.33
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 130359-2207 - Jacob Hall
-Match med sanktionsperson: S008  - Jacob Hall
-Samlet match (%):   43.33
-  Navn-score:  100.00
-  Alias-score:   30.00 (Jon D.)
+Match med sanktionsperson: S159  - Jacob Hall
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 270286-1976 - Lily Scott
 Match med sanktionsperson: S102  - William Brown
-Samlet match (%):   40.26
-  Navn-score:   30.77
-  Alias-score:   50.00 (Lisa Smith)
+Samlet match (%):   30.00
+ Navn-score (Alias):  50.00 - Matchet på alias: Lisa Smith
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 070590-6793 - Henry King
-Match med sanktionsperson: S170  - Benjamin Moore
-Samlet match (%):   27.14
-  Navn-score:   21.43
-  Alias-score:   20.00 (Jon D.)
+Match med sanktionsperson: S147  - Alexander Wilson
+Samlet match (%):   21.67
+ Navn-score (Navn):  25.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 040959-7443 - William Brown
 Match med sanktionsperson: S105  - William Brown
-Samlet match (%):   41.03
-  Navn-score:  100.00
-  Alias-score:   23.08 (Alice S.)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 220273-8945 - Mia Lewis
-Match med sanktionsperson: S013  - Mia Lewis
-Samlet match (%):   44.44
-  Navn-score:  100.00
-  Alias-score:   33.33 (Mickey)
+Match med sanktionsperson: S095  - Mia Lewis
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 080882-1531 - Emma Olsen
-Match med sanktionsperson: S100  - Emma Olson
-Samlet match (%):   40.00
-  Navn-score:   90.00
-  Alias-score:   30.00 (A. Jensen)
+Match med sanktionsperson: S030  - Emma Olson
+Samlet match (%):   30.00
+ Navn-score (Navn):  90.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 251057-6026 - Sara Hansen
 Match med sanktionsperson: S191  - Sara H.
-Samlet match (%):   37.58
-  Navn-score:   54.55
-  Alias-score:   18.18 (John)
+Samlet match (%):   31.52
+ Navn-score (Navn):  54.55
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 160273-2497 - Amelia Thomas
-Match med sanktionsperson: S098  - Amelia Thomas
-Samlet match (%):   43.59
-  Navn-score:  100.00
-  Alias-score:   30.77 (Smith J.)
+Match med sanktionsperson: S015  - Amelia Thomas
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 160561-7285 - Olivia Johnson
 Match med sanktionsperson: S019  - Olivia Johnson
-Samlet match (%):   56.19
-  Navn-score:  100.00
-  Alias-score:   28.57 (John S.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 240480-8665 - Olivia Johnson
 Match med sanktionsperson: S019  - Olivia Johnson
-Samlet match (%):   56.19
-  Navn-score:  100.00
-  Alias-score:   28.57 (John S.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 130197-3798 - Olivia Johnson
 Match med sanktionsperson: S019  - Olivia Johnson
-Samlet match (%):   56.19
-  Navn-score:  100.00
-  Alias-score:   28.57 (John S.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 150385-4510 - Ava Adams
-Match med sanktionsperson: S086  - Mia Lewis
-Samlet match (%):   31.11
-  Navn-score:   33.33
-  Alias-score:   20.00 (Lisa Smith)
+Match med sanktionsperson: S129  - Mia Lewis
+Samlet match (%):   24.44
+ Navn-score (Navn):  33.33
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 090796-3857 - John Doe
 Match med sanktionsperson: S023  - Jonathan Doe
-Samlet match (%):   52.22
-  Navn-score:   66.67
-  Alias-score:   50.00 (Johnny)
+Samlet match (%):   35.56
+ Navn-score (Navn):  66.67
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 020391-2790 - James White
-Match med sanktionsperson: S127  - James White
-Samlet match (%):   45.45
-  Navn-score:  100.00
-  Alias-score:   36.36 (Ali Smith)
+Match med sanktionsperson: S097  - James White
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 181056-1945 - Alexander Wilson
-Match med sanktionsperson: S115  - Alexander Wilson
-Samlet match (%):   43.75
-  Navn-score:  100.00
-  Alias-score:   31.25 (Alice S.)
+Match med sanktionsperson: S147  - Alexander Wilson
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 251064-4364 - Alice Smith
 Match med sanktionsperson: S112  - Alicia Smith
-Samlet match (%):   62.32
-  Navn-score:   83.33
-  Alias-score:   63.64 (Alice S.)
+Samlet match (%):   41.11
+ Navn-score (Navn):  83.33
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 261178-1509 - Peter Petersen
-Match med sanktionsperson: S193  - Alexander Wilson
-Samlet match (%):   33.57
-  Navn-score:   25.00
-  Alias-score:   35.71 (A. Jensen)
+Match med sanktionsperson: S142  - Tom Anderson
+Samlet match (%):   27.62
+ Navn-score (Navn):  42.86
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 280365-4465 - Alexander Wilson
-Match med sanktionsperson: S115  - Alexander Wilson
-Samlet match (%):   43.75
-  Navn-score:  100.00
-  Alias-score:   31.25 (Alice S.)
+Match med sanktionsperson: S147  - Alexander Wilson
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 261261-5482 - Lucas Miller
 Match med sanktionsperson: S170  - Lucas Miller
-Samlet match (%):   49.44
-  Navn-score:  100.00
-  Alias-score:    8.33 (Anne J.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 110864-9251 - Olivia Johnson
 Match med sanktionsperson: S161  - Olivia Johnson
-Samlet match (%):   58.57
-  Navn-score:  100.00
-  Alias-score:   35.71 (Alicia Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 201071-6782 - Sophia Davis
 Match med sanktionsperson: S045  - Sophia Davis
-Samlet match (%):   55.00
-  Navn-score:  100.00
-  Alias-score:   25.00 (Alicia Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 090267-8201 - Emily Harris
 Match med sanktionsperson: S155  - Emily Harris
-Samlet match (%):   38.89
-  Navn-score:  100.00
-  Alias-score:   16.67 (Lisa Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 241265-9266 - Michael Nielsen
 Match med sanktionsperson: S165  - Michael Nilsen
-Samlet match (%):   64.44
-  Navn-score:   93.33
-  Alias-score:   60.00 (Michael N.)
+Samlet match (%):   44.44
+ Navn-score (Navn):  93.33
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 200477-7862 - Emily Harris
 Match med sanktionsperson: S155  - Emily Harris
-Samlet match (%):   52.22
-  Navn-score:  100.00
-  Alias-score:   16.67 (Lisa Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 210152-3301 - Ethan Lee
 Match med sanktionsperson: S163  - Michael Nilsen
-Samlet match (%):   41.90
-  Navn-score:   35.71
-  Alias-score:   50.00 (Jonathan Doe)
+Samlet match (%):   30.00
+ Navn-score (Alias):  50.00 - Matchet på alias: Jonathan Doe
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 020767-9621 - Isabella Clark
 Match med sanktionsperson: S142  - Isabella Clark
-Samlet match (%):   40.48
-  Navn-score:  100.00
-  Alias-score:   21.43 (Alicia Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 040670-5054 - Sara Hansen
-Match med sanktionsperson: S176  - Jacob Hall
-Samlet match (%):   40.61
-  Navn-score:   27.27
-  Alias-score:   54.55 (A. Jensen)
+Match med sanktionsperson: S150  - Anne J.
+Samlet match (%):   31.52
+ Navn-score (Alias):  54.55 - Matchet på alias: A. Jensen
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 190380-6036 - Emma Olsen
-Match med sanktionsperson: S100  - Emma Olson
-Samlet match (%):   40.00
-  Navn-score:   90.00
-  Alias-score:   30.00 (A. Jensen)
+Match med sanktionsperson: S030  - Emma Olson
+Samlet match (%):   30.00
+ Navn-score (Navn):  90.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 150550-2482 - Ethan Lee
-Match med sanktionsperson: S055  - Lucas Miller
-Samlet match (%):   41.11
-  Navn-score:   33.33
-  Alias-score:   50.00 (Jonathan Doe)
+Match med sanktionsperson: S129  - Mia Lewis
+Samlet match (%):   30.00
+ Navn-score (Alias):  50.00 - Matchet på alias: Jonathan Doe
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 010951-1138 - James White
-Match med sanktionsperson: S127  - James White
-Samlet match (%):   45.45
-  Navn-score:  100.00
-  Alias-score:   36.36 (Ali Smith)
+Match med sanktionsperson: S097  - James White
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 080871-7000 - Benjamin Moore
 Match med sanktionsperson: S161  - Benjamin Moore
-Samlet match (%):   40.48
-  Navn-score:  100.00
-  Alias-score:   21.43 (John Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 030582-3708 - Emma Olsen
-Match med sanktionsperson: S100  - Emma Olson
-Samlet match (%):   40.00
-  Navn-score:   90.00
-  Alias-score:   30.00 (A. Jensen)
+Match med sanktionsperson: S030  - Emma Olson
+Samlet match (%):   30.00
+ Navn-score (Navn):  90.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 240251-6486 - Lily Scott
-Match med sanktionsperson: S002  - Alicia Smith
-Samlet match (%):   38.33
-  Navn-score:   41.67
-  Alias-score:   33.33 (Johnny Smith)
+Match med sanktionsperson: S035  - Mia Lewis
+Samlet match (%):   30.00
+ Navn-score (Alias):  50.00 - Matchet på alias: Lisa Smith
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 171166-6555 - Lucas Rodriguez
-Match med sanktionsperson: S009  - Lucas Rodriguez
-Samlet match (%):   42.22
-  Navn-score:  100.00
-  Alias-score:   26.67 (Lisa Smith)
+Match med sanktionsperson: S170  - Lucas Rodriguez
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 130792-3564 - Tommy Andersen
 Match med sanktionsperson: S183  - Tom Anderson
-Samlet match (%):   38.09
-  Navn-score:   78.57
-  Alias-score:   35.71 (A. Jensen)
+Samlet match (%):   26.19
+ Navn-score (Navn):  78.57
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 200965-5843 - James White
 Match med sanktionsperson: S121  - James White
-Samlet match (%):   55.76
-  Navn-score:  100.00
-  Alias-score:   27.27 (J. Doe)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 111150-6412 - Henry King
-Match med sanktionsperson: S018  - Daniel Martin
-Samlet match (%):   32.14
-  Navn-score:   23.08
-  Alias-score:   33.33 (Johnny Smith)
+Match med sanktionsperson: S090  - Charlotte Taylor
+Samlet match (%):   24.44
+ Navn-score (Alias):  33.33 - Matchet på alias: Johnny Smith
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 251060-9590 - Peter Petersen
 Match med sanktionsperson: S189  - Tom Anderson
-Samlet match (%):   30.00
-  Navn-score:   42.86
-  Alias-score:    7.14 (A.S.)
+Samlet match (%):   27.62
+ Navn-score (Navn):  42.86
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 220473-6839 - Mia Lewis
-Match med sanktionsperson: S127  - Mia Lewis
-Samlet match (%):   57.78
-  Navn-score:  100.00
-  Alias-score:   33.33 (Mike)
+Match med sanktionsperson: S095  - Mia Lewis
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 100983-5858 - Henry King
 Match med sanktionsperson: S165  - Michael Nilsen
-Samlet match (%):   29.21
-  Navn-score:   14.29
-  Alias-score:   33.33 (Johnny Smith)
+Samlet match (%):   24.44
+ Navn-score (Alias):  33.33 - Matchet på alias: Johnny Smith
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 170782-2425 - Grace Walker
-Match med sanktionsperson: S020  - Grace Walker
-Samlet match (%):   41.67
-  Navn-score:  100.00
-  Alias-score:   25.00 (Alice S.)
+Match med sanktionsperson: S137  - Grace Walker
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 141277-4637 - Sophia Davis
 Match med sanktionsperson: S156  - Sophia Davis
-Samlet match (%):   41.67
-  Navn-score:  100.00
-  Alias-score:   25.00 (John Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 030897-2136 - Michael Nielsen
-Match med sanktionsperson: S135  - Michael Nilsen
-Samlet match (%):   51.11
-  Navn-score:   93.33
-  Alias-score:   60.00 (Michael N.)
+Match med sanktionsperson: S006  - Amelia Thomas
+Samlet match (%):   33.33
+ Navn-score (Alias):  60.00 - Matchet på alias: Michael N.
   Fødselsdato-score:    0.00
-  Land-score:    0.00
+  Land-score:  100.00
 ----------------------------------------
 Kunde: 170388-8253 - Olivia Johnson
 Match med sanktionsperson: S161  - Olivia Johnson
-Samlet match (%):   58.57
-  Navn-score:  100.00
-  Alias-score:   35.71 (Alicia Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 100596-7602 - Charlotte Taylor
 Match med sanktionsperson: S017  - Charlotte Taylor
-Samlet match (%):   50.83
-  Navn-score:  100.00
-  Alias-score:   12.50 (Lisa Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 071175-6317 - James White
-Match med sanktionsperson: S127  - James White
-Samlet match (%):   45.45
-  Navn-score:  100.00
-  Alias-score:   36.36 (Ali Smith)
+Match med sanktionsperson: S097  - James White
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 081154-9818 - Peter Petersen
-Match med sanktionsperson: S116  - Mia Lewis
-Samlet match (%):   32.38
-  Navn-score:   21.43
-  Alias-score:   35.71 (A. Jensen)
+Match med sanktionsperson: S008  - Tom Anderson
+Samlet match (%):   27.62
+ Navn-score (Navn):  42.86
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 091154-3746 - Lucas Miller
-Match med sanktionsperson: S055  - Lucas Miller
-Samlet match (%):   44.44
-  Navn-score:  100.00
-  Alias-score:   33.33 (Lisa Smith)
+Match med sanktionsperson: S170  - Lucas Miller
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 190361-1637 - Emma Olsen
-Match med sanktionsperson: S100  - Emma Olson
-Samlet match (%):   40.00
-  Navn-score:   90.00
-  Alias-score:   30.00 (A. Jensen)
+Match med sanktionsperson: S030  - Emma Olson
+Samlet match (%):   30.00
+ Navn-score (Navn):  90.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 180959-7478 - Sara Hansen
 Match med sanktionsperson: S021  - Olivia Johnson
-Samlet match (%):   43.42
-  Navn-score:   35.71
-  Alias-score:   54.55 (A. Jensen)
+Samlet match (%):   31.52
+ Navn-score (Alias):  54.55 - Matchet på alias: A. Jensen
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 170498-8984 - Amelia Thomas
-Match med sanktionsperson: S098  - Amelia Thomas
-Samlet match (%):   43.59
-  Navn-score:  100.00
-  Alias-score:   30.77 (Smith J.)
+Match med sanktionsperson: S015  - Amelia Thomas
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 180474-2874 - Ethan Lee
-Match med sanktionsperson: S113  - Jonathan Doe
-Samlet match (%):   37.41
-  Navn-score:   50.00
-  Alias-score:   22.22 (Anna)
+Match med sanktionsperson: S034  - Jonathan Doe
+Samlet match (%):   30.00
+ Navn-score (Navn):  50.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 240766-2941 - Emily Harris
 Match med sanktionsperson: S155  - Emily Harris
-Samlet match (%):   38.89
-  Navn-score:  100.00
-  Alias-score:   16.67 (Lisa Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 081254-7098 - John Doe
-Match med sanktionsperson: S134  - John Smith
-Samlet match (%):   50.83
-  Navn-score:   50.00
-  Alias-score:   62.50 (Jon D.)
+Match med sanktionsperson: S128  - Michael Nilsen
+Samlet match (%):   35.56
+ Navn-score (Alias):  66.67 - Matchet på alias: Jonathan Doe
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 081164-1393 - Alexander Wilson
-Match med sanktionsperson: S115  - Alexander Wilson
-Samlet match (%):   43.75
-  Navn-score:  100.00
-  Alias-score:   31.25 (Alice S.)
+Match med sanktionsperson: S147  - Alexander Wilson
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 280470-4914 - Lily Scott
-Match med sanktionsperson: S112  - Alicia Smith
-Samlet match (%):   37.22
-  Navn-score:   41.67
-  Alias-score:   30.00 (Alice S.)
+Match med sanktionsperson: S045  - Sophia Davis
+Samlet match (%):   30.00
+ Navn-score (Alias):  50.00 - Matchet på alias: Lisa Smith
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 110973-2456 - Mia Lewis
 Match med sanktionsperson: S035  - Mia Lewis
-Samlet match (%):   57.78
-  Navn-score:  100.00
-  Alias-score:   33.33 (Mike)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 091070-5006 - Jacob Hall
-Match med sanktionsperson: S008  - Jacob Hall
-Samlet match (%):   43.33
-  Navn-score:  100.00
-  Alias-score:   30.00 (Jon D.)
+Match med sanktionsperson: S159  - Jacob Hall
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 160981-9498 - Peter Petersen
 Match med sanktionsperson: S189  - Tom Anderson
-Samlet match (%):   30.00
-  Navn-score:   42.86
-  Alias-score:    7.14 (A.S.)
+Samlet match (%):   27.62
+ Navn-score (Navn):  42.86
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 041191-9722 - John Doe
-Match med sanktionsperson: S122  - Jonathan Doe
-Samlet match (%):   56.39
-  Navn-score:   66.67
-  Alias-score:   62.50 (John S.)
+Match med sanktionsperson: S020  - Sophia Davis
+Samlet match (%):   35.56
+ Navn-score (Alias):  66.67 - Matchet på alias: Jonathan Doe
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 021084-1819 - Isabella Clark
 Match med sanktionsperson: S032  - Isabella Clark
-Samlet match (%):   49.05
-  Navn-score:  100.00
-  Alias-score:    7.14 (Johnny Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 010493-3802 - Michael Nielsen
-Match med sanktionsperson: S135  - Michael Nilsen
-Samlet match (%):   51.11
-  Navn-score:   93.33
-  Alias-score:   60.00 (Michael N.)
+Match med sanktionsperson: S060  - Michael Nilsen
+Samlet match (%):   44.44
+ Navn-score (Navn):  93.33
   Fødselsdato-score:    0.00
-  Land-score:    0.00
+  Land-score:  100.00
 ----------------------------------------
 Kunde: 281067-3548 - Peter Petersen
 Match med sanktionsperson: S189  - Tom Anderson
-Samlet match (%):   30.00
-  Navn-score:   42.86
-  Alias-score:    7.14 (A.S.)
+Samlet match (%):   27.62
+ Navn-score (Navn):  42.86
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 110168-1052 - Jacob Hall
-Match med sanktionsperson: S008  - Jacob Hall
-Samlet match (%):   43.33
-  Navn-score:  100.00
-  Alias-score:   30.00 (Jon D.)
+Match med sanktionsperson: S159  - Jacob Hall
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 171270-2216 - Grace Walker
 Match med sanktionsperson: S079  - Grace Walker
-Samlet match (%):   52.22
-  Navn-score:  100.00
-  Alias-score:   16.67 (Anne J.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 060566-2461 - Sara Hansen
 Match med sanktionsperson: S191  - Sara H.
-Samlet match (%):   37.58
-  Navn-score:   54.55
-  Alias-score:   18.18 (John)
+Samlet match (%):   31.52
+ Navn-score (Navn):  54.55
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 070350-5247 - Ava Adams
 Match med sanktionsperson: S006  - Amelia Thomas
-Samlet match (%):   34.49
-  Navn-score:   38.46
-  Alias-score:   25.00 (Alicia Smith)
+Samlet match (%):   26.15
+ Navn-score (Navn):  38.46
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 060596-5335 - Peter Petersen
-Match med sanktionsperson: S193  - Alexander Wilson
-Samlet match (%):   33.57
-  Navn-score:   25.00
-  Alias-score:   35.71 (A. Jensen)
+Match med sanktionsperson: S142  - Tom Anderson
+Samlet match (%):   27.62
+ Navn-score (Navn):  42.86
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 140352-7589 - Peter Petersen
-Match med sanktionsperson: S079  - James White
-Samlet match (%):   32.38
-  Navn-score:   21.43
-  Alias-score:   35.71 (A. Jensen)
+Match med sanktionsperson: S076  - Tom Anderson
+Samlet match (%):   27.62
+ Navn-score (Navn):  42.86
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 210594-9551 - Ava Adams
 Match med sanktionsperson: S006  - Amelia Thomas
-Samlet match (%):   34.49
-  Navn-score:   38.46
-  Alias-score:   25.00 (Alicia Smith)
+Samlet match (%):   26.15
+ Navn-score (Navn):  38.46
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 100183-9866 - Grace Walker
-Match med sanktionsperson: S020  - Grace Walker
-Samlet match (%):   41.67
-  Navn-score:  100.00
-  Alias-score:   25.00 (Alice S.)
+Match med sanktionsperson: S137  - Grace Walker
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 070663-3975 - Ava Adams
 Match med sanktionsperson: S035  - Amelia Thomas
-Samlet match (%):   33.56
-  Navn-score:   38.46
-  Alias-score:   22.22 (Anna)
+Samlet match (%):   26.15
+ Navn-score (Navn):  38.46
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 240354-7295 - Sophia Davis
 Match med sanktionsperson: S131  - Sophia Davis
-Samlet match (%):   52.22
-  Navn-score:  100.00
-  Alias-score:   16.67 (John)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 190972-9866 - Lily Scott
-Match med sanktionsperson: S155  - Emily Harris
-Samlet match (%):   41.11
-  Navn-score:   33.33
-  Alias-score:   50.00 (Lisa Smith)
+Match med sanktionsperson: S172  - Tom Anderson
+Samlet match (%):   30.00
+ Navn-score (Alias):  50.00 - Matchet på alias: Lisa Smith
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 220666-8314 - Ethan Lee
 Match med sanktionsperson: S200  - Michael Nilsen
-Samlet match (%):   41.90
-  Navn-score:   35.71
-  Alias-score:   50.00 (Jonathan Doe)
+Samlet match (%):   30.00
+ Navn-score (Alias):  50.00 - Matchet på alias: Jonathan Doe
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 190867-6539 - Sophia Davis
 Match med sanktionsperson: S156  - Sophia Davis
-Samlet match (%):   41.67
-  Navn-score:  100.00
-  Alias-score:   25.00 (John Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 040556-1378 - Lily Scott
-Match med sanktionsperson: S002  - Alicia Smith
-Samlet match (%):   38.33
-  Navn-score:   41.67
-  Alias-score:   33.33 (Johnny Smith)
+Match med sanktionsperson: S035  - Mia Lewis
+Samlet match (%):   30.00
+ Navn-score (Alias):  50.00 - Matchet på alias: Lisa Smith
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 090250-3852 - Mia Lewis
 Match med sanktionsperson: S013  - Mia Lewis
-Samlet match (%):   57.78
-  Navn-score:  100.00
-  Alias-score:   33.33 (Mickey)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 130159-1305 - Peter Petersen
 Match med sanktionsperson: S062  - Sara H.
-Samlet match (%):   27.62
-  Navn-score:    7.14
-  Alias-score:   35.71 (A. Jensen)
+Samlet match (%):   25.24
+ Navn-score (Alias):  35.71 - Matchet på alias: A. Jensen
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 131183-6836 - Peter Petersen
-Match med sanktionsperson: S079  - James White
-Samlet match (%):   32.38
-  Navn-score:   21.43
-  Alias-score:   35.71 (A. Jensen)
+Match med sanktionsperson: S076  - Tom Anderson
+Samlet match (%):   27.62
+ Navn-score (Navn):  42.86
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 161259-3498 - Charlotte Taylor
-Match med sanktionsperson: S190  - Charlotte Taylor
-Samlet match (%):   41.67
-  Navn-score:  100.00
-  Alias-score:   25.00 (Alice S.)
+Match med sanktionsperson: S160  - Charlotte Taylor
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 201295-7684 - Charlotte Taylor
-Match med sanktionsperson: S190  - Charlotte Taylor
-Samlet match (%):   41.67
-  Navn-score:  100.00
-  Alias-score:   25.00 (Alice S.)
+Match med sanktionsperson: S160  - Charlotte Taylor
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 231276-8786 - Emma Olsen
-Match med sanktionsperson: S100  - Emma Olson
-Samlet match (%):   40.00
-  Navn-score:   90.00
-  Alias-score:   30.00 (A. Jensen)
+Match med sanktionsperson: S030  - Emma Olson
+Samlet match (%):   30.00
+ Navn-score (Navn):  90.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 180473-4432 - Sophia Davis
 Match med sanktionsperson: S156  - Sophia Davis
-Samlet match (%):   55.00
-  Navn-score:  100.00
-  Alias-score:   25.00 (John Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 031282-2523 - Jacob Hall
-Match med sanktionsperson: S008  - Jacob Hall
-Samlet match (%):   43.33
-  Navn-score:  100.00
-  Alias-score:   30.00 (Jon D.)
+Match med sanktionsperson: S159  - Jacob Hall
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 041169-4687 - William Brown
 Match med sanktionsperson: S105  - William Brown
-Samlet match (%):   41.03
-  Navn-score:  100.00
-  Alias-score:   23.08 (Alice S.)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 200669-2077 - Isabella Clark
 Match med sanktionsperson: S142  - Isabella Clark
-Samlet match (%):   40.48
-  Navn-score:  100.00
-  Alias-score:   21.43 (Alicia Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 110492-9469 - Michael Nielsen
 Match med sanktionsperson: S200  - Michael Nilsen
-Samlet match (%):   53.33
-  Navn-score:   93.33
-  Alias-score:   26.67 (Annie J.)
+Samlet match (%):   44.44
+ Navn-score (Navn):  93.33
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 260161-4837 - Sophia Davis
 Match med sanktionsperson: S156  - Sophia Davis
-Samlet match (%):   41.67
-  Navn-score:  100.00
-  Alias-score:   25.00 (John Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 070992-6536 - Lucas Rodriguez
 Match med sanktionsperson: S009  - Lucas Rodriguez
-Samlet match (%):   55.56
-  Navn-score:  100.00
-  Alias-score:   26.67 (Lisa Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 121272-5267 - Lucas Rodriguez
 Match med sanktionsperson: S028  - Lucas Rodriguez
-Samlet match (%):   53.33
-  Navn-score:  100.00
-  Alias-score:   20.00 (J. Doe)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 070771-2705 - Michael Nielsen
 Match med sanktionsperson: S200  - Michael Nilsen
-Samlet match (%):   53.33
-  Navn-score:   93.33
-  Alias-score:   26.67 (Annie J.)
+Samlet match (%):   44.44
+ Navn-score (Navn):  93.33
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 050383-2838 - Sophia Davis
 Match med sanktionsperson: S131  - Sophia Davis
-Samlet match (%):   52.22
-  Navn-score:  100.00
-  Alias-score:   16.67 (John)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 260498-7477 - Lucas Rodriguez
 Match med sanktionsperson: S156  - Lucas Rodriguez
-Samlet match (%):   48.89
-  Navn-score:  100.00
-  Alias-score:    6.67 (J.S.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 010273-5411 - Jacob Hall
-Match med sanktionsperson: S008  - Jacob Hall
-Samlet match (%):   43.33
-  Navn-score:  100.00
-  Alias-score:   30.00 (Jon D.)
+Match med sanktionsperson: S159  - Jacob Hall
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 010576-6302 - Ava Adams
 Match med sanktionsperson: S035  - Amelia Thomas
-Samlet match (%):   33.56
-  Navn-score:   38.46
-  Alias-score:   22.22 (Anna)
+Samlet match (%):   26.15
+ Navn-score (Navn):  38.46
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 140759-8134 - Alice Smith
-Match med sanktionsperson: S134  - John Smith
-Samlet match (%):   55.76
-  Navn-score:   54.55
-  Alias-score:   72.73 (Lisa Smith)
+Match med sanktionsperson: S142  - Isabella Clark
+Samlet match (%):   41.11
+ Navn-score (Alias):  83.33 - Matchet på alias: Alicia Smith
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 100557-6355 - Grace Walker
-Match med sanktionsperson: S020  - Grace Walker
-Samlet match (%):   41.67
-  Navn-score:  100.00
-  Alias-score:   25.00 (Alice S.)
+Match med sanktionsperson: S137  - Grace Walker
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 160894-6337 - Mia Lewis
-Match med sanktionsperson: S127  - Mia Lewis
-Samlet match (%):   57.78
-  Navn-score:  100.00
-  Alias-score:   33.33 (Mike)
+Match med sanktionsperson: S095  - Mia Lewis
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 100482-9961 - Lily Scott
-Match med sanktionsperson: S024  - Alicia Smith
-Samlet match (%):   43.89
-  Navn-score:   41.67
-  Alias-score:   50.00 (Lisa Smith)
+Match med sanktionsperson: S097  - John Smith
+Samlet match (%):   30.00
+ Navn-score (Alias):  50.00 - Matchet på alias: Lisa Smith
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 210898-6444 - Lily Scott
-Match med sanktionsperson: S002  - Alicia Smith
-Samlet match (%):   38.33
-  Navn-score:   41.67
-  Alias-score:   33.33 (Johnny Smith)
+Match med sanktionsperson: S035  - Mia Lewis
+Samlet match (%):   30.00
+ Navn-score (Alias):  50.00 - Matchet på alias: Lisa Smith
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 230695-1664 - Anne Jensen
-Match med sanktionsperson: S176  - Daniel Martin
-Samlet match (%):   44.34
-  Navn-score:   38.46
-  Alias-score:   54.55 (Anne J.)
+Match med sanktionsperson: S133  - Jacob Hall
+Samlet match (%):   37.58
+ Navn-score (Alias):  72.73 - Matchet på alias: A. Jensen
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 040279-9376 - Benjamin Moore
 Match med sanktionsperson: S161  - Benjamin Moore
-Samlet match (%):   53.81
-  Navn-score:  100.00
-  Alias-score:   21.43 (John Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 191166-3105 - Grace Walker
-Match med sanktionsperson: S020  - Grace Walker
-Samlet match (%):   41.67
-  Navn-score:  100.00
-  Alias-score:   25.00 (Alice S.)
+Match med sanktionsperson: S137  - Grace Walker
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 200955-7124 - Lily Scott
 Match med sanktionsperson: S102  - William Brown
-Samlet match (%):   40.26
-  Navn-score:   30.77
-  Alias-score:   50.00 (Lisa Smith)
+Samlet match (%):   30.00
+ Navn-score (Alias):  50.00 - Matchet på alias: Lisa Smith
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 250789-4990 - Jacob Hall
-Match med sanktionsperson: S008  - Jacob Hall
-Samlet match (%):   43.33
-  Navn-score:  100.00
-  Alias-score:   30.00 (Jon D.)
+Match med sanktionsperson: S159  - Jacob Hall
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 021093-4496 - Emily Harris
 Match med sanktionsperson: S155  - Emily Harris
-Samlet match (%):   38.89
-  Navn-score:  100.00
-  Alias-score:   16.67 (Lisa Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 250980-6903 - Peter Petersen
-Match med sanktionsperson: S103  - Alexander Wilson
-Samlet match (%):   33.57
-  Navn-score:   25.00
-  Alias-score:   35.71 (A. Jensen)
+Match med sanktionsperson: S025  - Tom Anderson
+Samlet match (%):   27.62
+ Navn-score (Navn):  42.86
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 281299-3697 - James White
-Match med sanktionsperson: S127  - James White
-Samlet match (%):   45.45
-  Navn-score:  100.00
-  Alias-score:   36.36 (Ali Smith)
+Match med sanktionsperson: S097  - James White
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 120495-9988 - William Brown
 Match med sanktionsperson: S105  - William Brown
-Samlet match (%):   54.36
-  Navn-score:  100.00
-  Alias-score:   23.08 (Alice S.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 200590-6373 - John Doe
-Match med sanktionsperson: S165  - Olivia Johnson
-Samlet match (%):   45.08
-  Navn-score:   28.57
-  Alias-score:   66.67 (Jonathan Doe)
+Match med sanktionsperson: S163  - Michael Nilsen
+Samlet match (%):   35.56
+ Navn-score (Alias):  66.67 - Matchet på alias: Jonathan Doe
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 230958-9245 - Tommy Andersen
 Match med sanktionsperson: S183  - Tom Anderson
-Samlet match (%):   38.09
-  Navn-score:   78.57
-  Alias-score:   35.71 (A. Jensen)
+Samlet match (%):   26.19
+ Navn-score (Navn):  78.57
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 200256-6195 - Grace Walker
 Match med sanktionsperson: S079  - Grace Walker
-Samlet match (%):   52.22
-  Navn-score:  100.00
-  Alias-score:   16.67 (Anne J.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 040661-6822 - Sophia Davis
 Match med sanktionsperson: S156  - Sophia Davis
-Samlet match (%):   41.67
-  Navn-score:  100.00
-  Alias-score:   25.00 (John Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 020357-5240 - Sophia Davis
 Match med sanktionsperson: S156  - Sophia Davis
-Samlet match (%):   41.67
-  Navn-score:  100.00
-  Alias-score:   25.00 (John Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 020560-2327 - Peter Petersen
-Match med sanktionsperson: S103  - Alexander Wilson
-Samlet match (%):   33.57
-  Navn-score:   25.00
-  Alias-score:   35.71 (A. Jensen)
+Match med sanktionsperson: S025  - Tom Anderson
+Samlet match (%):   27.62
+ Navn-score (Navn):  42.86
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 251163-5868 - Michael Nielsen
-Match med sanktionsperson: S135  - Michael Nilsen
-Samlet match (%):   51.11
-  Navn-score:   93.33
-  Alias-score:   60.00 (Michael N.)
+Match med sanktionsperson: S150  - Michael Nilsen
+Samlet match (%):   44.44
+ Navn-score (Navn):  93.33
   Fødselsdato-score:    0.00
-  Land-score:    0.00
+  Land-score:  100.00
 ----------------------------------------
 Kunde: 060686-5578 - Jacob Hall
-Match med sanktionsperson: S008  - Jacob Hall
-Samlet match (%):   43.33
-  Navn-score:  100.00
-  Alias-score:   30.00 (Jon D.)
+Match med sanktionsperson: S159  - Jacob Hall
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 240491-7282 - Olivia Johnson
-Match med sanktionsperson: S018  - Olivia Johnson
-Samlet match (%):   56.19
-  Navn-score:  100.00
-  Alias-score:   28.57 (John S.)
+Match med sanktionsperson: S046  - Olivia Johnson
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 030781-8329 - Emma Olsen
 Match med sanktionsperson: S187  - Emma Olson
-Samlet match (%):   46.67
-  Navn-score:   90.00
-  Alias-score:   10.00 (Smith J.)
+Samlet match (%):   43.33
+ Navn-score (Navn):  90.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 170871-7727 - Amelia Thomas
 Match med sanktionsperson: S181  - Amelia Thomas
-Samlet match (%):   56.92
-  Navn-score:  100.00
-  Alias-score:   30.77 (Anita)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 080988-8394 - Benjamin Moore
 Match med sanktionsperson: S120  - Benjamin Moore
-Samlet match (%):   53.81
-  Navn-score:  100.00
-  Alias-score:   21.43 (John S.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 091061-3003 - Alexander Wilson
 Match med sanktionsperson: S115  - Alexander Wilson
-Samlet match (%):   57.08
-  Navn-score:  100.00
-  Alias-score:   31.25 (Alice S.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 170755-5007 - Ethan Lee
-Match med sanktionsperson: S113  - Jonathan Doe
-Samlet match (%):   37.41
-  Navn-score:   50.00
-  Alias-score:   22.22 (Anna)
+Match med sanktionsperson: S034  - Jonathan Doe
+Samlet match (%):   30.00
+ Navn-score (Navn):  50.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 050371-7396 - James White
-Match med sanktionsperson: S127  - James White
-Samlet match (%):   45.45
-  Navn-score:  100.00
-  Alias-score:   36.36 (Ali Smith)
+Match med sanktionsperson: S097  - James White
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 140897-6383 - Daniel Martin
-Match med sanktionsperson: S176  - Daniel Martin
-Samlet match (%):   43.59
-  Navn-score:  100.00
-  Alias-score:   30.77 (Anne J.)
+Match med sanktionsperson: S041  - Daniel Martin
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 120551-8529 - Lucas Rodriguez
 Match med sanktionsperson: S162  - Lucas Rodriguez
-Samlet match (%):   51.11
-  Navn-score:  100.00
-  Alias-score:   13.33 (Annie J.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 280767-8047 - Tommy Andersen
 Match med sanktionsperson: S183  - Tom Anderson
-Samlet match (%):   38.09
-  Navn-score:   78.57
-  Alias-score:   35.71 (A. Jensen)
+Samlet match (%):   26.19
+ Navn-score (Navn):  78.57
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 270391-4259 - Lily Scott
 Match med sanktionsperson: S015  - Amelia Thomas
-Samlet match (%):   37.69
-  Navn-score:   23.08
-  Alias-score:   50.00 (Lisa Smith)
+Samlet match (%):   30.00
+ Navn-score (Alias):  50.00 - Matchet på alias: Lisa Smith
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 200296-9698 - Lucas Miller
-Match med sanktionsperson: S022  - Lucas Miller
-Samlet match (%):   55.00
-  Navn-score:  100.00
-  Alias-score:   25.00 (A. Jensen)
+Match med sanktionsperson: S112  - Lucas Miller
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 030171-6251 - Michael Nielsen
 Match med sanktionsperson: S165  - Michael Nilsen
-Samlet match (%):   64.44
-  Navn-score:   93.33
-  Alias-score:   60.00 (Michael N.)
+Samlet match (%):   44.44
+ Navn-score (Navn):  93.33
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 230380-9779 - Alice Smith
-Match med sanktionsperson: S024  - Alicia Smith
-Samlet match (%):   52.02
-  Navn-score:   83.33
-  Alias-score:   72.73 (Lisa Smith)
+Match med sanktionsperson: S101  - Alicia Smith
+Samlet match (%):   41.11
+ Navn-score (Navn):  83.33
   Fødselsdato-score:    0.00
-  Land-score:    0.00
+  Land-score:  100.00
 ----------------------------------------
 Kunde: 260865-6211 - Lily Scott
-Match med sanktionsperson: S047  - William Brown
-Samlet match (%):   40.26
-  Navn-score:   30.77
-  Alias-score:   50.00 (Lisa Smith)
+Match med sanktionsperson: S160  - Charlotte Taylor
+Samlet match (%):   30.00
+ Navn-score (Alias):  50.00 - Matchet på alias: Lisa Smith
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 021278-2144 - Mia Lewis
-Match med sanktionsperson: S127  - Mia Lewis
-Samlet match (%):   57.78
-  Navn-score:  100.00
-  Alias-score:   33.33 (Mike)
+Match med sanktionsperson: S095  - Mia Lewis
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 031281-7227 - John Doe
-Match med sanktionsperson: S165  - Olivia Johnson
-Samlet match (%):   45.08
-  Navn-score:   28.57
-  Alias-score:   66.67 (Jonathan Doe)
+Match med sanktionsperson: S163  - Michael Nilsen
+Samlet match (%):   35.56
+ Navn-score (Alias):  66.67 - Matchet på alias: Jonathan Doe
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 060193-5347 - Grace Walker
-Match med sanktionsperson: S020  - Grace Walker
-Samlet match (%):   41.67
-  Navn-score:  100.00
-  Alias-score:   25.00 (Alice S.)
+Match med sanktionsperson: S137  - Grace Walker
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 140368-7789 - Isabella Clark
 Match med sanktionsperson: S032  - Isabella Clark
-Samlet match (%):   49.05
-  Navn-score:  100.00
-  Alias-score:    7.14 (Johnny Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 080491-1309 - Ethan Lee
-Match med sanktionsperson: S122  - Jonathan Doe
-Samlet match (%):   41.11
-  Navn-score:   50.00
-  Alias-score:   33.33 (John S.)
+Match med sanktionsperson: S020  - Sophia Davis
+Samlet match (%):   30.00
+ Navn-score (Alias):  50.00 - Matchet på alias: Jonathan Doe
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 051262-8243 - Amelia Thomas
-Match med sanktionsperson: S158  - Amelia Thomas
-Samlet match (%):   56.92
-  Navn-score:  100.00
-  Alias-score:   30.77 (Smith J.)
+Match med sanktionsperson: S035  - Amelia Thomas
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 130463-8296 - Amelia Thomas
 Match med sanktionsperson: S181  - Amelia Thomas
-Samlet match (%):   56.92
-  Navn-score:  100.00
-  Alias-score:   30.77 (Anita)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 260477-3308 - Ethan Lee
-Match med sanktionsperson: S055  - Lucas Miller
-Samlet match (%):   41.11
-  Navn-score:   33.33
-  Alias-score:   50.00 (Jonathan Doe)
+Match med sanktionsperson: S129  - Mia Lewis
+Samlet match (%):   30.00
+ Navn-score (Alias):  50.00 - Matchet på alias: Jonathan Doe
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 141178-2172 - Sara Hansen
 Match med sanktionsperson: S021  - Olivia Johnson
-Samlet match (%):   43.42
-  Navn-score:   35.71
-  Alias-score:   54.55 (A. Jensen)
+Samlet match (%):   31.52
+ Navn-score (Alias):  54.55 - Matchet på alias: A. Jensen
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 220754-8710 - William Brown
 Match med sanktionsperson: S047  - William Brown
-Samlet match (%):   54.36
-  Navn-score:  100.00
-  Alias-score:   23.08 (Lisa Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 190450-8191 - Emily Harris
 Match med sanktionsperson: S023  - Emily Harris
-Samlet match (%):   52.22
-  Navn-score:  100.00
-  Alias-score:   16.67 (Mickey)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 021070-7391 - Lily Scott
 Match med sanktionsperson: S102  - William Brown
-Samlet match (%):   40.26
-  Navn-score:   30.77
-  Alias-score:   50.00 (Lisa Smith)
+Samlet match (%):   30.00
+ Navn-score (Alias):  50.00 - Matchet på alias: Lisa Smith
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 151259-2911 - Jacob Hall
 Match med sanktionsperson: S133  - Jacob Hall
-Samlet match (%):   53.33
-  Navn-score:  100.00
-  Alias-score:   20.00 (Mikael)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 081051-1614 - Lucas Miller
-Match med sanktionsperson: S022  - Lucas Miller
-Samlet match (%):   55.00
-  Navn-score:  100.00
-  Alias-score:   25.00 (A. Jensen)
+Match med sanktionsperson: S112  - Lucas Miller
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 261099-7596 - Olivia Johnson
 Match med sanktionsperson: S094  - Olivia Johnson
-Samlet match (%):   53.81
-  Navn-score:  100.00
-  Alias-score:   21.43 (Jon D.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 221056-4813 - Amelia Thomas
 Match med sanktionsperson: S182  - Amelia Thomas
-Samlet match (%):   49.23
-  Navn-score:  100.00
-  Alias-score:    7.69 (John)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 170669-2348 - John Doe
-Match med sanktionsperson: S020  - Jonathan Doe
-Samlet match (%):   52.22
-  Navn-score:   66.67
-  Alias-score:   50.00 (John Smith)
+Match med sanktionsperson: S143  - Amelia Thomas
+Samlet match (%):   35.56
+ Navn-score (Alias):  66.67 - Matchet på alias: Jonathan Doe
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 040770-6995 - Olivia Johnson
 Match med sanktionsperson: S050  - Olivia Johnson
-Samlet match (%):   53.81
-  Navn-score:  100.00
-  Alias-score:   21.43 (Jon D.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 160575-8211 - Sara Hansen
-Match med sanktionsperson: S122  - Jonathan Doe
-Samlet match (%):   42.63
-  Navn-score:   33.33
-  Alias-score:   54.55 (A. Jensen)
+Match med sanktionsperson: S163  - Sara H.
+Samlet match (%):   31.52
+ Navn-score (Navn):  54.55
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 100662-1830 - Tommy Andersen
 Match med sanktionsperson: S147  - Tom Anderson
-Samlet match (%):   46.67
-  Navn-score:   78.57
-  Alias-score:   21.43 (Mikael)
+Samlet match (%):   39.52
+ Navn-score (Navn):  78.57
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 020383-9271 - Alice Smith
 Match med sanktionsperson: S024  - Alicia Smith
-Samlet match (%):   65.35
-  Navn-score:   83.33
-  Alias-score:   72.73 (Lisa Smith)
+Samlet match (%):   41.11
+ Navn-score (Navn):  83.33
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 090852-6391 - Lucas Miller
 Match med sanktionsperson: S055  - Lucas Miller
-Samlet match (%):   57.78
-  Navn-score:  100.00
-  Alias-score:   33.33 (Lisa Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 010191-7535 - Ava Adams
-Match med sanktionsperson: S139  - Mia Lewis
-Samlet match (%):   32.78
-  Navn-score:   33.33
-  Alias-score:   25.00 (Alicia Smith)
+Match med sanktionsperson: S156  - Sophia Davis
+Samlet match (%):   24.44
+ Navn-score (Navn):  33.33
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 020983-7184 - Lucas Rodriguez
-Match med sanktionsperson: S009  - Lucas Rodriguez
-Samlet match (%):   42.22
-  Navn-score:  100.00
-  Alias-score:   26.67 (Lisa Smith)
+Match med sanktionsperson: S170  - Lucas Rodriguez
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 140376-8087 - Emily Harris
 Match med sanktionsperson: S155  - Emily Harris
-Samlet match (%):   38.89
-  Navn-score:  100.00
-  Alias-score:   16.67 (Lisa Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 220873-8985 - Benjamin Moore
 Match med sanktionsperson: S180  - Benjamin Moore
-Samlet match (%):   51.43
-  Navn-score:  100.00
-  Alias-score:   14.29 (Mikael)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 091194-7373 - Sophia Davis
-Match med sanktionsperson: S074  - Sophia Davis
-Samlet match (%):   52.22
-  Navn-score:  100.00
-  Alias-score:   16.67 (Lisa Smith)
+Match med sanktionsperson: S070  - Sophia Davis
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 010555-9047 - Alice Smith
-Match med sanktionsperson: S024  - Alicia Smith
-Samlet match (%):   52.02
-  Navn-score:   83.33
-  Alias-score:   72.73 (Lisa Smith)
+Match med sanktionsperson: S101  - Alicia Smith
+Samlet match (%):   41.11
+ Navn-score (Navn):  83.33
   Fødselsdato-score:    0.00
-  Land-score:    0.00
+  Land-score:  100.00
 ----------------------------------------
 Kunde: 060150-6005 - Mia Lewis
-Match med sanktionsperson: S013  - Mia Lewis
-Samlet match (%):   44.44
-  Navn-score:  100.00
-  Alias-score:   33.33 (Mickey)
+Match med sanktionsperson: S095  - Mia Lewis
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 130772-1665 - John Doe
-Match med sanktionsperson: S165  - Olivia Johnson
-Samlet match (%):   45.08
-  Navn-score:   28.57
-  Alias-score:   66.67 (Jonathan Doe)
+Match med sanktionsperson: S163  - Michael Nilsen
+Samlet match (%):   35.56
+ Navn-score (Alias):  66.67 - Matchet på alias: Jonathan Doe
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 220883-2641 - Emily Harris
 Match med sanktionsperson: S155  - Emily Harris
-Samlet match (%):   38.89
-  Navn-score:  100.00
-  Alias-score:   16.67 (Lisa Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 120265-3806 - Lucas Miller
 Match med sanktionsperson: S055  - Lucas Miller
-Samlet match (%):   57.78
-  Navn-score:  100.00
-  Alias-score:   33.33 (Lisa Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 060886-4921 - Alice Smith
 Match med sanktionsperson: S002  - Alicia Smith
-Samlet match (%):   57.78
-  Navn-score:   83.33
-  Alias-score:   50.00 (Johnny Smith)
+Samlet match (%):   41.11
+ Navn-score (Navn):  83.33
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 280470-6005 - Olivia Johnson
 Match med sanktionsperson: S021  - Olivia Johnson
-Samlet match (%):   58.57
-  Navn-score:  100.00
-  Alias-score:   35.71 (A. Jensen)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 050360-1792 - Sophia Davis
 Match med sanktionsperson: S045  - Sophia Davis
-Samlet match (%):   55.00
-  Navn-score:  100.00
-  Alias-score:   25.00 (Alicia Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 061253-1069 - Charlotte Taylor
-Match med sanktionsperson: S190  - Charlotte Taylor
-Samlet match (%):   41.67
-  Navn-score:  100.00
-  Alias-score:   25.00 (Alice S.)
+Match med sanktionsperson: S160  - Charlotte Taylor
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 220365-5197 - Michael Nielsen
-Match med sanktionsperson: S135  - Michael Nilsen
-Samlet match (%):   51.11
-  Navn-score:   93.33
-  Alias-score:   60.00 (Michael N.)
+Match med sanktionsperson: S006  - Amelia Thomas
+Samlet match (%):   33.33
+ Navn-score (Alias):  60.00 - Matchet på alias: Michael N.
   Fødselsdato-score:    0.00
-  Land-score:    0.00
+  Land-score:  100.00
 ----------------------------------------
 Kunde: 020197-1125 - Alice Smith
-Match med sanktionsperson: S134  - John Smith
-Samlet match (%):   55.76
-  Navn-score:   54.55
-  Alias-score:   72.73 (Lisa Smith)
+Match med sanktionsperson: S142  - Isabella Clark
+Samlet match (%):   41.11
+ Navn-score (Alias):  83.33 - Matchet på alias: Alicia Smith
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 281266-4667 - Emma Olsen
-Match med sanktionsperson: S100  - Emma Olson
-Samlet match (%):   40.00
-  Navn-score:   90.00
-  Alias-score:   30.00 (A. Jensen)
+Match med sanktionsperson: S030  - Emma Olson
+Samlet match (%):   30.00
+ Navn-score (Navn):  90.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 200465-6469 - Emily Harris
 Match med sanktionsperson: S155  - Emily Harris
-Samlet match (%):   38.89
-  Navn-score:  100.00
-  Alias-score:   16.67 (Lisa Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 261096-2878 - Charlotte Taylor
-Match med sanktionsperson: S190  - Charlotte Taylor
-Samlet match (%):   41.67
-  Navn-score:  100.00
-  Alias-score:   25.00 (Alice S.)
+Match med sanktionsperson: S160  - Charlotte Taylor
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 180754-4929 - Tommy Andersen
 Match med sanktionsperson: S068  - Tom Anderson
-Samlet match (%):   44.29
-  Navn-score:   78.57
-  Alias-score:   14.29 (Johnny)
+Samlet match (%):   39.52
+ Navn-score (Navn):  78.57
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 050986-6447 - Lily Scott
 Match med sanktionsperson: S102  - William Brown
-Samlet match (%):   40.26
-  Navn-score:   30.77
-  Alias-score:   50.00 (Lisa Smith)
+Samlet match (%):   30.00
+ Navn-score (Alias):  50.00 - Matchet på alias: Lisa Smith
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 150367-3208 - Jacob Hall
 Match med sanktionsperson: S093  - Jacob Hall
-Samlet match (%):   53.33
-  Navn-score:  100.00
-  Alias-score:   20.00 (Anita)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 010873-3693 - Jacob Hall
 Match med sanktionsperson: S028  - Jacob Hall
-Samlet match (%):   56.67
-  Navn-score:  100.00
-  Alias-score:   30.00 (Johnny)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 280469-2255 - Olivia Johnson
-Match med sanktionsperson: S018  - Olivia Johnson
-Samlet match (%):   56.19
-  Navn-score:  100.00
-  Alias-score:   28.57 (John S.)
+Match med sanktionsperson: S046  - Olivia Johnson
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 240584-6409 - Anne Jensen
 Match med sanktionsperson: S135  - Michael Nilsen
-Samlet match (%):   49.48
-  Navn-score:   35.71
-  Alias-score:   72.73 (A. Jensen)
+Samlet match (%):   37.58
+ Navn-score (Alias):  72.73 - Matchet på alias: A. Jensen
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 061160-1172 - Michael Nielsen
 Match med sanktionsperson: S200  - Michael Nilsen
-Samlet match (%):   53.33
-  Navn-score:   93.33
-  Alias-score:   26.67 (Annie J.)
+Samlet match (%):   44.44
+ Navn-score (Navn):  93.33
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 100477-8625 - Peter Petersen
 Match med sanktionsperson: S183  - Tom Anderson
-Samlet match (%):   39.52
-  Navn-score:   42.86
-  Alias-score:   35.71 (A. Jensen)
+Samlet match (%):   27.62
+ Navn-score (Navn):  42.86
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 111280-9471 - Sophia Davis
 Match med sanktionsperson: S156  - Sophia Davis
-Samlet match (%):   41.67
-  Navn-score:  100.00
-  Alias-score:   25.00 (John Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 200291-2955 - Tommy Andersen
 Match med sanktionsperson: S008  - Tom Anderson
-Samlet match (%):   46.67
-  Navn-score:   78.57
-  Alias-score:   21.43 (Jon D.)
+Samlet match (%):   39.52
+ Navn-score (Navn):  78.57
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 050670-2056 - William Brown
 Match med sanktionsperson: S105  - William Brown
-Samlet match (%):   41.03
-  Navn-score:  100.00
-  Alias-score:   23.08 (Alice S.)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 010765-8688 - Lily Scott
-Match med sanktionsperson: S002  - Alicia Smith
-Samlet match (%):   38.33
-  Navn-score:   41.67
-  Alias-score:   33.33 (Johnny Smith)
+Match med sanktionsperson: S035  - Mia Lewis
+Samlet match (%):   30.00
+ Navn-score (Alias):  50.00 - Matchet på alias: Lisa Smith
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 230363-4918 - Ava Adams
-Match med sanktionsperson: S045  - Sophia Davis
-Samlet match (%):   32.78
-  Navn-score:   33.33
-  Alias-score:   25.00 (Alicia Smith)
+Match med sanktionsperson: S041  - Mia Lewis
+Samlet match (%):   24.44
+ Navn-score (Navn):  33.33
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 220180-2123 - Emma Olsen
 Match med sanktionsperson: S187  - Emma Olson
-Samlet match (%):   46.67
-  Navn-score:   90.00
-  Alias-score:   10.00 (Smith J.)
+Samlet match (%):   43.33
+ Navn-score (Navn):  90.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 020961-6341 - Jacob Hall
-Match med sanktionsperson: S008  - Jacob Hall
-Samlet match (%):   43.33
-  Navn-score:  100.00
-  Alias-score:   30.00 (Jon D.)
+Match med sanktionsperson: S159  - Jacob Hall
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 050486-6674 - Isabella Clark
 Match med sanktionsperson: S142  - Isabella Clark
-Samlet match (%):   40.48
-  Navn-score:  100.00
-  Alias-score:   21.43 (Alicia Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 170559-3418 - Anne Jensen
-Match med sanktionsperson: S150  - Anne J.
-Samlet match (%):   42.43
-  Navn-score:   54.55
-  Alias-score:   72.73 (A. Jensen)
+Match med sanktionsperson: S062  - Sara H.
+Samlet match (%):   37.58
+ Navn-score (Alias):  72.73 - Matchet på alias: A. Jensen
   Fødselsdato-score:    0.00
-  Land-score:    0.00
+  Land-score:  100.00
 ----------------------------------------
 Kunde: 060688-9650 - Ava Adams
 Match med sanktionsperson: S006  - Amelia Thomas
-Samlet match (%):   34.49
-  Navn-score:   38.46
-  Alias-score:   25.00 (Alicia Smith)
+Samlet match (%):   26.15
+ Navn-score (Navn):  38.46
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 201077-7625 - Daniel Martin
 Match med sanktionsperson: S018  - Daniel Martin
-Samlet match (%):   51.79
-  Navn-score:  100.00
-  Alias-score:   15.38 (Johnny Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 050466-8735 - Lucas Rodriguez
-Match med sanktionsperson: S009  - Lucas Rodriguez
-Samlet match (%):   42.22
-  Navn-score:  100.00
-  Alias-score:   26.67 (Lisa Smith)
+Match med sanktionsperson: S170  - Lucas Rodriguez
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 110367-2867 - Lucas Miller
 Match med sanktionsperson: S055  - Lucas Miller
-Samlet match (%):   57.78
-  Navn-score:  100.00
-  Alias-score:   33.33 (Lisa Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 091078-5401 - Alexander Wilson
-Match med sanktionsperson: S115  - Alexander Wilson
-Samlet match (%):   43.75
-  Navn-score:  100.00
-  Alias-score:   31.25 (Alice S.)
+Match med sanktionsperson: S147  - Alexander Wilson
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 150877-6483 - Lucas Miller
-Match med sanktionsperson: S055  - Lucas Miller
-Samlet match (%):   44.44
-  Navn-score:  100.00
-  Alias-score:   33.33 (Lisa Smith)
+Match med sanktionsperson: S170  - Lucas Miller
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 110666-1570 - Olivia Johnson
 Match med sanktionsperson: S050  - Olivia Johnson
-Samlet match (%):   53.81
-  Navn-score:  100.00
-  Alias-score:   21.43 (Jon D.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 190457-4986 - Ava Adams
-Match med sanktionsperson: S127  - Mia Lewis
-Samlet match (%):   32.78
-  Navn-score:   33.33
-  Alias-score:   25.00 (Alicia Smith)
+Match med sanktionsperson: S095  - Mia Lewis
+Samlet match (%):   24.44
+ Navn-score (Navn):  33.33
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 100360-7018 - Olivia Johnson
-Match med sanktionsperson: S018  - Olivia Johnson
-Samlet match (%):   56.19
-  Navn-score:  100.00
-  Alias-score:   28.57 (John S.)
+Match med sanktionsperson: S046  - Olivia Johnson
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 230393-5340 - William Brown
 Match med sanktionsperson: S105  - William Brown
-Samlet match (%):   41.03
-  Navn-score:  100.00
-  Alias-score:   23.08 (Alice S.)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 100766-2580 - Tommy Andersen
 Match med sanktionsperson: S142  - Tom Anderson
-Samlet match (%):   46.67
-  Navn-score:   78.57
-  Alias-score:   21.43 (Anne J.)
+Samlet match (%):   39.52
+ Navn-score (Navn):  78.57
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 130850-3237 - Daniel Martin
 Match med sanktionsperson: S041  - Daniel Martin
-Samlet match (%):   54.36
-  Navn-score:  100.00
-  Alias-score:   23.08 (Anna)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 180366-2585 - Ethan Lee
 Match med sanktionsperson: S128  - Michael Nilsen
-Samlet match (%):   41.90
-  Navn-score:   35.71
-  Alias-score:   50.00 (Jonathan Doe)
+Samlet match (%):   30.00
+ Navn-score (Alias):  50.00 - Matchet på alias: Jonathan Doe
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 060881-8043 - Ava Adams
-Match med sanktionsperson: S045  - Sophia Davis
-Samlet match (%):   32.78
-  Navn-score:   33.33
-  Alias-score:   25.00 (Alicia Smith)
+Match med sanktionsperson: S041  - Mia Lewis
+Samlet match (%):   24.44
+ Navn-score (Navn):  33.33
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 121266-8069 - Lucas Rodriguez
 Match med sanktionsperson: S010  - Lucas Rodriguez
-Samlet match (%):   53.33
-  Navn-score:  100.00
-  Alias-score:   20.00 (Alicia Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 260770-4430 - Lucas Miller
-Match med sanktionsperson: S055  - Lucas Miller
-Samlet match (%):   44.44
-  Navn-score:  100.00
-  Alias-score:   33.33 (Lisa Smith)
+Match med sanktionsperson: S170  - Lucas Miller
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 190785-1809 - Daniel Martin
 Match med sanktionsperson: S041  - Daniel Martin
-Samlet match (%):   54.36
-  Navn-score:  100.00
-  Alias-score:   23.08 (Anna)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 250464-6464 - Alexander Wilson
-Match med sanktionsperson: S115  - Alexander Wilson
-Samlet match (%):   43.75
-  Navn-score:  100.00
-  Alias-score:   31.25 (Alice S.)
+Match med sanktionsperson: S147  - Alexander Wilson
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 150459-5892 - Lucas Miller
-Match med sanktionsperson: S055  - Lucas Miller
-Samlet match (%):   44.44
-  Navn-score:  100.00
-  Alias-score:   33.33 (Lisa Smith)
+Match med sanktionsperson: S170  - Lucas Miller
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 230951-1167 - Amelia Thomas
-Match med sanktionsperson: S098  - Amelia Thomas
-Samlet match (%):   43.59
-  Navn-score:  100.00
-  Alias-score:   30.77 (Smith J.)
+Match med sanktionsperson: S015  - Amelia Thomas
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 100152-4796 - Sara Hansen
 Match med sanktionsperson: S021  - Olivia Johnson
-Samlet match (%):   43.42
-  Navn-score:   35.71
-  Alias-score:   54.55 (A. Jensen)
+Samlet match (%):   31.52
+ Navn-score (Alias):  54.55 - Matchet på alias: A. Jensen
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 191257-4446 - Anne Jensen
-Match med sanktionsperson: S150  - Anne J.
-Samlet match (%):   42.43
-  Navn-score:   54.55
-  Alias-score:   72.73 (A. Jensen)
+Match med sanktionsperson: S062  - Sara H.
+Samlet match (%):   37.58
+ Navn-score (Alias):  72.73 - Matchet på alias: A. Jensen
   Fødselsdato-score:    0.00
-  Land-score:    0.00
+  Land-score:  100.00
 ----------------------------------------
 Kunde: 171095-4093 - Mia Lewis
 Match med sanktionsperson: S139  - Mia Lewis
-Samlet match (%):   57.78
-  Navn-score:  100.00
-  Alias-score:   33.33 (Mickey)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 210894-7818 - Henry King
 Match med sanktionsperson: S165  - Michael Nilsen
-Samlet match (%):   29.21
-  Navn-score:   14.29
-  Alias-score:   33.33 (Johnny Smith)
+Samlet match (%):   24.44
+ Navn-score (Alias):  33.33 - Matchet på alias: Johnny Smith
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 181056-3754 - Mia Lewis
 Match med sanktionsperson: S139  - Mia Lewis
-Samlet match (%):   57.78
-  Navn-score:  100.00
-  Alias-score:   33.33 (Mickey)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 250974-1369 - Ethan Lee
-Match med sanktionsperson: S122  - Jonathan Doe
-Samlet match (%):   38.33
-  Navn-score:   50.00
-  Alias-score:   25.00 (Johnny Smith)
+Match med sanktionsperson: S143  - Amelia Thomas
+Samlet match (%):   30.00
+ Navn-score (Alias):  50.00 - Matchet på alias: Jonathan Doe
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 010759-5419 - Alexander Wilson
 Match med sanktionsperson: S103  - Alexander Wilson
-Samlet match (%):   57.08
-  Navn-score:  100.00
-  Alias-score:   31.25 (Alice S.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 130684-7825 - Amelia Thomas
 Match med sanktionsperson: S098  - Amelia Thomas
-Samlet match (%):   56.92
-  Navn-score:  100.00
-  Alias-score:   30.77 (Smith J.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 090562-5723 - Ava Adams
-Match med sanktionsperson: S025  - Tom Anderson
-Samlet match (%):   31.11
-  Navn-score:   33.33
-  Alias-score:   20.00 (Lisa Smith)
+Match med sanktionsperson: S182  - Amelia Thomas
+Samlet match (%):   26.15
+ Navn-score (Navn):  38.46
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 281054-4169 - Tommy Andersen
 Match med sanktionsperson: S068  - Tom Anderson
-Samlet match (%):   44.29
-  Navn-score:   78.57
-  Alias-score:   14.29 (Johnny)
+Samlet match (%):   39.52
+ Navn-score (Navn):  78.57
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 011177-9068 - Isabella Clark
 Match med sanktionsperson: S142  - Isabella Clark
-Samlet match (%):   53.81
-  Navn-score:  100.00
-  Alias-score:   21.43 (Alicia Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 080280-6538 - Olivia Johnson
 Match med sanktionsperson: S050  - Olivia Johnson
-Samlet match (%):   53.81
-  Navn-score:  100.00
-  Alias-score:   21.43 (Jon D.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 190771-5098 - Ava Adams
 Match med sanktionsperson: S006  - Amelia Thomas
-Samlet match (%):   34.49
-  Navn-score:   38.46
-  Alias-score:   25.00 (Alicia Smith)
+Samlet match (%):   26.15
+ Navn-score (Navn):  38.46
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 030896-2858 - Alice Smith
-Match med sanktionsperson: S024  - Alicia Smith
-Samlet match (%):   52.02
-  Navn-score:   83.33
-  Alias-score:   72.73 (Lisa Smith)
+Match med sanktionsperson: S084  - Alexander Wilson
+Samlet match (%):   41.11
+ Navn-score (Alias):  83.33 - Matchet på alias: Alicia Smith
   Fødselsdato-score:    0.00
-  Land-score:    0.00
+  Land-score:  100.00
 ----------------------------------------
 Kunde: 220876-7893 - Emily Harris
 Match med sanktionsperson: S155  - Emily Harris
-Samlet match (%):   38.89
-  Navn-score:  100.00
-  Alias-score:   16.67 (Lisa Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 150767-9597 - Jacob Hall
-Match med sanktionsperson: S008  - Jacob Hall
-Samlet match (%):   43.33
-  Navn-score:  100.00
-  Alias-score:   30.00 (Jon D.)
+Match med sanktionsperson: S159  - Jacob Hall
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 160296-5650 - Anne Jensen
 Match med sanktionsperson: S021  - Olivia Johnson
-Samlet match (%):   49.48
-  Navn-score:   35.71
-  Alias-score:   72.73 (A. Jensen)
+Samlet match (%):   37.58
+ Navn-score (Alias):  72.73 - Matchet på alias: A. Jensen
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 140592-4491 - Sara Hansen
-Match med sanktionsperson: S176  - Jacob Hall
-Samlet match (%):   40.61
-  Navn-score:   27.27
-  Alias-score:   54.55 (A. Jensen)
+Match med sanktionsperson: S150  - Anne J.
+Samlet match (%):   31.52
+ Navn-score (Alias):  54.55 - Matchet på alias: A. Jensen
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 260260-7327 - Alexander Wilson
 Match med sanktionsperson: S103  - Alexander Wilson
-Samlet match (%):   57.08
-  Navn-score:  100.00
-  Alias-score:   31.25 (Alice S.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 030380-8781 - John Doe
-Match med sanktionsperson: S074  - Sophia Davis
-Samlet match (%):   45.28
-  Navn-score:   33.33
-  Alias-score:   62.50 (J. Doe)
+Match med sanktionsperson: S034  - Jonathan Doe
+Samlet match (%):   35.56
+ Navn-score (Navn):  66.67
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 040499-9739 - Mia Lewis
-Match med sanktionsperson: S086  - Mia Lewis
-Samlet match (%):   56.67
-  Navn-score:  100.00
-  Alias-score:   30.00 (Lisa Smith)
+Match med sanktionsperson: S129  - Mia Lewis
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 260551-5615 - Ava Adams
-Match med sanktionsperson: S025  - Tom Anderson
-Samlet match (%):   31.11
-  Navn-score:   33.33
-  Alias-score:   20.00 (Lisa Smith)
+Match med sanktionsperson: S182  - Amelia Thomas
+Samlet match (%):   26.15
+ Navn-score (Navn):  38.46
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 100896-6949 - Ava Adams
 Match med sanktionsperson: S098  - Amelia Thomas
-Samlet match (%):   33.56
-  Navn-score:   38.46
-  Alias-score:   22.22 (J. Doe)
+Samlet match (%):   26.15
+ Navn-score (Navn):  38.46
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 010861-3588 - Ava Adams
 Match med sanktionsperson: S015  - Amelia Thomas
-Samlet match (%):   33.56
-  Navn-score:   38.46
-  Alias-score:   22.22 (Jon D.)
+Samlet match (%):   26.15
+ Navn-score (Navn):  38.46
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 081285-5648 - Amelia Thomas
 Match med sanktionsperson: S098  - Amelia Thomas
-Samlet match (%):   56.92
-  Navn-score:  100.00
-  Alias-score:   30.77 (Smith J.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 110768-8536 - Ethan Lee
 Match med sanktionsperson: S023  - Jonathan Doe
-Samlet match (%):   37.41
-  Navn-score:   50.00
-  Alias-score:   22.22 (Johnny)
+Samlet match (%):   30.00
+ Navn-score (Navn):  50.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 220850-9987 - Isabella Clark
 Match med sanktionsperson: S142  - Isabella Clark
-Samlet match (%):   40.48
-  Navn-score:  100.00
-  Alias-score:   21.43 (Alicia Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 221159-8216 - Ethan Lee
 Match med sanktionsperson: S128  - Michael Nilsen
-Samlet match (%):   41.90
-  Navn-score:   35.71
-  Alias-score:   50.00 (Jonathan Doe)
+Samlet match (%):   30.00
+ Navn-score (Alias):  50.00 - Matchet på alias: Jonathan Doe
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 151196-1652 - Grace Walker
 Match med sanktionsperson: S082  - Grace Walker
 Samlet match (%):   46.67
-  Navn-score:  100.00
-  Alias-score:    0.00 ()
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 130679-1390 - Ava Adams
-Match med sanktionsperson: S045  - Sophia Davis
-Samlet match (%):   32.78
-  Navn-score:   33.33
-  Alias-score:   25.00 (Alicia Smith)
+Match med sanktionsperson: S041  - Mia Lewis
+Samlet match (%):   24.44
+ Navn-score (Navn):  33.33
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 230677-2655 - Sara Hansen
-Match med sanktionsperson: S100  - Emma Olson
-Samlet match (%):   43.64
-  Navn-score:   36.36
-  Alias-score:   54.55 (A. Jensen)
+Match med sanktionsperson: S154  - Michael Nilsen
+Samlet match (%):   31.52
+ Navn-score (Alias):  54.55 - Matchet på alias: A. Jensen
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 260384-1542 - Charlotte Taylor
-Match med sanktionsperson: S190  - Charlotte Taylor
-Samlet match (%):   41.67
-  Navn-score:  100.00
-  Alias-score:   25.00 (Alice S.)
+Match med sanktionsperson: S160  - Charlotte Taylor
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 150184-5900 - Peter Petersen
 Match med sanktionsperson: S183  - Tom Anderson
-Samlet match (%):   39.52
-  Navn-score:   42.86
-  Alias-score:   35.71 (A. Jensen)
+Samlet match (%):   27.62
+ Navn-score (Navn):  42.86
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 080571-5250 - Anne Jensen
 Match med sanktionsperson: S154  - Michael Nilsen
-Samlet match (%):   49.48
-  Navn-score:   35.71
-  Alias-score:   72.73 (A. Jensen)
+Samlet match (%):   37.58
+ Navn-score (Alias):  72.73 - Matchet på alias: A. Jensen
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 041074-6272 - Jacob Hall
-Match med sanktionsperson: S184  - Jacob Hall
-Samlet match (%):   56.67
-  Navn-score:  100.00
-  Alias-score:   30.00 (Jon D.)
+Match med sanktionsperson: S159  - Jacob Hall
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 141186-2604 - Olivia Johnson
-Match med sanktionsperson: S018  - Olivia Johnson
-Samlet match (%):   56.19
-  Navn-score:  100.00
-  Alias-score:   28.57 (John S.)
+Match med sanktionsperson: S046  - Olivia Johnson
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 180595-5123 - Henry King
-Match med sanktionsperson: S018  - Daniel Martin
-Samlet match (%):   32.14
-  Navn-score:   23.08
-  Alias-score:   33.33 (Johnny Smith)
+Match med sanktionsperson: S090  - Charlotte Taylor
+Samlet match (%):   24.44
+ Navn-score (Alias):  33.33 - Matchet på alias: Johnny Smith
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 140798-6046 - Michael Nielsen
 Match med sanktionsperson: S163  - Michael Nilsen
-Samlet match (%):   64.44
-  Navn-score:   93.33
-  Alias-score:   60.00 (Michael N.)
+Samlet match (%):   44.44
+ Navn-score (Navn):  93.33
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 111152-7470 - Charlotte Taylor
-Match med sanktionsperson: S190  - Charlotte Taylor
-Samlet match (%):   41.67
-  Navn-score:  100.00
-  Alias-score:   25.00 (Alice S.)
+Match med sanktionsperson: S160  - Charlotte Taylor
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 060452-1053 - Anne Jensen
 Match med sanktionsperson: S193  - Alexander Wilson
-Samlet match (%):   50.08
-  Navn-score:   37.50
-  Alias-score:   72.73 (A. Jensen)
+Samlet match (%):   37.58
+ Navn-score (Alias):  72.73 - Matchet på alias: A. Jensen
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 211275-4774 - Charlotte Taylor
-Match med sanktionsperson: S190  - Charlotte Taylor
-Samlet match (%):   41.67
-  Navn-score:  100.00
-  Alias-score:   25.00 (Alice S.)
+Match med sanktionsperson: S160  - Charlotte Taylor
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 020972-1374 - John Doe
-Match med sanktionsperson: S122  - Jonathan Doe
-Samlet match (%):   56.39
-  Navn-score:   66.67
-  Alias-score:   62.50 (John S.)
+Match med sanktionsperson: S020  - Sophia Davis
+Samlet match (%):   35.56
+ Navn-score (Alias):  66.67 - Matchet på alias: Jonathan Doe
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 040570-7198 - James White
 Match med sanktionsperson: S097  - James White
-Samlet match (%):   52.73
-  Navn-score:  100.00
-  Alias-score:   18.18 (J.S.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 041290-2809 - Lucas Rodriguez
-Match med sanktionsperson: S009  - Lucas Rodriguez
-Samlet match (%):   42.22
-  Navn-score:  100.00
-  Alias-score:   26.67 (Lisa Smith)
+Match med sanktionsperson: S170  - Lucas Rodriguez
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 091172-9184 - Amelia Thomas
 Match med sanktionsperson: S015  - Amelia Thomas
-Samlet match (%):   54.36
-  Navn-score:  100.00
-  Alias-score:   23.08 (Lisa Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 260285-3040 - Jacob Hall
 Match med sanktionsperson: S133  - Jacob Hall
-Samlet match (%):   53.33
-  Navn-score:  100.00
-  Alias-score:   20.00 (Mikael)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 040463-5307 - Anne Jensen
 Match med sanktionsperson: S021  - Olivia Johnson
-Samlet match (%):   49.48
-  Navn-score:   35.71
-  Alias-score:   72.73 (A. Jensen)
+Samlet match (%):   37.58
+ Navn-score (Alias):  72.73 - Matchet på alias: A. Jensen
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 100451-8363 - Sara Hansen
 Match med sanktionsperson: S193  - Alexander Wilson
-Samlet match (%):   39.85
-  Navn-score:   25.00
-  Alias-score:   54.55 (A. Jensen)
+Samlet match (%):   31.52
+ Navn-score (Alias):  54.55 - Matchet på alias: A. Jensen
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 050690-7970 - Tommy Andersen
 Match med sanktionsperson: S183  - Tom Anderson
-Samlet match (%):   38.09
-  Navn-score:   78.57
-  Alias-score:   35.71 (A. Jensen)
+Samlet match (%):   26.19
+ Navn-score (Navn):  78.57
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 241168-6428 - Emily Harris
 Match med sanktionsperson: S155  - Emily Harris
-Samlet match (%):   38.89
-  Navn-score:  100.00
-  Alias-score:   16.67 (Lisa Smith)
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 050577-6225 - Charlotte Taylor
 Match med sanktionsperson: S160  - Charlotte Taylor
-Samlet match (%):   50.83
-  Navn-score:  100.00
-  Alias-score:   12.50 (Lisa Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 090861-9831 - Olivia Johnson
-Match med sanktionsperson: S026  - Olivia Johnson
-Samlet match (%):   56.19
-  Navn-score:  100.00
-  Alias-score:   28.57 (John S.)
+Match med sanktionsperson: S027  - Olivia Johnson
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 100871-5836 - Sophia Davis
 Match med sanktionsperson: S056  - Sophia Davis
-Samlet match (%):   55.00
-  Navn-score:  100.00
-  Alias-score:   25.00 (Alicia Smith)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 090679-3990 - Alice Smith
-Match med sanktionsperson: S169  - John Smith
-Samlet match (%):   55.76
-  Navn-score:   54.55
-  Alias-score:   72.73 (Lisa Smith)
+Match med sanktionsperson: S036  - Alicia Smith
+Samlet match (%):   41.11
+ Navn-score (Navn):  83.33
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 060788-4241 - Emma Olsen
-Match med sanktionsperson: S100  - Emma Olson
-Samlet match (%):   40.00
-  Navn-score:   90.00
-  Alias-score:   30.00 (A. Jensen)
+Match med sanktionsperson: S030  - Emma Olson
+Samlet match (%):   30.00
+ Navn-score (Navn):  90.00
   Fødselsdato-score:    0.00
   Land-score:    0.00
 ----------------------------------------
 Kunde: 170374-4086 - James White
 Match med sanktionsperson: S097  - James White
-Samlet match (%):   52.73
-  Navn-score:  100.00
-  Alias-score:   18.18 (J.S.)
+Samlet match (%):   46.67
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:  100.00
 ----------------------------------------
 Kunde: 211173-1139 - Alexander Wilson
-Match med sanktionsperson: S115  - Alexander Wilson
-Samlet match (%):   43.75
-  Navn-score:  100.00
-  Alias-score:   31.25 (Alice S.)
+Match med sanktionsperson: S147  - Alexander Wilson
+Samlet match (%):   33.33
+ Navn-score (Navn): 100.00
   Fødselsdato-score:    0.00
   Land-score:    0.00

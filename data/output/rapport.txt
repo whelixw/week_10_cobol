@@ -3511,5 +3511,14 @@ Top 3 kunder:
   031289-5191 - Daniel Martin (46.67 %)
   090973-5230 - Mia Lewis (46.67 %)
 
-  Mistænkelige kunder (> 50%) pr. land:
-  (ingen)
+  Mistænkelige kunder (> 25%) pr. land:
+  GB: 47
+  DK: 55
+  DE: 49
+  ES: 49
+  NO: 53
+  SE: 43
+  US: 44
+  FR: 42
+  IT: 53
+  CA: 43

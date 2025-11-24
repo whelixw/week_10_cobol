@@ -7,16 +7,16 @@ Identification Division.
            *> Removed: select customer-file assign to "kunder_2.txt"
            *> Removed: select customer-account assign to "KUNDEKONTO.txt"
 
-           select bank-file assign to "Banker.txt"
+           select bank-file assign to "data/input/Banker.txt"
                organization is line sequential
                file status is FS-BANK.
 
-           select transaction-file assign to "Transaktioner_gen.txt"
+           select transaction-file assign to "data/input/Transaktioner_gen.txt"
                organization is line sequential
                file status is FS-TRANSACTION.
 
 
-           select report-file assign to "rapport.txt"
+           select report-file assign to "data/output/rapport_opg_10.txt"
                organization is line sequential
                file status is FS-REPORT.
 

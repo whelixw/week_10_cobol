@@ -1,16 +1,19 @@
        Identification Division.
        Program-Id. Opgave4.
+      *> Experimental variant of Opgave8 that plays with a small OCCURS
+      *> table while still reading customer/account files from data/input
+      *> and writing summaries to data/output/kundeoplysninger.txt.
 
        environment division.
        input-output section.
        file-control.
-           select customer-file assign to "kunder_2.txt"
+           select customer-file assign to "data/input/kunder_2.txt"
                organization is line sequential.
 
-           select customer-account assign to "KUNDEKONTO.txt"
+           select customer-account assign to "data/input/KUNDEKONTO.txt"
                organization is line sequential
                file status is FS-ACCOUNT.
-           select customer-out-file assign to "kundeoplysninger.txt"
+           select customer-out-file assign to "data/output/kundeoplysninger.txt"
                organization is line sequential.
 
        Data Division.

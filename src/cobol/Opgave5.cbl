@@ -1,5 +1,7 @@
        Identification Division.
        Program-Id. Opgave4.
+    *> Loads the KUNDER.cpy copybook so an entire customer record can be
+    *> populated and echoed using the shared layout.
        Data Division.
        Working-Storage Section.
        01 customer-info.

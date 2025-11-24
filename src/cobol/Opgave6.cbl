@@ -1,10 +1,12 @@
        Identification Division.
        Program-Id. Opgave4.
+      *> Streams customer rows from data/input/kunder_2.txt and prints
+      *> each name with its street address to illustrate file I/O.
 
        environment division.
        input-output section.
        file-control.
-           select input-file assign to "kunder_2.txt"
+           select input-file assign to "data/input/kunder_2.txt"
                organization is line sequential.
 
        Data Division.

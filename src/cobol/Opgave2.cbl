@@ -1,5 +1,7 @@
        Identification Division.
        Program-Id. Opgave2.
+    *> Populates a single customer structure with hard-coded sample data
+    *> and displays each field to illustrate MOVE + DISPLAY basics.
        Data Division.
        Working-Storage Section.
        01 customer-id pic x(10) value zeroes.

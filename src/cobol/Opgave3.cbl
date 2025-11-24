@@ -1,5 +1,7 @@
        Identification Division.
        Program-Id. Opgave3.
+    *> Extends Opgave2 by concatenating names into FULL-NAME and then
+    *> stripping duplicate spaces before displaying the cleaned result.
        Data Division.
        Working-Storage Section.
        01 customer-id pic x(10) value zeroes.

@@ -1,12 +1,14 @@
        Identification Division.
        Program-Id. Opgave4.
+      *> Similar to Opgave7_2 but extracts reusable FORMAT-* paragraphs to
+      *> build each address block before writing to data/output/output_2.txt.
 
        environment division.
        input-output section.
        file-control.
-           select input-file assign to "kunder_2.txt"
+           select input-file assign to "data/input/kunder_2.txt"
                organization is line sequential.
-           select output-file assign to "output_2.txt"
+           select output-file assign to "data/output/output_2.txt"
                organization is line sequential.
 
        Data Division.

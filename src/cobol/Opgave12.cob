@@ -1,6 +1,8 @@
 >>SOURCE FORMAT IS FREE
 IDENTIFICATION DIVISION.
 PROGRAM-ID. Levenshtein.
+*> Matches each customer against sanctions using Levenshtein scoring and
+*> writes the highest scoring combinations to data/output/rapport.txt.
 
 ENVIRONMENT DIVISION.
 CONFIGURATION SECTION.

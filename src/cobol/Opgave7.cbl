@@ -1,12 +1,14 @@
        Identification Division.
        Program-Id. Opgave4.
+      *> Reads each customer from data/input/kunder_2.txt, echoes key fields,
+      *> and writes the same record to data/output/output.txt.
 
        environment division.
        input-output section.
        file-control.
-           select input-file assign to "kunder_2.txt"
+           select input-file assign to "data/input/kunder_2.txt"
                organization is line sequential.
-           select output-file assign to "output.txt"
+           select output-file assign to "data/output/output.txt"
                organization is line sequential.
 
        Data Division.

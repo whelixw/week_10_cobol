@@ -1,5 +1,7 @@
        Identification Division.
        Program-Id. Opgave4.
+    *> Demonstrates nested group fields for customer/account info and
+    *> writes the entire structure in one DISPLAY.
        Data Division.
        Working-Storage Section.
 

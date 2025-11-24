@@ -1,5 +1,7 @@
 Identification Division.
        Program-Id. Opgave4.
+    *> Loads all banks plus transactions into arrays so it can produce a
+    *> consolidated per-customer report in data/output/rapport_opg_10.txt.
 
        environment division.
        input-output section.

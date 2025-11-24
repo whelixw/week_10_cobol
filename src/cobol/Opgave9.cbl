@@ -1,16 +1,19 @@
        Identification Division.
        Program-Id. Opgave4.
+      *> Optimizes Opgave8 by loading accounts from data/input/KUNDEKONTO.txt
+      *> into an OCCURS table once, then emits joined customer summaries to
+      *> data/output/kundeoplysninger.txt.
 
        environment division.
        input-output section.
        file-control.
-           select customer-file assign to "kunder_2.txt"
+           select customer-file assign to "data/input/kunder_2.txt"
                organization is line sequential.
 
-           select customer-account assign to "KUNDEKONTO.txt"
+           select customer-account assign to "data/input/KUNDEKONTO.txt"
                organization is line sequential
                file status is FS-ACCOUNT.
-           select customer-out-file assign to "kundeoplysninger.txt"
+           select customer-out-file assign to "data/output/kundeoplysninger.txt"
                organization is line sequential.
 
        Data Division.
